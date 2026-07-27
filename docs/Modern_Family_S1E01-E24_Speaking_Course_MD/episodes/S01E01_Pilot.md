@@ -38,17 +38,17 @@ The final scene reveals that Jay is Claire and Mitchell’s father. Overall, the
 
 ## 3. Cue Version
 
-I’d like to introduce the ___ episode of *Modern Family*. It is called **“___.”** This episode introduces ___ very different families. At first, they seem separate, but in the end, we discover that they are all connected.
+I’d like to introduce the __________ of *Modern Family*. It is called **“__________.”** This episode introduces three very different families. At first, ______________________________, but in the end, ______________________________.
 
-The first family is the ___ family. Claire and Phil have three children: ___, ___, and ___. Haley invites her ___ boyfriend, ___, to their house for the first time. Claire becomes very nervous and keeps checking on them because she is afraid they may do something inappropriate upstairs. Phil, on the other hand, wants to be the “___ dad.” He tries to scare Dylan a little, but he only hurts his ___ and embarrasses himself.
+The first family is the Dunphy family. Claire and Phil have three children: ______________________________. Haley invites ______________________________ to their house for the first time. Claire becomes very nervous because ______________________________. Phil wants to be the “cool dad,” but his attempt to scare Dylan ends with ______________________________.
 
-At the same time, Luke has shot Alex with a toy ___ gun. Claire reminds Phil that they made a rule: if Luke shoots someone, Phil has to ___ him back so that he learns a lesson. Phil keeps putting it off because he does not really want to hurt Luke. In the end, the gun goes off by accident, and Phil shoots ___, ___, and then ___.
+At the same time, Luke has shot Alex with ______________________________. Claire reminds Phil that their family rule is ______________________________. Phil keeps putting it off because he does not want to hurt Luke. In the end, ______________________________.
 
-The second family is ___, Gloria, and ___. Jay is much older than Gloria, and people sometimes mistake him for her ___. This makes him feel insecure about his age. Manny, Gloria’s eleven-year-old son, is romantic and unusually mature. He has a crush on a ___-year-old girl and decides to read her a ___. Jay thinks Manny will only make a fool of himself, but Gloria believes the family should support him. The girl tells Manny that she already has a boyfriend, and he is heartbroken. Jay slowly begins to understand that being part of Manny’s family means ___ behind him, even when he expects him to fail.
+The second family is Jay, Gloria, and Manny. Jay is much older than Gloria, and people sometimes mistake him for ______________________________. Manny is romantic and unusually mature. He has a crush on ______________________________ and decides to ______________________________. Jay expects Manny to embarrass himself, while Gloria believes ______________________________. After the girl rejects Manny, Jay begins to understand that being part of Manny’s family means ______________________________.
 
-The third family is Mitchell and ___. They are returning from ___ with their newly adopted daughter, ___. On the plane, Mitchell thinks the other passengers are judging them, so he gives an angry speech. He soon realizes that he completely misunderstood the ___. Later, Mitchell and Cameron introduce Lily to the whole family. Jay is doubtful at first, but Cameron makes a dramatic entrance while holding Lily in the air. Everyone immediately welcomes her.
+The third family is Mitchell and Cameron. They are returning from Vietnam with ______________________________. On the plane, Mitchell thinks ______________________________, so he gives an angry speech. He soon realizes that ______________________________. Later, they introduce Lily to the family. Jay is doubtful at first, but Cameron makes ______________________________, and everyone welcomes her.
 
-The final scene reveals that Jay is Claire and Mitchell’s ___. Overall, the episode shows us a family that is complicated, awkward, and sometimes ridiculous, but also ___ and supportive.
+The final scene reveals that ______________________________. Overall, the episode shows three families that are complicated, awkward, and sometimes ridiculous, but ______________________________.
 
 ---
 
