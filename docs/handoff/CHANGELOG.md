@@ -35,3 +35,8 @@
 - 独立 reviewer 复核通过：在最新 production build 的 `next start -p 3001` 上确认 S01E01 页面包含音频资源，未生成音频的 S01E02 不显示该资源。
 - 独立确认音频请求返回 `206 Partial Content`、`Content-Range: bytes 0-99/...`，`npm run lint`、11 个单元测试和 `npm run build` 均通过。
 - 结论：本次第一篇整篇英文播放功能 PASS；逐段播放、跟读、字幕同步和其他课程批量音频仍不在本次范围内。
+
+## 2026-07-27 audio control refinement
+
+- 移除英文模式播放条旁的“英文朗读”说明文字和卡片容器，保留简约的原生播放条。
+- 重新构建并在 production server 上确认英文模式仍可显示播放条。
