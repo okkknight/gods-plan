@@ -20,7 +20,10 @@
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 12.495646,
+      "start": 0,
+      "end": 12.495646
     },
     {
       "index": 2,
@@ -30,7 +33,10 @@
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 16.675261,
+      "start": 12.495646,
+      "end": 29.170907
     },
     {
       "index": 3,
@@ -40,7 +46,10 @@
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 16.984853,
+      "start": 29.170907,
+      "end": 46.15576
     },
     {
       "index": 4,
@@ -50,7 +59,10 @@
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 13.063243,
+      "start": 46.15576,
+      "end": 59.219003
     },
     {
       "index": 5,
@@ -60,7 +72,10 @@
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 11.360454,
+      "start": 59.219003,
+      "end": 70.579457
     },
     {
       "index": 6,
@@ -70,7 +85,10 @@
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 14.043651,
+      "start": 70.579457,
+      "end": 84.623108
     },
     {
       "index": 7,
@@ -80,7 +98,10 @@
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 10.844444,
+      "start": 84.623108,
+      "end": 95.467552
     },
     {
       "index": 8,
@@ -90,8 +111,12 @@
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 11.721633,
+      "start": 95.467552,
+      "end": 107.189185
     }
   ],
-  "audio_file": "english.wav"
+  "audio_file": "english.wav",
+  "duration": 107.189185
 }

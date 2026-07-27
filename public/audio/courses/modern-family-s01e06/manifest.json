@@ -20,7 +20,10 @@
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 9.915624,
+      "start": 0,
+      "end": 9.915624
     },
     {
       "index": 2,
@@ -30,7 +33,10 @@
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 17.346054,
+      "start": 9.915624,
+      "end": 27.261677999999996
     },
     {
       "index": 3,
@@ -40,7 +46,10 @@
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 10.896032,
+      "start": 27.261677999999996,
+      "end": 38.157709999999994
     },
     {
       "index": 4,
@@ -50,7 +59,10 @@
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 13.785646,
+      "start": 38.157709999999994,
+      "end": 51.943355999999994
     },
     {
       "index": 5,
@@ -60,7 +72,10 @@
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 14.972449,
+      "start": 51.943355999999994,
+      "end": 66.91580499999999
     },
     {
       "index": 6,
@@ -70,7 +85,10 @@
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 14.766054,
+      "start": 66.91580499999999,
+      "end": 81.68185899999999
     },
     {
       "index": 7,
@@ -80,7 +98,10 @@
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 8.625646,
+      "start": 81.68185899999999,
+      "end": 90.30750499999999
     },
     {
       "index": 8,
@@ -90,8 +111,12 @@
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 11.87644,
+      "start": 90.30750499999999,
+      "end": 102.183945
     }
   ],
-  "audio_file": "english.wav"
+  "audio_file": "english.wav",
+  "duration": 102.183945
 }

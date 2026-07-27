@@ -20,7 +20,10 @@
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 11.82483,
+      "start": 0,
+      "end": 11.82483
     },
     {
       "index": 2,
@@ -30,7 +33,10 @@
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 14.972449,
+      "start": 11.82483,
+      "end": 26.797279
     },
     {
       "index": 3,
@@ -40,7 +46,10 @@
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 8.883628,
+      "start": 26.797279,
+      "end": 35.680907
     },
     {
       "index": 4,
@@ -50,7 +59,10 @@
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 9.502834,
+      "start": 35.680907,
+      "end": 45.183741
     },
     {
       "index": 5,
@@ -60,7 +72,10 @@
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 14.920839,
+      "start": 45.183741,
+      "end": 60.10458
     },
     {
       "index": 6,
@@ -70,7 +85,10 @@
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 11.618435,
+      "start": 60.10458,
+      "end": 71.723015
     },
     {
       "index": 7,
@@ -80,7 +98,10 @@
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 11.102449,
+      "start": 71.723015,
+      "end": 82.82546400000001
     },
     {
       "index": 8,
@@ -90,7 +111,10 @@
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 7.95483,
+      "start": 82.82546400000001,
+      "end": 90.78029400000001
     },
     {
       "index": 9,
@@ -100,8 +124,12 @@
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 12.392449,
+      "start": 90.78029400000001,
+      "end": 103.17274300000001
     }
   ],
-  "audio_file": "english.wav"
+  "audio_file": "english.wav",
+  "duration": 103.17274300000001
 }

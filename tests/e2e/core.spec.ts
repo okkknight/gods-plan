@@ -48,7 +48,7 @@ test("course card opens the lesson and removes the new-course hint", async ({ pa
   await page.goto("/today");
   await expect(page.getByText("每天一篇", { exact: true })).not.toBeVisible();
   await page.getByRole("link", { name: /S01E01.*Pilot/ }).click();
-  await expect(page).toHaveURL(/\/course\/1\?stage=0&date=2026-07-27$/);
+  await expect(page).toHaveURL(/\/course\/1\?stage=0&date=\d{4}-\d{2}-\d{2}$/);
 });
 
 test("english audio element survives switching to another mode", async ({ page }) => {
@@ -71,6 +71,22 @@ test("english audio supports once and loop modes", async ({ page }) => {
   await expect(audio).toHaveJSProperty("loop", true);
   await page.getByRole("button", { name: "切换到单篇播放" }).click();
   await expect(audio).toHaveJSProperty("loop", false);
+});
+
+test("english subtitles follow audio segments and can jump to a segment", async ({ page }) => {
+  await page.goto("/course/1?stage=0&date=2026-07-27");
+  await page.getByRole("tab", { name: "英文" }).click();
+  const segments = page.locator(".audio-segment");
+  await expect(segments).toHaveCount(12);
+  await segments.nth(4).click();
+  await expect(segments.nth(4)).toHaveClass(/active/);
+  const start = Number(await segments.nth(7).getAttribute("data-start"));
+  await page.locator("audio").evaluate((audio, time) => {
+    const player = audio as HTMLAudioElement;
+    player.currentTime = time + 0.2;
+    player.dispatchEvent(new Event("timeupdate"));
+  }, start);
+  await expect(segments.nth(7)).toHaveClass(/active/);
 });
 
 test("today does not show explanatory marketing copy", async ({ page }) => {
