@@ -29,3 +29,9 @@
 - 使用 `reference_id=933563129e564b19a115bedd57b7406a` 生成 S01E01 Pilot，共 12 段，输出约 2 分 19 秒的 `public/audio/courses/modern-family-s01e01/english.wav` 及 manifest。
 - Course Reader 切换到英文模式后显示整篇音频播放控件；未生成音频的课程不显示控件。
 - 已验证 `npm run lint`、`npm run test:run`、`npm run build`、浏览器页面切换和音频 Range 206。
+
+## 2026-07-27 audio pilot reviewer verification
+
+- 独立 reviewer 复核通过：在最新 production build 的 `next start -p 3001` 上确认 S01E01 页面包含音频资源，未生成音频的 S01E02 不显示该资源。
+- 独立确认音频请求返回 `206 Partial Content`、`Content-Range: bytes 0-99/...`，`npm run lint`、11 个单元测试和 `npm run build` 均通过。
+- 结论：本次第一篇整篇英文播放功能 PASS；逐段播放、跟读、字幕同步和其他课程批量音频仍不在本次范围内。
