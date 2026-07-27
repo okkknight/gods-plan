@@ -14,3 +14,9 @@
 - 独立验证数据库包含 24 门课程、72 个 section、72 个 paragraph，默认数据无残留学习事件。
 - 临时 SQLite 验证更新模式会保留已有 progress、due date 和 study event。
 - 浏览器验证今天日历展示完整任务分组，课程库提供新建/更新导入模式。
+
+## 2026-07-27 latest update
+
+- Today 页面底部新增前一天/后一天日期按钮，支持过去记录、今天任务和未来预测切换。
+- 统一项目名称为 `God's Plan`，同步页面标题、README 和 npm 包名。
+- 兼容课程 Markdown 移至 `docs/` 后的路径，新增日期导航 e2e 测试。

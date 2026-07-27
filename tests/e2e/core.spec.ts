@@ -25,3 +25,14 @@ test("future calendar is read-only and explains forecasting", async ({ page }) =
   await expect(page.getByText("未来安排会自动变化")).toBeVisible();
   await expect(page.getByRole("button", { name: "完成本次学习" })).not.toBeVisible();
 });
+
+test("today page arrows move one day at a time", async ({ page }) => {
+  await page.goto("/today");
+  await expect(page.getByRole("button", { name: "前一天" })).toBeVisible();
+  await expect(page.getByRole("button", { name: "后一天" })).toBeVisible();
+  await page.getByRole("button", { name: "后一天" }).click();
+  await expect(page).toHaveURL(/\/today\?date=2026-07-28$/);
+  await expect(page.getByText("预计计划")).toBeVisible();
+  await page.getByRole("button", { name: "前一天" }).click();
+  await expect(page).toHaveURL(/\/today\?date=2026-07-27$/);
+});

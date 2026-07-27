@@ -5,7 +5,8 @@ import { readFileSync } from "node:fs";
 
 describe("course markdown import", () => {
   it("maps the three learning modes into non-empty aligned sections", () => {
-    const markdown = readFileSync("Modern_Family_S1E01-E24_Speaking_Course_MD/episodes/S01E01_Pilot.md", "utf8");
+    const candidates = ["docs/Modern_Family_S1E01-E24_Speaking_Course_MD/episodes/S01E01_Pilot.md", "Modern_Family_S1E01-E24_Speaking_Course_MD/episodes/S01E01_Pilot.md"];
+    const markdown = readFileSync(candidates.find((file) => { try { readFileSync(file); return true; } catch { return false; } })!, "utf8");
     const course = parseCourseMarkdown(markdown, 1);
     expect(course.slug).toBe("modern-family-s01e01");
     expect(course.title).toBe("Pilot");

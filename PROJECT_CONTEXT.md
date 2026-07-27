@@ -1,14 +1,14 @@
-# Godsplan 项目上下文
+# God's Plan 项目上下文
 
 ## 产品
 
-本地单用户英语口语复习管理应用。当前使用 `Modern_Family_S1E01-E24_Speaking_Course_MD/episodes/` 下的 24 篇课程，支持中文、英文标准版和 Cue Version。
+本地单用户英语口语复习管理应用。当前使用 `docs/Modern_Family_S1E01-E24_Speaking_Course_MD/episodes/` 下的 24 篇课程，支持中文、英文标准版和 Cue Version。
 
 ## 当前状态
 
 已完成可运行第一版：Next.js App Router、SQLite/Drizzle schema、课程 Markdown 转 JSON、seed/import、调度器、Today、Calendar、Course Reader、Library、完成/撤销/导入/归档接口。
 
-最新任务状态：`验收通过`。已完成独立审查和最新代码验证。
+最新任务状态：`已执行待验收`。已完成日期导航、品牌命名和课程路径兼容，最新验证已通过。
 
 ## 关键规则
 
@@ -44,3 +44,5 @@ npm run build
 - 当前内容解析把每个 Markdown 的三种模式保存在三个对应 section 中，每个 section 保留完整内容；后续若需要逐段 Cue 对齐，应升级导入格式和 UI。
 - 无账号、云同步、备份、音频和 AI 功能，部署前需自行管理 SQLite 文件。
 - 已独立检查完成/撤销流程、移动端响应式结构、真实导入更新保留进度，以及今天/过去/未来日历行为。
+- Today 页面底部提供前一天/后一天按钮；非今天日期只读，今天保持原有可操作任务。
+- 项目品牌为 `God's Plan`；课程 Markdown 当前位于 `docs/`，转换脚本兼容旧根目录路径。
