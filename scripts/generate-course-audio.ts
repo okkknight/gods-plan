@@ -4,6 +4,7 @@ import { existsSync } from "node:fs";
 import path from "node:path";
 import { spawnSync } from "node:child_process";
 import { splitTextForSpeech } from "../src/domain/audio/text-segmentation";
+import { inferSpeechPerformance } from "../src/domain/audio/speech-performance";
 
 const root = process.cwd();
 const courseArgumentIndex = process.argv.indexOf("--course");
@@ -17,7 +18,7 @@ const cacheDir = path.join(root, "data", "audio-cache");
 
 if (!apiKey) throw new Error("缺少 FISH_AUDIO_API_KEY 或 FISH_API_KEY");
 
-async function synthesize(text: string): Promise<Buffer> {
+async function synthesize(text: string, speed: number): Promise<Buffer> {
   let lastMessage = "未知错误";
   for (let attempt = 0; attempt <= maxRetries; attempt += 1) {
     try {
@@ -28,7 +29,7 @@ async function synthesize(text: string): Promise<Buffer> {
           "Content-Type": "application/json",
           model,
         },
-        body: JSON.stringify({ text, reference_id: referenceId, format: "wav", temperature: 0.7, top_p: 0.7 }),
+        body: JSON.stringify({ text, reference_id: referenceId, format: "wav", temperature: 0.72, top_p: 0.75, prosody: { speed, volume: 0, normalize_loudness: true } }),
       });
       if (response.ok) return Buffer.from(await response.arrayBuffer());
       lastMessage = `${response.status} ${await response.text()}`.slice(0, 500);
@@ -55,21 +56,23 @@ async function main() {
   const workDir = path.join(outputDir, ".work");
   await mkdir(workDir, { recursive: true });
   await mkdir(cacheDir, { recursive: true });
-  const generated = [] as { index: number; text: string; file: string; cached: boolean }[];
+  const generated = [] as { index: number; text: string; ttsText: string; tags: string[]; speed: number; file: string; cached: boolean }[];
 
   for (const [index, text] of segments.entries()) {
-    const key = createHash("sha256").update(JSON.stringify({ text, referenceId, model })).digest("hex");
+    const performance = inferSpeechPerformance(text, index);
+    const ttsText = `${performance.tags.join(" ")} ${text}`.trim();
+    const key = createHash("sha256").update(JSON.stringify({ text: ttsText, referenceId, model, speed: performance.speed, temperature: 0.72, topP: 0.75, profile: "auto-tags-v2" })).digest("hex");
     const cachedPath = path.join(cacheDir, `${key}.wav`);
     const segmentPath = path.join(workDir, `${String(index + 1).padStart(3, "0")}.wav`);
     const cached = existsSync(cachedPath);
     if (cached) await copyFile(cachedPath, segmentPath);
     else {
       console.log(`生成第 ${index + 1}/${segments.length} 段`);
-      const audio = await synthesize(text);
+      const audio = await synthesize(ttsText, performance.speed);
       await writeFile(cachedPath, audio);
       await copyFile(cachedPath, segmentPath);
     }
-    generated.push({ index: index + 1, text, file: path.relative(outputDir, segmentPath), cached });
+    generated.push({ index: index + 1, text, ttsText, tags: performance.tags, speed: performance.speed, file: path.relative(outputDir, segmentPath), cached });
   }
 
   const normalizedDir = path.join(workDir, "normalized");
@@ -83,7 +86,7 @@ async function main() {
   runFfmpeg(["-f", "concat", "-safe", "0", "-i", concatFile, "-c", "copy", rawOutput]);
   await mkdir(outputDir, { recursive: true });
   runFfmpeg(["-i", rawOutput, "-af", "loudnorm=I=-16:TP=-1.5:LRA=11", "-ar", "44100", "-ac", "1", "-sample_fmt", "s16", path.join(outputDir, "english.wav")]);
-  await writeFile(path.join(outputDir, "manifest.json"), JSON.stringify({ generated_at: new Date().toISOString(), course: slug, mode: "english", model, reference_id: referenceId, script_sha256: createHash("sha256").update(english).digest("hex"), segment_count: generated.length, segments: generated.map(({ index, text, cached }) => ({ index, text, cached })), audio_file: "english.wav" }, null, 2));
+  await writeFile(path.join(outputDir, "manifest.json"), JSON.stringify({ generated_at: new Date().toISOString(), course: slug, mode: "english", model, reference_id: referenceId, performance_profile: "auto-tags-v2", script_sha256: createHash("sha256").update(english).digest("hex"), segment_count: generated.length, segments: generated.map(({ index, text, ttsText, tags, speed, cached }) => ({ index, text, tts_text: ttsText, tags, speed, cached })), audio_file: "english.wav" }, null, 2));
   await rm(workDir, { recursive: true, force: true });
   console.log(`已生成 ${path.join(outputDir, "english.wav")}，共 ${generated.length} 段`);
 }
