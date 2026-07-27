@@ -36,3 +36,10 @@ test("today page arrows move one day at a time", async ({ page }) => {
   await page.getByRole("button", { name: "前一天" }).click();
   await expect(page).toHaveURL(/\/today\?date=2026-07-27$/);
 });
+
+test("today hides empty priority groups so available courses move up", async ({ page }) => {
+  await page.goto("/today");
+  await expect(page.getByRole("heading", { name: "今日新学" })).toBeVisible();
+  await expect(page.getByRole("heading", { name: "逾期复习" })).not.toBeVisible();
+  await expect(page.getByRole("heading", { name: "今日复习" })).not.toBeVisible();
+});

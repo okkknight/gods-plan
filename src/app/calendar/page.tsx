@@ -17,5 +17,5 @@ function TodayCalendarTasks({ today, tasks }: { today: string; tasks: TodayTasks
     ["今日新学", tasks.newCourse ? [tasks.newCourse] : []],
     ["今日已完成", tasks.completedToday],
   ] as const;
-  return <section className="calendar-list">{groups.map(([title, group]) => <div className="task-group" key={title}><div className="section-heading"><h2>{title}</h2><span>{group.length} 项</span></div>{group.length ? group.map((task) => <TaskCard key={`${task.kind}-${task.kind === "completed" ? task.courseId : task.id}-${task.stage}`} task={task} today={today} completed={task.kind === "completed"} />) : <div className="empty">没有任务</div>}</div>)}</section>;
+  return <section className="calendar-list">{groups.filter(([, group]) => group.length > 0).map(([title, group]) => <div className="task-group" key={title}><div className="section-heading"><h2>{title}</h2><span>{group.length} 项</span></div>{group.map((task) => <TaskCard key={`${task.kind}-${task.kind === "completed" ? task.courseId : task.id}-${task.stage}`} task={task} today={today} completed={task.kind === "completed"} />)}</div>)}{groups.every(([, group]) => group.length === 0) && <div className="empty">今天没有学习任务。</div>}</section>;
 }

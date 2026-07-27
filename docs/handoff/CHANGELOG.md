@@ -20,3 +20,4 @@
 - Today 页面底部新增前一天/后一天日期按钮，支持过去记录、今天任务和未来预测切换。
 - 统一项目名称为 `God's Plan`，同步页面标题、README 和 npm 包名。
 - 兼容课程 Markdown 移至 `docs/` 后的路径，新增日期导航 e2e 测试。
+- 隐藏 Today 与 Calendar Today 的空优先级分组，新增空分组上移 e2e 验证。
