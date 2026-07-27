@@ -1,0 +1,85 @@
+# S01E24 — Family Portrait
+
+> 用途：中文理解剧情 → 学习 Spoken English 标准版 → 使用 Cue Version 脱稿复述  
+> 英文长度：约 **307 词**；正常学习语速约 **2.1–2.6 分钟**
+
+---
+
+## 1. 中文剧情描述
+
+第一季最后一集围绕克莱尔计划拍摄一张完美的全家福展开。她要求所有人准时到场，并穿着统一的白色衣服。但拍照当天，每个家庭都遇到了麻烦，克莱尔还要处理家里坏掉的楼梯。她越想控制细节，事情越不断偏离计划。
+
+菲尔带亚历克斯去看湖人队比赛，格洛丽亚和曼尼也一起去。菲尔和格洛丽亚被现场的“亲吻镜头”拍到。两人本来拒绝接吻，观众却不断起哄，格洛丽亚只好突然亲了菲尔一下。菲尔误以为克莱尔在电视上看到了这一幕，之后一直紧张地准备解释。
+
+卡梅隆去婚礼上担任歌手，米切尔留在家里照顾莉莉。一只鸽子飞进屋内，米切尔为了赶走它几乎毁掉了整个房子。与此同时，卢克采访杰伊完成学校作业，却觉得外公真实的人生故事太无聊。杰伊于是编出越来越夸张的冒险经历。
+
+所有人最后勉强穿着白衣赶到拍照地点，却立刻因为亲吻镜头、房屋损坏、海莉脸上的痘和格洛丽亚的裙子争吵起来。克莱尔仍坚持拍出完美照片，杰伊终于忍无可忍，故意发动了一场泥巴大战。白衣全部被弄脏，但全家终于放松下来，拍出了一张混乱、真实而快乐的照片。克莱尔后来承认，她比任何完美摆拍都更喜欢这张照片。
+
+这一集为第一季做了很合适的总结：这个家庭永远不会整齐、安静或完全符合计划，但他们最真实的样子，恰恰就是他们在一起的样子。
+
+---
+
+## 2. Spoken English 标准版
+
+I’d like to introduce Episode 24 of *Modern Family* Season 1. It’s called **“Family Portrait,”** and it is the season finale.
+
+Claire wants to take a perfect family photograph. She asks everyone to arrive on time and wear matching white clothes. On the day of the picture, however, every part of the plan begins to fall apart. Claire also tries to repair a broken stair at home, but she only makes it worse. The more she controls the details, the more chaotic the day becomes.
+
+Phil takes Alex to a Lakers game, and Gloria and Manny go with them. Phil and Gloria appear on the arena’s kiss cam. They refuse to kiss at first, but the crowd keeps booing until Gloria suddenly kisses Phil. Phil believes Claire saw the moment on television, so he spends the rest of the day nervously preparing to explain himself.
+
+Meanwhile, Cameron works as a singer at a wedding, while Mitchell stays home with Lily. A pigeon flies into the house, and Mitchell nearly destroys the entire room while trying to get it out. Luke interviews Jay for a school project, but he finds Jay’s real stories boring. Jay responds by inventing increasingly dramatic adventures from his past.
+
+The family finally arrives for the photograph in their clean white clothes, but several arguments immediately break out. Claire still insists on getting the perfect picture. Jay finally loses patience and starts a mud fight, ruining everyone’s clothes. The mess allows the family to relax, and they take a series of joyful photographs instead. Later, Claire admits that she loves the imperfect picture more than the carefully posed one she had imagined.
+
+Overall, the finale captures the central idea of the first season. This family is never orderly or predictable, but the chaos is part of what makes them feel like a real family.
+
+---
+
+## 3. Cue Version
+
+### Opening
+- season finale / Claire plans a perfect family portrait
+
+### Claire’s plan
+- everyone on time / matching white clothes
+- broken stair + many delays
+- more control → more chaos
+
+### Lakers game
+- Phil, Alex, Gloria, Manny
+- Phil and Gloria appear on kiss cam
+- refuse at first → crowd boos → Gloria kisses Phil
+- Phil thinks Claire saw it → prepares an explanation
+
+### Mitchell, Cameron, Luke, and Jay
+- Cameron sings at wedding
+- pigeon enters house → Mitchell nearly destroys room
+- Luke interviews Jay for school
+- real stories seem boring → Jay invents dramatic adventures
+
+### The photograph
+- family finally arrives in clean white clothes
+- arguments break out
+- Claire insists on perfection
+- Jay starts mud fight → clothes ruined
+- everyone relaxes → joyful, imperfect photo
+
+### Closing
+- real family = disorder, unpredictability, and being together
+
+---
+
+## 4. 本集可迁移口语表达
+
+- **fall apart** — 失控、崩坏
+- **prepare to explain oneself** — 准备为自己解释
+- **lose patience** — 失去耐心
+- **ruin the plan** — 毁掉计划
+- **a carefully posed photograph** — 精心摆拍的照片
+
+### 建议练习
+
+1. 先看中文，确认人物关系和故事顺序。
+2. 跟读英文标准版，重点模仿停顿和连接方式，不要逐句翻译。
+3. 只看 Cue Version 完整复述；卡住时先绕开表达，不立刻查看原文。
+4. 复述结束后对照标准版，只修改影响表达清晰度的问题。
