@@ -67,9 +67,9 @@ test("english audio supports once and loop modes", async ({ page }) => {
   await page.getByRole("tab", { name: "英文" }).click();
   const audio = page.locator("audio");
   await expect(audio).toHaveJSProperty("loop", false);
-  await page.getByRole("button", { name: "循环" }).click();
+  await page.getByRole("button", { name: "切换到循环播放" }).click();
   await expect(audio).toHaveJSProperty("loop", true);
-  await page.getByRole("button", { name: "单篇" }).click();
+  await page.getByRole("button", { name: "切换到单篇播放" }).click();
   await expect(audio).toHaveJSProperty("loop", false);
 });
 
