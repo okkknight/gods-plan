@@ -29,7 +29,7 @@ async function synthesize(text: string, speed: number): Promise<Buffer> {
           "Content-Type": "application/json",
           model,
         },
-        body: JSON.stringify({ text, reference_id: referenceId, format: "wav", temperature: 0.78, top_p: 0.82, prosody: { speed, volume: 0, normalize_loudness: true } }),
+        body: JSON.stringify({ text, reference_id: referenceId, format: "wav", temperature: 0.84, top_p: 0.88, prosody: { speed, volume: 1, normalize_loudness: true } }),
       });
       if (response.ok) return Buffer.from(await response.arrayBuffer());
       lastMessage = `${response.status} ${await response.text()}`.slice(0, 500);
@@ -61,7 +61,7 @@ async function main() {
   for (const [index, text] of segments.entries()) {
     const performance = inferSpeechPerformance(text, index);
     const ttsText = `${performance.tags.join(" ")} ${text}`.trim();
-    const key = createHash("sha256").update(JSON.stringify({ text: ttsText, referenceId, model, speed: performance.speed, temperature: 0.78, topP: 0.82, profile: "storyteller-v4" })).digest("hex");
+    const key = createHash("sha256").update(JSON.stringify({ text: ttsText, referenceId, model, speed: performance.speed, volume: 1, temperature: 0.84, topP: 0.88, profile: "warm-storyteller-v5" })).digest("hex");
     const cachedPath = path.join(cacheDir, `${key}.wav`);
     const segmentPath = path.join(workDir, `${String(index + 1).padStart(3, "0")}.wav`);
     const cached = existsSync(cachedPath);
@@ -86,7 +86,7 @@ async function main() {
   runFfmpeg(["-f", "concat", "-safe", "0", "-i", concatFile, "-c", "copy", rawOutput]);
   await mkdir(outputDir, { recursive: true });
   runFfmpeg(["-i", rawOutput, "-af", "loudnorm=I=-16:TP=-1.5:LRA=11", "-ar", "44100", "-ac", "1", "-sample_fmt", "s16", path.join(outputDir, "english.wav")]);
-  await writeFile(path.join(outputDir, "manifest.json"), JSON.stringify({ generated_at: new Date().toISOString(), course: slug, mode: "english", model, reference_id: referenceId, performance_profile: "storyteller-v4", temperature: 0.78, top_p: 0.82, script_sha256: createHash("sha256").update(english).digest("hex"), segment_count: generated.length, segments: generated.map(({ index, text, ttsText, tags, speed, cached }) => ({ index, text, tts_text: ttsText, tags, speed, cached })), audio_file: "english.wav" }, null, 2));
+  await writeFile(path.join(outputDir, "manifest.json"), JSON.stringify({ generated_at: new Date().toISOString(), course: slug, mode: "english", model, reference_id: referenceId, performance_profile: "warm-storyteller-v5", volume: 1, temperature: 0.84, top_p: 0.88, script_sha256: createHash("sha256").update(english).digest("hex"), segment_count: generated.length, segments: generated.map(({ index, text, ttsText, tags, speed, cached }) => ({ index, text, tts_text: ttsText, tags, speed, cached })), audio_file: "english.wav" }, null, 2));
   await rm(workDir, { recursive: true, force: true });
   console.log(`已生成 ${path.join(outputDir, "english.wav")}，共 ${generated.length} 段`);
 }

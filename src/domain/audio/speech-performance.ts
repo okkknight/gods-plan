@@ -7,9 +7,9 @@ export function inferSpeechPerformance(text: string, index: number): SpeechPerfo
   const lower = text.toLowerCase();
   const tags: string[] = [];
   const bySegment = [
-    "[warm engaging storyteller]", "[conversational storytelling]", "[gentle narrative tension]", "[gentle humor in the story]",
-    "[clear engaging narration]", "[brief storytelling emphasis]", "[smooth story transition]", "[empathetic storytelling]",
-    "[reflective storytelling]", "[gentle narrative tension]", "[delighted storytelling]", "[warm reflective storyteller]",
+    "[warm lively storyteller]", "[friendly conversational storyteller]", "[warm narrative tension]", "[playful storyteller]",
+    "[animated engaging narration]", "[bright storytelling emphasis]", "[warm smooth story transition]", "[sympathetic storyteller]",
+    "[warm reflective storyteller]", "[warm narrative tension]", "[genuinely delighted storyteller]", "[tender warm conclusion]",
   ];
   if (bySegment[index]) tags.push(bySegment[index]);
   else if (/overall|the final scene|in the end/.test(lower)) tags.push("[thoughtful conclusion]");
