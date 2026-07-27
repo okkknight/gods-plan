@@ -42,46 +42,19 @@ Overall, the episode shows that parents often make mistakes while trying to do t
 
 ## 3. Cue Version
 
-### Opening
-- Episode 2 / **“The Bicycle Thief”**
-- one question: what makes **a good father**?
+I’d like to introduce Episode 2 of *Modern Family* Season 1. It is called **“The Bicycle Thief.”** All three storylines explore the same question: ______________________________?
 
-### Phil and Luke
-- Luke rides sister’s old bike → Claire: not responsible enough
-- Phil disagrees → buys **brand-new bike**
-- sees identical unlocked bike on street
-- assumes Luke left it there
-- takes it to **teach him a lesson**
-- helps neighbor Desiree through a window
-- comes back → bike is gone
-- buys another identical bike to cover mistake
-- discovers Luke’s real bike was **at home the whole time**
-- Claire finds out / thinks it is funny
-- Phil still lies: stolen at **gas station**
-- Desiree returns it → mentions Phil was in her bedroom
-- final attempt to return wrong bike → real owner catches him
+The first story is about Phil and Luke. Luke has been riding ______________________________ because Claire does not think he is responsible enough to own a new one. Phil disagrees and buys him a brand-new bike, hoping that Luke will ______________________________.
 
-### Jay and Manny
-- Gloria asks them to install **ceiling fan** together
-- Jay refuses instructions / Manny worries about safety
-- argument → hurtful things
-- Manny waits for Javier / Disneyland trip
-- Javier cancels because he is gambling
-- Jay angry but protects Manny’s feelings
-- makes up kind story / uses limousine / takes Manny to Disneyland
+Later, Phil sees an identical bike sitting on the street without a lock. He assumes that Luke has left his new bike there, so he takes it to ______________________________. On his way home, Phil stops to help their attractive new neighbor, Desiree, climb through a window because ______________________________. When he comes outside again, the bike is gone.
 
-### Mitchell and Cameron
-- parent-and-baby class with Lily
-- Mitchell worries about **fitting in**
-- asks Cameron to tone himself down
-- other children seem more advanced
-- claim another child’s blocks were stacked by Lily
-- discover camera recording the class
-- Mitchell realizes Cameron should not have to hide himself
+Phil buys another identical bike to cover up the problem. However, when he gets home, he discovers that ______________________________. He has taken the wrong bike. Claire works out what happened and finds it funny, but Phil still claims that ______________________________. Then Desiree returns it and mentions that Phil was in her bedroom, exposing his lie. In the end, Phil tries to put the original bike back, but ______________________________.
 
-### Closing
-- good intentions + many mistakes
-- key idea: **being there when the child needs you**
+The second story is about Jay and Manny. Gloria asks them to install a ceiling fan together so that they can become closer. Jay ignores the instructions, while Manny keeps warning him about safety, and they end up ______________________________. Later, Manny’s biological father, Javier, cancels their Disneyland trip because ______________________________. Jay is furious, but he does not want Manny to feel rejected. He invents ______________________________ and uses the limousine meant for his own trip to take Manny and Gloria to Disneyland.
+
+The third story is about Mitchell and Cameron. They take Lily to a parent-and-baby class. Mitchell is nervous about fitting in and asks Cameron to ______________________________. When the other children seem more advanced than Lily, they pretend that ______________________________. They quickly discover that the class is recorded on camera. Mitchell also realizes that his insecurity has made him dishonest and ______________________________.
+
+Overall, the episode shows that parents often make mistakes while trying to do the right thing. A good father is not someone who always gets everything right; he is someone who ______________________________.
 
 ---
 
