@@ -49,6 +49,8 @@
 - 进一步将标签调整为连续的“讲故事的人”风格，减少角色化情绪，使用 `storyteller-v4`；语速保持 `0.95`，采样参数回调为 temperature `0.78` / top-p `0.82`。
 - 在连续叙述风格上增加温度和现场感，使用 `warm-storyteller-v5`，加入更温暖、活泼、亲和的叙述提示，并将 Fish prosody volume 调至 `1`。
 - 生成 `warm-storyteller-v6` 试听版，唯一调整为 Fish `prosody.speed=0.90`，其余叙述参数保持不变。
+- 生成 `warm-storyteller-v7` 试听版，保持 `speed=0.90`，将叙述情绪再增强一层：temperature `0.90`、top-p `0.92`、volume `1.5`，并使用更有感染力的连续讲故事提示。
+- 将标签进一步改为面向听众的故事叙述指令，使用 `storyteller-v8`，强调带入、铺垫、转折、幽默和收束，而不是单纯提高情绪强度。
 
 ## 2026-07-27 dev/build isolation fix
 
