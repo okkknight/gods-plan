@@ -43,3 +43,8 @@ test("today hides empty priority groups so available courses move up", async ({ 
   await expect(page.getByRole("heading", { name: "逾期复习" })).not.toBeVisible();
   await expect(page.getByRole("heading", { name: "今日复习" })).not.toBeVisible();
 });
+
+test("today does not show explanatory marketing copy", async ({ page }) => {
+  await page.goto("/today");
+  await expect(page.getByText("把今天的一小段练习完成，复习会自己继续向前。", { exact: true })).not.toBeVisible();
+});
