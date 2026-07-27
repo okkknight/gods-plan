@@ -15,7 +15,8 @@
     "db:seed": "tsx scripts/seed.ts",
     "course:convert": "tsx scripts/convert-courses.ts",
     "course:validate": "tsx scripts/validate-course.ts",
-    "course:import": "tsx scripts/import-course.ts"
+    "course:import": "tsx scripts/import-course.ts",
+    "audio:generate": "tsx scripts/generate-course-audio.ts"
   },
   "dependencies": {
     "@libsql/client": "^0.15.9",

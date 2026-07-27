@@ -8,6 +8,8 @@ data/*.db-wal
 playwright-report
 test-results
 coverage
+data/audio-cache
+output/playwright
 .playwright-cli
 tsconfig.tsbuildinfo
 .DS_Store

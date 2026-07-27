@@ -47,6 +47,8 @@ h2, h3, p { margin-top: 0; }
 .mode-switch button { border: 0; border-radius: 8px; padding: 9px 18px; color: var(--muted); background: transparent; cursor: pointer; }
 .mode-switch button.active { color: var(--ink); background: white; box-shadow: 0 2px 8px rgba(35,51,59,.08); }
 .reader-content { max-width: 760px; }
+.reader-audio { display: flex; align-items: center; gap: 16px; margin: -18px 0 40px; padding: 14px 16px; border: 1px solid var(--line); border-radius: 14px; color: var(--muted); background: rgba(255,255,255,.7); font-size: 13px; }
+.reader-audio audio { width: min(100%, 420px); height: 36px; }
 .reader-section { margin: 0 0 34px; }
 .reader-section h2 { color: var(--muted); font-size: 15px; font-weight: 550; }
 .reader-section p { white-space: pre-wrap; font-size: 18px; line-height: 1.85; }
@@ -79,4 +81,4 @@ h2, h3, p { margin-top: 0; }
 .today-link { padding: 0; font-size: 12px; }
 .date-overview { margin-top: 36px; }
 .date-overview h2 { margin-top: 34px; font-size: 18px; }
-@media (max-width: 640px) { .nav { padding: 18px 18px; } .nav-links { gap: 14px; } .shell { padding: 34px 18px 80px; } .page-heading { align-items: start; flex-direction: column; } .progress { align-items: start; } .task-card { align-items: start; flex-direction: column; } .task-action { width: 100%; justify-content: space-between; } .reader-page { padding: 22px 18px 80px; } .reader-heading { margin-top: 60px; } .date-form { width: 100%; } .date-form input { flex: 1; } .history-row, .library-row { align-items: start; flex-wrap: wrap; gap: 8px; } .history-row span { width: auto; } .history-row strong { min-width: 55%; } .history-row small { width: 100%; } }
+@media (max-width: 640px) { .nav { padding: 18px 18px; } .nav-links { gap: 14px; } .shell { padding: 34px 18px 80px; } .page-heading { align-items: start; flex-direction: column; } .progress { align-items: start; } .task-card { align-items: start; flex-direction: column; } .task-action { width: 100%; justify-content: space-between; } .reader-page { padding: 22px 18px 80px; } .reader-heading { margin-top: 60px; } .reader-audio { align-items: stretch; flex-direction: column; gap: 8px; } .reader-audio audio { width: 100%; } .date-form { width: 100%; } .date-form input { flex: 1; } .history-row, .library-row { align-items: start; flex-wrap: wrap; gap: 8px; } .history-row span { width: auto; } .history-row strong { min-width: 55%; } .history-row small { width: 100%; } }

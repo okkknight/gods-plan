@@ -1,0 +1,72 @@
+{
+  "generated_at": "2026-07-27T14:00:34.296Z",
+  "course": "modern-family-s01e01",
+  "mode": "english",
+  "model": "s2.1-pro-free",
+  "reference_id": "933563129e564b19a115bedd57b7406a",
+  "script_sha256": "1fb5db2c0d1252cc701c231e7abbba8f4f72e6d849f3e09e9276e7aca0fa32bd",
+  "segment_count": 12,
+  "segments": [
+    {
+      "index": 1,
+      "text": "I’d like to introduce the first episode of Modern Family. It is called “Pilot.” This episode introduces three very different families. At first, they seem separate, but in the end, we discover that they are all connected.",
+      "cached": false
+    },
+    {
+      "index": 2,
+      "text": "The first family is the Dunphy family. Claire and Phil have three children: Haley, Alex, and Luke. Haley invites her older boyfriend, Dylan, to their house for the first time.",
+      "cached": false
+    },
+    {
+      "index": 3,
+      "text": "Claire becomes very nervous and keeps checking on them because she is afraid they may do something inappropriate upstairs.",
+      "cached": false
+    },
+    {
+      "index": 4,
+      "text": "Phil, on the other hand, wants to be the “cool dad.” He tries to act relaxed and even plans to scare Dylan a little, but he only hurts his back and embarrasses himself.",
+      "cached": false
+    },
+    {
+      "index": 5,
+      "text": "At the same time, Luke has shot Alex with a toy BB gun. Claire reminds Phil that they made a rule: if Luke shoots someone, Phil has to shoot him back so that he learns a lesson. Phil keeps putting it off because he does not really want to hurt Luke.",
+      "cached": false
+    },
+    {
+      "index": 6,
+      "text": "In the end, the gun goes off by accident, and Phil shoots Luke, Dylan, and then himself.",
+      "cached": false
+    },
+    {
+      "index": 7,
+      "text": "The second family is Jay, Gloria, and Manny. Jay is much older than Gloria, and people sometimes mistake him for her father. This makes him feel insecure about his age. Manny, Gloria’s eleven-year-old son, is romantic and unusually mature.",
+      "cached": false
+    },
+    {
+      "index": 8,
+      "text": "He has a crush on a sixteen-year-old girl and decides to read her a poem. Jay thinks Manny will only make a fool of himself, but Gloria believes the family should support him. The girl tells Manny that she already has a boyfriend, and he is heartbroken.",
+      "cached": false
+    },
+    {
+      "index": 9,
+      "text": "Jay slowly begins to understand that being part of Manny’s family means standing behind him, even when he expects him to fail.",
+      "cached": false
+    },
+    {
+      "index": 10,
+      "text": "The third family is Mitchell and Cameron. They are returning from Vietnam with their newly adopted daughter, Lily. On the plane, Mitchell thinks the other passengers are judging them, so he gives an angry speech. He soon realizes that he completely misunderstood the situation.",
+      "cached": false
+    },
+    {
+      "index": 11,
+      "text": "Later, Mitchell and Cameron introduce Lily to the whole family. Jay is doubtful at first, but Cameron makes a dramatic entrance while holding Lily in the air. Everyone immediately welcomes her.",
+      "cached": false
+    },
+    {
+      "index": 12,
+      "text": "The final scene reveals that Jay is Claire and Mitchell’s father. Overall, the episode shows us a family that is complicated, awkward, and sometimes ridiculous, but also loving and supportive.",
+      "cached": false
+    }
+  ],
+  "audio_file": "english.wav"
+}

@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import { CourseReader } from "@/components/course-reader";
 import { getCourse } from "@/services/course-service";
 import { getTodayInAppTimezone } from "@/domain/scheduling/date-utils";
+import { getCourseAudioUrl } from "@/services/course-audio-service";
 
 export default async function CoursePage({ params, searchParams }: { params: Promise<{ id: string }>; searchParams: Promise<{ stage?: string; date?: string }> }) {
   const { id } = await params;
@@ -12,5 +13,5 @@ export default async function CoursePage({ params, searchParams }: { params: Pro
   const parsedStage = Number(query.stage ?? (course.status === "queued" ? 0 : 1));
   const stage = Number.isInteger(parsedStage) ? parsedStage : 0;
   const canComplete = query.date === today && (course.status === "queued" || course.status === "active");
-  return <CourseReader course={course} stage={stage} canComplete={canComplete} />;
+  return <CourseReader course={{ ...course, audioUrl: getCourseAudioUrl(course.slug) }} stage={stage} canComplete={canComplete} />;
 }

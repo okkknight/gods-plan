@@ -22,3 +22,10 @@
 - 兼容课程 Markdown 移至 `docs/` 后的路径，新增日期导航 e2e 测试。
 - 隐藏 Today 与 Calendar Today 的空优先级分组，新增空分组上移 e2e 验证。
 - 移除 Today 标题下的说明性激励文案，新增产品文案反向 e2e 验证。
+
+## 2026-07-27 audio pilot
+
+- 新增 Fish Audio 分段生成脚本 `npm run audio:generate -- --course <slug>`，使用 `s2.1-pro-free`、可恢复缓存、WAV 拼接和全局响度处理。
+- 使用 `reference_id=933563129e564b19a115bedd57b7406a` 生成 S01E01 Pilot，共 12 段，输出约 2 分 19 秒的 `public/audio/courses/modern-family-s01e01/english.wav` 及 manifest。
+- Course Reader 切换到英文模式后显示整篇音频播放控件；未生成音频的课程不显示控件。
+- 已验证 `npm run lint`、`npm run test:run`、`npm run build`、浏览器页面切换和音频 Range 206。
