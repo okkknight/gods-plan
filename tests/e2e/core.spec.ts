@@ -89,6 +89,13 @@ test("english subtitles follow audio segments and can jump to a segment", async 
   await expect(segments.nth(7)).toHaveClass(/active/);
 });
 
+test("first cue version keeps the story skeleton with fill-in blanks", async ({ page }) => {
+  await page.goto("/course/1?stage=0&date=2026-07-28");
+  await page.getByRole("tab", { name: "Cue" }).click();
+  await expect(page.locator(".cue-blank").first()).toBeVisible();
+  await expect(page.locator(".markdown-content ul")).toHaveCount(0);
+});
+
 test("today does not show explanatory marketing copy", async ({ page }) => {
   await page.goto("/today");
   await expect(page.getByText("把今天的一小段练习完成，复习会自己继续向前。", { exact: true })).not.toBeVisible();

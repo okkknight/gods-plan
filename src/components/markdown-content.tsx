@@ -1,11 +1,12 @@
-import type { ElementType, ReactNode } from "react";
+import type { CSSProperties, ElementType, ReactNode } from "react";
 
 function inlineMarkdown(text: string): ReactNode[] {
-  const pattern = /(\*\*[^*]+\*\*|\*[^*]+\*|`[^`]+`|\[[^\]]+\]\([^)]+\))/g;
+  const pattern = /(_{3,}|\*\*[^*]+\*\*|\*[^*]+\*|`[^`]+`|\[[^\]]+\]\([^)]+\))/g;
   const parts = text.split(pattern);
   return parts.map((part, index) => {
-    if (part.startsWith("**") && part.endsWith("**")) return <strong key={index}>{part.slice(2, -2)}</strong>;
-    if (part.startsWith("*") && part.endsWith("*")) return <em key={index}>{part.slice(1, -1)}</em>;
+    if (/^_{3,}$/.test(part)) return <span key={index} className="cue-blank" style={{ "--blank-width": `${Math.max(3, part.length * 0.55)}em` } as CSSProperties} aria-label="填空" />;
+    if (part.startsWith("**") && part.endsWith("**")) return <strong key={index}>{inlineMarkdown(part.slice(2, -2))}</strong>;
+    if (part.startsWith("*") && part.endsWith("*")) return <em key={index}>{inlineMarkdown(part.slice(1, -1))}</em>;
     if (part.startsWith("`") && part.endsWith("`")) return <code key={index}>{part.slice(1, -1)}</code>;
     const link = part.match(/^\[([^\]]+)\]\(([^)]+)\)$/);
     if (link) return <a key={index} href={link[2]}>{link[1]}</a>;

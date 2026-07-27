@@ -38,42 +38,17 @@ The final scene reveals that Jay is Claire and Mitchell’s father. Overall, the
 
 ## 3. Cue Version
 
-### Opening
-- first episode / called **“Pilot”**
-- introduces **three different families**
-- seem separate at first → all connected in the end
+I’d like to introduce the ___ episode of *Modern Family*. It is called **“___.”** This episode introduces ___ very different families. At first, they seem separate, but in the end, we discover that they are all connected.
 
-### Claire, Phil, and their children
-- three children: **Haley, Alex, Luke**
-- Haley brings home **older boyfriend Dylan**
-- Claire becomes nervous → keeps checking upstairs
-- Phil wants to be the **“cool dad”**
-- tries to scare Dylan → hurts his back / embarrasses himself
-- Luke shoots Alex with **toy BB gun**
-- family rule: Phil must **follow through** and shoot Luke back
-- Phil delays → gun goes off → Luke, Dylan, and Phil get hit
+The first family is the ___ family. Claire and Phil have three children: ___, ___, and ___. Haley invites her ___ boyfriend, ___, to their house for the first time. Claire becomes very nervous and keeps checking on them because she is afraid they may do something inappropriate upstairs. Phil, on the other hand, wants to be the “___ dad.” He tries to scare Dylan a little, but he only hurts his ___ and embarrasses himself.
 
-### Jay, Gloria, and Manny
-- Jay much older than Gloria → mistaken for **her father**
-- feels insecure about his age
-- Manny: eleven / romantic / mature
-- crush on **sixteen-year-old girl** → flowers + poem
-- Jay expects embarrassment / Gloria supports his courage
-- girl already has a boyfriend → Manny heartbroken
-- Jay begins to understand: family means **standing behind him**
+At the same time, Luke has shot Alex with a toy ___ gun. Claire reminds Phil that they made a rule: if Luke shoots someone, Phil has to ___ him back so that he learns a lesson. Phil keeps putting it off because he does not really want to hurt Luke. In the end, the gun goes off by accident, and Phil shoots ___, ___, and then ___.
 
-### Mitchell, Cameron, and Lily
-- return from Vietnam with **newly adopted Lily**
-- Mitchell thinks passengers are judging them
-- angry speech → realizes it was a misunderstanding
-- introduce Lily to family
-- Jay doubtful at first
-- Cameron’s dramatic entrance / *The Lion King* music
-- everyone welcomes Lily
+The second family is ___, Gloria, and ___. Jay is much older than Gloria, and people sometimes mistake him for her ___. This makes him feel insecure about his age. Manny, Gloria’s eleven-year-old son, is romantic and unusually mature. He has a crush on a ___-year-old girl and decides to read her a ___. Jay thinks Manny will only make a fool of himself, but Gloria believes the family should support him. The girl tells Manny that she already has a boyfriend, and he is heartbroken. Jay slowly begins to understand that being part of Manny’s family means ___ behind him, even when he expects him to fail.
 
-### Closing
-- reveal: Jay is **Claire and Mitchell’s father**
-- complicated + awkward + ridiculous / loving and supportive
+The third family is Mitchell and ___. They are returning from ___ with their newly adopted daughter, ___. On the plane, Mitchell thinks the other passengers are judging them, so he gives an angry speech. He soon realizes that he completely misunderstood the ___. Later, Mitchell and Cameron introduce Lily to the whole family. Jay is doubtful at first, but Cameron makes a dramatic entrance while holding Lily in the air. Everyone immediately welcomes her.
+
+The final scene reveals that Jay is Claire and Mitchell’s ___. Overall, the episode shows us a family that is complicated, awkward, and sometimes ridiculous, but also ___ and supportive.
 
 ---
 
