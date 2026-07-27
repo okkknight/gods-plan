@@ -1,0 +1,97 @@
+{
+  "generated_at": "2026-07-27T14:47:41.589Z",
+  "course": "modern-family-s01e07",
+  "mode": "english",
+  "model": "s2.1-pro-free",
+  "reference_id": "76fcd904aa4b4a47af107686abd68248",
+  "performance_profile": "storyteller-v8",
+  "speed": 0.9,
+  "volume": 1.5,
+  "temperature": 0.9,
+  "top_p": 0.92,
+  "script_sha256": "ec32d4a149edc0e407ff0127cf7c1fe7bb87695216e450c9a9d796679fb178cb",
+  "segment_count": 8,
+  "segments": [
+    {
+      "index": 1,
+      "text": "I’d like to introduce Episode 7 of Modern Family Season 1. It’s called “En Garde.” The main story begins when the family discovers that Manny is unusually talented at fencing.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 7 of Modern Family Season 1. It’s called “En Garde.” The main story begins when the family discovers that Manny is unusually talented at fencing.",
+      "tags": [
+        "[a warm storyteller inviting the listener into the story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 2,
+      "text": "Jay is delighted because he finally has a young athlete in the family. He becomes Manny’s biggest supporter and takes the competition very seriously. In the final match, however, Manny has to fence against a girl who has a tragic background and a physical disability.",
+      "tts_text": "[a natural conversational storyteller] Jay is delighted because he finally has a young athlete in the family. He becomes Manny’s biggest supporter and takes the competition very seriously. In the final match, however, Manny has to fence against a girl who has a tragic background and a physical disability.",
+      "tags": [
+        "[a natural conversational storyteller]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 3,
+      "text": "The adults on the side do not know what they want him to do. Some signal that he should compete honestly, while others suggest that he should let her win. Manny ignores the confusion, wins the match, and celebrates very proudly, which makes the situation even more uncomfortable.",
+      "tts_text": "[a storyteller building gentle suspense] The adults on the side do not know what they want him to do. Some signal that he should compete honestly, while others suggest that he should let her win. Manny ignores the confusion, wins the match, and celebrates very proudly, which makes the situation even more uncomfortable.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 4,
+      "text": "Jay’s excitement about Manny also brings back an old argument between Mitchell and Claire. Mitchell believes Jay cared more about Claire’s childhood figure-skating career and never really supported him. Claire remembers it differently.",
+      "tts_text": "[a storyteller with playful humor] Jay’s excitement about Manny also brings back an old argument between Mitchell and Claire. Mitchell believes Jay cared more about Claire’s childhood figure-skating career and never really supported him. Claire remembers it differently.",
+      "tags": [
+        "[a storyteller with playful humor]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 5,
+      "text": "The two siblings start blaming each other, but they eventually put on their skates again and talk about the past. They realize that, in their own imperfect way, they were always there for one another.",
+      "tts_text": "[an animated storyteller explaining the scene] The two siblings start blaming each other, but they eventually put on their skates again and talk about the past. They realize that, in their own imperfect way, they were always there for one another.",
+      "tags": [
+        "[an animated storyteller explaining the scene]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 6,
+      "text": "Meanwhile, Phil worries that Luke does not have a special talent. He tries to teach him baseball, but Luke is terrible at it. Later, during one of Phil’s open houses, Luke begins talking to potential buyers.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Meanwhile, Phil worries that Luke does not have a special talent. He tries to teach him baseball, but Luke is terrible at it. Later, during one of Phil’s open houses, Luke begins talking to potential buyers.",
+      "tags": [
+        "[a storyteller emphasizing the surprising turn]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 7,
+      "text": "He is friendly, confident, and surprisingly good at presenting the house. Phil realizes that Luke does have a natural ability; it is simply not the one Phil was looking for.",
+      "tts_text": "[a storyteller smoothly moving to the next story] He is friendly, confident, and surprisingly good at presenting the house. Phil realizes that Luke does have a natural ability; it is simply not the one Phil was looking for.",
+      "tags": [
+        "[a storyteller smoothly moving to the next story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 8,
+      "text": "Overall, this episode is about recognizing talent without forcing it. Parents often look for the ability they want their child to have, while the real strength may be somewhere completely different.",
+      "tts_text": "[a storyteller with warm empathy] Overall, this episode is about recognizing talent without forcing it. Parents often look for the ability they want their child to have, while the real strength may be somewhere completely different.",
+      "tags": [
+        "[a storyteller with warm empathy]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    }
+  ],
+  "audio_file": "english.wav"
+}

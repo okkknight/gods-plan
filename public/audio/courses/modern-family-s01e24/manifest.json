@@ -1,0 +1,117 @@
+{
+  "generated_at": "2026-07-27T14:56:47.929Z",
+  "course": "modern-family-s01e24",
+  "mode": "english",
+  "model": "s2.1-pro-free",
+  "reference_id": "76fcd904aa4b4a47af107686abd68248",
+  "performance_profile": "storyteller-v8",
+  "speed": 0.9,
+  "volume": 1.5,
+  "temperature": 0.9,
+  "top_p": 0.92,
+  "script_sha256": "635127bcafe35b423e0be3f913bcdb4e7c3ffeaa4f3f94c6374b12ea0090eee7",
+  "segment_count": 10,
+  "segments": [
+    {
+      "index": 1,
+      "text": "I’d like to introduce Episode 24 of Modern Family Season 1. It’s called “Family Portrait,” and it is the season finale.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 24 of Modern Family Season 1. It’s called “Family Portrait,” and it is the season finale.",
+      "tags": [
+        "[a warm storyteller inviting the listener into the story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 2,
+      "text": "Claire wants to take a perfect family photograph. She asks everyone to arrive on time and wear matching white clothes. On the day of the picture, however, every part of the plan begins to fall apart. Claire also tries to repair a broken stair at home, but she only makes it worse.",
+      "tts_text": "[a natural conversational storyteller] Claire wants to take a perfect family photograph. She asks everyone to arrive on time and wear matching white clothes. On the day of the picture, however, every part of the plan begins to fall apart. Claire also tries to repair a broken stair at home, but she only makes it worse.",
+      "tags": [
+        "[a natural conversational storyteller]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 3,
+      "text": "The more she controls the details, the more chaotic the day becomes.",
+      "tts_text": "[a storyteller building gentle suspense] The more she controls the details, the more chaotic the day becomes.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 4,
+      "text": "Phil takes Alex to a Lakers game, and Gloria and Manny go with them. Phil and Gloria appear on the arena’s kiss cam. They refuse to kiss at first, but the crowd keeps booing until Gloria suddenly kisses Phil.",
+      "tts_text": "[a storyteller with playful humor] Phil takes Alex to a Lakers game, and Gloria and Manny go with them. Phil and Gloria appear on the arena’s kiss cam. They refuse to kiss at first, but the crowd keeps booing until Gloria suddenly kisses Phil.",
+      "tags": [
+        "[a storyteller with playful humor]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 5,
+      "text": "Phil believes Claire saw the moment on television, so he spends the rest of the day nervously preparing to explain himself.",
+      "tts_text": "[an animated storyteller explaining the scene] Phil believes Claire saw the moment on television, so he spends the rest of the day nervously preparing to explain himself.",
+      "tags": [
+        "[an animated storyteller explaining the scene]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 6,
+      "text": "Meanwhile, Cameron works as a singer at a wedding, while Mitchell stays home with Lily. A pigeon flies into the house, and Mitchell nearly destroys the entire room while trying to get it out. Luke interviews Jay for a school project, but he finds Jay’s real stories boring.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Meanwhile, Cameron works as a singer at a wedding, while Mitchell stays home with Lily. A pigeon flies into the house, and Mitchell nearly destroys the entire room while trying to get it out. Luke interviews Jay for a school project, but he finds Jay’s real stories boring.",
+      "tags": [
+        "[a storyteller emphasizing the surprising turn]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 7,
+      "text": "Jay responds by inventing increasingly dramatic adventures from his past.",
+      "tts_text": "[a storyteller smoothly moving to the next story] Jay responds by inventing increasingly dramatic adventures from his past.",
+      "tags": [
+        "[a storyteller smoothly moving to the next story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 8,
+      "text": "The family finally arrives for the photograph in their clean white clothes, but several arguments immediately break out. Claire still insists on getting the perfect picture. Jay finally loses patience and starts a mud fight, ruining everyone’s clothes.",
+      "tts_text": "[a storyteller with warm empathy] The family finally arrives for the photograph in their clean white clothes, but several arguments immediately break out. Claire still insists on getting the perfect picture. Jay finally loses patience and starts a mud fight, ruining everyone’s clothes.",
+      "tags": [
+        "[a storyteller with warm empathy]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 9,
+      "text": "The mess allows the family to relax, and they take a series of joyful photographs instead. Later, Claire admits that she loves the imperfect picture more than the carefully posed one she had imagined.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] The mess allows the family to relax, and they take a series of joyful photographs instead. Later, Claire admits that she loves the imperfect picture more than the carefully posed one she had imagined.",
+      "tags": [
+        "[a thoughtful storyteller reflecting on the character]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 10,
+      "text": "Overall, the finale captures the central idea of the first season. This family is never orderly or predictable, but the chaos is part of what makes them feel like a real family.",
+      "tts_text": "[a storyteller building gentle suspense] Overall, the finale captures the central idea of the first season. This family is never orderly or predictable, but the chaos is part of what makes them feel like a real family.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    }
+  ],
+  "audio_file": "english.wav"
+}

@@ -1,0 +1,97 @@
+{
+  "generated_at": "2026-07-27T14:52:16.610Z",
+  "course": "modern-family-s01e15",
+  "mode": "english",
+  "model": "s2.1-pro-free",
+  "reference_id": "76fcd904aa4b4a47af107686abd68248",
+  "performance_profile": "storyteller-v8",
+  "speed": 0.9,
+  "volume": 1.5,
+  "temperature": 0.9,
+  "top_p": 0.92,
+  "script_sha256": "2e0ffd81d25520da83853a63f6ed4f2bbfad1a6e6178f5b9f52ba79bc7c0587a",
+  "segment_count": 8,
+  "segments": [
+    {
+      "index": 1,
+      "text": "I’d like to introduce Episode 15 of Modern Family Season 1. It’s called “My Funky Valentine,” and it follows the family on Valentine’s Day.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 15 of Modern Family Season 1. It’s called “My Funky Valentine,” and it follows the family on Valentine’s Day.",
+      "tags": [
+        "[a warm storyteller inviting the listener into the story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 2,
+      "text": "Phil and Claire want to escape their usual roles as parents, so they meet at a hotel bar and pretend to be strangers. Phil becomes Clive, and Claire becomes Juliana. The role-play is exciting at first, but Claire’s coat gets caught in an escalator.",
+      "tts_text": "[a natural conversational storyteller] Phil and Claire want to escape their usual roles as parents, so they meet at a hotel bar and pretend to be strangers. Phil becomes Clive, and Claire becomes Juliana. The role-play is exciting at first, but Claire’s coat gets caught in an escalator.",
+      "tags": [
+        "[a natural conversational storyteller]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 3,
+      "text": "Because she is not fully dressed underneath it, the couple has to find a way to free her without creating a public scene. Their romantic adventure turns into an embarrassing rescue operation. Gloria happens to be nearby and helps them escape with at least some dignity left.",
+      "tts_text": "[a storyteller building gentle suspense] Because she is not fully dressed underneath it, the couple has to find a way to free her without creating a public scene. Their romantic adventure turns into an embarrassing rescue operation. Gloria happens to be nearby and helps them escape with at least some dignity left.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 4,
+      "text": "Meanwhile, Mitchell is preparing to give an impressive closing argument in court, but the case settles before he gets the chance. Manny has a problem of his own: another boy takes credit for a poem Manny wrote for a girl.",
+      "tts_text": "[a storyteller with playful humor] Meanwhile, Mitchell is preparing to give an impressive closing argument in court, but the case settles before he gets the chance. Manny has a problem of his own: another boy takes credit for a poem Manny wrote for a girl.",
+      "tags": [
+        "[a storyteller with playful humor]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 5,
+      "text": "Mitchell uses all the passion from his unused courtroom speech to defend Manny and expose the truth. He wins the argument, but the girl still chooses the other boy, so the victory does not feel very satisfying.",
+      "tts_text": "[an animated storyteller explaining the scene] Mitchell uses all the passion from his unused courtroom speech to defend Manny and expose the truth. He wins the argument, but the girl still chooses the other boy, so the victory does not feel very satisfying.",
+      "tags": [
+        "[an animated storyteller explaining the scene]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 6,
+      "text": "Jay takes Gloria to a comedy show for Valentine’s Day. The comedian keeps making jokes about their age difference, and Jay becomes increasingly uncomfortable. They leave and go salsa dancing instead, choosing something they both actually enjoy.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Jay takes Gloria to a comedy show for Valentine’s Day. The comedian keeps making jokes about their age difference, and Jay becomes increasingly uncomfortable. They leave and go salsa dancing instead, choosing something they both actually enjoy.",
+      "tags": [
+        "[a storyteller emphasizing the surprising turn]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 7,
+      "text": "On the way, they also help Phil and Claire out of their difficult situation.",
+      "tts_text": "[a storyteller smoothly moving to the next story] On the way, they also help Phil and Claire out of their difficult situation.",
+      "tags": [
+        "[a storyteller smoothly moving to the next story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 8,
+      "text": "Overall, the episode shows that romance rarely follows a perfect script. The best moments do not come from acting sophisticated. They come from being able to survive an embarrassing situation together and still laugh about it later.",
+      "tts_text": "[a storyteller with warm empathy] Overall, the episode shows that romance rarely follows a perfect script. The best moments do not come from acting sophisticated. They come from being able to survive an embarrassing situation together and still laugh about it later.",
+      "tags": [
+        "[a storyteller with warm empathy]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    }
+  ],
+  "audio_file": "english.wav"
+}

@@ -1,0 +1,107 @@
+{
+  "generated_at": "2026-07-27T14:50:19.081Z",
+  "course": "modern-family-s01e12",
+  "mode": "english",
+  "model": "s2.1-pro-free",
+  "reference_id": "76fcd904aa4b4a47af107686abd68248",
+  "performance_profile": "storyteller-v8",
+  "speed": 0.9,
+  "volume": 1.5,
+  "temperature": 0.9,
+  "top_p": 0.92,
+  "script_sha256": "122a452cb7a30d3e9570c60156e3c6a745ab809ec6d6fb02044b4a3e458871f7",
+  "segment_count": 9,
+  "segments": [
+    {
+      "index": 1,
+      "text": "I’d like to introduce Episode 12 of Modern Family Season 1. It’s called “Not in My House.” Most of the comedy comes from people hiding the truth or misunderstanding what someone else is talking about.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 12 of Modern Family Season 1. It’s called “Not in My House.” Most of the comedy comes from people hiding the truth or misunderstanding what someone else is talking about.",
+      "tags": [
+        "[a warm storyteller inviting the listener into the story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 2,
+      "text": "Claire finds an inappropriate picture on the family computer and assumes Luke downloaded it. She tells Phil to deal with him. Phil actually knows the picture is his, but he is too embarrassed to admit it, so he pretends to give Luke a serious lecture.",
+      "tts_text": "[a natural conversational storyteller] Claire finds an inappropriate picture on the family computer and assumes Luke downloaded it. She tells Phil to deal with him. Phil actually knows the picture is his, but he is too embarrassed to admit it, so he pretends to give Luke a serious lecture.",
+      "tags": [
+        "[a natural conversational storyteller]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 3,
+      "text": "At the same time, Luke really has done something wrong: he read Haley’s private journal. When the family starts discussing both problems, everyone thinks they are talking about the same thing.",
+      "tts_text": "[a storyteller building gentle suspense] At the same time, Luke really has done something wrong: he read Haley’s private journal. When the family starts discussing both problems, everyone thinks they are talking about the same thing.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 4,
+      "text": "Luke confesses to reading the journal, while Claire believes he is admitting to the picture. The confusion grows until Phil finally has to tell the truth and admit that the picture was his.",
+      "tts_text": "[a storyteller with playful humor] Luke confesses to reading the journal, while Claire believes he is admitting to the picture. The confusion grows until Phil finally has to tell the truth and admit that the picture was his.",
+      "tags": [
+        "[a storyteller with playful humor]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 5,
+      "text": "At Jay’s house, Jay buys a strange dog-shaped butler statue named Barkley. He thinks it is funny and charming, but Gloria finds it ugly and disturbing. They argue over an object that should not matter at all. Jay eventually gives Barkley to Mitchell and Cameron.",
+      "tts_text": "[an animated storyteller explaining the scene] At Jay’s house, Jay buys a strange dog-shaped butler statue named Barkley. He thinks it is funny and charming, but Gloria finds it ugly and disturbing. They argue over an object that should not matter at all. Jay eventually gives Barkley to Mitchell and Cameron.",
+      "tags": [
+        "[an animated storyteller explaining the scene]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 6,
+      "text": "Cameron loves it immediately, while Mitchell reacts almost exactly like Gloria.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Cameron loves it immediately, while Mitchell reacts almost exactly like Gloria.",
+      "tags": [
+        "[a storyteller emphasizing the surprising turn]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 7,
+      "text": "Mitchell and Cameron also become concerned about their gardener, who always looks sad. Because they do not understand his Spanish, they imagine that he has a serious personal problem. They later learn that he is simply stressed about his wedding.",
+      "tts_text": "[a storyteller smoothly moving to the next story] Mitchell and Cameron also become concerned about their gardener, who always looks sad. Because they do not understand his Spanish, they imagine that he has a serious personal problem. They later learn that he is simply stressed about his wedding.",
+      "tags": [
+        "[a storyteller smoothly moving to the next story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 8,
+      "text": "Wanting to help, they offer their house for the ceremony.",
+      "tts_text": "[a storyteller with warm empathy] Wanting to help, they offer their house for the ceremony.",
+      "tags": [
+        "[a storyteller with warm empathy]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 9,
+      "text": "Overall, the episode shows how quickly confusion grows when people hide information and fill in the missing details with their own assumptions.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Overall, the episode shows how quickly confusion grows when people hide information and fill in the missing details with their own assumptions.",
+      "tags": [
+        "[a thoughtful storyteller reflecting on the character]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    }
+  ],
+  "audio_file": "english.wav"
+}

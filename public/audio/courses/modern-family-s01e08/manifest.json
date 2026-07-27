@@ -1,0 +1,107 @@
+{
+  "generated_at": "2026-07-27T14:48:11.871Z",
+  "course": "modern-family-s01e08",
+  "mode": "english",
+  "model": "s2.1-pro-free",
+  "reference_id": "76fcd904aa4b4a47af107686abd68248",
+  "performance_profile": "storyteller-v8",
+  "speed": 0.9,
+  "volume": 1.5,
+  "temperature": 0.9,
+  "top_p": 0.92,
+  "script_sha256": "db32189eff91b8b9e7b04bfc23b10ef76899f0346384b2c680a04f01dcaf65f4",
+  "segment_count": 9,
+  "segments": [
+    {
+      "index": 1,
+      "text": "I’d like to introduce Episode 8 of Modern Family Season 1. It’s called “Great Expectations.” The title fits the episode because several characters plan a perfect evening, but reality does not follow the plan.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 8 of Modern Family Season 1. It’s called “Great Expectations.” The title fits the episode because several characters plan a perfect evening, but reality does not follow the plan.",
+      "tags": [
+        "[a warm storyteller inviting the listener into the story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 2,
+      "text": "The first storyline is about Phil and Claire’s wedding anniversary. Every year, they try to give each other a meaningful gift. Phil is very good at this, so Claire feels pressure to come up with something equally special.",
+      "tts_text": "[a natural conversational storyteller] The first storyline is about Phil and Claire’s wedding anniversary. Every year, they try to give each other a meaningful gift. Phil is very good at this, so Claire feels pressure to come up with something equally special.",
+      "tags": [
+        "[a natural conversational storyteller]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 3,
+      "text": "This year, she hires Izzy LaFontaine, a musician Phil loved when he was younger, to perform in their home. Claire also asks him to play what she believes is “their song.” Unfortunately, she has remembered the story incorrectly.",
+      "tts_text": "[a storyteller building gentle suspense] This year, she hires Izzy LaFontaine, a musician Phil loved when he was younger, to perform in their home. Claire also asks him to play what she believes is “their song.” Unfortunately, she has remembered the story incorrectly.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 4,
+      "text": "The song is connected to an embarrassing memory from Phil’s past, and the romantic surprise becomes extremely awkward. Phil still appreciates the effort, and the musician creates a new song for them, so the evening ends on a warm note.",
+      "tts_text": "[a storyteller with playful humor] The song is connected to an embarrassing memory from Phil’s past, and the romantic surprise becomes extremely awkward. Phil still appreciates the effort, and the musician creates a new song for them, so the evening ends on a warm note.",
+      "tags": [
+        "[a storyteller with playful humor]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 5,
+      "text": "Meanwhile, Jay hosts “Jay’s Night,” a sleepover for his grandchildren. He plans movies, food, and family activities. Haley wants to leave for a party, but Dylan unexpectedly enjoys spending time with Jay.",
+      "tts_text": "[an animated storyteller explaining the scene] Meanwhile, Jay hosts “Jay’s Night,” a sleepover for his grandchildren. He plans movies, food, and family activities. Haley wants to leave for a party, but Dylan unexpectedly enjoys spending time with Jay.",
+      "tags": [
+        "[an animated storyteller explaining the scene]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 6,
+      "text": "Alex tells Luke that Jay may not have long to live, so Luke becomes unusually attentive and treats every moment as important.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Alex tells Luke that Jay may not have long to live, so Luke becomes unusually attentive and treats every moment as important.",
+      "tags": [
+        "[a storyteller emphasizing the surprising turn]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 7,
+      "text": "The third story is about Mitchell and Cameron. They go out with their old friend Sal, hoping to feel like their pre-parenthood selves again. However, Sal is jealous of Lily because the baby has changed their friendship.",
+      "tts_text": "[a storyteller smoothly moving to the next story] The third story is about Mitchell and Cameron. They go out with their old friend Sal, hoping to feel like their pre-parenthood selves again. However, Sal is jealous of Lily because the baby has changed their friendship.",
+      "tags": [
+        "[a storyteller smoothly moving to the next story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 8,
+      "text": "Their night does not go as planned, and they eventually end up at Jay’s house with everyone else.",
+      "tts_text": "[a storyteller with warm empathy] Their night does not go as planned, and they eventually end up at Jay’s house with everyone else.",
+      "tags": [
+        "[a storyteller with warm empathy]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 9,
+      "text": "Overall, the episode shows that a perfect plan is not what makes an evening meaningful. The plans fall apart, but the family still finds a way to enjoy being together.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Overall, the episode shows that a perfect plan is not what makes an evening meaningful. The plans fall apart, but the family still finds a way to enjoy being together.",
+      "tags": [
+        "[a thoughtful storyteller reflecting on the character]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    }
+  ],
+  "audio_file": "english.wav"
+}

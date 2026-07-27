@@ -1,0 +1,97 @@
+{
+  "generated_at": "2026-07-27T14:50:48.259Z",
+  "course": "modern-family-s01e13",
+  "mode": "english",
+  "model": "s2.1-pro-free",
+  "reference_id": "76fcd904aa4b4a47af107686abd68248",
+  "performance_profile": "storyteller-v8",
+  "speed": 0.9,
+  "volume": 1.5,
+  "temperature": 0.9,
+  "top_p": 0.92,
+  "script_sha256": "50fd55685ba67b58488c6e555fbc84c17cec771d7f85cc07e26cafe85899f31c",
+  "segment_count": 8,
+  "segments": [
+    {
+      "index": 1,
+      "text": "I’d like to introduce Episode 13 of Modern Family Season 1. It’s called “Fifteen Percent.” The title comes from Mitchell’s idea that people may not change completely, but even a small change can still matter.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 13 of Modern Family Season 1. It’s called “Fifteen Percent.” The title comes from Mitchell’s idea that people may not change completely, but even a small change can still matter.",
+      "tags": [
+        "[a warm storyteller inviting the listener into the story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 2,
+      "text": "The first story begins when Jay introduces Cameron as “Mitchell’s friend” instead of his partner. Mitchell feels that Jay still has not fully accepted their relationship. To test him, Mitchell suggests that Jay’s old friend Shorty might be gay.",
+      "tts_text": "[a natural conversational storyteller] The first story begins when Jay introduces Cameron as “Mitchell’s friend” instead of his partner. Mitchell feels that Jay still has not fully accepted their relationship. To test him, Mitchell suggests that Jay’s old friend Shorty might be gay.",
+      "tags": [
+        "[a natural conversational storyteller]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 3,
+      "text": "Jay is uncomfortable, but he tries hard to respond in a supportive way. Later, Jay learns that Shorty is not gay at all. He has a gambling debt and is afraid to tell his wife. Jay quietly lends him the money.",
+      "tts_text": "[a storyteller building gentle suspense] Jay is uncomfortable, but he tries hard to respond in a supportive way. Later, Jay learns that Shorty is not gay at all. He has a gambling debt and is afraid to tell his wife. Jay quietly lends him the money.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 4,
+      "text": "Mitchell notices that his father is at least trying to become more open-minded, and he decides that a fifteen-percent improvement is still real progress.",
+      "tts_text": "[a storyteller with playful humor] Mitchell notices that his father is at least trying to become more open-minded, and he decides that a fifteen-percent improvement is still real progress.",
+      "tags": [
+        "[a storyteller with playful humor]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 5,
+      "text": "Meanwhile, Claire cannot operate the family’s complicated entertainment system. Phil makes fun of her and claims that the remote is easy to use. Claire challenges him to teach Haley, expecting Haley to fail too. Instead, Haley learns it quickly.",
+      "tts_text": "[an animated storyteller explaining the scene] Meanwhile, Claire cannot operate the family’s complicated entertainment system. Phil makes fun of her and claims that the remote is easy to use. Claire challenges him to teach Haley, expecting Haley to fail too. Instead, Haley learns it quickly.",
+      "tags": [
+        "[an animated storyteller explaining the scene]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 6,
+      "text": "Claire then secretly asks Haley to teach her because she does not want Phil to know that he was right.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Claire then secretly asks Haley to teach her because she does not want Phil to know that he was right.",
+      "tags": [
+        "[a storyteller emphasizing the surprising turn]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 7,
+      "text": "In the third storyline, Gloria arranges a blind date for Manny and helps him dress for it. When Whitney arrives, she mistakes Cameron for her date and clearly enjoys talking to him more than to Manny. Manny is disappointed, but he tries to handle the situation with dignity.",
+      "tts_text": "[a storyteller smoothly moving to the next story] In the third storyline, Gloria arranges a blind date for Manny and helps him dress for it. When Whitney arrives, she mistakes Cameron for her date and clearly enjoys talking to him more than to Manny. Manny is disappointed, but he tries to handle the situation with dignity.",
+      "tags": [
+        "[a storyteller smoothly moving to the next story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 8,
+      "text": "Overall, the episode is about pride and gradual change. Nobody becomes a new person overnight. However, admitting a weakness or making a small effort to understand someone else can still be meaningful.",
+      "tts_text": "[a storyteller with warm empathy] Overall, the episode is about pride and gradual change. Nobody becomes a new person overnight. However, admitting a weakness or making a small effort to understand someone else can still be meaningful.",
+      "tags": [
+        "[a storyteller with warm empathy]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    }
+  ],
+  "audio_file": "english.wav"
+}

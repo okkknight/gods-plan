@@ -51,6 +51,7 @@
 - 生成 `warm-storyteller-v6` 试听版，唯一调整为 Fish `prosody.speed=0.90`，其余叙述参数保持不变。
 - 生成 `warm-storyteller-v7` 试听版，保持 `speed=0.90`，将叙述情绪再增强一层：temperature `0.90`、top-p `0.92`、volume `1.5`，并使用更有感染力的连续讲故事提示。
 - 将标签进一步改为面向听众的故事叙述指令，使用 `storyteller-v8`，强调带入、铺垫、转折、幽默和收束，而不是单纯提高情绪强度。
+- 新增 `npm run audio:generate:all`，可用当前确认的声音和叙述参数批量生成全部课程，并复用分段缓存。
 
 ## 2026-07-27 dev/build isolation fix
 

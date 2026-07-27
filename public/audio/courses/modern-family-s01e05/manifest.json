@@ -1,0 +1,107 @@
+{
+  "generated_at": "2026-07-27T14:46:42.635Z",
+  "course": "modern-family-s01e05",
+  "mode": "english",
+  "model": "s2.1-pro-free",
+  "reference_id": "76fcd904aa4b4a47af107686abd68248",
+  "performance_profile": "storyteller-v8",
+  "speed": 0.9,
+  "volume": 1.5,
+  "temperature": 0.9,
+  "top_p": 0.92,
+  "script_sha256": "924c1e58778406cbe2fc4006c2afb81c4ef5553df68b33525786ddfe3e5e4bb6",
+  "segment_count": 9,
+  "segments": [
+    {
+      "index": 1,
+      "text": "I’d like to introduce Episode 5 of Modern Family Season 1. It’s called “Coal Digger.” The episode begins with a fight between Luke and Manny at school.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 5 of Modern Family Season 1. It’s called “Coal Digger.” The episode begins with a fight between Luke and Manny at school.",
+      "tags": [
+        "[a warm storyteller inviting the listener into the story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 2,
+      "text": "Manny says that, technically, he is Luke’s uncle because Gloria is married to Jay. Luke thinks that sounds ridiculous, and the disagreement turns physical.",
+      "tts_text": "[a natural conversational storyteller] Manny says that, technically, he is Luke’s uncle because Gloria is married to Jay. Luke thinks that sounds ridiculous, and the disagreement turns physical.",
+      "tags": [
+        "[a natural conversational storyteller]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 3,
+      "text": "When the family is called to the school, Jay tries to explain that their family relationships may be unusual, but they are still real and need to be respected.",
+      "tts_text": "[a storyteller building gentle suspense] When the family is called to the school, Jay tries to explain that their family relationships may be unusual, but they are still real and need to be respected.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 4,
+      "text": "Later, everyone gathers at Jay’s house to watch football. Mitchell wants to connect with his father, so he studies football terms before the game. Unfortunately, he keeps using them at the wrong time, and the whole effort becomes awkward.",
+      "tts_text": "[a storyteller with playful humor] Later, everyone gathers at Jay’s house to watch football. Mitchell wants to connect with his father, so he studies football terms before the game. Unfortunately, he keeps using them at the wrong time, and the whole effort becomes awkward.",
+      "tags": [
+        "[a storyteller with playful humor]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 5,
+      "text": "Cameron acts as if he does not care much about sports, but then the family discovers that he used to be a very good football player. Jay is immediately impressed, while Mitchell feels that Cameron has accidentally stolen the moment he had prepared for himself.",
+      "tts_text": "[an animated storyteller explaining the scene] Cameron acts as if he does not care much about sports, but then the family discovers that he used to be a very good football player. Jay is immediately impressed, while Mitchell feels that Cameron has accidentally stolen the moment he had prepared for himself.",
+      "tags": [
+        "[an animated storyteller explaining the scene]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 6,
+      "text": "The main conflict is between Claire and Gloria. During the children’s argument, Luke calls Gloria a “gold digger.” Gloria realizes that he must have heard the expression from Claire.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] The main conflict is between Claire and Gloria. During the children’s argument, Luke calls Gloria a “gold digger.” Gloria realizes that he must have heard the expression from Claire.",
+      "tags": [
+        "[a storyteller emphasizing the surprising turn]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 7,
+      "text": "She is deeply hurt because it confirms her fear that Claire thinks she only married Jay for his money. Claire first tries to defend herself, but eventually admits that she has been unfair and judgmental.",
+      "tts_text": "[a storyteller smoothly moving to the next story] She is deeply hurt because it confirms her fear that Claire thinks she only married Jay for his money. Claire first tries to defend herself, but eventually admits that she has been unfair and judgmental.",
+      "tags": [
+        "[a storyteller smoothly moving to the next story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 8,
+      "text": "To prove that her apology is sincere, Claire jumps into the swimming pool with her clothes on. Gloria joins her, and soon the rest of the family jumps in as well.",
+      "tts_text": "[a storyteller with warm empathy] To prove that her apology is sincere, Claire jumps into the swimming pool with her clothes on. Gloria joins her, and soon the rest of the family jumps in as well.",
+      "tags": [
+        "[a storyteller with warm empathy]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 9,
+      "text": "Overall, this episode is about distrust inside a blended family. Nobody solves everything with a perfect speech, but the family manages to move past the conflict and come together again.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Overall, this episode is about distrust inside a blended family. Nobody solves everything with a perfect speech, but the family manages to move past the conflict and come together again.",
+      "tags": [
+        "[a thoughtful storyteller reflecting on the character]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    }
+  ],
+  "audio_file": "english.wav"
+}

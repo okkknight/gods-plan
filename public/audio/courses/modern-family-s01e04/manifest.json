@@ -1,0 +1,107 @@
+{
+  "generated_at": "2026-07-27T14:46:11.691Z",
+  "course": "modern-family-s01e04",
+  "mode": "english",
+  "model": "s2.1-pro-free",
+  "reference_id": "76fcd904aa4b4a47af107686abd68248",
+  "performance_profile": "storyteller-v8",
+  "speed": 0.9,
+  "volume": 1.5,
+  "temperature": 0.9,
+  "top_p": 0.92,
+  "script_sha256": "c9a03528100054e917ec635e3426056a9fd5b163148dc801e45a2a9e09081198",
+  "segment_count": 9,
+  "segments": [
+    {
+      "index": 1,
+      "text": "I’d like to introduce Episode 4 of Modern Family Season 1. It’s called “The Incident.” The title refers to a huge family fight that happened at Jay and Gloria’s wedding.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 4 of Modern Family Season 1. It’s called “The Incident.” The title refers to a huge family fight that happened at Jay and Gloria’s wedding.",
+      "tags": [
+        "[a warm storyteller inviting the listener into the story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 2,
+      "text": "Jay’s ex-wife, Dede, comes back to town and says she wants to apologize for losing control at the wedding. Mitchell knows that she is coming, but he only warns Jay. He does not tell Gloria because he is afraid the two women will fight again.",
+      "tts_text": "[a natural conversational storyteller] Jay’s ex-wife, Dede, comes back to town and says she wants to apologize for losing control at the wedding. Mitchell knows that she is coming, but he only warns Jay. He does not tell Gloria because he is afraid the two women will fight again.",
+      "tags": [
+        "[a natural conversational storyteller]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 3,
+      "text": "Later, the whole family has dinner together. At first, Dede seems calm and gives Gloria a sincere apology. For a moment, everyone thinks the problem has finally been settled. However, Dede soon becomes emotional again and attacks Gloria. The dinner turns into complete chaos.",
+      "tts_text": "[a storyteller building gentle suspense] Later, the whole family has dinner together. At first, Dede seems calm and gives Gloria a sincere apology. For a moment, everyone thinks the problem has finally been settled. However, Dede soon becomes emotional again and attacks Gloria. The dinner turns into complete chaos.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 4,
+      "text": "Surprisingly, Dylan, Haley’s boyfriend, is the one who speaks up and tells the adults how ridiculous they are being. His comments are simple but honest, and Phil and Claire suddenly see him in a better light.",
+      "tts_text": "[a storyteller with playful humor] Surprisingly, Dylan, Haley’s boyfriend, is the one who speaks up and tells the adults how ridiculous they are being. His comments are simple but honest, and Phil and Claire suddenly see him in a better light.",
+      "tags": [
+        "[a storyteller with playful humor]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 5,
+      "text": "This connects to the second storyline. Haley wants permission to go to a concert with Dylan. Phil and Claire are not sure whether they can trust him, so they spend the evening judging his behavior.",
+      "tts_text": "[an animated storyteller explaining the scene] This connects to the second storyline. Haley wants permission to go to a concert with Dylan. Phil and Claire are not sure whether they can trust him, so they spend the evening judging his behavior.",
+      "tags": [
+        "[an animated storyteller explaining the scene]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 6,
+      "text": "After Dylan handles the family fight so maturely, they decide that he may be more responsible than they thought. Unfortunately, he then performs a song he wrote for Haley. The song starts out sweet, but the lyrics become more and more inappropriate.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] After Dylan handles the family fight so maturely, they decide that he may be more responsible than they thought. Unfortunately, he then performs a song he wrote for Haley. The song starts out sweet, but the lyrics become more and more inappropriate.",
+      "tags": [
+        "[a storyteller emphasizing the surprising turn]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 7,
+      "text": "Phil and Claire immediately change their minds about the concert.",
+      "tts_text": "[a storyteller smoothly moving to the next story] Phil and Claire immediately change their minds about the concert.",
+      "tags": [
+        "[a storyteller smoothly moving to the next story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 8,
+      "text": "Meanwhile, Gloria is furious when she learns that Mitchell kept Dede’s visit a secret from her. She gets back at him with a prank, reminding him that nobody likes being left in the dark.",
+      "tts_text": "[a storyteller with warm empathy] Meanwhile, Gloria is furious when she learns that Mitchell kept Dede’s visit a secret from her. She gets back at him with a prank, reminding him that nobody likes being left in the dark.",
+      "tags": [
+        "[a storyteller with warm empathy]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 9,
+      "text": "Overall, this episode is about old family conflicts coming back to the surface. It also shows that the person everyone underestimates may sometimes be the most sensible person in the room.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Overall, this episode is about old family conflicts coming back to the surface. It also shows that the person everyone underestimates may sometimes be the most sensible person in the room.",
+      "tags": [
+        "[a thoughtful storyteller reflecting on the character]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    }
+  ],
+  "audio_file": "english.wav"
+}

@@ -1,0 +1,107 @@
+{
+  "generated_at": "2026-07-27T14:53:14.510Z",
+  "course": "modern-family-s01e17",
+  "mode": "english",
+  "model": "s2.1-pro-free",
+  "reference_id": "76fcd904aa4b4a47af107686abd68248",
+  "performance_profile": "storyteller-v8",
+  "speed": 0.9,
+  "volume": 1.5,
+  "temperature": 0.9,
+  "top_p": 0.92,
+  "script_sha256": "d1b253339dd5ed02eb9bda85163f3213f264c2666c804b843de7fccdb3e68ab7",
+  "segment_count": 9,
+  "segments": [
+    {
+      "index": 1,
+      "text": "I’d like to introduce Episode 17 of Modern Family Season 1. It’s called “Truth Be Told.” Each storyline involves someone avoiding a truth that eventually becomes impossible to ignore.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 17 of Modern Family Season 1. It’s called “Truth Be Told.” Each storyline involves someone avoiding a truth that eventually becomes impossible to ignore.",
+      "tags": [
+        "[a warm storyteller inviting the listener into the story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 2,
+      "text": "Phil reconnects online with Denise, an old friend from college. He believes she is simply being friendly, but Claire immediately suspects that Denise had feelings for him.",
+      "tts_text": "[a natural conversational storyteller] Phil reconnects online with Denise, an old friend from college. He believes she is simply being friendly, but Claire immediately suspects that Denise had feelings for him.",
+      "tags": [
+        "[a natural conversational storyteller]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 3,
+      "text": "When Denise visits the house, she keeps bringing up private memories and hints that there was always something romantic between them. Phil misses every signal until Denise finally makes her interest obvious. He is shocked, while Claire is not surprised at all.",
+      "tts_text": "[a storyteller building gentle suspense] When Denise visits the house, she keeps bringing up private memories and hints that there was always something romantic between them. Phil misses every signal until Denise finally makes her interest obvious. He is shocked, while Claire is not surprised at all.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 4,
+      "text": "After Denise leaves, Phil has to admit that he is not nearly as good at reading women as he thought.",
+      "tts_text": "[a storyteller with playful humor] After Denise leaves, Phil has to admit that he is not nearly as good at reading women as he thought.",
+      "tags": [
+        "[a storyteller with playful humor]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 5,
+      "text": "Meanwhile, Alex plays a cruel prank on Luke. She tells him that she found evidence online that he was adopted. Luke believes her and begins reinterpreting every family interaction as proof that he does not belong.",
+      "tts_text": "[an animated storyteller explaining the scene] Meanwhile, Alex plays a cruel prank on Luke. She tells him that she found evidence online that he was adopted. Luke believes her and begins reinterpreting every family interaction as proof that he does not belong.",
+      "tags": [
+        "[an animated storyteller explaining the scene]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 6,
+      "text": "Alex meant it as a joke, but she realizes she has gone too far when she sees that Luke is genuinely hurt.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Alex meant it as a joke, but she realizes she has gone too far when she sees that Luke is genuinely hurt.",
+      "tags": [
+        "[a storyteller emphasizing the surprising turn]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 7,
+      "text": "At Jay’s house, Jay accidentally kills Manny’s pet turtle. Instead of admitting it, he creates an elaborate story about a raccoon attack. Manny quickly figures out what really happened, but he waits for Jay to tell the truth on his own. Jay finally confesses.",
+      "tts_text": "[a storyteller smoothly moving to the next story] At Jay’s house, Jay accidentally kills Manny’s pet turtle. Instead of admitting it, he creates an elaborate story about a raccoon attack. Manny quickly figures out what really happened, but he waits for Jay to tell the truth on his own. Jay finally confesses.",
+      "tags": [
+        "[a storyteller smoothly moving to the next story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 8,
+      "text": "Mitchell also tries to be honest. He tells his boss that work should not always come before his family. He expects the boss to respect his courage, but he gets fired instead.",
+      "tts_text": "[a storyteller with warm empathy] Mitchell also tries to be honest. He tells his boss that work should not always come before his family. He expects the boss to respect his courage, but he gets fired instead.",
+      "tags": [
+        "[a storyteller with warm empathy]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 9,
+      "text": "Overall, the episode shows that honesty is not always rewarded immediately. Still, avoiding the truth usually creates a much bigger problem than the truth itself.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Overall, the episode shows that honesty is not always rewarded immediately. Still, avoiding the truth usually creates a much bigger problem than the truth itself.",
+      "tags": [
+        "[a thoughtful storyteller reflecting on the character]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    }
+  ],
+  "audio_file": "english.wav"
+}

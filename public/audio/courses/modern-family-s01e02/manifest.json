@@ -1,0 +1,147 @@
+{
+  "generated_at": "2026-07-27T14:45:09.733Z",
+  "course": "modern-family-s01e02",
+  "mode": "english",
+  "model": "s2.1-pro-free",
+  "reference_id": "76fcd904aa4b4a47af107686abd68248",
+  "performance_profile": "storyteller-v8",
+  "speed": 0.9,
+  "volume": 1.5,
+  "temperature": 0.9,
+  "top_p": 0.92,
+  "script_sha256": "fd8ac0bd37c55345be4075c01bf1ee4b0a05dfca0c0def46061050d399ef1d3a",
+  "segment_count": 13,
+  "segments": [
+    {
+      "index": 1,
+      "text": "I’d like to introduce Episode 2 of Modern Family Season 1. It is called “The Bicycle Thief.” All three storylines explore the same question: what does it mean to be a good father?",
+      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 2 of Modern Family Season 1. It is called “The Bicycle Thief.” All three storylines explore the same question: what does it mean to be a good father?",
+      "tags": [
+        "[a warm storyteller inviting the listener into the story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 2,
+      "text": "The first story is about Phil and Luke. Luke has been riding his sister’s old bike because Claire does not think he is responsible enough to own a new one. Phil disagrees and buys him a brand-new bike, hoping that Luke will prove he can take care of it.",
+      "tts_text": "[a natural conversational storyteller] The first story is about Phil and Luke. Luke has been riding his sister’s old bike because Claire does not think he is responsible enough to own a new one. Phil disagrees and buys him a brand-new bike, hoping that Luke will prove he can take care of it.",
+      "tags": [
+        "[a natural conversational storyteller]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 3,
+      "text": "Later, Phil sees an identical bike sitting on the street without a lock. He assumes that Luke has left his new bike there, so he takes it to teach him a lesson.",
+      "tts_text": "[a storyteller building gentle suspense] Later, Phil sees an identical bike sitting on the street without a lock. He assumes that Luke has left his new bike there, so he takes it to teach him a lesson.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 4,
+      "text": "On his way home, Phil stops to help their attractive new neighbor, Desiree, climb through a window because she has locked herself out. When he comes outside again, the bike is gone.",
+      "tts_text": "[a storyteller with playful humor] On his way home, Phil stops to help their attractive new neighbor, Desiree, climb through a window because she has locked herself out. When he comes outside again, the bike is gone.",
+      "tags": [
+        "[a storyteller with playful humor]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 5,
+      "text": "Phil buys another identical bike to cover up the problem. However, when he gets home, he discovers that Luke’s real bike has been there the whole time. He has taken the wrong bike.",
+      "tts_text": "[an animated storyteller explaining the scene] Phil buys another identical bike to cover up the problem. However, when he gets home, he discovers that Luke’s real bike has been there the whole time. He has taken the wrong bike.",
+      "tags": [
+        "[an animated storyteller explaining the scene]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 6,
+      "text": "Claire works out what happened and finds it funny, but Phil still claims that the bike disappeared at a gas station. Then Desiree returns it and mentions that Phil was in her bedroom, exposing his lie.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Claire works out what happened and finds it funny, but Phil still claims that the bike disappeared at a gas station. Then Desiree returns it and mentions that Phil was in her bedroom, exposing his lie.",
+      "tags": [
+        "[a storyteller emphasizing the surprising turn]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 7,
+      "text": "In the end, Phil tries to put the original bike back, but its real owner catches him.",
+      "tts_text": "[a storyteller smoothly moving to the next story] In the end, Phil tries to put the original bike back, but its real owner catches him.",
+      "tags": [
+        "[a storyteller smoothly moving to the next story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 8,
+      "text": "The second story is about Jay and Manny. Gloria asks them to install a ceiling fan together so that they can become closer. Jay ignores the instructions, while Manny keeps warning him about safety. They argue and say some hurtful things.",
+      "tts_text": "[a storyteller with warm empathy] The second story is about Jay and Manny. Gloria asks them to install a ceiling fan together so that they can become closer. Jay ignores the instructions, while Manny keeps warning him about safety. They argue and say some hurtful things.",
+      "tags": [
+        "[a storyteller with warm empathy]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 9,
+      "text": "Later, Manny’s biological father, Javier, cancels their Disneyland trip because he is gambling at a casino. Jay is furious, but he does not want Manny to feel rejected.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Later, Manny’s biological father, Javier, cancels their Disneyland trip because he is gambling at a casino. Jay is furious, but he does not want Manny to feel rejected.",
+      "tags": [
+        "[a thoughtful storyteller reflecting on the character]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 10,
+      "text": "He invents a kinder explanation and uses the limousine meant for his own trip to take Manny and Gloria to Disneyland.",
+      "tts_text": "[a storyteller building gentle suspense] He invents a kinder explanation and uses the limousine meant for his own trip to take Manny and Gloria to Disneyland.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 11,
+      "text": "The third story is about Mitchell and Cameron. They take Lily to a parent-and-baby class. Mitchell is nervous about fitting in and asks Cameron to tone himself down. When the other children seem more advanced than Lily, they pretend that Lily has stacked another child’s blocks.",
+      "tts_text": "[a storyteller warmly enjoying the happy moment] The third story is about Mitchell and Cameron. They take Lily to a parent-and-baby class. Mitchell is nervous about fitting in and asks Cameron to tone himself down. When the other children seem more advanced than Lily, they pretend that Lily has stacked another child’s blocks.",
+      "tags": [
+        "[a storyteller warmly enjoying the happy moment]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 12,
+      "text": "They quickly discover that the class is recorded on camera. Mitchell also realizes that his insecurity has made him dishonest and has stopped Cameron from being himself.",
+      "tts_text": "[a heartfelt storyteller bringing the story home] They quickly discover that the class is recorded on camera. Mitchell also realizes that his insecurity has made him dishonest and has stopped Cameron from being himself.",
+      "tags": [
+        "[a heartfelt storyteller bringing the story home]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 13,
+      "text": "Overall, the episode shows that parents often make mistakes while trying to do the right thing. As Jay says near the end, ninety percent of being a dad is just showing up.",
+      "tts_text": "[thoughtful conclusion] Overall, the episode shows that parents often make mistakes while trying to do the right thing. As Jay says near the end, ninety percent of being a dad is just showing up.",
+      "tags": [
+        "[thoughtful conclusion]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    }
+  ],
+  "audio_file": "english.wav"
+}

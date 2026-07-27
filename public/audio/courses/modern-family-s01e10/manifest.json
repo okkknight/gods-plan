@@ -1,0 +1,107 @@
+{
+  "generated_at": "2026-07-27T14:49:13.568Z",
+  "course": "modern-family-s01e10",
+  "mode": "english",
+  "model": "s2.1-pro-free",
+  "reference_id": "76fcd904aa4b4a47af107686abd68248",
+  "performance_profile": "storyteller-v8",
+  "speed": 0.9,
+  "volume": 1.5,
+  "temperature": 0.9,
+  "top_p": 0.92,
+  "script_sha256": "d41649fd9f55b2ed63585f872b3017b5b8c03eec8f1b6d2c93b3c2a4b94cadc6",
+  "segment_count": 9,
+  "segments": [
+    {
+      "index": 1,
+      "text": "I’d like to introduce Episode 10 of Modern Family Season 1. It’s called “Undeck the Halls,” and it is the show’s first Christmas episode.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 10 of Modern Family Season 1. It’s called “Undeck the Halls,” and it is the show’s first Christmas episode.",
+      "tags": [
+        "[a warm storyteller inviting the listener into the story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 2,
+      "text": "At the Dunphy house, Phil and Claire find a burn mark on the sofa. They assume that one of the children has been smoking, but Haley, Alex, and Luke all deny it. Phil decides to cancel Christmas until somebody tells the truth.",
+      "tts_text": "[a natural conversational storyteller] At the Dunphy house, Phil and Claire find a burn mark on the sofa. They assume that one of the children has been smoking, but Haley, Alex, and Luke all deny it. Phil decides to cancel Christmas until somebody tells the truth.",
+      "tags": [
+        "[a natural conversational storyteller]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 3,
+      "text": "He removes the tree, the decorations, and the presents, expecting the guilty child to confess. Nobody does. Alex finally takes the blame even though she is innocent because she does not want the whole family to lose Christmas.",
+      "tts_text": "[a storyteller building gentle suspense] He removes the tree, the decorations, and the presents, expecting the guilty child to confess. Nobody does. Alex finally takes the blame even though she is innocent because she does not want the whole family to lose Christmas.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 4,
+      "text": "Later, they discover that sunlight reflected through an ornament caused the burn. Phil and Claire realize they punished the children for something they did not do, so Phil tries to make up for it by promising a family trip to Italy.",
+      "tts_text": "[a storyteller with playful humor] Later, they discover that sunlight reflected through an ornament caused the burn. Phil and Claire realize they punished the children for something they did not do, so Phil tries to make up for it by promising a family trip to Italy.",
+      "tags": [
+        "[a storyteller with playful humor]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 5,
+      "text": "At Jay’s house, Jay wants Gloria and Manny to celebrate Christmas in a traditional American way. Gloria and Manny want to include Colombian customs as well. At first, both sides treat the other traditions as strange.",
+      "tts_text": "[an animated storyteller explaining the scene] At Jay’s house, Jay wants Gloria and Manny to celebrate Christmas in a traditional American way. Gloria and Manny want to include Colombian customs as well. At first, both sides treat the other traditions as strange.",
+      "tags": [
+        "[an animated storyteller explaining the scene]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 6,
+      "text": "Eventually, they combine them, ending with loud and slightly dangerous fireworks.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Eventually, they combine them, ending with loud and slightly dangerous fireworks.",
+      "tags": [
+        "[a storyteller emphasizing the surprising turn]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 7,
+      "text": "Meanwhile, Mitchell and Cameron take Lily to meet Santa at the mall. They complain that the Santa is too thin and accidentally get him fired. Feeling guilty, they invite him to dinner.",
+      "tts_text": "[a storyteller smoothly moving to the next story] Meanwhile, Mitchell and Cameron take Lily to meet Santa at the mall. They complain that the Santa is too thin and accidentally get him fired. Feeling guilty, they invite him to dinner.",
+      "tags": [
+        "[a storyteller smoothly moving to the next story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 8,
+      "text": "Their attempt to help becomes awkward because they keep making assumptions about him and his life.",
+      "tts_text": "[a storyteller with warm empathy] Their attempt to help becomes awkward because they keep making assumptions about him and his life.",
+      "tags": [
+        "[a storyteller with warm empathy]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 9,
+      "text": "Overall, the episode shows how quickly people can become controlling during the holidays. Everyone wants the “right” kind of Christmas, but the family only enjoys it after they admit their mistakes and make room for one another’s traditions.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Overall, the episode shows how quickly people can become controlling during the holidays. Everyone wants the “right” kind of Christmas, but the family only enjoys it after they admit their mistakes and make room for one another’s traditions.",
+      "tags": [
+        "[a thoughtful storyteller reflecting on the character]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    }
+  ],
+  "audio_file": "english.wav"
+}

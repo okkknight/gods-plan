@@ -1,0 +1,107 @@
+{
+  "generated_at": "2026-07-27T14:56:02.945Z",
+  "course": "modern-family-s01e23",
+  "mode": "english",
+  "model": "s2.1-pro-free",
+  "reference_id": "76fcd904aa4b4a47af107686abd68248",
+  "performance_profile": "storyteller-v8",
+  "speed": 0.9,
+  "volume": 1.5,
+  "temperature": 0.9,
+  "top_p": 0.92,
+  "script_sha256": "9e5ba4128abafab7a9cef85f6a14469ff1333f6c87ef6bbb88c268dc9172fbb6",
+  "segment_count": 9,
+  "segments": [
+    {
+      "index": 1,
+      "text": "I’d like to introduce Episode 23 of Modern Family Season 1. It’s called “Hawaii,” and it continues the family vacation that began in the previous episode.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 23 of Modern Family Season 1. It’s called “Hawaii,” and it continues the family vacation that began in the previous episode.",
+      "tags": [
+        "[a warm storyteller inviting the listener into the story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 2,
+      "text": "Phil wants to turn the trip into the honeymoon that he and Claire never really had. Claire became pregnant with Haley before their wedding, so the ceremony and honeymoon were both rushed. Phil tries to create private romantic time, but their children keep interrupting.",
+      "tts_text": "[a natural conversational storyteller] Phil wants to turn the trip into the honeymoon that he and Claire never really had. Claire became pregnant with Haley before their wedding, so the ceremony and honeymoon were both rushed. Phil tries to create private romantic time, but their children keep interrupting.",
+      "tags": [
+        "[a natural conversational storyteller]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 3,
+      "text": "Haley goes out with some young people she has just met and becomes drunk. Claire takes care of her and warns her that alcohol will always have consequences.",
+      "tts_text": "[a storyteller building gentle suspense] Haley goes out with some young people she has just met and becomes drunk. Claire takes care of her and warns her that alcohol will always have consequences.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 4,
+      "text": "Later, Phil surprises Claire with a small wedding ceremony, giving them a chance to renew their vows and experience some of the romance they missed years earlier.",
+      "tts_text": "[a storyteller with playful humor] Later, Phil surprises Claire with a small wedding ceremony, giving them a chance to renew their vows and experience some of the romance they missed years earlier.",
+      "tags": [
+        "[a storyteller with playful humor]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 5,
+      "text": "Jay plans to spend the vacation eating and relaxing. Then a call from his brother reminds him that their father died at the age of sixty-three because of poor health. Jay has just turned sixty-three himself, so he suddenly becomes obsessed with exercise.",
+      "tts_text": "[an animated storyteller explaining the scene] Jay plans to spend the vacation eating and relaxing. Then a call from his brother reminds him that their father died at the age of sixty-three because of poor health. Jay has just turned sixty-three himself, so he suddenly becomes obsessed with exercise.",
+      "tags": [
+        "[an animated storyteller explaining the scene]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 6,
+      "text": "He works out instead of enjoying the trip and eventually hurts his back. Jay finally admits to Gloria that he is afraid of dying. Once he says it aloud, he is able to slow down and enjoy the vacation with her.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] He works out instead of enjoying the trip and eventually hurts his back. Jay finally admits to Gloria that he is afraid of dying. Once he says it aloud, he is able to slow down and enjoy the vacation with her.",
+      "tags": [
+        "[a storyteller emphasizing the surprising turn]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 7,
+      "text": "Meanwhile, Mitchell wants to visit every attraction, while Cameron wants to relax at the hotel. They try to force each other to follow the same schedule before realizing they can do separate things.",
+      "tts_text": "[a storyteller smoothly moving to the next story] Meanwhile, Mitchell wants to visit every attraction, while Cameron wants to relax at the hotel. They try to force each other to follow the same schedule before realizing they can do separate things.",
+      "tags": [
+        "[a storyteller smoothly moving to the next story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 8,
+      "text": "Unfortunately, they also manage to leave Lily behind twice, once near an elevator and later during another outing.",
+      "tts_text": "[a storyteller with warm empathy] Unfortunately, they also manage to leave Lily behind twice, once near an elevator and later during another outing.",
+      "tags": [
+        "[a storyteller with warm empathy]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 9,
+      "text": "Overall, the episode shows that travel does not automatically remove anxiety. People bring their fears and expectations with them, and they can only relax after they acknowledge what is really bothering them.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Overall, the episode shows that travel does not automatically remove anxiety. People bring their fears and expectations with them, and they can only relax after they acknowledge what is really bothering them.",
+      "tags": [
+        "[a thoughtful storyteller reflecting on the character]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    }
+  ],
+  "audio_file": "english.wav"
+}

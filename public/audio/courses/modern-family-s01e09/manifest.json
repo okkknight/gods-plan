@@ -1,0 +1,97 @@
+{
+  "generated_at": "2026-07-27T14:48:44.253Z",
+  "course": "modern-family-s01e09",
+  "mode": "english",
+  "model": "s2.1-pro-free",
+  "reference_id": "76fcd904aa4b4a47af107686abd68248",
+  "performance_profile": "storyteller-v8",
+  "speed": 0.9,
+  "volume": 1.5,
+  "temperature": 0.9,
+  "top_p": 0.92,
+  "script_sha256": "d69320a81ed0886e8f2364dfb9463b7239d15cb947526dab49a553e17c18aff7",
+  "segment_count": 8,
+  "segments": [
+    {
+      "index": 1,
+      "text": "I’d like to introduce Episode 9 of Modern Family Season 1. It’s called “Fizbo,” and it takes place during Luke’s birthday party.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 9 of Modern Family Season 1. It’s called “Fizbo,” and it takes place during Luke’s birthday party.",
+      "tags": [
+        "[a warm storyteller inviting the listener into the story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 2,
+      "text": "Claire and Phil have completely different ideas about the party. Claire wants everything to be safe and controlled, so she prepares a simple craft table.",
+      "tts_text": "[a natural conversational storyteller] Claire and Phil have completely different ideas about the party. Claire wants everything to be safe and controlled, so she prepares a simple craft table.",
+      "tags": [
+        "[a natural conversational storyteller]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 3,
+      "text": "Phil believes a birthday should be exciting, so he adds a bounce house, a rock-climbing wall, an animal show, and several other attractions. Each activity seems harmless by itself, but together they create a chain reaction of accidents. In the end, Luke falls and breaks his arm.",
+      "tts_text": "[a storyteller building gentle suspense] Phil believes a birthday should be exciting, so he adds a bounce house, a rock-climbing wall, an animal show, and several other attractions. Each activity seems harmless by itself, but together they create a chain reaction of accidents. In the end, Luke falls and breaks his arm.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 4,
+      "text": "Cameron arrives dressed as Fizbo, the clown character he has performed as for years. Mitchell is embarrassed by the costume and wishes Cameron would act more normally. Later, a man at a gas station makes fun of Mitchell.",
+      "tts_text": "[a storyteller with playful humor] Cameron arrives dressed as Fizbo, the clown character he has performed as for years. Mitchell is embarrassed by the costume and wishes Cameron would act more normally. Later, a man at a gas station makes fun of Mitchell.",
+      "tags": [
+        "[a storyteller with playful humor]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 5,
+      "text": "Cameron, still dressed as Fizbo, confidently stands up for him. Mitchell realizes that the ridiculous costume also brings out Cameron’s brave and protective side. Phil has his own problem with Fizbo because he is secretly terrified of clowns, and he can no longer hide it.",
+      "tts_text": "[an animated storyteller explaining the scene] Cameron, still dressed as Fizbo, confidently stands up for him. Mitchell realizes that the ridiculous costume also brings out Cameron’s brave and protective side. Phil has his own problem with Fizbo because he is secretly terrified of clowns, and he can no longer hide it.",
+      "tags": [
+        "[an animated storyteller explaining the scene]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 6,
+      "text": "Meanwhile, Manny wants to impress a girl named Bianca. Jay tells him to act less interested, but the strategy does not work very well. During the chaos, Manny gets a chance to help Bianca when she is in danger, and his real courage is more effective than any dating trick.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Meanwhile, Manny wants to impress a girl named Bianca. Jay tells him to act less interested, but the strategy does not work very well. During the chaos, Manny gets a chance to help Bianca when she is in danger, and his real courage is more effective than any dating trick.",
+      "tags": [
+        "[a storyteller emphasizing the surprising turn]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 7,
+      "text": "Haley also becomes jealous when Dylan pays attention to the animal handler, so she releases a scorpion and makes the party even more dangerous.",
+      "tts_text": "[a storyteller smoothly moving to the next story] Haley also becomes jealous when Dylan pays attention to the animal handler, so she releases a scorpion and makes the party even more dangerous.",
+      "tags": [
+        "[a storyteller smoothly moving to the next story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 8,
+      "text": "Although the party is a disaster from the adults’ point of view, Luke says it was the best birthday he has ever had. The episode shows that children and adults can experience the same event in completely different ways.",
+      "tts_text": "[a storyteller with warm empathy] Although the party is a disaster from the adults’ point of view, Luke says it was the best birthday he has ever had. The episode shows that children and adults can experience the same event in completely different ways.",
+      "tags": [
+        "[a storyteller with warm empathy]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    }
+  ],
+  "audio_file": "english.wav"
+}

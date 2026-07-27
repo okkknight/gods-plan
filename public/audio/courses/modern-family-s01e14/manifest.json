@@ -1,0 +1,107 @@
+{
+  "generated_at": "2026-07-27T14:51:17.452Z",
+  "course": "modern-family-s01e14",
+  "mode": "english",
+  "model": "s2.1-pro-free",
+  "reference_id": "76fcd904aa4b4a47af107686abd68248",
+  "performance_profile": "storyteller-v8",
+  "speed": 0.9,
+  "volume": 1.5,
+  "temperature": 0.9,
+  "top_p": 0.92,
+  "script_sha256": "b26cab3af8c86938f54ea21d1e7cc51d7eccc83463d44e049c0d79233cab1c68",
+  "segment_count": 9,
+  "segments": [
+    {
+      "index": 1,
+      "text": "I’d like to introduce Episode 14 of Modern Family Season 1. It’s called “Moon Landing.” The episode is mainly about embarrassment and the different ways people try to protect their pride.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 14 of Modern Family Season 1. It’s called “Moon Landing.” The episode is mainly about embarrassment and the different ways people try to protect their pride.",
+      "tags": [
+        "[a warm storyteller inviting the listener into the story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 2,
+      "text": "Gloria gets into a minor car accident and insists that the other driver was completely at fault. She asks Mitchell, who is a lawyer, to help her.",
+      "tts_text": "[a natural conversational storyteller] Gloria gets into a minor car accident and insists that the other driver was completely at fault. She asks Mitchell, who is a lawyer, to help her.",
+      "tags": [
+        "[a natural conversational storyteller]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 3,
+      "text": "Manny honestly points out that Gloria is not a very safe driver, but she becomes angry because she feels that her own family does not believe her. Later, she drives into a restaurant.",
+      "tts_text": "[a storyteller building gentle suspense] Manny honestly points out that Gloria is not a very safe driver, but she becomes angry because she feels that her own family does not believe her. Later, she drives into a restaurant.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 4,
+      "text": "At that point, she has to admit that her driving may be part of the problem, and she asks Mitchell for legal help again.",
+      "tts_text": "[a storyteller with playful humor] At that point, she has to admit that her driving may be part of the problem, and she asks Mitchell for legal help again.",
+      "tags": [
+        "[a storyteller with playful humor]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 5,
+      "text": "Meanwhile, Claire runs into Valerie, a successful former coworker. Valerie’s career makes Claire feel insecure about leaving the professional world to raise a family. Claire invites her home because she wants to prove that her life is just as impressive.",
+      "tts_text": "[an animated storyteller explaining the scene] Meanwhile, Claire runs into Valerie, a successful former coworker. Valerie’s career makes Claire feel insecure about leaving the professional world to raise a family. Claire invites her home because she wants to prove that her life is just as impressive.",
+      "tags": [
+        "[an animated storyteller explaining the scene]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 6,
+      "text": "She hopes the children and Phil will behave perfectly, but the entire visit becomes chaotic. Claire is embarrassed, although she also begins to see that Valerie’s apparently perfect life is not as complete as it looks.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] She hopes the children and Phil will behave perfectly, but the entire visit becomes chaotic. Claire is embarrassed, although she also begins to see that Valerie’s apparently perfect life is not as complete as it looks.",
+      "tags": [
+        "[a storyteller emphasizing the surprising turn]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 7,
+      "text": "The third story is about Jay and Cameron playing racquetball. In the locker room, they accidentally touch while both bending over. The moment is completely innocent, but Jay cannot stop thinking about it. During the game, he becomes so uncomfortable that he cannot concentrate.",
+      "tts_text": "[a storyteller smoothly moving to the next story] The third story is about Jay and Cameron playing racquetball. In the locker room, they accidentally touch while both bending over. The moment is completely innocent, but Jay cannot stop thinking about it. During the game, he becomes so uncomfortable that he cannot concentrate.",
+      "tags": [
+        "[a storyteller smoothly moving to the next story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 8,
+      "text": "Cameron treats it as no big deal, which only makes Jay feel more awkward.",
+      "tts_text": "[a storyteller with warm empathy] Cameron treats it as no big deal, which only makes Jay feel more awkward.",
+      "tags": [
+        "[a storyteller with warm empathy]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 9,
+      "text": "Overall, the episode shows that embarrassment becomes more powerful when people refuse to acknowledge it. Gloria, Claire, and Jay all try to hide an uncomfortable truth, but their efforts only make it more obvious.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Overall, the episode shows that embarrassment becomes more powerful when people refuse to acknowledge it. Gloria, Claire, and Jay all try to hide an uncomfortable truth, but their efforts only make it more obvious.",
+      "tags": [
+        "[a thoughtful storyteller reflecting on the character]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    }
+  ],
+  "audio_file": "english.wav"
+}

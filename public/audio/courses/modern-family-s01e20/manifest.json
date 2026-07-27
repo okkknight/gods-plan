@@ -1,0 +1,107 @@
+{
+  "generated_at": "2026-07-27T14:54:43.268Z",
+  "course": "modern-family-s01e20",
+  "mode": "english",
+  "model": "s2.1-pro-free",
+  "reference_id": "76fcd904aa4b4a47af107686abd68248",
+  "performance_profile": "storyteller-v8",
+  "speed": 0.9,
+  "volume": 1.5,
+  "temperature": 0.9,
+  "top_p": 0.92,
+  "script_sha256": "a37380e27b67e7d1ef2dd627415eb047802bdc0a1451c84c718e8e0a409d3fd8",
+  "segment_count": 9,
+  "segments": [
+    {
+      "index": 1,
+      "text": "I’d like to introduce Episode 20 of Modern Family Season 1. It’s called “Benched.” The episode is about adults struggling when their usual role is taken away or begins to change.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 20 of Modern Family Season 1. It’s called “Benched.” The episode is about adults struggling when their usual role is taken away or begins to change.",
+      "tags": [
+        "[a warm storyteller inviting the listener into the story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 2,
+      "text": "Luke and Manny’s basketball coach constantly yells at the children and makes cruel comments. Phil and Jay ask him to treat the team better, but he suddenly quits in the middle of a game. The team now needs a coach, and both Phil and Jay want the position.",
+      "tts_text": "[a natural conversational storyteller] Luke and Manny’s basketball coach constantly yells at the children and makes cruel comments. Phil and Jay ask him to treat the team better, but he suddenly quits in the middle of a game. The team now needs a coach, and both Phil and Jay want the position.",
+      "tags": [
+        "[a natural conversational storyteller]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 3,
+      "text": "They begin competing for control instead of working together. Each man wants to prove that he understands the game and the children better.",
+      "tts_text": "[a storyteller building gentle suspense] They begin competing for control instead of working together. Each man wants to prove that he understands the game and the children better.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 4,
+      "text": "Their argument becomes more important to them than the actual players, until they finally realize that the game should not be about adult pride.",
+      "tts_text": "[a storyteller with playful humor] Their argument becomes more important to them than the actual players, until they finally realize that the game should not be about adult pride.",
+      "tags": [
+        "[a storyteller with playful humor]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 5,
+      "text": "Meanwhile, Claire takes Alex shopping. When Alex sees some school friends, she quickly leaves Claire to join them. Claire feels rejected because her daughter is becoming a teenager and no longer wants her mother around all the time.",
+      "tts_text": "[an animated storyteller explaining the scene] Meanwhile, Claire takes Alex shopping. When Alex sees some school friends, she quickly leaves Claire to join them. Claire feels rejected because her daughter is becoming a teenager and no longer wants her mother around all the time.",
+      "tags": [
+        "[an animated storyteller explaining the scene]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 6,
+      "text": "Gloria has the same experience when Manny asks her not to be so affectionate in front of his friends. The two mothers walk together while taking care of Lily and admit that their children are beginning to need more independence.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Gloria has the same experience when Manny asks her not to be so affectionate in front of his friends. The two mothers walk together while taking care of Lily and admit that their children are beginning to need more independence.",
+      "tags": [
+        "[a storyteller emphasizing the surprising turn]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 7,
+      "text": "Mitchell is still unemployed, while Cameron now works for a greeting-card company. Their usual roles have reversed. Mitchell misses the workplace, and Cameron misses staying home with Lily, but both pretend to be happy.",
+      "tts_text": "[a storyteller smoothly moving to the next story] Mitchell is still unemployed, while Cameron now works for a greeting-card company. Their usual roles have reversed. Mitchell misses the workplace, and Cameron misses staying home with Lily, but both pretend to be happy.",
+      "tags": [
+        "[a storyteller smoothly moving to the next story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 8,
+      "text": "Mitchell receives a job offer, and they finally admit that they want their old arrangement back. Then they accidentally damage the new boss’s Ferrari, making the decision much less optional.",
+      "tts_text": "[a storyteller with warm empathy] Mitchell receives a job offer, and they finally admit that they want their old arrangement back. Then they accidentally damage the new boss’s Ferrari, making the decision much less optional.",
+      "tags": [
+        "[a storyteller with warm empathy]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 9,
+      "text": "Overall, the episode shows how strongly people connect their identity to a role. When that role changes, even a good change can feel like a loss.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Overall, the episode shows how strongly people connect their identity to a role. When that role changes, even a good change can feel like a loss.",
+      "tags": [
+        "[a thoughtful storyteller reflecting on the character]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    }
+  ],
+  "audio_file": "english.wav"
+}

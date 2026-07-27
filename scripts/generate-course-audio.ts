@@ -1,5 +1,5 @@
 import { createHash } from "node:crypto";
-import { mkdir, readFile, writeFile, copyFile, rm } from "node:fs/promises";
+import { mkdir, readFile, writeFile, copyFile, rm, readdir } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import path from "node:path";
 import { spawnSync } from "node:child_process";
@@ -9,11 +9,11 @@ import { inferSpeechPerformance } from "../src/domain/audio/speech-performance";
 const root = process.cwd();
 const courseArgumentIndex = process.argv.indexOf("--course");
 const slug = courseArgumentIndex >= 0 ? process.argv[courseArgumentIndex + 1] : "modern-family-s01e01";
+const generateAll = process.argv.includes("--all");
 const referenceId = process.env.FISH_AUDIO_REFERENCE_ID ?? "933563129e564b19a115bedd57b7406a";
 const apiKey = process.env.FISH_AUDIO_API_KEY ?? process.env.FISH_API_KEY;
 const model = process.env.FISH_AUDIO_MODEL ?? "s2.1-pro-free";
 const maxRetries = 4;
-const outputDir = path.join(root, "public", "audio", "courses", slug);
 const cacheDir = path.join(root, "data", "audio-cache");
 
 if (!apiKey) throw new Error("缺少 FISH_AUDIO_API_KEY 或 FISH_API_KEY");
@@ -47,10 +47,11 @@ function runFfmpeg(args: string[]) {
   if (result.status !== 0) throw new Error(`FFmpeg 失败：${result.stderr}`);
 }
 
-async function main() {
-  const course = JSON.parse(await readFile(path.join(root, "content", "courses", `${slug}.json`), "utf8"));
+async function generateCourse(courseSlug: string) {
+  const outputDir = path.join(root, "public", "audio", "courses", courseSlug);
+  const course = JSON.parse(await readFile(path.join(root, "content", "courses", `${courseSlug}.json`), "utf8"));
   const english = course.sections.find((section: { id: string }) => section.id === "english")?.paragraphs[0]?.english;
-  if (!english) throw new Error(`课程没有英文内容：${slug}`);
+  if (!english) throw new Error(`课程没有英文内容：${courseSlug}`);
 
   const segments = splitTextForSpeech(english);
   const workDir = path.join(outputDir, ".work");
@@ -86,9 +87,17 @@ async function main() {
   runFfmpeg(["-f", "concat", "-safe", "0", "-i", concatFile, "-c", "copy", rawOutput]);
   await mkdir(outputDir, { recursive: true });
   runFfmpeg(["-i", rawOutput, "-af", "loudnorm=I=-16:TP=-1.5:LRA=11", "-ar", "44100", "-ac", "1", "-sample_fmt", "s16", path.join(outputDir, "english.wav")]);
-  await writeFile(path.join(outputDir, "manifest.json"), JSON.stringify({ generated_at: new Date().toISOString(), course: slug, mode: "english", model, reference_id: referenceId, performance_profile: "storyteller-v8", speed: 0.90, volume: 1.5, temperature: 0.9, top_p: 0.92, script_sha256: createHash("sha256").update(english).digest("hex"), segment_count: generated.length, segments: generated.map(({ index, text, ttsText, tags, speed, cached }) => ({ index, text, tts_text: ttsText, tags, speed, cached })), audio_file: "english.wav" }, null, 2));
+  await writeFile(path.join(outputDir, "manifest.json"), JSON.stringify({ generated_at: new Date().toISOString(), course: courseSlug, mode: "english", model, reference_id: referenceId, performance_profile: "storyteller-v8", speed: 0.90, volume: 1.5, temperature: 0.9, top_p: 0.92, script_sha256: createHash("sha256").update(english).digest("hex"), segment_count: generated.length, segments: generated.map(({ index, text, ttsText, tags, speed, cached }) => ({ index, text, tts_text: ttsText, tags, speed, cached })), audio_file: "english.wav" }, null, 2));
   await rm(workDir, { recursive: true, force: true });
   console.log(`已生成 ${path.join(outputDir, "english.wav")}，共 ${generated.length} 段`);
+}
+
+async function main() {
+  const courseSlugs = generateAll
+    ? (await readdir(path.join(root, "content", "courses"))).filter((file) => file.endsWith(".json")).sort().map((file) => path.basename(file, ".json"))
+    : [slug];
+  console.log(`准备生成 ${courseSlugs.length} 篇课程，声音模型 ${referenceId}`);
+  for (const courseSlug of courseSlugs) await generateCourse(courseSlug);
 }
 
 main().catch((error) => { console.error(error); process.exitCode = 1; });

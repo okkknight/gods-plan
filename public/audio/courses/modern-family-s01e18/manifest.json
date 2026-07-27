@@ -1,0 +1,107 @@
+{
+  "generated_at": "2026-07-27T14:53:43.125Z",
+  "course": "modern-family-s01e18",
+  "mode": "english",
+  "model": "s2.1-pro-free",
+  "reference_id": "76fcd904aa4b4a47af107686abd68248",
+  "performance_profile": "storyteller-v8",
+  "speed": 0.9,
+  "volume": 1.5,
+  "temperature": 0.9,
+  "top_p": 0.92,
+  "script_sha256": "6eb0daee690e23bdbf185f1ecb116e8722273afc2e5d89578aa2764ce3efa7df",
+  "segment_count": 9,
+  "segments": [
+    {
+      "index": 1,
+      "text": "I’d like to introduce Episode 18 of Modern Family Season 1. It’s called “Starry Night.” The episode is about helping family members without taking over their responsibilities.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 18 of Modern Family Season 1. It’s called “Starry Night.” The episode is about helping family members without taking over their responsibilities.",
+      "tags": [
+        "[a warm storyteller inviting the listener into the story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 2,
+      "text": "Luke has to prepare a school presentation about Vincent van Gogh. Phil volunteers to help, but he keeps getting distracted and does not provide much useful support. Claire is supposed to help Haley make cupcakes for a school event.",
+      "tts_text": "[a natural conversational storyteller] Luke has to prepare a school presentation about Vincent van Gogh. Phil volunteers to help, but he keeps getting distracted and does not provide much useful support. Claire is supposed to help Haley make cupcakes for a school event.",
+      "tags": [
+        "[a natural conversational storyteller]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 3,
+      "text": "She gradually realizes that Haley expects her to do all the work. Claire refuses to take over, so Haley has to make the cupcakes herself. They turn out terribly, but she finally takes responsibility for her own assignment.",
+      "tts_text": "[a storyteller building gentle suspense] She gradually realizes that Haley expects her to do all the work. Claire refuses to take over, so Haley has to make the cupcakes herself. They turn out terribly, but she finally takes responsibility for her own assignment.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 4,
+      "text": "Luke’s presentation looks strange and disorganized, yet he manages to complete it in his own way.",
+      "tts_text": "[a storyteller with playful humor] Luke’s presentation looks strange and disorganized, yet he manages to complete it in his own way.",
+      "tags": [
+        "[a storyteller with playful humor]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 5,
+      "text": "Meanwhile, Jay, Mitchell, and Manny go outside to look at the stars. Mitchell hopes to have a meaningful evening with his father, but Jay keeps joking about how unathletic and sensitive Mitchell was as a child. Manny is teased for similar reasons.",
+      "tts_text": "[an animated storyteller explaining the scene] Meanwhile, Jay, Mitchell, and Manny go outside to look at the stars. Mitchell hopes to have a meaningful evening with his father, but Jay keeps joking about how unathletic and sensitive Mitchell was as a child. Manny is teased for similar reasons.",
+      "tags": [
+        "[an animated storyteller explaining the scene]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 6,
+      "text": "Mitchell first becomes defensive, then realizes that Manny reminds him of himself. He begins supporting Manny instead of letting Jay embarrass him. Jay eventually becomes less sarcastic, and the three of them finally share a genuine moment together.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Mitchell first becomes defensive, then realizes that Manny reminds him of himself. He begins supporting Manny instead of letting Jay embarrass him. Jay eventually becomes less sarcastic, and the three of them finally share a genuine moment together.",
+      "tags": [
+        "[a storyteller emphasizing the surprising turn]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 7,
+      "text": "In the third storyline, Cameron and Gloria go out for dinner. Cameron tries to prove that he can handle extremely spicy food, but it quickly overwhelms him.",
+      "tts_text": "[a storyteller smoothly moving to the next story] In the third storyline, Cameron and Gloria go out for dinner. Cameron tries to prove that he can handle extremely spicy food, but it quickly overwhelms him.",
+      "tags": [
+        "[a storyteller smoothly moving to the next story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 8,
+      "text": "Gloria takes care of him, and the two discover that they have plenty to talk about, especially fashion, shopping, and family. Mitchell had worried they would have nothing in common, but they get along surprisingly well.",
+      "tts_text": "[a storyteller with warm empathy] Gloria takes care of him, and the two discover that they have plenty to talk about, especially fashion, shopping, and family. Mitchell had worried they would have nothing in common, but they get along surprisingly well.",
+      "tags": [
+        "[a storyteller with warm empathy]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 9,
+      "text": "Overall, the episode is about giving people room to do things in their own way. Support is useful, but control often prevents real growth and connection.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Overall, the episode is about giving people room to do things in their own way. Support is useful, but control often prevents real growth and connection.",
+      "tags": [
+        "[a thoughtful storyteller reflecting on the character]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    }
+  ],
+  "audio_file": "english.wav"
+}

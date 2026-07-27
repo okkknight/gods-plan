@@ -1,0 +1,107 @@
+{
+  "generated_at": "2026-07-27T14:54:14.754Z",
+  "course": "modern-family-s01e19",
+  "mode": "english",
+  "model": "s2.1-pro-free",
+  "reference_id": "76fcd904aa4b4a47af107686abd68248",
+  "performance_profile": "storyteller-v8",
+  "speed": 0.9,
+  "volume": 1.5,
+  "temperature": 0.9,
+  "top_p": 0.92,
+  "script_sha256": "4f2f57a98c16f05e947e8a7a916644e459ee2b95a246ac5af0ca7dcdd681b227",
+  "segment_count": 9,
+  "segments": [
+    {
+      "index": 1,
+      "text": "I’d like to introduce Episode 19 of Modern Family Season 1. It’s called “Game Changer.” The episode takes place on Phil’s birthday, which is also the release day of the first iPad.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 19 of Modern Family Season 1. It’s called “Game Changer.” The episode takes place on Phil’s birthday, which is also the release day of the first iPad.",
+      "tags": [
+        "[a warm storyteller inviting the listener into the story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 2,
+      "text": "Phil desperately wants the new device and dreams of getting one on the first day. Claire promises to wait in line for him, but she accidentally oversleeps. By the time she reaches the stores, the iPad is sold out everywhere.",
+      "tts_text": "[a natural conversational storyteller] Phil desperately wants the new device and dreams of getting one on the first day. Claire promises to wait in line for him, but she accidentally oversleeps. By the time she reaches the stores, the iPad is sold out everywhere.",
+      "tags": [
+        "[a natural conversational storyteller]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 3,
+      "text": "She spends the day searching because she does not want to disappoint Phil. Luke eventually finds a seller online. To persuade the man to give them the device, Luke claims that his father is seriously ill and that the iPad is his final wish.",
+      "tts_text": "[a storyteller building gentle suspense] She spends the day searching because she does not want to disappoint Phil. Luke eventually finds a seller online. To persuade the man to give them the device, Luke claims that his father is seriously ill and that the iPad is his final wish.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 4,
+      "text": "The story is completely dishonest, but it works. Phil receives the iPad and believes his family has given him the perfect birthday.",
+      "tts_text": "[a storyteller with playful humor] The story is completely dishonest, but it works. Phil receives the iPad and believes his family has given him the perfect birthday.",
+      "tags": [
+        "[a storyteller with playful humor]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 5,
+      "text": "Meanwhile, Jay plays chess with Manny. Jay sees himself as an expert and hates losing. Manny is actually a stronger player, but Gloria encourages him to hide his ability to protect Jay’s pride. Manny finally decides to play seriously and wins one of Jay’s watches.",
+      "tts_text": "[an animated storyteller explaining the scene] Meanwhile, Jay plays chess with Manny. Jay sees himself as an expert and hates losing. Manny is actually a stronger player, but Gloria encourages him to hide his ability to protect Jay’s pride. Manny finally decides to play seriously and wins one of Jay’s watches.",
+      "tags": [
+        "[an animated storyteller explaining the scene]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 6,
+      "text": "Jay is impressed to have found a worthy opponent, although he still does not know that Gloria is the best chess player in the house.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Jay is impressed to have found a worthy opponent, although he still does not know that Gloria is the best chess player in the house.",
+      "tags": [
+        "[a storyteller emphasizing the surprising turn]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 7,
+      "text": "Mitchell and Cameron accidentally hear their neighbors arguing through the baby monitor. Cameron becomes emotionally involved and tries to repair their marriage. Mitchell thinks he is crossing a line.",
+      "tts_text": "[a storyteller smoothly moving to the next story] Mitchell and Cameron accidentally hear their neighbors arguing through the baby monitor. Cameron becomes emotionally involved and tries to repair their marriage. Mitchell thinks he is crossing a line.",
+      "tags": [
+        "[a storyteller smoothly moving to the next story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 8,
+      "text": "He also worries that the neighbors do not see him as masculine enough, so he makes several awkward attempts to act tougher. Cameron’s interference is inappropriate, but it surprisingly helps the couple communicate.",
+      "tts_text": "[a storyteller with warm empathy] He also worries that the neighbors do not see him as masculine enough, so he makes several awkward attempts to act tougher. Cameron’s interference is inappropriate, but it surprisingly helps the couple communicate.",
+      "tags": [
+        "[a storyteller with warm empathy]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 9,
+      "text": "Overall, the episode shows how an unexpected person or action can completely change a situation, even when the method is far from perfect.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Overall, the episode shows how an unexpected person or action can completely change a situation, even when the method is far from perfect.",
+      "tags": [
+        "[a thoughtful storyteller reflecting on the character]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    }
+  ],
+  "audio_file": "english.wav"
+}

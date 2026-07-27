@@ -1,0 +1,97 @@
+{
+  "generated_at": "2026-07-27T14:52:47.961Z",
+  "course": "modern-family-s01e16",
+  "mode": "english",
+  "model": "s2.1-pro-free",
+  "reference_id": "76fcd904aa4b4a47af107686abd68248",
+  "performance_profile": "storyteller-v8",
+  "speed": 0.9,
+  "volume": 1.5,
+  "temperature": 0.9,
+  "top_p": 0.92,
+  "script_sha256": "af82a4073d20e5130714369c15cb1b9d139c67c19e8434043867e9f2e1bb8b1d",
+  "segment_count": 8,
+  "segments": [
+    {
+      "index": 1,
+      "text": "I’d like to introduce Episode 16 of Modern Family Season 1. It’s called “Fears,” and each storyline focuses on something a character is afraid of.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 16 of Modern Family Season 1. It’s called “Fears,” and each storyline focuses on something a character is afraid of.",
+      "tags": [
+        "[a warm storyteller inviting the listener into the story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 2,
+      "text": "Phil is terrified of the narrow crawl space under the house, but he does not want Luke to know. When Luke’s remote-control car gets stuck inside and Luke goes after it, Phil has to face his fear and crawl in to help him.",
+      "tts_text": "[a natural conversational storyteller] Phil is terrified of the narrow crawl space under the house, but he does not want Luke to know. When Luke’s remote-control car gets stuck inside and Luke goes after it, Phil has to face his fear and crawl in to help him.",
+      "tags": [
+        "[a natural conversational storyteller]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 3,
+      "text": "He tries to act brave, even after finding what he thinks are human bones. The “danger” turns out to be harmless, but Phil still proves that he can move forward when Luke needs him.",
+      "tts_text": "[a storyteller building gentle suspense] He tries to act brave, even after finding what he thinks are human bones. The “danger” turns out to be harmless, but Phil still proves that he can move forward when Luke needs him.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 4,
+      "text": "Claire takes Haley to her driving test. She worries that Haley will fail, but Haley passes. Claire also encourages Alex to attend a school dance. Alex is afraid of looking awkward, and Claire tells her that avoiding every embarrassing experience is not the same as being safe.",
+      "tts_text": "[a storyteller with playful humor] Claire takes Haley to her driving test. She worries that Haley will fail, but Haley passes. Claire also encourages Alex to attend a school dance. Alex is afraid of looking awkward, and Claire tells her that avoiding every embarrassing experience is not the same as being safe.",
+      "tags": [
+        "[a storyteller with playful humor]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 5,
+      "text": "Meanwhile, Mitchell and Cameron worry that Lily’s first word will be “Mommy,” because there is no mother in their home. When they hear a voice repeatedly saying something that sounds like the word, they become anxious about what it means.",
+      "tts_text": "[an animated storyteller explaining the scene] Meanwhile, Mitchell and Cameron worry that Lily’s first word will be “Mommy,” because there is no mother in their home. When they hear a voice repeatedly saying something that sounds like the word, they become anxious about what it means.",
+      "tags": [
+        "[an animated storyteller explaining the scene]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 6,
+      "text": "They eventually discover that the sound comes from a toy. Their pediatrician reminds them that they do not need to treat every normal event as a judgment on their family.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] They eventually discover that the sound comes from a toy. Their pediatrician reminds them that they do not need to treat every normal event as a judgment on their family.",
+      "tags": [
+        "[a storyteller emphasizing the surprising turn]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 7,
+      "text": "Jay makes fun of Manny for being afraid of a roller coaster. Gloria knows that Jay is frightened too, so she tricks both of them into going on the ride. They pretend to be calm until the roller coaster starts, and then they panic together.",
+      "tts_text": "[a storyteller smoothly moving to the next story] Jay makes fun of Manny for being afraid of a roller coaster. Gloria knows that Jay is frightened too, so she tricks both of them into going on the ride. They pretend to be calm until the roller coaster starts, and then they panic together.",
+      "tags": [
+        "[a storyteller smoothly moving to the next story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 8,
+      "text": "Overall, the episode suggests that courage does not mean having no fear. It means doing what is necessary even when you are frightened and do not look especially heroic.",
+      "tts_text": "[a storyteller with warm empathy] Overall, the episode suggests that courage does not mean having no fear. It means doing what is necessary even when you are frightened and do not look especially heroic.",
+      "tags": [
+        "[a storyteller with warm empathy]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    }
+  ],
+  "audio_file": "english.wav"
+}

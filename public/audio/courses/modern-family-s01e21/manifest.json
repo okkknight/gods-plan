@@ -1,0 +1,97 @@
+{
+  "generated_at": "2026-07-27T14:55:11.465Z",
+  "course": "modern-family-s01e21",
+  "mode": "english",
+  "model": "s2.1-pro-free",
+  "reference_id": "76fcd904aa4b4a47af107686abd68248",
+  "performance_profile": "storyteller-v8",
+  "speed": 0.9,
+  "volume": 1.5,
+  "temperature": 0.9,
+  "top_p": 0.92,
+  "script_sha256": "7efe4cfd2312e745232474067521297430dbf38e91d3c485c9f04341dc56075a",
+  "segment_count": 8,
+  "segments": [
+    {
+      "index": 1,
+      "text": "I’d like to introduce Episode 21 of Modern Family Season 1. It’s called “Travels with Scout.” Several temporary visitors enter the family’s life and create unexpected emotional reactions.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 21 of Modern Family Season 1. It’s called “Travels with Scout.” Several temporary visitors enter the family’s life and create unexpected emotional reactions.",
+      "tags": [
+        "[a warm storyteller inviting the listener into the story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 2,
+      "text": "Phil’s father, Frank, arrives in his motor home with a dog named Scout. He says he cannot take care of the dog for a while and asks the Dunphys to keep him. Claire strongly objects because she believes the house is already chaotic enough.",
+      "tts_text": "[a natural conversational storyteller] Phil’s father, Frank, arrives in his motor home with a dog named Scout. He says he cannot take care of the dog for a while and asks the Dunphys to keep him. Claire strongly objects because she believes the house is already chaotic enough.",
+      "tags": [
+        "[a natural conversational storyteller]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 3,
+      "text": "However, after spending time with Scout, she becomes the person most attached to him. When Frank decides to take the dog with him again, Claire pretends not to care, but she is clearly heartbroken.",
+      "tts_text": "[a storyteller building gentle suspense] However, after spending time with Scout, she becomes the person most attached to him. When Frank decides to take the dog with him again, Claire pretends not to care, but she is clearly heartbroken.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 4,
+      "text": "Meanwhile, Jay meets Ben, one of Mitchell’s old acting friends, who has appeared in a new horror movie. Jay does not realize it is a horror film and takes Manny to see it. Manny becomes terrified and starts sleeping in Jay and Gloria’s bed.",
+      "tts_text": "[a storyteller with playful humor] Meanwhile, Jay meets Ben, one of Mitchell’s old acting friends, who has appeared in a new horror movie. Jay does not realize it is a horror film and takes Manny to see it. Manny becomes terrified and starts sleeping in Jay and Gloria’s bed.",
+      "tags": [
+        "[a storyteller with playful humor]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 5,
+      "text": "Jay invites Ben to the house to show Manny that the actor is just a normal person. Unfortunately, the doorbell is broken, so Ben appears outside the window while holding a fake machete from the movie. Instead of curing Manny’s fear, the visit makes it much worse.",
+      "tts_text": "[an animated storyteller explaining the scene] Jay invites Ben to the house to show Manny that the actor is just a normal person. Unfortunately, the doorbell is broken, so Ben appears outside the window while holding a fake machete from the movie. Instead of curing Manny’s fear, the visit makes it much worse.",
+      "tags": [
+        "[an animated storyteller explaining the scene]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 6,
+      "text": "In the third storyline, Dylan’s band needs a new drummer. Cameron says he used to play and auditions for the group. His first attempt is poor, but after switching the drumsticks to the correct hands, he becomes impressive.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] In the third storyline, Dylan’s band needs a new drummer. Cameron says he used to play and auditions for the group. His first attempt is poor, but after switching the drumsticks to the correct hands, he becomes impressive.",
+      "tags": [
+        "[a storyteller emphasizing the surprising turn]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 7,
+      "text": "Mitchell is annoyed at first, then attends the concert and feels proud of Cameron. The original drummer soon returns, so Cameron’s career in the band ends almost immediately.",
+      "tts_text": "[a storyteller smoothly moving to the next story] Mitchell is annoyed at first, then attends the concert and feels proud of Cameron. The original drummer soon returns, so Cameron’s career in the band ends almost immediately.",
+      "tags": [
+        "[a storyteller smoothly moving to the next story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 8,
+      "text": "Overall, the episode shows that even a short experience can reveal a new side of someone. Claire discovers how attached she can become, and Cameron gets to be a performer again, even if only for one night.",
+      "tts_text": "[a storyteller with warm empathy] Overall, the episode shows that even a short experience can reveal a new side of someone. Claire discovers how attached she can become, and Cameron gets to be a performer again, even if only for one night.",
+      "tags": [
+        "[a storyteller with warm empathy]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    }
+  ],
+  "audio_file": "english.wav"
+}

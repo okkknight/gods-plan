@@ -1,0 +1,107 @@
+{
+  "generated_at": "2026-07-27T14:55:36.626Z",
+  "course": "modern-family-s01e22",
+  "mode": "english",
+  "model": "s2.1-pro-free",
+  "reference_id": "76fcd904aa4b4a47af107686abd68248",
+  "performance_profile": "storyteller-v8",
+  "speed": 0.9,
+  "volume": 1.5,
+  "temperature": 0.9,
+  "top_p": 0.92,
+  "script_sha256": "79be3af94f144b5b31173d959802a09925bcbf3be88faa2ad1e516534f9feed5",
+  "segment_count": 9,
+  "segments": [
+    {
+      "index": 1,
+      "text": "I’d like to introduce Episode 22 of Modern Family Season 1. It’s called “Airport 2010,” and it follows the family as they try to leave for a vacation in Hawaii.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 22 of Modern Family Season 1. It’s called “Airport 2010,” and it follows the family as they try to leave for a vacation in Hawaii.",
+      "tags": [
+        "[a warm storyteller inviting the listener into the story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 2,
+      "text": "Gloria tells Jay that the trip is a birthday present. Jay expects a quiet vacation for the two of them, but at the airport he discovers that Gloria has invited the entire family.",
+      "tts_text": "[a natural conversational storyteller] Gloria tells Jay that the trip is a birthday present. Jay expects a quiet vacation for the two of them, but at the airport he discovers that Gloria has invited the entire family.",
+      "tags": [
+        "[a natural conversational storyteller]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 3,
+      "text": "He complains about the crowd, but his deeper concern is that Gloria may be avoiding time alone with him. Later, he learns that everyone else will return home early. Gloria has actually planned several private days for the two of them at the end of the trip.",
+      "tts_text": "[a storyteller building gentle suspense] He complains about the crowd, but his deeper concern is that Gloria may be avoiding time alone with him. Later, he learns that everyone else will return home early. Gloria has actually planned several private days for the two of them at the end of the trip.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 4,
+      "text": "Meanwhile, Mitchell realizes that he left his wallet and identification at home. He blames Cameron for not packing them. Phil offers to drive Mitchell back to the house, which upsets Claire.",
+      "tts_text": "[a storyteller with playful humor] Meanwhile, Mitchell realizes that he left his wallet and identification at home. He blames Cameron for not packing them. Phil offers to drive Mitchell back to the house, which upsets Claire.",
+      "tags": [
+        "[a storyteller with playful humor]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 5,
+      "text": "She is afraid of flying and wanted Phil to stay with her, but she expected him to understand without being told. Cameron advises Claire to express her needs instead of asking Phil to read her mind.",
+      "tts_text": "[an animated storyteller explaining the scene] She is afraid of flying and wanted Phil to stay with her, but she expected him to understand without being told. Cameron advises Claire to express her needs instead of asking Phil to read her mind.",
+      "tags": [
+        "[an animated storyteller explaining the scene]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 6,
+      "text": "At the same time, Phil tells Mitchell that partners should sometimes notice when help is needed, even if nobody asks directly. Both couples eventually apologize.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] At the same time, Phil tells Mitchell that partners should sometimes notice when help is needed, even if nobody asks directly. Both couples eventually apologize.",
+      "tags": [
+        "[a storyteller emphasizing the surprising turn]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 7,
+      "text": "Several smaller problems happen at the airport. Manny’s name matches a name on a no-fly list, so security questions him. Haley flirts with an attractive boy and later discovers that he is only fourteen.",
+      "tts_text": "[a storyteller smoothly moving to the next story] Several smaller problems happen at the airport. Manny’s name matches a name on a no-fly list, so security questions him. Haley flirts with an attractive boy and later discovers that he is only fourteen.",
+      "tags": [
+        "[a storyteller smoothly moving to the next story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 8,
+      "text": "Dylan, meanwhile, is trapped inside the Dunphy house after falling asleep in Haley’s room the night before.",
+      "tts_text": "[a storyteller with warm empathy] Dylan, meanwhile, is trapped inside the Dunphy house after falling asleep in Haley’s room the night before.",
+      "tags": [
+        "[a storyteller with warm empathy]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 9,
+      "text": "Overall, the episode is about communication. A partner cannot read every thought, but “you never asked” is not always a good excuse for failing to pay attention.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Overall, the episode is about communication. A partner cannot read every thought, but “you never asked” is not always a good excuse for failing to pay attention.",
+      "tags": [
+        "[a thoughtful storyteller reflecting on the character]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    }
+  ],
+  "audio_file": "english.wav"
+}

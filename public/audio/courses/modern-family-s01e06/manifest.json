@@ -1,0 +1,97 @@
+{
+  "generated_at": "2026-07-27T14:47:10.335Z",
+  "course": "modern-family-s01e06",
+  "mode": "english",
+  "model": "s2.1-pro-free",
+  "reference_id": "76fcd904aa4b4a47af107686abd68248",
+  "performance_profile": "storyteller-v8",
+  "speed": 0.9,
+  "volume": 1.5,
+  "temperature": 0.9,
+  "top_p": 0.92,
+  "script_sha256": "7b7572e221d5e09185e20ea36ac92b67e671a0a89903704adf01d1c6060861c3",
+  "segment_count": 8,
+  "segments": [
+    {
+      "index": 1,
+      "text": "I’d like to introduce Episode 6 of Modern Family Season 1. It’s called “Run for Your Wife.” The episode takes place on the first day of school.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 6 of Modern Family Season 1. It’s called “Run for Your Wife.” The episode takes place on the first day of school.",
+      "tags": [
+        "[a warm storyteller inviting the listener into the story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 2,
+      "text": "After all three children leave the house, Claire expects to enjoy the peace and quiet. Instead, the empty house makes her feel a little emotional. Phil completely misreads the situation. He thinks Claire needs excitement, so he challenges her to a running race.",
+      "tts_text": "[a natural conversational storyteller] After all three children leave the house, Claire expects to enjoy the peace and quiet. Instead, the empty house makes her feel a little emotional. Phil completely misreads the situation. He thinks Claire needs excitement, so he challenges her to a running race.",
+      "tags": [
+        "[a natural conversational storyteller]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 3,
+      "text": "Claire is actually faster, but she lets Phil win because she knows how much it means to him. Just as Phil is celebrating, Haley, who is learning to drive, accidentally hits him with the car.",
+      "tts_text": "[a storyteller building gentle suspense] Claire is actually faster, but she lets Phil win because she knows how much it means to him. Just as Phil is celebrating, Haley, who is learning to drive, accidentally hits him with the car.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 4,
+      "text": "The second storyline is about Manny’s first day at school. He wants to wear a traditional poncho and play the pan flute for his classmates. Jay is worried that the other children will make fun of him, so he secretly takes the poncho away.",
+      "tts_text": "[a storyteller with playful humor] The second storyline is about Manny’s first day at school. He wants to wear a traditional poncho and play the pan flute for his classmates. Jay is worried that the other children will make fun of him, so he secretly takes the poncho away.",
+      "tags": [
+        "[a storyteller with playful humor]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 5,
+      "text": "Gloria finds out and insists that Jay return it. She believes Manny should be free to express himself. However, when Manny starts practicing the extremely annoying flute, Gloria quietly asks Jay to make that part of the outfit disappear.",
+      "tts_text": "[an animated storyteller explaining the scene] Gloria finds out and insists that Jay return it. She believes Manny should be free to express himself. However, when Manny starts practicing the extremely annoying flute, Gloria quietly asks Jay to make that part of the outfit disappear.",
+      "tags": [
+        "[an animated storyteller explaining the scene]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 6,
+      "text": "Meanwhile, Mitchell and Cameron panic after Lily bumps her head. They rush her to the doctor and worry that everyone will think they are careless parents. They also misunderstand several normal comments and assume that people are judging them as a gay couple.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Meanwhile, Mitchell and Cameron panic after Lily bumps her head. They rush her to the doctor and worry that everyone will think they are careless parents. They also misunderstand several normal comments and assume that people are judging them as a gay couple.",
+      "tags": [
+        "[a storyteller emphasizing the surprising turn]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 7,
+      "text": "The doctor tells them that Lily is completely fine. They finally relax, only to lock her inside the car by accident a few minutes later.",
+      "tts_text": "[a storyteller smoothly moving to the next story] The doctor tells them that Lily is completely fine. They finally relax, only to lock her inside the car by accident a few minutes later.",
+      "tags": [
+        "[a storyteller smoothly moving to the next story]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 8,
+      "text": "Overall, the episode is about anxious parents trying to do the right thing. Their intentions are good, but fear and pride often make simple situations much more complicated than they need to be.",
+      "tts_text": "[a storyteller with warm empathy] Overall, the episode is about anxious parents trying to do the right thing. Their intentions are good, but fear and pride often make simple situations much more complicated than they need to be.",
+      "tags": [
+        "[a storyteller with warm empathy]"
+      ],
+      "speed": 0.9,
+      "cached": false
+    }
+  ],
+  "audio_file": "english.wav"
+}

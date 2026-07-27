@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T14:41:14.468Z",
+  "generated_at": "2026-07-27T14:44:26.488Z",
   "course": "modern-family-s01e01",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -20,7 +20,7 @@
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": true
     },
     {
       "index": 2,
@@ -30,7 +30,7 @@
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": true
     },
     {
       "index": 3,
@@ -40,7 +40,7 @@
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": true
     },
     {
       "index": 4,
@@ -50,7 +50,7 @@
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": true
     },
     {
       "index": 5,
@@ -60,7 +60,7 @@
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": true
     },
     {
       "index": 6,
@@ -70,7 +70,7 @@
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": true
     },
     {
       "index": 7,
@@ -80,7 +80,7 @@
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": true
     },
     {
       "index": 8,
@@ -90,7 +90,7 @@
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": true
     },
     {
       "index": 9,
@@ -100,7 +100,7 @@
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": true
     },
     {
       "index": 10,
@@ -110,7 +110,7 @@
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": true
     },
     {
       "index": 11,
@@ -120,7 +120,7 @@
         "[a storyteller warmly enjoying the happy moment]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": true
     },
     {
       "index": 12,
@@ -130,7 +130,7 @@
         "[a heartfelt storyteller bringing the story home]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": true
     }
   ],
   "audio_file": "english.wav"
