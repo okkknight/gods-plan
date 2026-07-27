@@ -37,35 +37,17 @@ Overall, the finale captures the central idea of the first season. This family i
 
 ## 3. Cue Version
 
-### Opening
-- season finale / Claire plans a perfect family portrait
+I’d like to introduce Episode 24 of *Modern Family* Season 1. ______________________________
 
-### Claire’s plan
-- everyone on time / matching white clothes
-- broken stair + many delays
-- more control → more chaos
+Claire wants to take a perfect family photograph. ______________________________ On the day of the picture, however, every part of the plan begins to fall apart. Claire also tries to repair a broken stair at home, but she only makes it worse. The more she controls the details, the more chaotic the day becomes.
 
-### Lakers game
-- Phil, Alex, Gloria, Manny
-- Phil and Gloria appear on kiss cam
-- refuse at first → crowd boos → Gloria kisses Phil
-- Phil thinks Claire saw it → prepares an explanation
+Phil takes Alex to a Lakers game, and Gloria and Manny go with them. ______________________________ ______________________________ ______________________________
 
-### Mitchell, Cameron, Luke, and Jay
-- Cameron sings at wedding
-- pigeon enters house → Mitchell nearly destroys room
-- Luke interviews Jay for school
-- real stories seem boring → Jay invents dramatic adventures
+Meanwhile, Cameron works as a singer at a wedding, while Mitchell stays home with Lily. ______________________________ Luke interviews Jay for a school project, but he finds Jay’s real stories boring. Jay responds by inventing increasingly dramatic adventures from his past.
 
-### The photograph
-- family finally arrives in clean white clothes
-- arguments break out
-- Claire insists on perfection
-- Jay starts mud fight → clothes ruined
-- everyone relaxes → joyful, imperfect photo
+The family finally arrives for the photograph in their clean white clothes, but several arguments immediately break out. ______________________________ Jay finally loses patience and starts a mud fight, ruining everyone’s clothes. ______________________________ ______________________________
 
-### Closing
-- real family = disorder, unpredictability, and being together
+Overall, the finale captures the central idea of the first season. ______________________________
 
 ---
 

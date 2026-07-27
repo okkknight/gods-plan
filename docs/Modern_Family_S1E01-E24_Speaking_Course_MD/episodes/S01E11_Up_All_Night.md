@@ -33,31 +33,15 @@ Overall, this episode is about patience. The characters have to endure physical 
 
 ## 3. Cue Version
 
-### Opening
-- long, exhausting night / patience
+I’d like to introduce Episode 11 of *Modern Family* Season 1. ______________________________ As the title suggests, almost everyone has a long and exhausting night.
 
-### Javier returns
-- Manny’s biological father / unreliable but charming
-- Jay dislikes him at first
-- baseball + motorcycles → Jay gets caught up in his energy
-- Gloria knows: good at promises, bad at keeping them
-- Javier disappoints Manny again
-- Jay finally understands Gloria’s distrust
+Manny’s biological father, Javier, suddenly arrives. ______________________________ Jay dislikes him at first because he believes Javier keeps disappointing Manny. ______________________________ Gloria is not impressed. She knows that Javier is good at making promises but bad at keeping them. Sure enough, he lets Manny down again. ______________________________
 
-### Phil’s kidney stone
-- severe pain → Claire calls firefighters
-- Claire changes into a nicer outfit for a handsome firefighter
-- Phil notices even while suffering
-- hospital: pain + jealousy + dramatic behavior
+At the Dunphy house, Phil has a severe kidney stone and can barely move. ______________________________ Phil is in terrible pain, but he still notices. ______________________________
 
-### Lily’s sleep training
-- Mitchell: let her cry for a while
-- Cameron: cannot stand it
-- argue, check on Lily, stop each other
-- exhausted / Mitchell hurts himself / nobody admits defeat
+Meanwhile, Mitchell and Cameron try to teach Lily to fall asleep by herself. ______________________________ They spend the night arguing, checking on Lily, and stopping each other from going into the room. Both are exhausted, and Mitchell even hurts himself in the dark, but neither wants to admit defeat.
 
-### Closing
-- endure pain / crying / someone who keeps letting you down
+Overall, this episode is about patience. ______________________________
 
 ---
 

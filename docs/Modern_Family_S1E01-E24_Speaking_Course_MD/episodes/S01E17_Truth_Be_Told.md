@@ -37,33 +37,17 @@ Overall, the episode shows that honesty is not always rewarded immediately. Stil
 
 ## 3. Cue Version
 
-### Opening
-- every storyline: a truth becomes impossible to ignore
+I’d like to introduce Episode 17 of *Modern Family* Season 1. ______________________________ Each storyline involves someone avoiding a truth that eventually becomes impossible to ignore.
 
-### Phil and Denise
-- reconnect online with old college friend
-- Phil thinks she is just friendly / Claire suspects romantic interest
-- Denise brings up private memories and sends signals
-- Phil misses everything until interest becomes obvious
-- admits he is bad at reading the situation
+Phil reconnects online with Denise, an old friend from college. ______________________________ ______________________________ Phil misses every signal until Denise finally makes her interest obvious. He is shocked, while Claire is not surprised at all. After Denise leaves, Phil has to admit that he is not nearly as good at reading women as he thought.
 
-### Alex and Luke
-- Alex tells Luke he was adopted as a prank
-- Luke believes it → reinterprets family behavior
-- Alex realizes she has **gone too far**
+Meanwhile, Alex plays a cruel prank on Luke. ______________________________ ______________________________ ______________________________
 
-### Jay and the turtle
-- accidentally kills Manny’s pet turtle
-- invents raccoon story
-- Manny already knows / waits for confession
-- Jay finally tells the truth
+At Jay’s house, Jay accidentally kills Manny’s pet turtle. ______________________________ Manny quickly figures out what really happened, but he waits for Jay to tell the truth on his own. Jay finally confesses.
 
-### Mitchell and work
-- tells boss family must come first sometimes
-- expects respect → gets fired
+Mitchell also tries to be honest. ______________________________ He expects the boss to respect his courage, but he gets fired instead.
 
-### Closing
-- honesty may be uncomfortable / avoiding truth creates a bigger problem
+Overall, the episode shows that honesty is not always rewarded immediately. ______________________________
 
 ---
 

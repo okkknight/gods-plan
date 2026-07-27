@@ -37,34 +37,17 @@ Overall, the episode suggests that courage does not mean having no fear. It mean
 
 ## 3. Cue Version
 
-### Opening
-- every storyline focuses on a fear
+I’d like to introduce Episode 16 of *Modern Family* Season 1. ______________________________
 
-### Phil and Luke
-- Phil fears narrow crawl space but hides it
-- Luke and remote-control car get stuck inside
-- Phil must go in to help
-- thinks he finds human bones → harmless
-- still moves forward because Luke needs him
+Phil is terrified of the narrow crawl space under the house, but he does not want Luke to know. ______________________________ He tries to act brave, even after finding what he thinks are human bones. The “danger” turns out to be harmless, but Phil still proves that he can move forward when Luke needs him.
 
-### Claire, Haley, and Alex
-- Haley’s driving test → Claire worries → Haley passes
-- Alex fears looking awkward at a dance
-- Claire: avoiding embarrassment is not the same as being safe
+Claire takes Haley to her driving test. ______________________________ Claire also encourages Alex to attend a school dance. ______________________________
 
-### Mitchell, Cameron, and Lily
-- fear first word will be “Mommy”
-- hear the word repeatedly → anxious
-- source is a toy
-- doctor: normal event is not a judgment on the family
+Meanwhile, Mitchell and Cameron worry that Lily’s first word will be “Mommy,” because there is no mother in their home. ______________________________ They eventually discover that the sound comes from a toy. ______________________________
 
-### Jay and Manny
-- Jay mocks Manny’s roller-coaster fear
-- Gloria knows Jay is afraid too
-- tricks both onto ride → both panic
+Jay makes fun of Manny for being afraid of a roller coaster. ______________________________ They pretend to be calm until the roller coaster starts, and then they panic together.
 
-### Closing
-- courage is not no fear / do what is needed while afraid
+Overall, the episode suggests that courage does not mean having no fear. ______________________________
 
 ---
 

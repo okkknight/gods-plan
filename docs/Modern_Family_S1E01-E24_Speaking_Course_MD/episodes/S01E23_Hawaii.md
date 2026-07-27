@@ -33,30 +33,15 @@ Overall, the episode shows that travel does not automatically remove anxiety. Pe
 
 ## 3. Cue Version
 
-### Opening
-- family arrives in Hawaii / vacation does not automatically create relaxation
+I’d like to introduce Episode 23 of *Modern Family* Season 1. ______________________________
 
-### Phil and Claire
-- never had proper wedding or honeymoon
-- Phil tries to create private romantic time
-- children interrupt
-- Haley gets drunk → Claire takes care of her and warns her
-- Phil prepares small ceremony → renew their vows
+Phil wants to turn the trip into the honeymoon that he and Claire never really had. ______________________________ Phil tries to create private romantic time, but their children keep interrupting. Haley goes out with some young people she has just met and becomes drunk. Claire takes care of her and warns her that alcohol will always have consequences. ______________________________
 
-### Jay and Gloria
-- Jay wants food and rest
-- remembers father died at sixty-three / Jay is now sixty-three
-- becomes obsessed with exercise
-- hurts his back
-- admits he is afraid of dying → finally relaxes
+Jay plans to spend the vacation eating and relaxing. ______________________________ Jay has just turned sixty-three himself, so he suddenly becomes obsessed with exercise. He works out instead of enjoying the trip and eventually hurts his back. Jay finally admits to Gloria that he is afraid of dying. Once he says it aloud, he is able to slow down and enjoy the vacation with her.
 
-### Mitchell and Cameron
-- Mitchell wants sightseeing / Cameron wants hotel relaxation
-- try to force same plan → decide to do separate things
-- accidentally leave Lily behind twice
+Meanwhile, Mitchell wants to visit every attraction, while Cameron wants to relax at the hotel. ______________________________ ______________________________
 
-### Closing
-- people bring fears on vacation / name the fear before relaxing
+Overall, the episode shows that travel does not automatically remove anxiety. ______________________________
 
 ---
 

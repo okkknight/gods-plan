@@ -35,31 +35,15 @@ Overall, the episode shows that people are often different from our first impres
 
 ## 3. Cue Version
 
-### Opening
-- I’d like to introduce Episode 3... / three storylines / getting to know one another
+I’d like to introduce Episode 3 of *Modern Family* Season 1. ______________________________ ______________________________
 
-### Phil and Jay
-- Phil wants **a closer relationship / Jay’s approval**
-- Jay plans to **fly a model airplane** → Phil invites himself along
-- Phil keeps **talking and asking questions** → Jay gets annoyed
-- hoop in the distance → plane **hits Phil in the face**
-- Jay: “an accident” / Claire: probably **on purpose**
-- final admission: Phil gets on his nerves, but Jay **doesn’t dislike him**
+The first story is about Phil and Jay. ______________________________ ______________________________ Phil is extremely excited and keeps talking, while Jay just wants to enjoy his hobby in peace. ______________________________ He says he is going to fly the plane through it, but the plane hits Phil right in the face instead. Jay claims it was an accident, although Claire is pretty sure he did it on purpose. She makes Jay apologize. In the end, Jay admits that Phil can get on his nerves, but he does not actually dislike him. Phil is thrilled because he has always wanted Jay’s approval.
 
-### Gloria and Alex
-- Claire wants Alex to **wear a dress** → Gloria takes her shopping
-- Alex compares herself with **pretty, popular Haley**
-- Gloria: don’t compare yourself / beautiful **in your own way**
-- Manny gives Claire mature advice → **accept Alex for who she is**
+The second story is about Gloria and Alex. ______________________________ ______________________________ ______________________________ Meanwhile, Manny gives Claire some surprisingly mature advice. He tells her that she should accept Alex instead of trying to turn her into someone else.
 
-### Mitchell and Cameron
-- Costco for diapers
-- Mitchell **looks down on it** at first
-- low prices + huge selection → completely **changes his mind**
-- ending: several full shopping carts
+The third story is about Mitchell and Cameron. ______________________________ ______________________________ By the end, the person who did not want to go is the one filling several shopping carts.
 
-### Closing
-- first impressions / unexpected sides / relationships move forward
+Overall, the episode shows that people are often different from our first impression of them. ______________________________
 
 ---
 

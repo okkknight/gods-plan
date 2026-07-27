@@ -33,31 +33,15 @@ Overall, the episode is about anxious parents trying to do the right thing. Thei
 
 ## 3. Cue Version
 
-### Opening
-- first day of school / parents suddenly have space and anxiety
+I’d like to introduce Episode 6 of *Modern Family* Season 1. ______________________________ The episode takes place on the first day of school.
 
-### Phil and Claire
-- children leave → quiet, empty house
-- Phil **misreads Claire’s feelings**
-- challenges her to a running race
-- Claire is faster but **lets him win**
-- Haley is learning to drive → accidentally hits Phil
+After all three children leave the house, Claire expects to enjoy the peace and quiet. ______________________________ Phil completely misreads the situation. He thinks Claire needs excitement, so he challenges her to a running race. Claire is actually faster, but she lets Phil win because she knows how much it means to him. ______________________________
 
-### Manny’s outfit
-- poncho + pan flute for school
-- Jay worries classmates will **make fun of him**
-- secretly takes the poncho
-- Gloria: let Manny express himself → makes Jay return it
-- flute becomes unbearable → Gloria quietly asks Jay to remove it
+The second storyline is about Manny’s first day at school. ______________________________ ______________________________ Gloria finds out and insists that Jay return it. She believes Manny should be free to express himself. ______________________________
 
-### Mitchell, Cameron, and Lily
-- Lily bumps her head → panic → doctor
-- worry people will see them as careless parents
-- misunderstand normal comments as judgment
-- Lily is fine → then they **lock her in the car**
+Meanwhile, Mitchell and Cameron panic after Lily bumps her head. ______________________________ ______________________________ The doctor tells them that Lily is completely fine. They finally relax, only to lock her inside the car by accident a few minutes later.
 
-### Closing
-- good intentions / parental anxiety / fear makes things more complicated
+Overall, the episode is about anxious parents trying to do the right thing. ______________________________
 
 ---
 

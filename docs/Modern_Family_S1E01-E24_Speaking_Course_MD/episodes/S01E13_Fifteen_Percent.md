@@ -33,32 +33,15 @@ Overall, the episode is about pride and gradual change. Nobody becomes a new per
 
 ## 3. Cue Version
 
-### Opening
-- “Fifteen Percent” / small change still matters
+I’d like to introduce Episode 13 of *Modern Family* Season 1. ______________________________ ______________________________
 
-### Jay, Mitchell, and Shorty
-- Jay introduces Cameron as Mitchell’s **friend**
-- Mitchell feels Jay has not fully accepted them
-- suggests Shorty might be gay → tests Jay’s reaction
-- Jay is uncomfortable but tries to be supportive
-- truth: Shorty has gambling debt, not a secret identity
-- Jay lends him money
-- Mitchell sees a small but real improvement
+The first story begins when Jay introduces Cameron as “Mitchell’s friend” instead of his partner. ______________________________ To test him, Mitchell suggests that Jay’s old friend Shorty might be gay. Jay is uncomfortable, but he tries hard to respond in a supportive way. Later, Jay learns that Shorty is not gay at all. He has a gambling debt and is afraid to tell his wife. Jay quietly lends him the money. ______________________________
 
-### The remote control
-- Claire cannot use complicated system
-- Phil makes fun of her
-- challenge: teach Haley → Haley learns quickly
-- Claire secretly asks Haley for help
+Meanwhile, Claire cannot operate the family’s complicated entertainment system. ______________________________ Claire challenges him to teach Haley, expecting Haley to fail too. Instead, Haley learns it quickly. ______________________________
 
-### Manny’s blind date
-- Gloria arranges date and helps him dress
-- Whitney mistakes Cameron for her date
-- prefers talking to Cameron
-- Manny handles disappointment with dignity
+In the third storyline, Gloria arranges a blind date for Manny and helps him dress for it. ______________________________ Manny is disappointed, but he tries to handle the situation with dignity.
 
-### Closing
-- pride / gradual change / nobody changes overnight
+Overall, the episode is about pride and gradual change. ______________________________ ______________________________
 
 ---
 

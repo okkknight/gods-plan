@@ -33,32 +33,15 @@ Overall, the episode shows how strongly people connect their identity to a role.
 
 ## 3. Cue Version
 
-### Opening
-- adults struggle when their usual roles change
+I’d like to introduce Episode 20 of *Modern Family* Season 1. ______________________________ The episode is about adults struggling when their usual role is taken away or begins to change.
 
-### Basketball
-- coach yells at children and makes cruel comments
-- Phil and Jay confront him → he quits mid-game
-- both want to become coach
-- compete for control instead of working together
-- adult pride becomes more important than players
+Luke and Manny’s basketball coach constantly yells at the children and makes cruel comments. ______________________________ The team now needs a coach, and both Phil and Jay want the position. They begin competing for control instead of working together. ______________________________ ______________________________
 
-### Claire and Gloria
-- Alex leaves Claire to shop with friends
-- Manny asks Gloria not to be affectionate in front of friends
-- both mothers feel rejected
-- walk together with Lily → accept children need independence
+Meanwhile, Claire takes Alex shopping. ______________________________ ______________________________ Gloria has the same experience when Manny asks her not to be so affectionate in front of his friends. ______________________________
 
-### Mitchell and Cameron
-- Mitchell unemployed / Cameron works at greeting-card company
-- roles reversed
-- Mitchell misses work / Cameron misses Lily
-- both pretend to be happy
-- job offer → admit they want old arrangement
-- damage new boss’s Ferrari
+Mitchell is still unemployed, while Cameron now works for a greeting-card company. ______________________________ ______________________________ Mitchell receives a job offer, and they finally admit that they want their old arrangement back. Then they accidentally damage the new boss’s Ferrari, making the decision much less optional.
 
-### Closing
-- identity tied to roles / role change can feel like loss
+Overall, the episode shows how strongly people connect their identity to a role. ______________________________
 
 ---
 

@@ -33,32 +33,15 @@ Overall, the episode shows how an unexpected person or action can completely cha
 
 ## 3. Cue Version
 
-### Opening
-- Phil’s birthday + first iPad release
+I’d like to introduce Episode 19 of *Modern Family* Season 1. ______________________________ ______________________________
 
-### The iPad
-- Phil desperately wants one on release day
-- Claire promises to wait in line → oversleeps
-- sold out everywhere → spends day searching
-- Luke finds online seller
-- tells dramatic story: father seriously ill / final wish
-- gets iPad → Phil believes perfect birthday
+Phil desperately wants the new device and dreams of getting one on the first day. ______________________________ ______________________________ She spends the day searching because she does not want to disappoint Phil. Luke eventually finds a seller online. ______________________________ The story is completely dishonest, but it works. Phil receives the iPad and believes his family has given him the perfect birthday.
 
-### Chess
-- Jay thinks he is an expert and hates losing
-- Manny is stronger but hides ability to protect Jay’s pride
-- finally plays seriously → wins Jay’s watch
-- secret: Gloria is best player in the house
+Meanwhile, Jay plays chess with Manny. ______________________________ ______________________________ Manny finally decides to play seriously and wins one of Jay’s watches. ______________________________
 
-### The neighbors
-- baby monitor picks up argument
-- Cameron gets involved in their marriage
-- Mitchell thinks he is crossing a line
-- tries awkwardly to look tougher
-- interference surprisingly helps the couple talk
+Mitchell and Cameron accidentally hear their neighbors arguing through the baby monitor. ______________________________ Mitchell thinks he is crossing a line. ______________________________ Cameron’s interference is inappropriate, but it surprisingly helps the couple communicate.
 
-### Closing
-- unexpected action changes the situation / imperfect methods, desired result
+Overall, the episode shows how an unexpected person or action can completely change a situation, even when the method is far from perfect.
 
 ---
 

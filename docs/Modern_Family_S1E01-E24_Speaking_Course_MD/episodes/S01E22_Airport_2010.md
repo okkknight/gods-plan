@@ -33,31 +33,15 @@ Overall, the episode is about communication. A partner cannot read every thought
 
 ## 3. Cue Version
 
-### Opening
-- family tries to leave for Hawaii / airport chaos
+I’d like to introduce Episode 22 of *Modern Family* Season 1. ______________________________
 
-### Jay and Gloria
-- birthday trip → Jay expects private vacation
-- discovers whole family is coming
-- worries Gloria avoids being alone with him
-- truth: family returns early / Gloria planned private days later
+Gloria tells Jay that the trip is a birthday present. ______________________________ He complains about the crowd, but his deeper concern is that Gloria may be avoiding time alone with him. Later, he learns that everyone else will return home early. Gloria has actually planned several private days for the two of them at the end of the trip.
 
-### Two couples and the wallet
-- Mitchell forgets wallet and ID → blames Cameron
-- Phil drives him home
-- Claire is afraid of flying and wants Phil nearby
-- expects him to read her mind
-- Cameron: express your needs
-- Phil: partners should also notice unspoken needs
-- both couples apologize
+Meanwhile, Mitchell realizes that he left his wallet and identification at home. ______________________________ Phil offers to drive Mitchell back to the house, which upsets Claire. ______________________________ Cameron advises Claire to express her needs instead of asking Phil to read her mind. ______________________________ Both couples eventually apologize.
 
-### Airport problems
-- Manny matches name on no-fly list
-- Haley flirts with boy → he is fourteen
-- Dylan trapped in Dunphy house
+Several smaller problems happen at the airport. ______________________________ Haley flirts with an attractive boy and later discovers that he is only fourteen. ______________________________
 
-### Closing
-- communication needs both speaking clearly and paying attention
+Overall, the episode is about communication. ______________________________
 
 ---
 

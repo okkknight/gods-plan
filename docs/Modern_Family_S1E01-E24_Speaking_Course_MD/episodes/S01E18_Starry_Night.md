@@ -33,32 +33,15 @@ Overall, the episode is about giving people room to do things in their own way. 
 
 ## 3. Cue Version
 
-### Opening
-- helping someone versus taking over
+I’d like to introduce Episode 18 of *Modern Family* Season 1. ______________________________ The episode is about helping family members without taking over their responsibilities.
 
-### School projects
-- Luke: presentation about Van Gogh
-- Phil volunteers but keeps getting distracted
-- Haley expects Claire to make all the cupcakes
-- Claire refuses to do everything
-- Haley’s cupcakes are terrible, but she takes responsibility
-- Luke completes strange presentation in his own way
+Luke has to prepare a school presentation about Vincent van Gogh. ______________________________ Claire is supposed to help Haley make cupcakes for a school event. She gradually realizes that Haley expects her to do all the work. Claire refuses to take over, so Haley has to make the cupcakes herself. They turn out terribly, but she finally takes responsibility for her own assignment. ______________________________
 
-### Starry night
-- Jay, Mitchell, Manny go stargazing
-- Mitchell wants meaningful time with Jay
-- Jay jokes about sensitive, unathletic childhood
-- Manny is teased too
-- Mitchell sees himself in Manny → supports him
-- three finally share a genuine moment
+Meanwhile, Jay, Mitchell, and Manny go outside to look at the stars. ______________________________ Manny is teased for similar reasons. Mitchell first becomes defensive, then realizes that Manny reminds him of himself. He begins supporting Manny instead of letting Jay embarrass him. ______________________________
 
-### Cameron and Gloria
-- dinner together / Cameron tries very spicy food
-- cannot handle it → Gloria takes care of him
-- discover shared interests and get along well
+In the third storyline, Cameron and Gloria go out for dinner. ______________________________ ______________________________ ______________________________
 
-### Closing
-- give people room / support without control
+Overall, the episode is about giving people room to do things in their own way. ______________________________
 
 ---
 

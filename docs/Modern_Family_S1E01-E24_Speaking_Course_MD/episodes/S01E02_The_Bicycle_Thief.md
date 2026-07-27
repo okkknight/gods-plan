@@ -42,19 +42,19 @@ Overall, the episode shows that parents often make mistakes while trying to do t
 
 ## 3. Cue Version
 
-I’d like to introduce Episode 2 of *Modern Family* Season 1. It is called **“The Bicycle Thief.”** All three storylines explore the same question: ______________________________?
+I’d like to introduce Episode 2 of *Modern Family* Season 1. ______________________________ All three storylines explore the same question: what does it mean to be a good father?
 
-The first story is about Phil and Luke. Luke has been riding ______________________________ because Claire does not think he is responsible enough to own a new one. Phil disagrees and buys him a brand-new bike, hoping that Luke will ______________________________.
+The first story is about Phil and Luke. ______________________________ Phil disagrees and buys him a brand-new bike, hoping that Luke will prove he can take care of it.
 
-Later, Phil sees an identical bike sitting on the street without a lock. He assumes that Luke has left his new bike there, so he takes it to ______________________________. On his way home, Phil stops to help their attractive new neighbor, Desiree, climb through a window because ______________________________. When he comes outside again, the bike is gone.
+Later, Phil sees an identical bike sitting on the street without a lock. ______________________________ ______________________________ When he comes outside again, the bike is gone.
 
-Phil buys another identical bike to cover up the problem. However, when he gets home, he discovers that ______________________________. He has taken the wrong bike. Claire works out what happened and finds it funny, but Phil still claims that ______________________________. Then Desiree returns it and mentions that Phil was in her bedroom, exposing his lie. In the end, Phil tries to put the original bike back, but ______________________________.
+Phil buys another identical bike to cover up the problem. ______________________________ He has taken the wrong bike. ______________________________ Then Desiree returns it and mentions that Phil was in her bedroom, exposing his lie. In the end, Phil tries to put the original bike back, but its real owner catches him.
 
-The second story is about Jay and Manny. Gloria asks them to install a ceiling fan together so that they can become closer. Jay ignores the instructions, while Manny keeps warning him about safety. They ______________________________. Later, Manny’s biological father, Javier, cancels their Disneyland trip because ______________________________. Jay is furious, but he does not want Manny to feel rejected. He invents ______________________________ and uses the limousine meant for his own trip to take Manny and Gloria to Disneyland.
+The second story is about Jay and Manny. ______________________________ Jay ignores the instructions, while Manny keeps warning him about safety. They argue and say some hurtful things. Later, Manny’s biological father, Javier, cancels their Disneyland trip because he is gambling at a casino. Jay is furious, but he does not want Manny to feel rejected. ______________________________
 
-The third story is about Mitchell and Cameron. They take Lily to a parent-and-baby class. Mitchell is nervous about fitting in and asks Cameron to ______________________________. When the other children seem more advanced than Lily, they pretend that ______________________________. They quickly discover that the class is recorded on camera. Mitchell also realizes that his insecurity has made him dishonest and ______________________________.
+The third story is about Mitchell and Cameron. ______________________________ Mitchell is nervous about fitting in and asks Cameron to tone himself down. ______________________________ They quickly discover that the class is recorded on camera. ______________________________
 
-Overall, the episode shows that parents often make mistakes while trying to do the right thing. As Jay says near the end, ______________________________.
+Overall, the episode shows that parents often make mistakes while trying to do the right thing. ______________________________
 
 ---
 

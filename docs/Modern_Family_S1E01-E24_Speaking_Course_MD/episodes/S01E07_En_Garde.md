@@ -33,30 +33,15 @@ Overall, this episode is about recognizing talent without forcing it. Parents of
 
 ## 3. Cue Version
 
-### Opening
-- Manny discovers a talent for **fencing**
+I’d like to introduce Episode 7 of *Modern Family* Season 1. ______________________________ The main story begins when the family discovers that Manny is unusually talented at fencing.
 
-### Manny and Jay
-- Jay finally has a young athlete → very proud
-- final opponent: girl with a tragic background and disability
-- adults send **conflicting signals**
-- compete honestly or let her win?
-- Manny wins and celebrates → awkward ending
+Jay is delighted because he finally has a young athlete in the family. ______________________________ ______________________________ The adults on the side do not know what they want him to do. Some signal that he should compete honestly, while others suggest that he should let her win. ______________________________
 
-### Mitchell and Claire
-- Jay’s pride brings back a childhood argument
-- Mitchell: Jay cared more about Claire’s **figure skating**
-- Claire remembers it differently
-- they skate together again → realize they supported each other
+Jay’s excitement about Manny also brings back an old argument between Mitchell and Claire. ______________________________ Claire remembers it differently. ______________________________ They realize that, in their own imperfect way, they were always there for one another.
 
-### Phil and Luke
-- Phil worries Luke has no special talent
-- baseball goes badly
-- at an open house, Luke talks naturally to buyers
-- Phil discovers Luke is a **natural salesman**
+Meanwhile, Phil worries that Luke does not have a special talent. ______________________________ Later, during one of Phil’s open houses, Luke begins talking to potential buyers. He is friendly, confident, and surprisingly good at presenting the house. ______________________________
 
-### Closing
-- don’t force a talent / notice the strength already there
+Overall, this episode is about recognizing talent without forcing it. ______________________________
 
 ---
 

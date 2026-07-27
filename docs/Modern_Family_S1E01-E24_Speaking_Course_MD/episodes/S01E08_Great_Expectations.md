@@ -33,30 +33,15 @@ Overall, the episode shows that a perfect plan is not what makes an evening mean
 
 ## 3. Cue Version
 
-### Opening
-- several characters plan a **perfect evening** / reality changes the plan
+I’d like to introduce Episode 8 of *Modern Family* Season 1. ______________________________ ______________________________
 
-### Phil and Claire’s anniversary
-- tradition: meaningful gifts
-- Claire feels pressure because Phil is very good at it
-- hires Phil’s old favorite musician, **Izzy LaFontaine**
-- asks for “their song” → remembers the story incorrectly
-- embarrassing memory / romantic surprise becomes awkward
-- Phil appreciates the effort → new song → warm ending
+The first storyline is about Phil and Claire’s wedding anniversary. ______________________________ Phil is very good at this, so Claire feels pressure to come up with something equally special. This year, she hires Izzy LaFontaine, a musician Phil loved when he was younger, to perform in their home. ______________________________ Unfortunately, she has remembered the story incorrectly. ______________________________ ______________________________
 
-### Jay’s Night
-- sleepover for grandchildren / movies, food, activities
-- Haley wants a party
-- Dylan unexpectedly enjoys family time
-- Alex tells Luke Jay may not live long → Luke becomes very attentive
+Meanwhile, Jay hosts “Jay’s Night,” a sleepover for his grandchildren. ______________________________ Haley wants to leave for a party, but Dylan unexpectedly enjoys spending time with Jay. ______________________________
 
-### Mitchell, Cameron, and Sal
-- night out → want to feel like their old selves
-- Sal is jealous of Lily / friendship has changed
-- evening fails → everyone ends up at Jay’s house
+The third story is about Mitchell and Cameron. ______________________________ However, Sal is jealous of Lily because the baby has changed their friendship. Their night does not go as planned, and they eventually end up at Jay’s house with everyone else.
 
-### Closing
-- perfect plans fall apart / companionship matters more
+Overall, the episode shows that a perfect plan is not what makes an evening meaningful. ______________________________
 
 ---
 

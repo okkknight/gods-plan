@@ -33,31 +33,15 @@ Although the party is a disaster from the adults’ point of view, Luke says it 
 
 ## 3. Cue Version
 
-### Opening
-- Luke’s birthday party / safe plan versus exciting plan
+I’d like to introduce Episode 9 of *Modern Family* Season 1. ______________________________
 
-### Party disaster
-- Claire: simple, controlled **craft table**
-- Phil: bounce house, climbing wall, animals, more attractions
-- activities create a **chain reaction**
-- Luke falls and breaks his arm
+Claire and Phil have completely different ideas about the party. ______________________________ ______________________________ Each activity seems harmless by itself, but together they create a chain reaction of accidents. In the end, Luke falls and breaks his arm.
 
-### Fizbo
-- Cameron dresses as his clown character
-- Mitchell is embarrassed
-- man makes fun of Mitchell → Fizbo **stands up for him**
-- Mitchell sees Cameron’s protective side
-- Phil’s secret fear of clowns is exposed
+Cameron arrives dressed as Fizbo, the clown character he has performed as for years. ______________________________ Later, a man at a gas station makes fun of Mitchell. Cameron, still dressed as Fizbo, confidently stands up for him. Mitchell realizes that the ridiculous costume also brings out Cameron’s brave and protective side. Phil has his own problem with Fizbo because he is secretly terrified of clowns, and he can no longer hide it.
 
-### Manny and Haley
-- Manny wants to impress Bianca
-- Jay: act less interested → strategy fails
-- Manny helps her during danger → real courage works
-- Haley gets jealous → releases a scorpion
+Meanwhile, Manny wants to impress a girl named Bianca. ______________________________ ______________________________ ______________________________
 
-### Closing
-- adults see disaster / Luke says best birthday ever
-- same event, completely different experience
+Although the party is a disaster from the adults’ point of view, Luke says it was the best birthday he has ever had. ______________________________
 
 ---
 

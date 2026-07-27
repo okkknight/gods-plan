@@ -33,30 +33,15 @@ Overall, the episode shows how quickly people can become controlling during the 
 
 ## 3. Cue Version
 
-### Opening
-- Christmas episode / everyone wants the “right” holiday
+I’d like to introduce Episode 10 of *Modern Family* Season 1. ______________________________
 
-### The burned sofa
-- burn mark → parents assume one child was **smoking**
-- all three deny it
-- Phil cancels Christmas → removes decorations and presents
-- Alex takes the blame although she is innocent
-- truth: sunlight through an ornament caused it
-- parents admit mistake → promise a trip to Italy
+At the Dunphy house, Phil and Claire find a burn mark on the sofa. ______________________________ Phil decides to cancel Christmas until somebody tells the truth. He removes the tree, the decorations, and the presents, expecting the guilty child to confess. Nobody does. ______________________________ Later, they discover that sunlight reflected through an ornament caused the burn. ______________________________
 
-### Jay, Gloria, and Manny
-- Jay wants traditional American Christmas
-- Gloria and Manny want Colombian customs
-- both sides think the other is strange
-- combine traditions → loud fireworks
+At Jay’s house, Jay wants Gloria and Manny to celebrate Christmas in a traditional American way. ______________________________ At first, both sides treat the other traditions as strange. Eventually, they combine them, ending with loud and slightly dangerous fireworks.
 
-### Mitchell and Cameron
-- complain mall Santa is too thin → he gets fired
-- invite him to dinner out of guilt
-- good intention becomes awkward because of assumptions
+Meanwhile, Mitchell and Cameron take Lily to meet Santa at the mall. ______________________________ Feeling guilty, they invite him to dinner. ______________________________
 
-### Closing
-- controlling holiday expectations / admit mistakes / make room for different traditions
+Overall, the episode shows how quickly people can become controlling during the holidays. ______________________________
 
 ---
 

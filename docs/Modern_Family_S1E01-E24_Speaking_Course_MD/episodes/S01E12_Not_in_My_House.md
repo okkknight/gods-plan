@@ -33,31 +33,15 @@ Overall, the episode shows how quickly confusion grows when people hide informat
 
 ## 3. Cue Version
 
-### Opening
-- hiding the truth + misunderstanding the topic
+I’d like to introduce Episode 12 of *Modern Family* Season 1. ______________________________ ______________________________
 
-### The computer picture
-- Claire finds inappropriate picture → assumes Luke downloaded it
-- Phil knows it is his but feels embarrassed
-- pretends to lecture Luke
-- Luke actually read Haley’s journal
-- two confessions overlap → everyone talks about a different problem
-- Phil finally admits the truth
+Claire finds an inappropriate picture on the family computer and assumes Luke downloaded it. ______________________________ ______________________________ At the same time, Luke really has done something wrong: he read Haley’s private journal. ______________________________ ______________________________ ______________________________
 
-### Barkley
-- Jay buys a dog-shaped butler statue
-- Jay loves it / Gloria thinks it is ugly and creepy
-- gives it to Mitchell and Cameron
-- Cameron loves it / Mitchell reacts like Gloria
+At Jay’s house, Jay buys a strange dog-shaped butler statue named Barkley. ______________________________ They argue over an object that should not matter at all. Jay eventually gives Barkley to Mitchell and Cameron. Cameron loves it immediately, while Mitchell reacts almost exactly like Gloria.
 
-### The gardener
-- looks sad / speaks Spanish
-- Mitchell and Cameron imagine a serious personal crisis
-- truth: stress about his wedding
-- they offer their house for the ceremony
+Mitchell and Cameron also become concerned about their gardener, who always looks sad. ______________________________ They later learn that he is simply stressed about his wedding. Wanting to help, they offer their house for the ceremony.
 
-### Closing
-- missing information + assumptions = growing confusion
+Overall, the episode shows how quickly confusion grows when people hide information and fill in the missing details with their own assumptions.
 
 ---
 

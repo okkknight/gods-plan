@@ -33,32 +33,15 @@ Overall, the episode shows that even a short experience can reveal a new side of
 
 ## 3. Cue Version
 
-### Opening
-- temporary visitors create unexpected emotions
+I’d like to introduce Episode 21 of *Modern Family* Season 1. ______________________________ ______________________________
 
-### Frank and Scout
-- Phil’s father arrives in motor home with dog
-- asks Dunphys to keep Scout
-- Claire strongly objects → house already chaotic
-- becomes most attached to dog
-- Frank takes Scout away → Claire pretends not to care
+Phil’s father, Frank, arrives in his motor home with a dog named Scout. ______________________________ ______________________________ However, after spending time with Scout, she becomes the person most attached to him. ______________________________
 
-### Manny’s horror movie
-- Jay meets actor Ben / takes Manny to his horror film by mistake
-- Manny becomes terrified and sleeps with Jay and Gloria
-- invite actor to prove he is normal
-- broken doorbell → actor appears at window with fake machete
-- fear becomes worse
+Meanwhile, Jay meets Ben, one of Mitchell’s old acting friends, who has appeared in a new horror movie. ______________________________ Manny becomes terrified and starts sleeping in Jay and Gloria’s bed. Jay invites Ben to the house to show Manny that the actor is just a normal person. ______________________________ Instead of curing Manny’s fear, the visit makes it much worse.
 
-### Cameron and the band
-- Dylan’s band needs drummer
-- Cameron auditions → bad at first
-- switches hands → very good
-- Mitchell attends and feels proud
-- old drummer returns → short career ends
+In the third storyline, Dylan’s band needs a new drummer. ______________________________ ______________________________ Mitchell is annoyed at first, then attends the concert and feels proud of Cameron. The original drummer soon returns, so Cameron’s career in the band ends almost immediately.
 
-### Closing
-- short experience reveals a new emotional or talented side
+Overall, the episode shows that even a short experience can reveal a new side of someone. ______________________________
 
 ---
 

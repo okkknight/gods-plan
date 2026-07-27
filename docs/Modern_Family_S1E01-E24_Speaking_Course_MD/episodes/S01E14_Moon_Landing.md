@@ -33,31 +33,15 @@ Overall, the episode shows that embarrassment becomes more powerful when people 
 
 ## 3. Cue Version
 
-### Opening
-- embarrassment + protecting pride
+I’d like to introduce Episode 14 of *Modern Family* Season 1. ______________________________ The episode is mainly about embarrassment and the different ways people try to protect their pride.
 
-### Gloria’s driving
-- minor accident → insists other driver is at fault
-- asks lawyer Mitchell for help
-- Manny says she is an unsafe driver
-- Gloria feels family does not believe her
-- later drives into a restaurant → finally admits the problem
+Gloria gets into a minor car accident and insists that the other driver was completely at fault. ______________________________ ______________________________ Later, she drives into a restaurant. ______________________________
 
-### Claire and Valerie
-- meets successful former coworker
-- feels insecure about leaving her career
-- invites Valerie home to prove family life is impressive
-- wants perfect behavior → complete chaos
-- realizes Valerie’s life is not as perfect as it appears
+Meanwhile, Claire runs into Valerie, a successful former coworker. ______________________________ Claire invites her home because she wants to prove that her life is just as impressive. ______________________________ ______________________________
 
-### Jay and Cameron
-- racquetball / locker room
-- accidental awkward contact
-- Cameron treats it as nothing
-- Jay cannot stop thinking about it → cannot concentrate
+The third story is about Jay and Cameron playing racquetball. ______________________________ The moment is completely innocent, but Jay cannot stop thinking about it. During the game, he becomes so uncomfortable that he cannot concentrate. Cameron treats it as no big deal, which only makes Jay feel more awkward.
 
-### Closing
-- refusing to acknowledge embarrassment makes it stronger
+Overall, the episode shows that embarrassment becomes more powerful when people refuse to acknowledge it. ______________________________
 
 ---
 

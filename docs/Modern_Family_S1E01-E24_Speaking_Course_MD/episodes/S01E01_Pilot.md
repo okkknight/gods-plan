@@ -38,17 +38,17 @@ The final scene reveals that Jay is Claire and Mitchell’s father. Overall, the
 
 ## 3. Cue Version
 
-I’d like to introduce the __________ of *Modern Family*. It is called **“__________.”** This episode introduces three very different families. At first, ______________________________, but in the end, ______________________________.
+I’d like to introduce the first episode of *Modern Family*. ______________________________ This episode introduces three very different families. At first, they seem separate, but in the end, we discover that they are all connected.
 
-The first family is the Dunphy family. Claire and Phil have three children: ______________________________. Haley invites ______________________________ to their house for the first time. Claire becomes very nervous because ______________________________. Phil wants to be the “cool dad,” but his attempt to scare Dylan ends with ______________________________.
+The first family is the Dunphy family. ______________________________ Haley invites her older boyfriend, Dylan, to their house for the first time. ______________________________ Phil, on the other hand, wants to be the “cool dad.” ______________________________
 
-At the same time, Luke has shot Alex with ______________________________. Claire reminds Phil that their family rule is ______________________________. Phil keeps putting it off because he does not want to hurt Luke. In the end, ______________________________.
+At the same time, Luke has shot Alex with a toy BB gun. ______________________________ Phil keeps putting it off because he does not really want to hurt Luke. In the end, the gun goes off by accident, and Phil shoots Luke, Dylan, and then himself.
 
-The second family is Jay, Gloria, and Manny. Jay is much older than Gloria, and people sometimes mistake him for ______________________________. Manny is romantic and unusually mature. He has a crush on ______________________________ and decides to ______________________________. Jay expects Manny to embarrass himself, while Gloria believes ______________________________. After the girl rejects Manny, Jay begins to understand that being part of Manny’s family means ______________________________.
+The second family is Jay, Gloria, and Manny. ______________________________ This makes him feel insecure about his age. Manny, Gloria’s eleven-year-old son, is romantic and unusually mature. He has a crush on a sixteen-year-old girl and decides to read her a poem. ______________________________ The girl tells Manny that she already has a boyfriend, and he is heartbroken. ______________________________
 
-The third family is Mitchell and Cameron. They are returning from Vietnam with ______________________________. On the plane, Mitchell thinks ______________________________, so he gives an angry speech. He soon realizes that ______________________________. Later, they introduce Lily to the family. Jay is doubtful at first, but Cameron makes ______________________________, and everyone welcomes her.
+The third family is Mitchell and Cameron. ______________________________ ______________________________ He soon realizes that he completely misunderstood the situation. Later, Mitchell and Cameron introduce Lily to the whole family. ______________________________ Everyone immediately welcomes her.
 
-The final scene reveals that ______________________________. Overall, the episode shows three families that are complicated, awkward, and sometimes ridiculous, but ______________________________.
+The final scene reveals that Jay is Claire and Mitchell’s father. ______________________________
 
 ---
 

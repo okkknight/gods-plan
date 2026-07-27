@@ -35,29 +35,17 @@ Overall, this episode is about distrust inside a blended family. Nobody solves e
 
 ## 3. Cue Version
 
-### Opening
-- school fight / Luke and Manny / unusual family relationships
+I’d like to introduce Episode 5 of *Modern Family* Season 1. ______________________________ The episode begins with a fight between Luke and Manny at school.
 
-### Luke, Manny, and Jay
-- Manny says he is technically Luke’s **uncle**
-- Luke thinks it sounds ridiculous → fight at school
-- Jay explains: unusual relationships, but still **real and deserving respect**
+Manny says that, technically, he is Luke’s uncle because Gloria is married to Jay. ______________________________ ______________________________
 
-### Football day
-- Mitchell studies football terms → wants to **connect with Jay**
-- uses them at the wrong time → awkward
-- Cameron seems uninterested, then reveals he was a **good player**
-- Jay is impressed / Mitchell feels his moment was stolen
+Later, everyone gathers at Jay’s house to watch football. ______________________________ Unfortunately, he keeps using them at the wrong time, and the whole effort becomes awkward. ______________________________ Jay is immediately impressed, while Mitchell feels that Cameron has accidentally stolen the moment he had prepared for himself.
 
-### Claire and Gloria
-- Luke calls Gloria a **gold digger**
-- Gloria realizes he heard it from Claire
-- hurt: Claire thinks she married Jay for money
-- Claire admits she was unfair and judgmental
-- apology: jumps into pool → Gloria and whole family follow
+The main conflict is between Claire and Gloria. ______________________________ Gloria realizes that he must have heard the expression from Claire. ______________________________ Claire first tries to defend herself, but eventually admits that she has been unfair and judgmental.
 
-### Closing
-- distrust in a blended family / move past conflict / come together
+To prove that her apology is sincere, Claire jumps into the swimming pool with her clothes on. ______________________________
+
+Overall, this episode is about distrust inside a blended family. ______________________________
 
 ---
 

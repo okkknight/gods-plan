@@ -33,31 +33,15 @@ Overall, the episode shows that romance rarely follows a perfect script. The bes
 
 ## 3. Cue Version
 
-### Opening
-- Valentine’s Day / romance does not follow a script
+I’d like to introduce Episode 15 of *Modern Family* Season 1. ______________________________
 
-### Clive and Juliana
-- Phil and Claire pretend to be strangers at a hotel
-- escape normal roles as parents
-- Claire’s coat gets caught in escalator
-- not fully dressed underneath → cannot create a public scene
-- romantic plan becomes rescue operation
-- Gloria helps them keep some dignity
+Phil and Claire want to escape their usual roles as parents, so they meet at a hotel bar and pretend to be strangers. ______________________________ The role-play is exciting at first, but Claire’s coat gets caught in an escalator. ______________________________ Their romantic adventure turns into an embarrassing rescue operation. Gloria happens to be nearby and helps them escape with at least some dignity left.
 
-### Mitchell and Manny
-- Mitchell prepares closing argument → case settles
-- another boy takes credit for Manny’s poem
-- Mitchell uses courtroom energy to defend him
-- truth is exposed / girl still chooses the other boy
+Meanwhile, Mitchell is preparing to give an impressive closing argument in court, but the case settles before he gets the chance. ______________________________ ______________________________ ______________________________
 
-### Jay and Gloria
-- comedy show → jokes about age difference
-- Jay gets uncomfortable
-- leave and go salsa dancing instead
-- help Phil and Claire
+Jay takes Gloria to a comedy show for Valentine’s Day. ______________________________ They leave and go salsa dancing instead, choosing something they both actually enjoy. On the way, they also help Phil and Claire out of their difficult situation.
 
-### Closing
-- intimacy = surviving embarrassment together, not acting perfect
+Overall, the episode shows that romance rarely follows a perfect script. ______________________________ ______________________________
 
 ---
 
