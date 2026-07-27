@@ -44,6 +44,13 @@ test("today hides empty priority groups so available courses move up", async ({ 
   await expect(page.getByRole("heading", { name: "今日复习" })).not.toBeVisible();
 });
 
+test("course card opens the lesson and removes the new-course hint", async ({ page }) => {
+  await page.goto("/today");
+  await expect(page.getByText("每天一篇", { exact: true })).not.toBeVisible();
+  await page.getByRole("link", { name: /S01E01.*Pilot/ }).click();
+  await expect(page).toHaveURL(/\/course\/1\?stage=0&date=2026-07-27$/);
+});
+
 test("today does not show explanatory marketing copy", async ({ page }) => {
   await page.goto("/today");
   await expect(page.getByText("把今天的一小段练习完成，复习会自己继续向前。", { exact: true })).not.toBeVisible();

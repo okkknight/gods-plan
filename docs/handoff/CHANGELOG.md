@@ -63,3 +63,8 @@
 
 - 已部署到 VPS `89.208.242.44`：公网地址为 `https://boringmax.com/godsplan/`，由独立的 `godsplan.service`（127.0.0.1:3013）和 Caddy 子路径路由提供服务。
 - 24 篇课程音频已同步并验证 Range 206 播放；WordLoop 原路由保持可用。
+
+## 2026-07-27 today card and cue markdown
+
+- 移除“每天一篇”提示文字；Today 和 Calendar 中的课程卡片支持点击卡片主体进入课程，按钮和已完成课程的撤销操作保持独立。
+- Cue Version 按 Markdown 展示标题、无序列表、粗体、斜体、行内代码、链接和分隔线，避免把 Cue 源文本直接显示成一整段。
