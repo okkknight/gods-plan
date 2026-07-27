@@ -1,10 +1,11 @@
 {
-  "generated_at": "2026-07-27T14:28:02.929Z",
+  "generated_at": "2026-07-27T14:30:21.582Z",
   "course": "modern-family-s01e01",
   "mode": "english",
   "model": "s2.1-pro-free",
   "reference_id": "933563129e564b19a115bedd57b7406a",
-  "performance_profile": "warm-storyteller-v5",
+  "performance_profile": "warm-storyteller-v6",
+  "speed": 0.9,
   "volume": 1,
   "temperature": 0.84,
   "top_p": 0.88,
@@ -18,7 +19,7 @@
       "tags": [
         "[warm lively storyteller]"
       ],
-      "speed": 0.95,
+      "speed": 0.9,
       "cached": false
     },
     {
@@ -28,7 +29,7 @@
       "tags": [
         "[friendly conversational storyteller]"
       ],
-      "speed": 0.95,
+      "speed": 0.9,
       "cached": false
     },
     {
@@ -38,7 +39,7 @@
       "tags": [
         "[warm narrative tension]"
       ],
-      "speed": 0.95,
+      "speed": 0.9,
       "cached": false
     },
     {
@@ -48,7 +49,7 @@
       "tags": [
         "[playful storyteller]"
       ],
-      "speed": 0.95,
+      "speed": 0.9,
       "cached": false
     },
     {
@@ -58,7 +59,7 @@
       "tags": [
         "[animated engaging narration]"
       ],
-      "speed": 0.95,
+      "speed": 0.9,
       "cached": false
     },
     {
@@ -68,7 +69,7 @@
       "tags": [
         "[bright storytelling emphasis]"
       ],
-      "speed": 0.95,
+      "speed": 0.9,
       "cached": false
     },
     {
@@ -78,7 +79,7 @@
       "tags": [
         "[warm smooth story transition]"
       ],
-      "speed": 0.95,
+      "speed": 0.9,
       "cached": false
     },
     {
@@ -88,7 +89,7 @@
       "tags": [
         "[sympathetic storyteller]"
       ],
-      "speed": 0.95,
+      "speed": 0.9,
       "cached": false
     },
     {
@@ -98,7 +99,7 @@
       "tags": [
         "[warm reflective storyteller]"
       ],
-      "speed": 0.95,
+      "speed": 0.9,
       "cached": false
     },
     {
@@ -108,7 +109,7 @@
       "tags": [
         "[warm narrative tension]"
       ],
-      "speed": 0.95,
+      "speed": 0.9,
       "cached": false
     },
     {
@@ -118,7 +119,7 @@
       "tags": [
         "[genuinely delighted storyteller]"
       ],
-      "speed": 0.95,
+      "speed": 0.9,
       "cached": false
     },
     {
@@ -128,7 +129,7 @@
       "tags": [
         "[tender warm conclusion]"
       ],
-      "speed": 0.95,
+      "speed": 0.9,
       "cached": false
     }
   ],

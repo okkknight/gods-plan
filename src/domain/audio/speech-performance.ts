@@ -14,5 +14,5 @@ export function inferSpeechPerformance(text: string, index: number): SpeechPerfo
   if (bySegment[index]) tags.push(bySegment[index]);
   else if (/overall|the final scene|in the end/.test(lower)) tags.push("[thoughtful conclusion]");
   else if (/heartbroken|insecure|nervous|judging|misunderstood/.test(lower)) tags.push("[empathetic]");
-  return { tags, speed: 0.95 };
+  return { tags, speed: 0.90 };
 }

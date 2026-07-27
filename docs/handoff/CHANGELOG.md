@@ -48,6 +48,7 @@
 - 在保持 `speed=0.95` 的基础上增强 S01E01 的段落级情绪变化，使用 `auto-tags-v3`，提高 temperature/top-p，并为 12 个段落提供不同的叙事方向。
 - 进一步将标签调整为连续的“讲故事的人”风格，减少角色化情绪，使用 `storyteller-v4`；语速保持 `0.95`，采样参数回调为 temperature `0.78` / top-p `0.82`。
 - 在连续叙述风格上增加温度和现场感，使用 `warm-storyteller-v5`，加入更温暖、活泼、亲和的叙述提示，并将 Fish prosody volume 调至 `1`。
+- 生成 `warm-storyteller-v6` 试听版，唯一调整为 Fish `prosody.speed=0.90`，其余叙述参数保持不变。
 
 ## 2026-07-27 dev/build isolation fix
 
