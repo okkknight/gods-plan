@@ -58,3 +58,8 @@
 
 - 开发环境改用独立 `.next-dev` 输出目录，production build 继续使用 `.next`，避免构建时覆盖正在运行的 dev server 分片。
 - 此修复针对页面 500 的运行环境问题，不改变课程页面或音频逻辑。
+
+## 2026-07-27 VPS deployment
+
+- 已部署到 VPS `89.208.242.44`：公网地址为 `https://boringmax.com/godsplan/`，由独立的 `godsplan.service`（127.0.0.1:3013）和 Caddy 子路径路由提供服务。
+- 24 篇课程音频已同步并验证 Range 206 播放；WordLoop 原路由保持可用。
