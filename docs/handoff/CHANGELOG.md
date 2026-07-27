@@ -52,6 +52,7 @@
 - 生成 `warm-storyteller-v7` 试听版，保持 `speed=0.90`，将叙述情绪再增强一层：temperature `0.90`、top-p `0.92`、volume `1.5`，并使用更有感染力的连续讲故事提示。
 - 将标签进一步改为面向听众的故事叙述指令，使用 `storyteller-v8`，强调带入、铺垫、转折、幽默和收束，而不是单纯提高情绪强度。
 - 新增 `npm run audio:generate:all`，可用当前确认的声音和叙述参数批量生成全部课程，并复用分段缓存。
+- 增加 `NEXT_PUBLIC_BASE_PATH` 支持，准备部署到 `https://boringmax.com/godsplan/` 子路径时，页面链接、API 请求、音频和 favicon 会保持在 God’s Plan 前缀下。
 
 ## 2026-07-27 dev/build isolation fix
 

@@ -2,6 +2,7 @@
 
 import { useRouter } from "next/navigation";
 import { useState } from "react";
+import { appPath } from "@/lib/app-path";
 
 export function LibraryControls({ courseId, archived }: { courseId?: number; archived?: boolean }) {
   const router = useRouter();
@@ -13,7 +14,7 @@ export function LibraryControls({ courseId, archived }: { courseId?: number; arc
     setBusy(true); setError("");
     try {
       const course = JSON.parse(await file.text());
-      const response = await fetch("/api/import", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ course, mode }) });
+      const response = await fetch(appPath("/api/import"), { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ course, mode }) });
       const result = await response.json();
       if (!result.ok) throw new Error(result.error);
       router.refresh();
@@ -23,7 +24,7 @@ export function LibraryControls({ courseId, archived }: { courseId?: number; arc
   async function toggleArchive() {
     if (!courseId) return;
     setBusy(true); setError("");
-    const response = await fetch("/api/archive", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ courseId, action: archived ? "unarchive" : "archive" }) });
+      const response = await fetch(appPath("/api/archive"), { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ courseId, action: archived ? "unarchive" : "archive" }) });
     const result = await response.json();
     if (!result.ok) setError(result.error); else router.refresh();
     setBusy(false);

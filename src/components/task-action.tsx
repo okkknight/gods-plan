@@ -2,6 +2,7 @@
 
 import { useRouter } from "next/navigation";
 import { useState } from "react";
+import { appPath } from "@/lib/app-path";
 
 export function TaskAction({ kind, courseId, expectedStage }: { kind: "complete" | "undo"; courseId: number; expectedStage?: number }) {
   const router = useRouter();
@@ -9,7 +10,7 @@ export function TaskAction({ kind, courseId, expectedStage }: { kind: "complete"
   const [error, setError] = useState("");
   async function run() {
     setBusy(true); setError("");
-    const response = await fetch(`/api/${kind}`, { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ courseId, expectedStage }) });
+    const response = await fetch(appPath(`/api/${kind}`), { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ courseId, expectedStage }) });
     const result = await response.json();
     if (!result.ok) setError(result.error); else router.push("/today");
     setBusy(false);

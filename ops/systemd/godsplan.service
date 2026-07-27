@@ -1,0 +1,17 @@
+[Unit]
+Description=God's Plan English learning app
+After=network.target
+
+[Service]
+Type=simple
+User=shipnow
+Group=shipnow
+WorkingDirectory=/opt/boringmax/godsplan
+Environment=NODE_ENV=production
+Environment=NEXT_PUBLIC_BASE_PATH=/godsplan
+ExecStart=/usr/bin/npm run start -- --hostname 127.0.0.1 --port 3013
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
