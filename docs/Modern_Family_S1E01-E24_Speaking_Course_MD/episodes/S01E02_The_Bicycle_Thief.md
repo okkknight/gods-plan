@@ -50,11 +50,11 @@ Later, Phil sees an identical bike sitting on the street without a lock. He assu
 
 Phil buys another identical bike to cover up the problem. However, when he gets home, he discovers that ______________________________. He has taken the wrong bike. Claire works out what happened and finds it funny, but Phil still claims that ______________________________. Then Desiree returns it and mentions that Phil was in her bedroom, exposing his lie. In the end, Phil tries to put the original bike back, but ______________________________.
 
-The second story is about Jay and Manny. Gloria asks them to install a ceiling fan together so that they can become closer. Jay ignores the instructions, while Manny keeps warning him about safety, and they end up ______________________________. Later, Manny’s biological father, Javier, cancels their Disneyland trip because ______________________________. Jay is furious, but he does not want Manny to feel rejected. He invents ______________________________ and uses the limousine meant for his own trip to take Manny and Gloria to Disneyland.
+The second story is about Jay and Manny. Gloria asks them to install a ceiling fan together so that they can become closer. Jay ignores the instructions, while Manny keeps warning him about safety. They ______________________________. Later, Manny’s biological father, Javier, cancels their Disneyland trip because ______________________________. Jay is furious, but he does not want Manny to feel rejected. He invents ______________________________ and uses the limousine meant for his own trip to take Manny and Gloria to Disneyland.
 
 The third story is about Mitchell and Cameron. They take Lily to a parent-and-baby class. Mitchell is nervous about fitting in and asks Cameron to ______________________________. When the other children seem more advanced than Lily, they pretend that ______________________________. They quickly discover that the class is recorded on camera. Mitchell also realizes that his insecurity has made him dishonest and ______________________________.
 
-Overall, the episode shows that parents often make mistakes while trying to do the right thing. A good father is not someone who always gets everything right; he is someone who ______________________________.
+Overall, the episode shows that parents often make mistakes while trying to do the right thing. As Jay says near the end, ______________________________.
 
 ---
 
