@@ -1,3 +1,5 @@
 import { redirect } from "next/navigation";
 
-export default function Home() { redirect("/today"); }
+export default function Home() {
+  redirect(`${process.env.NEXT_PUBLIC_BASE_PATH ?? ""}/today` as never);
+}
