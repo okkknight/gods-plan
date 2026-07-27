@@ -20,8 +20,12 @@ h2, h3, p { margin-top: 0; }
 .section-heading { display: flex; align-items: baseline; justify-content: space-between; margin-bottom: 12px; }
 .section-heading h2 { margin: 0; font-size: 16px; }
 .section-heading span, .library-count { color: var(--muted); font-size: 13px; }
-.task-card { display: flex; align-items: flex-start; justify-content: space-between; gap: 20px; padding: 20px 22px; margin: 10px 0; border: 1px solid var(--line); border-radius: 16px; background: rgba(255,255,255,.7); box-shadow: 0 5px 20px rgba(35,51,59,.035); cursor: pointer; }
-.task-card:hover, .task-card:focus-visible { border-color: #c4d8d0; box-shadow: 0 8px 24px rgba(35,51,59,.07); outline: none; }
+.task-card { display: flex; align-items: flex-start; justify-content: space-between; gap: 20px; padding: 20px 22px; margin: 10px 0; border: 1px solid var(--line); border-radius: 16px; background: rgba(255,255,255,.7); box-shadow: 0 5px 20px rgba(35,51,59,.035); cursor: pointer; -webkit-tap-highlight-color: transparent; transition: background-color .16s ease, box-shadow .16s ease, transform .16s ease; }
+.task-card:hover { background: white; box-shadow: 0 8px 22px rgba(35,51,59,.055); transform: translateY(-1px); }
+.task-card:active { transform: translateY(0); }
+.task-card:focus { outline: none; }
+.task-card:focus-visible { outline: 2px solid rgba(47,113,100,.45); outline-offset: 3px; }
+@media (hover: none) { .task-card:hover { background: rgba(255,255,255,.7); box-shadow: 0 5px 20px rgba(35,51,59,.035); transform: none; } }
 .task-done { opacity: .72; }
 .task-meta { display: flex; align-items: center; gap: 10px; margin-bottom: 9px; }
 .episode { color: var(--accent); font-size: 11px; font-weight: 750; letter-spacing: .1em; }
@@ -49,7 +53,12 @@ h2, h3, p { margin-top: 0; }
 .mode-switch button.active { color: var(--ink); background: white; box-shadow: 0 2px 8px rgba(35,51,59,.08); }
 .reader-content { max-width: 760px; }
 .reader-audio { margin: -18px 0 40px; }
+.reader-audio-controls { display: flex; align-items: center; gap: 12px; }
 .reader-audio audio { display: block; width: min(100%, 420px); height: 36px; }
+.reader-audio-hidden { position: absolute; width: 1px; height: 1px; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.play-mode { display: inline-flex; gap: 2px; padding: 3px; border: 1px solid var(--line); border-radius: 9px; background: #eef2ef; }
+.play-mode button { border: 0; border-radius: 6px; padding: 5px 8px; color: var(--muted); background: transparent; cursor: pointer; font-size: 12px; }
+.play-mode button.active { color: var(--ink); background: white; box-shadow: 0 1px 4px rgba(35,51,59,.08); }
 .reader-section { margin: 0 0 34px; }
 .reader-section h2 { color: var(--muted); font-size: 15px; font-weight: 550; }
 .reader-section p { white-space: pre-wrap; font-size: 18px; line-height: 1.85; }

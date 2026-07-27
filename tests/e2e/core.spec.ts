@@ -51,6 +51,28 @@ test("course card opens the lesson and removes the new-course hint", async ({ pa
   await expect(page).toHaveURL(/\/course\/1\?stage=0&date=2026-07-27$/);
 });
 
+test("english audio element survives switching to another mode", async ({ page }) => {
+  await page.goto("/course/1?stage=0&date=2026-07-27");
+  await page.getByRole("tab", { name: "英文" }).click();
+  const audio = page.locator("audio");
+  await expect(audio).toBeVisible();
+  await audio.evaluate((element) => { element.setAttribute("data-persist-marker", "true"); });
+  await page.getByRole("tab", { name: "Cue" }).click();
+  await expect(audio).toHaveAttribute("data-persist-marker", "true");
+  await expect(page.locator(".reader-audio")).toHaveClass(/reader-audio-hidden/);
+});
+
+test("english audio supports once and loop modes", async ({ page }) => {
+  await page.goto("/course/1?stage=0&date=2026-07-27");
+  await page.getByRole("tab", { name: "英文" }).click();
+  const audio = page.locator("audio");
+  await expect(audio).toHaveJSProperty("loop", false);
+  await page.getByRole("button", { name: "循环" }).click();
+  await expect(audio).toHaveJSProperty("loop", true);
+  await page.getByRole("button", { name: "单篇" }).click();
+  await expect(audio).toHaveJSProperty("loop", false);
+});
+
 test("today does not show explanatory marketing copy", async ({ page }) => {
   await page.goto("/today");
   await expect(page.getByText("把今天的一小段练习完成，复习会自己继续向前。", { exact: true })).not.toBeVisible();
