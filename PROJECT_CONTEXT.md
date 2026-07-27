@@ -8,7 +8,7 @@
 
 已完成可运行第一版：Next.js App Router、SQLite/Drizzle schema、课程 Markdown 转 JSON、seed/import、调度器、Today、Calendar、Course Reader、Library、完成/撤销/导入/归档接口。
 
-最新任务状态：`已执行待验收`。独立 reviewer 尚未完成验证。
+最新任务状态：`验收通过`。已完成独立审查和最新代码验证。
 
 ## 关键规则
 
@@ -43,4 +43,4 @@ npm run build
 
 - 当前内容解析把每个 Markdown 的三种模式保存在三个对应 section 中，每个 section 保留完整内容；后续若需要逐段 Cue 对齐，应升级导入格式和 UI。
 - 无账号、云同步、备份、音频和 AI 功能，部署前需自行管理 SQLite 文件。
-- 需 reviewer 独立检查并确认完成/撤销并发边界、移动端布局和真实导入更新行为。
+- 已独立检查完成/撤销流程、移动端响应式结构、真实导入更新保留进度，以及今天/过去/未来日历行为。
