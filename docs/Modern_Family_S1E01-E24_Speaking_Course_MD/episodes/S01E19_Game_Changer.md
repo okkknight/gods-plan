@@ -41,7 +41,7 @@ Meanwhile, Jay plays chess with Manny. ______________________________ __________
 
 Mitchell and Cameron accidentally hear their neighbors arguing through the baby monitor. ______________________________ Mitchell thinks he is crossing a line. ______________________________ Cameron’s interference is inappropriate, but it surprisingly helps the couple communicate.
 
-Overall, the episode shows how an unexpected person or action can completely change a situation, even when the method is far from perfect.
+Overall, the episode shows ______________________________.
 
 ---
 

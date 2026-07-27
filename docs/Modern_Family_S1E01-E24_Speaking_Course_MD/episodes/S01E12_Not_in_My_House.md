@@ -41,7 +41,7 @@ At Jay’s house, Jay buys a strange dog-shaped butler statue named Barkley. ___
 
 Mitchell and Cameron also become concerned about their gardener, who always looks sad. ______________________________ They later learn that he is simply stressed about his wedding. Wanting to help, they offer their house for the ceremony.
 
-Overall, the episode shows how quickly confusion grows when people hide information and fill in the missing details with their own assumptions.
+Overall, the episode shows ______________________________.
 
 ---
 
