@@ -7,12 +7,13 @@ export function LibraryControls({ courseId, archived }: { courseId?: number; arc
   const router = useRouter();
   const [error, setError] = useState("");
   const [busy, setBusy] = useState(false);
+  const [mode, setMode] = useState<"create" | "update">("create");
   async function importFile(file: File | undefined) {
     if (!file) return;
     setBusy(true); setError("");
     try {
       const course = JSON.parse(await file.text());
-      const response = await fetch("/api/import", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ course, mode: "create" }) });
+      const response = await fetch("/api/import", { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ course, mode }) });
       const result = await response.json();
       if (!result.ok) throw new Error(result.error);
       router.refresh();
@@ -27,6 +28,6 @@ export function LibraryControls({ courseId, archived }: { courseId?: number; arc
     if (!result.ok) setError(result.error); else router.refresh();
     setBusy(false);
   }
-  if (!courseId) return <label className="button button-primary import-button">{busy ? "导入中…" : "导入课程 JSON"}<input type="file" accept="application/json,.json" hidden onChange={(event) => importFile(event.target.files?.[0])} /></label>;
+  if (!courseId) return <span className="import-controls"><select aria-label="导入模式" value={mode} onChange={(event) => setMode(event.target.value as typeof mode)}><option value="create">新课程</option><option value="update">更新已有课程</option></select><label className="button button-primary import-button">{busy ? "导入中…" : "导入课程 JSON"}<input type="file" accept="application/json,.json" hidden onChange={(event) => importFile(event.target.files?.[0])} /></label>{error && <small className="error-text">{error}</small>}</span>;
   return <span className="library-controls"><button className="button button-link" disabled={busy} onClick={toggleArchive}>{archived ? "取消归档" : "归档"}</button>{error && <small className="error-text">{error}</small>}</span>;
 }

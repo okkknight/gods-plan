@@ -7,7 +7,7 @@ import { getTodayTasks } from "@/domain/scheduling/today-tasks";
 export function getTasksForDate(date: string, today = getTodayInAppTimezone()) {
   const courses = getCourses();
   const events = getStudyEvents();
-  if (date < today) return { mode: "past" as const, date, events: events.filter((event) => event.completedDate === date), tasks: null };
+  if (date < today) return { mode: "past" as const, date, events: events.filter((event) => event.completedDate === date).map((event) => ({ ...event, course: courses.find((course) => course.id === event.courseId) ?? null })), tasks: null };
   if (date === today) return { mode: "today" as const, date, events, tasks: getTodayTasks(today, courses, events) };
   return { mode: "future" as const, date, events: [], tasks: forecastTasks(addBusinessDays(today, 1), date, courses, events) };
 }

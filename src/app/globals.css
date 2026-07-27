@@ -66,6 +66,8 @@ h2, h3, p { margin-top: 0; }
 .library-row .button { flex-shrink: 0; }
 .library-header-actions, .library-row-actions { display: flex; align-items: center; gap: 12px; }
 .import-button { position: relative; overflow: hidden; }
+.import-controls { display: inline-flex; align-items: center; gap: 8px; }
+.import-controls select { border: 1px solid var(--line); border-radius: 9px; padding: 9px 8px; color: var(--muted); background: white; font-size: 12px; }
 .library-controls { display: inline-flex; flex-direction: column; align-items: flex-end; }
 .action-wrap { text-align: center; }
 @media (max-width: 640px) { .nav { padding: 18px 18px; } .nav-links { gap: 14px; } .shell { padding: 34px 18px 80px; } .page-heading { align-items: start; flex-direction: column; } .progress { align-items: start; } .task-card { align-items: start; flex-direction: column; } .task-action { width: 100%; justify-content: space-between; } .reader-page { padding: 22px 18px 80px; } .reader-heading { margin-top: 60px; } .date-form { width: 100%; } .date-form input { flex: 1; } .history-row, .library-row { align-items: start; flex-wrap: wrap; gap: 8px; } .history-row span { width: auto; } .history-row strong { min-width: 55%; } .history-row small { width: 100%; } }
