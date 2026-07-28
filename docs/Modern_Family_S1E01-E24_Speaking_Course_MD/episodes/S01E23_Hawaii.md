@@ -33,15 +33,15 @@ Overall, the episode shows that travel does not automatically remove anxiety. Pe
 
 ## 3. Cue Version
 
-I’d like to introduce Episode 23 of *Modern Family* Season 1. ______________________________
+I’d like to introduce Episode 23 of *Modern Family* Season 1. It’s called **“Hawaii,”** and it ＿＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿.
 
-Phil wants to turn the trip into the honeymoon that he and Claire never really had. ______________________________ Phil tries to create private romantic time, but their children keep interrupting. Haley goes out with some young people she has just met and becomes drunk. Claire takes care of her and warns her that alcohol will always have consequences. ______________________________
+Phil wants to turn the trip into the honeymoon that he and Claire never really had. Claire ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿, so ＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿. Phil tries to ＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿, but ＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿. Haley goes out with some young people she has just met and becomes drunk. Claire takes care of her and ＿＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿. Later, Phil ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿, giving them a chance to ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿ and ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿.
 
-Jay plans to spend the vacation eating and relaxing. ______________________________ Jay has just turned sixty-three himself, so he suddenly becomes obsessed with exercise. He works out instead of enjoying the trip and eventually hurts his back. Jay finally admits to Gloria that he is afraid of dying. Once he says it aloud, he is able to slow down and enjoy the vacation with her.
+Jay plans to ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿. Then a call from his brother reminds him that ＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿＿＿＿. Jay ＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿, so he suddenly ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿. He works out instead of enjoying the trip and ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿. Jay finally admits to Gloria that he ＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿. Once he says it aloud, he is able to ＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿.
 
-Meanwhile, Mitchell wants to visit every attraction, while Cameron wants to relax at the hotel. ______________________________ ______________________________
+Meanwhile, Mitchell ＿＿＿＿＿ ＿＿ ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿, while Cameron ＿＿＿＿＿ ＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿. They try to ＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿ before realizing ＿＿＿＿ ＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿. Unfortunately, they also manage to ＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿, once near an elevator and later during another outing.
 
-Overall, the episode shows that travel does not automatically remove anxiety. ______________________________
+Overall, the episode shows that ＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿. People bring their fears and expectations with them, and they can ＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿.
 
 ---
 

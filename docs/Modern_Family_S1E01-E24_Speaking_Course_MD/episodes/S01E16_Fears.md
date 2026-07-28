@@ -37,17 +37,17 @@ Overall, the episode suggests that courage does not mean having no fear. It mean
 
 ## 3. Cue Version
 
-I’d like to introduce Episode 16 of *Modern Family* Season 1. ______________________________
+I’d like to introduce Episode 16 of *Modern Family* Season 1. It’s called **“Fears,”** and ＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿ ＿ ＿＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿ ＿＿.
 
-Phil is terrified of the narrow crawl space under the house, but he does not want Luke to know. ______________________________ He tries to act brave, even after finding what he thinks are human bones. The “danger” turns out to be harmless, but Phil still proves that he can move forward when Luke needs him.
+Phil is ＿＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿, but he ＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿. When Luke’s ＿＿＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿ and Luke goes after it, Phil has to face his fear and crawl in to help him. He tries to act brave, even after ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿. The “danger” ＿＿＿＿＿ ＿＿＿ ＿＿ ＿＿ ＿＿＿＿＿＿＿＿, but Phil still proves that he can ＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿＿.
 
-Claire takes Haley to her driving test. ______________________________ Claire also encourages Alex to attend a school dance. ______________________________
+Claire ＿＿＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿. She ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿, but ＿＿＿＿＿ ＿＿＿＿＿＿. Claire also ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿＿＿ ＿ ＿＿＿＿＿＿ ＿＿＿＿＿. Alex is ＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿, and Claire tells her that ＿＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿＿ ＿＿＿＿.
 
-Meanwhile, Mitchell and Cameron worry that Lily’s first word will be “Mommy,” because there is no mother in their home. ______________________________ They eventually discover that the sound comes from a toy. ______________________________
+Meanwhile, Mitchell and Cameron worry that Lily’s first word will be “Mommy,” because ＿＿＿＿＿ ＿＿ ＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿ ＿＿＿＿. When they hear ＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿, they become anxious about what it means. They eventually discover that ＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿ ＿ ＿＿＿. Their pediatrician reminds them that they do not need to ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿ ＿ ＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿.
 
-Jay makes fun of Manny for being afraid of a roller coaster. ______________________________ They pretend to be calm until the roller coaster starts, and then they panic together.
+Jay ＿＿＿＿＿ ＿＿＿ ＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿. Gloria knows that ＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿, so she ＿＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿. They pretend to be calm until the roller coaster starts, and then they ＿＿＿＿＿ ＿＿＿＿＿＿＿＿.
 
-Overall, the episode suggests that courage does not mean having no fear. ______________________________
+Overall, the episode suggests that ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿＿. It means doing what is necessary even when you are frightened and do not look especially heroic.
 
 ---
 

@@ -33,15 +33,15 @@ Overall, the episode shows that even a short experience can reveal a new side of
 
 ## 3. Cue Version
 
-I’d like to introduce Episode 21 of *Modern Family* Season 1. ______________________________ ______________________________
+I’d like to introduce Episode 21 of *Modern Family* Season 1. It’s called **“Travels with Scout.”** Several temporary visitors enter the family’s life and create unexpected emotional reactions.
 
-Phil’s father, Frank, arrives in his motor home with a dog named Scout. ______________________________ ______________________________ However, after spending time with Scout, she becomes the person most attached to him. ______________________________
+Phil’s father, Frank, ＿＿＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿. He says he ＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿ ＿＿＿ ＿ ＿＿＿＿＿ and ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿. Claire ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ because she believes ＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿. However, after spending time with Scout, she ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿. When Frank decides to take the dog with him again, Claire ＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿ ＿＿＿＿, but she ＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿.
 
-Meanwhile, Jay meets Ben, one of Mitchell’s old acting friends, who has appeared in a new horror movie. ______________________________ Manny becomes terrified and starts sleeping in Jay and Gloria’s bed. Jay invites Ben to the house to show Manny that the actor is just a normal person. ______________________________ Instead of curing Manny’s fear, the visit makes it much worse.
+Meanwhile, Jay meets Ben, ＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿, who has ＿＿＿＿＿＿＿＿ ＿＿ ＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿. Jay ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿ ＿＿ ＿ ＿＿＿＿＿＿ ＿＿＿＿ and ＿＿＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿. Manny ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿. Jay invites Ben to the house to ＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿＿ ＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿. Unfortunately, the doorbell is broken, so Ben appears outside the window while holding a fake machete from the movie. Instead of curing Manny’s fear, the visit ＿＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿＿＿.
 
-In the third storyline, Dylan’s band needs a new drummer. ______________________________ ______________________________ Mitchell is annoyed at first, then attends the concert and feels proud of Cameron. The original drummer soon returns, so Cameron’s career in the band ends almost immediately.
+In the third storyline, ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿ ＿＿＿ ＿＿＿＿＿＿＿. Cameron says he ＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿＿. His first attempt is poor, but after ＿＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿, he ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿. Mitchell is annoyed at first, then ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿. The original drummer soon returns, so Cameron’s career in the band ＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿.
 
-Overall, the episode shows that even a short experience can reveal a new side of someone. ______________________________
+Overall, the episode shows that ＿＿＿＿ ＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿ ＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿. Claire discovers how attached she can become, and Cameron ＿＿＿＿ ＿＿ ＿＿ ＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿, ＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿＿.
 
 ---
 

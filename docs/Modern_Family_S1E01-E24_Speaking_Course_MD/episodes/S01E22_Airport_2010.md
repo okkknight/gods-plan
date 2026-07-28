@@ -33,15 +33,15 @@ Overall, the episode is about communication. A partner cannot read every thought
 
 ## 3. Cue Version
 
-I’d like to introduce Episode 22 of *Modern Family* Season 1. ______________________________
+I’d like to introduce Episode 22 of *Modern Family* Season 1. It’s called **“Airport 2010,”** and it follows the family as they try to leave for a vacation in Hawaii.
 
-Gloria tells Jay that the trip is a birthday present. ______________________________ He complains about the crowd, but his deeper concern is that Gloria may be avoiding time alone with him. Later, he learns that everyone else will return home early. Gloria has actually planned several private days for the two of them at the end of the trip.
+Gloria tells Jay that ＿＿＿ ＿＿＿＿ ＿＿ ＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿. Jay ＿＿＿＿＿＿＿ ＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿ ＿＿ ＿＿＿＿, but at the airport he discovers that ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿. He complains about the crowd, but ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿＿. Later, he learns that ＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿. Gloria has actually planned several private days for the two of them at the end of the trip.
 
-Meanwhile, Mitchell realizes that he left his wallet and identification at home. ______________________________ Phil offers to drive Mitchell back to the house, which upsets Claire. ______________________________ Cameron advises Claire to express her needs instead of asking Phil to read her mind. ______________________________ Both couples eventually apologize.
+Meanwhile, Mitchell realizes that he ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿. He ＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿. Phil ＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿, which ＿＿＿＿＿＿ ＿＿＿＿＿＿. She ＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿＿, but she ＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿. Cameron advises Claire to ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿. At the same time, Phil tells Mitchell that ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿＿＿, even if nobody asks directly. ＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿.
 
-Several smaller problems happen at the airport. ______________________________ Haley flirts with an attractive boy and later discovers that he is only fourteen. ______________________________
+Several smaller problems happen at the airport. Manny’s ＿＿＿＿ ＿＿＿＿＿＿＿ ＿ ＿＿＿＿ ＿＿ ＿ ＿＿＿＿＿＿ ＿＿＿＿, so ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿. Haley ＿＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿ and later discovers that ＿＿ ＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿. Dylan, meanwhile, is ＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿ after ＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿.
 
-Overall, the episode is about communication. ______________________________
+Overall, the episode is about communication. ＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿, but “you never asked” is not always a good excuse for failing to pay attention.
 
 ---
 

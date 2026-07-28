@@ -33,15 +33,15 @@ Overall, the episode shows that embarrassment becomes more powerful when people 
 
 ## 3. Cue Version
 
-I’d like to introduce Episode 14 of *Modern Family* Season 1. ______________________________ The episode is mainly about embarrassment and the different ways people try to protect their pride.
+I’d like to introduce Episode 14 of *Modern Family* Season 1. It’s called **“Moon Landing.”** The episode is mainly about embarrassment and the different ways people try to protect their pride.
 
-Gloria gets into a minor car accident and insists that the other driver was completely at fault. ______________________________ ______________________________ Later, she drives into a restaurant. ______________________________
+Gloria ＿＿＿＿ ＿＿＿＿ ＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿ and insists that ＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿. She ＿＿＿＿ ＿＿＿＿＿＿＿＿, ＿＿＿ ＿＿ ＿ ＿＿＿＿＿＿, ＿＿ ＿＿＿＿ ＿＿＿. Manny honestly points out that Gloria ＿＿ ＿＿＿ ＿ ＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿, but she becomes angry because she feels that ＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿. Later, she ＿＿＿＿＿＿ ＿＿＿＿ ＿ ＿＿＿＿＿＿＿＿＿＿. At that point, she has to admit that ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿ ＿＿ ＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿＿, and she ＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿.
 
-Meanwhile, Claire runs into Valerie, a successful former coworker. ______________________________ Claire invites her home because she wants to prove that her life is just as impressive. ______________________________ ______________________________
+Meanwhile, Claire ＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿, ＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿. Valerie’s career makes Claire feel insecure about leaving the professional world to raise a family. Claire invites her home because she ＿＿＿＿＿ ＿＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿＿. She hopes ＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿, but ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿. Claire is embarrassed, although she also begins to see that ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿ ＿＿ ＿＿ ＿＿＿＿＿.
 
-The third story is about Jay and Cameron playing racquetball. ______________________________ The moment is completely innocent, but Jay cannot stop thinking about it. During the game, he becomes so uncomfortable that he cannot concentrate. Cameron treats it as no big deal, which only makes Jay feel more awkward.
+The third story is about Jay and Cameron ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿. In the locker room, they ＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿. The moment is completely innocent, but Jay ＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿. During the game, he ＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿. Cameron ＿＿＿＿＿＿ ＿＿ ＿＿ ＿＿ ＿＿＿ ＿＿＿＿, which only ＿＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿.
 
-Overall, the episode shows that embarrassment becomes more powerful when people refuse to acknowledge it. ______________________________
+Overall, the episode shows that ＿＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿＿＿ ＿＿. Gloria, Claire, and Jay all try to hide an uncomfortable truth, but ＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿.
 
 ---
 

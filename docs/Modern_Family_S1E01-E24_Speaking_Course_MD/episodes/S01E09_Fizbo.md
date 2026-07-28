@@ -33,15 +33,15 @@ Although the party is a disaster from the adults’ point of view, Luke says it 
 
 ## 3. Cue Version
 
-I’d like to introduce Episode 9 of *Modern Family* Season 1. ______________________________
+I’d like to introduce Episode 9 of *Modern Family* Season 1. It’s called **“Fizbo,”** and it ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿.
 
-Claire and Phil have completely different ideas about the party. ______________________________ ______________________________ Each activity seems harmless by itself, but together they create a chain reaction of accidents. In the end, Luke falls and breaks his arm.
+Claire and Phil ＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿. Claire ＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿ ＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿＿, so she ＿＿＿＿＿＿＿＿ ＿ ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿. Phil ＿＿＿＿＿＿＿＿ ＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿, so he adds a bounce house, a rock-climbing wall, an animal show, and several other attractions. Each activity seems harmless by itself, but together they ＿＿＿＿＿＿ ＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿. In the end, ＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿.
 
-Cameron arrives dressed as Fizbo, the clown character he has performed as for years. ______________________________ Later, a man at a gas station makes fun of Mitchell. Cameron, still dressed as Fizbo, confidently stands up for him. Mitchell realizes that the ridiculous costume also brings out Cameron’s brave and protective side. Phil has his own problem with Fizbo because he is secretly terrified of clowns, and he can no longer hide it.
+Cameron arrives dressed as Fizbo, the clown character he has performed as for years. Mitchell ＿＿ ＿＿＿＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿＿ and ＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿. Later, a man at a gas station ＿＿＿＿＿ ＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿. Cameron, still dressed as Fizbo, ＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿. Mitchell realizes that the ridiculous costume also brings out Cameron’s ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿. Phil has his own problem with Fizbo because he ＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿, and he ＿＿＿ ＿＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿.
 
-Meanwhile, Manny wants to impress a girl named Bianca. ______________________________ ______________________________ ______________________________
+Meanwhile, Manny ＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿ ＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿. Jay tells him to ＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿, but ＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿＿＿. During the chaos, Manny ＿＿＿＿ ＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿ ＿＿ ＿＿＿＿＿＿, and ＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿. Haley also becomes jealous when Dylan pays attention to the animal handler, so she ＿＿＿＿＿＿＿＿ ＿ ＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿＿.
 
-Although the party is a disaster from the adults’ point of view, Luke says it was the best birthday he has ever had. ______________________________
+Although the party is a disaster from the adults’ point of view, Luke says it was ＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿. The episode shows that ＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿.
 
 ---
 

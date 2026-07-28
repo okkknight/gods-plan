@@ -33,15 +33,15 @@ Overall, this episode is about recognizing talent without forcing it. Parents of
 
 ## 3. Cue Version
 
-I’d like to introduce Episode 7 of *Modern Family* Season 1. ______________________________ The main story begins when the family discovers that Manny is unusually talented at fencing.
+I’d like to introduce Episode 7 of *Modern Family* Season 1. It’s called **“En Garde.”** The main story begins when ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿.
 
-Jay is delighted because he finally has a young athlete in the family. ______________________________ ______________________________ The adults on the side do not know what they want him to do. Some signal that he should compete honestly, while others suggest that he should let her win. ______________________________
+Jay is delighted because he ＿＿＿＿＿＿＿ ＿＿＿ ＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿. He ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ and takes the competition very seriously. In the final match, however, Manny has to fence against a girl who has a tragic background and a physical disability. The adults on the side ＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿ ＿＿. Some signal that he ＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿, while others suggest that he ＿＿＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿. Manny ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿, ＿＿＿＿ ＿＿＿ ＿＿＿＿＿, ＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿, which makes the situation even more uncomfortable.
 
-Jay’s excitement about Manny also brings back an old argument between Mitchell and Claire. ______________________________ Claire remembers it differently. ______________________________ They realize that, in their own imperfect way, they were always there for one another.
+Jay’s excitement about Manny also ＿＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿. Mitchell believes Jay ＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ and ＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿. Claire remembers it differently. The two siblings ＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿, but they eventually ＿＿＿ ＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿. They realize that, ＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿, ＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿.
 
-Meanwhile, Phil worries that Luke does not have a special talent. ______________________________ Later, during one of Phil’s open houses, Luke begins talking to potential buyers. He is friendly, confident, and surprisingly good at presenting the house. ______________________________
+Meanwhile, Phil ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿. He ＿＿＿＿＿ ＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿, but ＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿ ＿＿ ＿＿. Later, during one of Phil’s open houses, Luke ＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿. He is ＿＿＿＿＿＿＿＿, ＿＿＿＿＿＿＿＿＿, ＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿. Phil realizes that Luke ＿＿＿＿ ＿＿＿＿ ＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿; it is simply ＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿.
 
-Overall, this episode is about recognizing talent without forcing it. ______________________________
+Overall, this episode is about ＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿. Parents often look for the ability they want their child to have, while ＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿.
 
 ---
 

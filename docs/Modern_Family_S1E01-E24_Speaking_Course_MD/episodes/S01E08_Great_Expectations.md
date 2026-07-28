@@ -33,15 +33,15 @@ Overall, the episode shows that a perfect plan is not what makes an evening mean
 
 ## 3. Cue Version
 
-I’d like to introduce Episode 8 of *Modern Family* Season 1. ______________________________ ______________________________
+I’d like to introduce Episode 8 of *Modern Family* Season 1. It’s called **“Great Expectations.”** The title fits the episode because ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿, ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿.
 
-The first storyline is about Phil and Claire’s wedding anniversary. ______________________________ Phil is very good at this, so Claire feels pressure to come up with something equally special. This year, she hires Izzy LaFontaine, a musician Phil loved when he was younger, to perform in their home. ______________________________ Unfortunately, she has remembered the story incorrectly. ______________________________ ______________________________
+The first storyline is about Phil and Claire’s wedding anniversary. Every year, they ＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿. Phil is very good at this, so Claire ＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿. This year, she hires Izzy LaFontaine, a musician Phil loved when he was younger, to perform in their home. Claire also asks him to play what she believes is “their song.” Unfortunately, she ＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿. The song is ＿＿＿＿＿＿＿＿＿ ＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿, and ＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿. Phil still appreciates the effort, and the musician ＿＿＿＿＿＿＿ ＿ ＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿, so the evening ＿＿＿＿ ＿＿ ＿ ＿＿＿＿ ＿＿＿＿.
 
-Meanwhile, Jay hosts “Jay’s Night,” a sleepover for his grandchildren. ______________________________ Haley wants to leave for a party, but Dylan unexpectedly enjoys spending time with Jay. ______________________________
+Meanwhile, Jay ＿＿＿＿＿ “＿＿＿＿＿ ＿＿＿＿＿,” ＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿＿. He ＿＿＿＿＿ ＿＿＿＿＿＿, ＿＿＿＿, ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿. Haley wants to leave for a party, but ＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿＿. Alex tells Luke that ＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿, so Luke ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿.
 
-The third story is about Mitchell and Cameron. ______________________________ However, Sal is jealous of Lily because the baby has changed their friendship. Their night does not go as planned, and they eventually end up at Jay’s house with everyone else.
+The third story is about Mitchell and Cameron. They ＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿, hoping to ＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿. However, Sal ＿＿ ＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿. Their night does not go as planned, and they ＿＿＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿ ＿＿ ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿.
 
-Overall, the episode shows that a perfect plan is not what makes an evening meaningful. ______________________________
+Overall, the episode shows that ＿ ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿. The plans fall apart, but ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿ ＿ ＿＿＿ ＿＿ ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿.
 
 ---
 

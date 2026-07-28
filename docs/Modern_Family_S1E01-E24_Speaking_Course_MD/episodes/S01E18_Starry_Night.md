@@ -33,15 +33,15 @@ Overall, the episode is about giving people room to do things in their own way. 
 
 ## 3. Cue Version
 
-I’d like to introduce Episode 18 of *Modern Family* Season 1. ______________________________ The episode is about helping family members without taking over their responsibilities.
+I’d like to introduce Episode 18 of *Modern Family* Season 1. It’s called **“Starry Night.”** The episode is about ＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿.
 
-Luke has to prepare a school presentation about Vincent van Gogh. ______________________________ Claire is supposed to help Haley make cupcakes for a school event. She gradually realizes that Haley expects her to do all the work. Claire refuses to take over, so Haley has to make the cupcakes herself. They turn out terribly, but she finally takes responsibility for her own assignment. ______________________________
+Luke has to ＿＿＿＿＿＿＿ ＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿. Phil volunteers to help, but he ＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿. Claire is supposed to ＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿ ＿ ＿＿＿＿＿＿ ＿＿＿＿＿. She gradually realizes that ＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿ ＿＿ ＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿. Claire ＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿＿, so Haley ＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿. They ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿, but she finally ＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿＿. Luke’s presentation ＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿, yet he manages to ＿＿＿＿＿＿＿＿ ＿＿ ＿＿ ＿＿＿ ＿＿＿ ＿＿＿.
 
-Meanwhile, Jay, Mitchell, and Manny go outside to look at the stars. ______________________________ Manny is teased for similar reasons. Mitchell first becomes defensive, then realizes that Manny reminds him of himself. He begins supporting Manny instead of letting Jay embarrass him. ______________________________
+Meanwhile, Jay, Mitchell, and Manny ＿＿ ＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿. Mitchell hopes to ＿＿＿＿ ＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿, but Jay keeps joking about how unathletic and sensitive Mitchell was as a child. Manny is teased for similar reasons. Mitchell first becomes defensive, then realizes that ＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿ ＿＿ ＿＿＿＿＿＿＿. He ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿. Jay eventually becomes less sarcastic, and the three of them finally ＿＿＿＿＿ ＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿.
 
-In the third storyline, Cameron and Gloria go out for dinner. ______________________________ ______________________________ ______________________________
+In the third storyline, Cameron and Gloria go out for dinner. Cameron ＿＿＿＿＿ ＿＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿, but it ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿. Gloria ＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿, and the two discover that they ＿＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿＿＿, ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿, ＿＿＿＿＿＿＿＿, ＿＿＿ ＿＿＿＿＿＿. Mitchell had worried they would have nothing in common, but they ＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿.
 
-Overall, the episode is about giving people room to do things in their own way. ______________________________
+Overall, the episode is about ＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿. Support is useful, but ＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿＿.
 
 ---
 

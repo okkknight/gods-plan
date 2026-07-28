@@ -41,7 +41,7 @@ npm run build
 
 ## 风险与后续
 
-- 当前内容解析把每个 Markdown 的三种模式保存在三个对应 section 中，每个 section 保留完整内容；24 篇 Cue 已按各自 Spoken English 原文重建，明文按原文顺序保留，连续剧情句块约挖空 50%。
+- 当前内容解析把每个 Markdown 的三种模式保存在三个对应 section 中，每个 section 保留完整内容；Cue Version 以 `docs/Modern_Family_S1E01-E24_Revised_Cue_Collection.md` 为唯一来源，通过脚本覆盖 24 篇课程。
 - 已为 S01E01 生成标准英文朗读音频；音频生成脚本使用 Fish Audio `s2.1-pro-free`、指定 `reference_id` 和本地缓存，部署前需自行管理音频文件与 SQLite 文件。
 - 当前只支持英文模式下播放整篇音频，不包含逐段播放、跟读或字幕同步；批量生成其他课程前应先试听确认 S01E01 的声音和节奏。
 - 已独立检查完成/撤销流程、移动端响应式结构、真实导入更新保留进度，以及今天/过去/未来日历行为。

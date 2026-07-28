@@ -33,15 +33,15 @@ Overall, the episode is about pride and gradual change. Nobody becomes a new per
 
 ## 3. Cue Version
 
-I’d like to introduce Episode 13 of *Modern Family* Season 1. ______________________________ ______________________________
+I’d like to introduce Episode 13 of *Modern Family* Season 1. It’s called **“Fifteen Percent.”** The title comes from Mitchell’s idea that people may not change completely, but even a small change can still matter.
 
-The first story begins when Jay introduces Cameron as “Mitchell’s friend” instead of his partner. ______________________________ To test him, Mitchell suggests that Jay’s old friend Shorty might be gay. Jay is uncomfortable, but he tries hard to respond in a supportive way. Later, Jay learns that Shorty is not gay at all. He has a gambling debt and is afraid to tell his wife. Jay quietly lends him the money. ______________________________
+The first story begins when Jay ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿ “＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿” ＿＿＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿＿. Mitchell feels that Jay still ＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿. To test him, Mitchell ＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿. Jay ＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿＿, but he ＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿ ＿＿ ＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿. Later, Jay learns that ＿＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿ ＿＿ ＿＿＿. He has a gambling debt and is afraid to tell his wife. Jay ＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿＿. Mitchell notices that his father ＿＿ ＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿, and he decides that ＿ ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿.
 
-Meanwhile, Claire cannot operate the family’s complicated entertainment system. ______________________________ Claire challenges him to teach Haley, expecting Haley to fail too. Instead, Haley learns it quickly. ______________________________
+Meanwhile, Claire ＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿. Phil ＿＿＿＿＿ ＿＿＿ ＿＿ ＿＿＿ and claims that ＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿ ＿＿＿. Claire ＿＿＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿ ＿＿＿＿＿ ＿＿＿＿＿, ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿. Instead, ＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿. Claire then ＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿＿＿ ＿＿＿ because she ＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿.
 
-In the third storyline, Gloria arranges a blind date for Manny and helps him dress for it. ______________________________ Manny is disappointed, but he tries to handle the situation with dignity.
+In the third storyline, Gloria ＿＿＿＿＿＿＿＿ ＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿ and helps him dress for it. When Whitney arrives, she ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿ and clearly ＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿＿. Manny is disappointed, but he ＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿.
 
-Overall, the episode is about pride and gradual change. ______________________________ ______________________________
+Overall, the episode is about ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿. Nobody becomes a new person overnight. However, admitting a weakness or making a small effort to understand someone else can still be meaningful.
 
 ---
 

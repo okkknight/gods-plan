@@ -33,15 +33,15 @@ Overall, the episode shows that romance rarely follows a perfect script. The bes
 
 ## 3. Cue Version
 
-I’d like to introduce Episode 15 of *Modern Family* Season 1. ______________________________
+I’d like to introduce Episode 15 of *Modern Family* Season 1. It’s called **“My Funky Valentine,”** and it ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿.
 
-Phil and Claire want to escape their usual roles as parents, so they meet at a hotel bar and pretend to be strangers. ______________________________ The role-play is exciting at first, but Claire’s coat gets caught in an escalator. ______________________________ Their romantic adventure turns into an embarrassing rescue operation. Gloria happens to be nearby and helps them escape with at least some dignity left.
+Phil and Claire want to ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿, so they ＿＿＿＿ ＿＿ ＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿. Phil ＿＿＿＿＿＿＿ ＿＿＿＿＿, and Claire ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿. The role-play is exciting at first, but ＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿. Because she ＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿, the couple has to find a way to ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿ ＿＿＿＿＿＿ ＿＿＿＿＿. Their romantic adventure ＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿. Gloria happens to be nearby and ＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿.
 
-Meanwhile, Mitchell is preparing to give an impressive closing argument in court, but the case settles before he gets the chance. ______________________________ ______________________________ ______________________________
+Meanwhile, Mitchell is ＿＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿, but ＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿. Manny has a problem of his own: another boy takes credit for a poem Manny wrote for a girl. Mitchell ＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ to ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿. He wins the argument, but ＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿, so ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿.
 
-Jay takes Gloria to a comedy show for Valentine’s Day. ______________________________ They leave and go salsa dancing instead, choosing something they both actually enjoy. On the way, they also help Phil and Claire out of their difficult situation.
+Jay ＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿ ＿＿＿＿＿＿ ＿＿＿＿ for Valentine’s Day. The comedian ＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿＿, and Jay ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿＿. They leave and ＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿, choosing ＿＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿. On the way, they also help Phil and Claire out of their difficult situation.
 
-Overall, the episode shows that romance rarely follows a perfect script. ______________________________ ______________________________
+Overall, the episode shows that ＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿. The best moments do not come from acting sophisticated. They come from being able to survive an embarrassing situation together and still laugh about it later.
 
 ---
 

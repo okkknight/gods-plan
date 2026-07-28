@@ -33,15 +33,15 @@ Overall, the episode shows how quickly confusion grows when people hide informat
 
 ## 3. Cue Version
 
-I’d like to introduce Episode 12 of *Modern Family* Season 1. ______________________________ ______________________________
+I’d like to introduce Episode 12 of *Modern Family* Season 1. It’s called **“Not in My House.”** Most of the comedy comes from people hiding the truth or misunderstanding what someone else is talking about.
 
-Claire finds an inappropriate picture on the family computer and assumes Luke downloaded it. ______________________________ ______________________________ At the same time, Luke really has done something wrong: he read Haley’s private journal. ______________________________ ______________________________ ______________________________
+Claire ＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ and ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿. She tells Phil to deal with him. Phil ＿＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿ ＿＿＿, but he is ＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿ ＿＿, so he ＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿＿ ＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿. At the same time, Luke really has done something wrong: he ＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿. When the family starts discussing both problems, ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿＿. Luke ＿＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿, while Claire ＿＿＿＿＿＿＿＿ ＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿＿. The confusion grows until Phil ＿＿＿＿＿＿＿ ＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿ and admit that ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿.
 
-At Jay’s house, Jay buys a strange dog-shaped butler statue named Barkley. ______________________________ They argue over an object that should not matter at all. Jay eventually gives Barkley to Mitchell and Cameron. Cameron loves it immediately, while Mitchell reacts almost exactly like Gloria.
+At Jay’s house, Jay ＿＿＿＿ ＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿. He thinks it is funny and charming, but Gloria ＿＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿＿. They argue over an object that should not matter at all. Jay eventually ＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿. Cameron ＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿＿＿, while Mitchell ＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿.
 
-Mitchell and Cameron also become concerned about their gardener, who always looks sad. ______________________________ They later learn that he is simply stressed about his wedding. Wanting to help, they offer their house for the ceremony.
+Mitchell and Cameron also ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿, ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿. Because they ＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿, they ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿ ＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿. They later learn that he is ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿. Wanting to help, they ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿.
 
-Overall, the episode shows ______________________________.
+Overall, the episode shows how quickly ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿ and ＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿.
 
 ---
 

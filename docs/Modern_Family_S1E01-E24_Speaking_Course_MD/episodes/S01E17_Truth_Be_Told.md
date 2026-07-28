@@ -37,17 +37,17 @@ Overall, the episode shows that honesty is not always rewarded immediately. Stil
 
 ## 3. Cue Version
 
-I’d like to introduce Episode 17 of *Modern Family* Season 1. ______________________________ Each storyline involves someone avoiding a truth that eventually becomes impossible to ignore.
+I’d like to introduce Episode 17 of *Modern Family* Season 1. It’s called **“Truth Be Told.”** Each storyline involves ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿.
 
-Phil reconnects online with Denise, an old friend from college. ______________________________ ______________________________ Phil misses every signal until Denise finally makes her interest obvious. He is shocked, while Claire is not surprised at all. After Denise leaves, Phil has to admit that he is not nearly as good at reading women as he thought.
+Phil ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿, ＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿. He believes she is ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿, but Claire immediately suspects that Denise ＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿. When Denise visits the house, she ＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ and hints that ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿. Phil ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿ until Denise finally ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿. He is shocked, while Claire is not surprised at all. After Denise leaves, Phil has to admit that he ＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿ ＿＿＿＿＿＿＿.
 
-Meanwhile, Alex plays a cruel prank on Luke. ______________________________ ______________________________ ______________________________
+Meanwhile, Alex ＿＿＿＿＿ ＿ ＿＿＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿＿. She tells him that she ＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿＿. Luke believes her and ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿. Alex ＿＿＿＿＿ ＿＿ ＿＿ ＿ ＿＿＿＿, but she realizes she ＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿ when she sees that Luke is genuinely hurt.
 
-At Jay’s house, Jay accidentally kills Manny’s pet turtle. ______________________________ Manny quickly figures out what really happened, but he waits for Jay to tell the truth on his own. Jay finally confesses.
+At Jay’s house, Jay ＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿. Instead of admitting it, he ＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿ ＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿. Manny quickly ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿, but he ＿＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿. Jay finally confesses.
 
-Mitchell also tries to be honest. ______________________________ He expects the boss to respect his courage, but he gets fired instead.
+Mitchell also tries to be honest. He tells his boss that ＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿. He ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿, but he ＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿.
 
-Overall, the episode shows that honesty is not always rewarded immediately. ______________________________
+Overall, the episode shows that ＿＿＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿. Still, avoiding the truth usually creates a much bigger problem than the truth itself.
 
 ---
 

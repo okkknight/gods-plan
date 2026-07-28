@@ -35,15 +35,15 @@ Overall, the episode shows that people are often different from our first impres
 
 ## 3. Cue Version
 
-I’d like to introduce Episode 3 of *Modern Family* Season 1. ______________________________ ______________________________
+I’d like to introduce Episode 3 of *Modern Family* Season 1. It’s called **“Come Fly with Me.”** This episode has three main storylines, and they are all about ＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿.
 
-The first story is about Phil and Jay. ______________________________ ______________________________ Phil is extremely excited and keeps talking, while Jay just wants to enjoy his hobby in peace. ______________________________ He says he is going to fly the plane through it, but the plane hits Phil right in the face instead. Jay claims it was an accident, although Claire is pretty sure he did it on purpose. She makes Jay apologize. In the end, Jay admits that Phil can get on his nerves, but he does not actually dislike him. Phil is thrilled because he has always wanted Jay’s approval.
+The first story is about Phil and Jay. Phil ＿＿＿＿＿＿ ＿＿＿＿＿ ＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿＿, but Jay ＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿ ＿ ＿＿＿＿＿＿＿＿. One day, Phil finds out that Jay ＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿, so he ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿. Phil ＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿, while Jay just ＿＿＿＿＿ ＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿＿＿. After a while, Jay asks Phil to ＿＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿ ＿ ＿＿＿＿＿ ＿＿＿＿. He says he is going to ＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿, but ＿＿＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿. Jay ＿＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿, although Claire ＿＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿ ＿＿ ＿＿ ＿＿＿＿＿＿＿. She makes Jay apologize. In the end, Jay admits that ＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿, but he ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿. Phil is thrilled because he ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿.
 
-The second story is about Gloria and Alex. ______________________________ ______________________________ ______________________________ Meanwhile, Manny gives Claire some surprisingly mature advice. He tells her that she should accept Alex instead of trying to turn her into someone else.
+The second story is about Gloria and Alex. Claire ＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿ ＿ ＿＿＿＿＿ ＿＿ ＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿, so Gloria ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿. Alex feels uncomfortable because she thinks ＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿, while ＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿. Gloria tells her ＿＿＿ ＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿ and helps her see that ＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿ ＿＿＿. Meanwhile, Manny ＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿. He tells her that she should accept Alex instead of trying to turn her into someone else.
 
-The third story is about Mitchell and Cameron. ______________________________ ______________________________ By the end, the person who did not want to go is the one filling several shopping carts.
+The third story is about Mitchell and Cameron. Cameron ＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿＿. Mitchell ＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿＿＿, but once he ＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿＿, he ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿. By the end, the person who did not want to go is the one ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿.
 
-Overall, the episode shows that people are often different from our first impression of them. ______________________________
+Overall, the episode shows that ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿. It is funny, but it also ＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿.
 
 ---
 

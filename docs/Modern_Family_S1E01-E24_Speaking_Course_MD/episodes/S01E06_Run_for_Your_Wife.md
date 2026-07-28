@@ -33,15 +33,15 @@ Overall, the episode is about anxious parents trying to do the right thing. Thei
 
 ## 3. Cue Version
 
-I’d like to introduce Episode 6 of *Modern Family* Season 1. ______________________________ The episode takes place on the first day of school.
+I’d like to introduce Episode 6 of *Modern Family* Season 1. It’s called **“Run for Your Wife.”** The episode ＿＿＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿ ＿＿＿＿＿＿.
 
-After all three children leave the house, Claire expects to enjoy the peace and quiet. ______________________________ Phil completely misreads the situation. He thinks Claire needs excitement, so he challenges her to a running race. Claire is actually faster, but she lets Phil win because she knows how much it means to him. ______________________________
+After all three children leave the house, Claire ＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿. Instead, ＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿. Phil ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿. He thinks Claire needs excitement, so he ＿＿＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿ ＿ ＿＿＿＿＿＿＿ ＿＿＿＿. Claire ＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿, but she ＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿. Just as Phil is celebrating, Haley, who is learning to drive, ＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿.
 
-The second storyline is about Manny’s first day at school. ______________________________ ______________________________ Gloria finds out and insists that Jay return it. She believes Manny should be free to express himself. ______________________________
+The second storyline is about Manny’s first day at school. He ＿＿＿＿＿ ＿＿ ＿＿＿＿ ＿ ＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿＿. Jay is worried that ＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿ ＿＿＿, so he ＿＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿. Gloria finds out and insists that Jay return it. She believes ＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿. However, when Manny ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿, Gloria quietly asks Jay to ＿＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿.
 
-Meanwhile, Mitchell and Cameron panic after Lily bumps her head. ______________________________ ______________________________ The doctor tells them that Lily is completely fine. They finally relax, only to lock her inside the car by accident a few minutes later.
+Meanwhile, Mitchell and Cameron ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿. They rush her to the doctor and worry that ＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿. They also misunderstand several normal comments and ＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿ ＿＿＿ ＿＿＿＿＿＿. The doctor tells them that ＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿. They finally relax, only to ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿ a few minutes later.
 
-Overall, the episode is about anxious parents trying to do the right thing. ______________________________
+Overall, the episode is about ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿. Their intentions are good, but fear and pride often make simple situations much more complicated than they need to be.
 
 ---
 

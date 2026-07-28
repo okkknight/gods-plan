@@ -33,15 +33,15 @@ Overall, the episode shows how quickly people can become controlling during the 
 
 ## 3. Cue Version
 
-I’d like to introduce Episode 10 of *Modern Family* Season 1. ______________________________
+I’d like to introduce Episode 10 of *Modern Family* Season 1. It’s called **“Undeck the Halls,”** and it is ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿.
 
-At the Dunphy house, Phil and Claire find a burn mark on the sofa. ______________________________ Phil decides to cancel Christmas until somebody tells the truth. He removes the tree, the decorations, and the presents, expecting the guilty child to confess. Nobody does. ______________________________ Later, they discover that sunlight reflected through an ornament caused the burn. ______________________________
+At the Dunphy house, Phil and Claire ＿＿＿＿ ＿ ＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿. They assume that ＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿, but Haley, Alex, and Luke ＿＿＿ ＿＿＿＿ ＿＿. Phil decides to ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿. He ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿, ＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿, ＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿, expecting ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿. ＿＿＿＿＿＿ ＿＿＿＿. Alex finally ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿ because she ＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿＿. Later, they discover that ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿. Phil and Claire realize they ＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿, so Phil tries to make up for it by ＿＿＿＿＿＿＿＿＿ ＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿＿.
 
-At Jay’s house, Jay wants Gloria and Manny to celebrate Christmas in a traditional American way. ______________________________ At first, both sides treat the other traditions as strange. Eventually, they combine them, ending with loud and slightly dangerous fireworks.
+At Jay’s house, Jay wants Gloria and Manny to ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿ ＿ ＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿. Gloria and Manny want to ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿. At first, both sides ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿. Eventually, they ＿＿＿＿＿＿＿ ＿＿＿＿, ending with ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿.
 
-Meanwhile, Mitchell and Cameron take Lily to meet Santa at the mall. ______________________________ Feeling guilty, they invite him to dinner. ______________________________
+Meanwhile, Mitchell and Cameron take Lily to meet Santa at the mall. They ＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿＿. Feeling guilty, they ＿＿＿＿＿＿ ＿＿＿ ＿＿ ＿＿＿＿＿＿. Their attempt to help becomes awkward because they ＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿.
 
-Overall, the episode shows how quickly people can become controlling during the holidays. ______________________________
+Overall, the episode shows how quickly people can ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿. Everyone wants the “right” kind of Christmas, but the family only enjoys it after they admit their mistakes and ＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿.
 
 ---
 

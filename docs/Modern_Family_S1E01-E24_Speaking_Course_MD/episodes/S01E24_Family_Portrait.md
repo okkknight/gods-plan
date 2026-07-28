@@ -37,17 +37,17 @@ Overall, the finale captures the central idea of the first season. This family i
 
 ## 3. Cue Version
 
-I’d like to introduce Episode 24 of *Modern Family* Season 1. ______________________________
+I’d like to introduce Episode 24 of *Modern Family* Season 1. It’s called **“Family Portrait,”** and ＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿.
 
-Claire wants to take a perfect family photograph. ______________________________ On the day of the picture, however, every part of the plan begins to fall apart. Claire also tries to repair a broken stair at home, but she only makes it worse. The more she controls the details, the more chaotic the day becomes.
+Claire ＿＿＿＿＿ ＿＿ ＿＿＿＿ ＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿. She asks everyone to ＿＿＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿. On the day of the picture, however, ＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿＿＿. Claire also ＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿ ＿ ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿＿, but she ＿＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿＿＿. The more she controls the details, the more chaotic the day becomes.
 
-Phil takes Alex to a Lakers game, and Gloria and Manny go with them. ______________________________ ______________________________ ______________________________
+Phil ＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿ ＿＿＿＿＿＿ ＿＿＿＿, and ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿＿. Phil and Gloria ＿＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿. They refuse to kiss at first, but ＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿ until ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿. Phil ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿＿, so he spends the rest of the day ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿.
 
-Meanwhile, Cameron works as a singer at a wedding, while Mitchell stays home with Lily. ______________________________ Luke interviews Jay for a school project, but he finds Jay’s real stories boring. Jay responds by inventing increasingly dramatic adventures from his past.
+Meanwhile, Cameron ＿＿＿＿＿ ＿＿ ＿ ＿＿＿＿＿＿ ＿＿ ＿ ＿＿＿＿＿＿＿, while Mitchell ＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿＿＿. ＿ ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿, and Mitchell ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿ ＿＿＿. Luke interviews Jay for a school project, but he ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿. Jay responds by ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿.
 
-The family finally arrives for the photograph in their clean white clothes, but several arguments immediately break out. ______________________________ Jay finally loses patience and starts a mud fight, ruining everyone’s clothes. ______________________________ ______________________________
+The family finally arrives for the photograph in their clean white clothes, but ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿. Claire ＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿. Jay finally ＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿ ＿＿＿ ＿＿＿＿＿, ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿. The mess ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿, and they ＿＿＿＿ ＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿. Later, Claire admits that she loves the imperfect picture more than the carefully posed one she had imagined.
 
-Overall, the finale captures the central idea of the first season. ______________________________
+Overall, the finale ＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿. This family is never orderly or predictable, but the chaos is part of what makes them feel like a real family.
 
 ---
 

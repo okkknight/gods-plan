@@ -33,15 +33,15 @@ Overall, the episode shows how an unexpected person or action can completely cha
 
 ## 3. Cue Version
 
-I’d like to introduce Episode 19 of *Modern Family* Season 1. ______________________________ ______________________________
+I’d like to introduce Episode 19 of *Modern Family* Season 1. It’s called **“Game Changer.”** The episode takes place on Phil’s birthday, which is also the release day of the first iPad.
 
-Phil desperately wants the new device and dreams of getting one on the first day. ______________________________ ______________________________ She spends the day searching because she does not want to disappoint Phil. Luke eventually finds a seller online. ______________________________ The story is completely dishonest, but it works. Phil receives the iPad and believes his family has given him the perfect birthday.
+Phil ＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿＿＿ and dreams of ＿＿＿＿＿＿＿ ＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿. Claire ＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿, but she ＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿. By the time she reaches the stores, ＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿＿. She ＿＿＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿. Luke eventually ＿＿＿＿＿ ＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿. To persuade the man to give them the device, Luke claims that his father is seriously ill and that the iPad is his final wish. The story is ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿, but it works. ＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿ and believes his family ＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿.
 
-Meanwhile, Jay plays chess with Manny. ______________________________ ______________________________ Manny finally decides to play seriously and wins one of Jay’s watches. ______________________________
+Meanwhile, Jay plays chess with Manny. Jay ＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿ ＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿. Manny ＿＿ ＿＿＿＿＿＿＿＿ ＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿, but Gloria encourages him to ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿. Manny finally decides to ＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿. Jay is impressed to have ＿＿＿＿＿ ＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿, although he still does not know that ＿＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿.
 
-Mitchell and Cameron accidentally hear their neighbors arguing through the baby monitor. ______________________________ Mitchell thinks he is crossing a line. ______________________________ Cameron’s interference is inappropriate, but it surprisingly helps the couple communicate.
+Mitchell and Cameron accidentally ＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿. Cameron ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿. Mitchell thinks he ＿＿ ＿＿＿＿＿＿＿＿ ＿ ＿＿＿＿. He also worries that the neighbors ＿＿ ＿＿＿ ＿＿＿ ＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿, so he makes several ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿＿. Cameron’s interference is inappropriate, but it ＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿.
 
-Overall, the episode shows ______________________________.
+Overall, the episode shows how ＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿ ＿＿＿＿＿＿＿＿＿, even when ＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿.
 
 ---
 

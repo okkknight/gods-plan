@@ -37,17 +37,17 @@ Overall, this episode is about old family conflicts coming back to the surface. 
 
 ## 3. Cue Version
 
-I’d like to introduce Episode 4 of *Modern Family* Season 1. ______________________________ The title refers to a huge family fight that happened at Jay and Gloria’s wedding.
+I’d like to introduce Episode 4 of *Modern Family* Season 1. It’s called **“The Incident.”** The title refers to a huge family fight that happened at Jay and Gloria’s wedding.
 
-Jay’s ex-wife, Dede, comes back to town and says she wants to apologize for losing control at the wedding. ______________________________ He does not tell Gloria because he is afraid the two women will fight again.
+Jay’s ex-wife, Dede, ＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿ and says she ＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿＿. Mitchell knows that she is coming, but he ＿＿＿＿ ＿＿＿＿＿ ＿＿＿. He does not tell Gloria because he is afraid the two women will fight again.
 
-Later, the whole family has dinner together. ______________________________ For a moment, everyone thinks the problem has finally been settled. However, Dede soon becomes emotional again and attacks Gloria. The dinner turns into complete chaos. ______________________________ ______________________________
+Later, the whole family has dinner together. At first, Dede ＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿ ＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿. For a moment, ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿. However, Dede soon ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿. The dinner ＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿. Surprisingly, Dylan, Haley’s boyfriend, is the one who ＿＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿. His comments are ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿, and Phil and Claire suddenly ＿＿＿ ＿＿＿ ＿＿ ＿ ＿＿＿＿＿＿ ＿＿＿＿＿.
 
-This connects to the second storyline. ______________________________ ______________________________ ______________________________ Unfortunately, he then performs a song he wrote for Haley. The song starts out sweet, but the lyrics become more and more inappropriate. ______________________________
+This connects to the second storyline. Haley ＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿ ＿＿ ＿＿ ＿ ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿. Phil and Claire ＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿, so they ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿. After Dylan ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿, they decide that he ＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿. Unfortunately, he then ＿＿＿＿＿＿＿＿ ＿ ＿＿＿＿ ＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿. The song ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿, but ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿＿. Phil and Claire ＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿.
 
-Meanwhile, Gloria is furious when she learns that Mitchell kept Dede’s visit a secret from her. ______________________________
+Meanwhile, Gloria is furious when she learns that Mitchell ＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿ ＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿. She ＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿ ＿ ＿＿＿＿＿, reminding him that ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿.
 
-Overall, this episode is about old family conflicts coming back to the surface. ______________________________
+Overall, this episode is about ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿＿. It also shows that the person everyone underestimates may sometimes be the most sensible person in the room.
 
 ---
 

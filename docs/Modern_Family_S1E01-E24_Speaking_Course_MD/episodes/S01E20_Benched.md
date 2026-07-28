@@ -33,15 +33,15 @@ Overall, the episode shows how strongly people connect their identity to a role.
 
 ## 3. Cue Version
 
-I’d like to introduce Episode 20 of *Modern Family* Season 1. ______________________________ The episode is about adults struggling when their usual role is taken away or begins to change.
+I’d like to introduce Episode 20 of *Modern Family* Season 1. It’s called **“Benched.”** The episode is about adults struggling when their usual role is taken away or begins to change.
 
-Luke and Manny’s basketball coach constantly yells at the children and makes cruel comments. ______________________________ The team now needs a coach, and both Phil and Jay want the position. They begin competing for control instead of working together. ______________________________ ______________________________
+Luke and Manny’s basketball coach ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿. Phil and Jay ＿＿＿ ＿＿＿ ＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿, but he ＿＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿ ＿＿＿＿. The team now needs a coach, and ＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿. They ＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿. Each man wants to prove that he ＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿. Their argument becomes more important to them than the actual players, until they finally realize that ＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿ ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿.
 
-Meanwhile, Claire takes Alex shopping. ______________________________ ______________________________ Gloria has the same experience when Manny asks her not to be so affectionate in front of his friends. ______________________________
+Meanwhile, Claire takes Alex shopping. When Alex ＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿, she ＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿＿. Claire ＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿ ＿ ＿＿＿＿＿＿＿＿ and ＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿. Gloria has the same experience when Manny ＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿ ＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿＿. The two mothers walk together while taking care of Lily and admit that ＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿.
 
-Mitchell is still unemployed, while Cameron now works for a greeting-card company. ______________________________ ______________________________ Mitchell receives a job offer, and they finally admit that they want their old arrangement back. Then they accidentally damage the new boss’s Ferrari, making the decision much less optional.
+Mitchell is ＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿, while Cameron ＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿ ＿＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿. ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿. Mitchell ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿, and Cameron ＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿＿＿, but ＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿ ＿＿ ＿＿＿＿＿. Mitchell receives a job offer, and they finally admit that they ＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿. Then they ＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿, making the decision much less optional.
 
-Overall, the episode shows how strongly people connect their identity to a role. ______________________________
+Overall, the episode shows how strongly people ＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿ ＿ ＿＿＿＿. When that role changes, ＿＿＿＿ ＿ ＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿ ＿＿＿＿.
 
 ---
 

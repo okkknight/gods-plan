@@ -35,17 +35,17 @@ Overall, this episode is about distrust inside a blended family. Nobody solves e
 
 ## 3. Cue Version
 
-I’d like to introduce Episode 5 of *Modern Family* Season 1. ______________________________ The episode begins with a fight between Luke and Manny at school.
+I’d like to introduce Episode 5 of *Modern Family* Season 1. It’s called **“Coal Digger.”** The episode ＿＿＿＿＿＿ ＿＿＿＿ ＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿.
 
-Manny says that, technically, he is Luke’s uncle because Gloria is married to Jay. ______________________________ ______________________________
+Manny says that, ＿＿＿＿＿＿＿＿＿＿＿, ＿＿ ＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿ ＿＿ ＿＿＿. Luke thinks that ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿, and ＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿. When the family is called to the school, Jay tries to explain that ＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿ ＿＿＿＿＿＿＿, but ＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿ ＿＿ ＿＿＿＿＿＿＿＿＿.
 
-Later, everyone gathers at Jay’s house to watch football. ______________________________ Unfortunately, he keeps using them at the wrong time, and the whole effort becomes awkward. ______________________________ Jay is immediately impressed, while Mitchell feels that Cameron has accidentally stolen the moment he had prepared for himself.
+Later, everyone ＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿. Mitchell ＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿, so he ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿. Unfortunately, he ＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿＿, and ＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿. Cameron acts as if he does not care much about sports, but then the family discovers that he ＿＿＿＿ ＿＿ ＿＿ ＿ ＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿. Jay ＿＿ ＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿, while Mitchell feels that Cameron ＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿.
 
-The main conflict is between Claire and Gloria. ______________________________ Gloria realizes that he must have heard the expression from Claire. ______________________________ Claire first tries to defend herself, but eventually admits that she has been unfair and judgmental.
+The main conflict is between Claire and Gloria. During the children’s argument, Luke calls Gloria a “gold digger.” Gloria realizes that ＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿. She is deeply hurt because it confirms her fear that Claire thinks she only married Jay for his money. Claire first ＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿, but eventually admits that she ＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿＿.
 
-To prove that her apology is sincere, Claire jumps into the swimming pool with her clothes on. ______________________________
+To ＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿, Claire ＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿ ＿＿. Gloria joins her, and soon ＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿ ＿＿＿＿.
 
-Overall, this episode is about distrust inside a blended family. ______________________________
+Overall, this episode is about ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿＿. Nobody solves everything with a perfect speech, but the family manages to ＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿.
 
 ---
 

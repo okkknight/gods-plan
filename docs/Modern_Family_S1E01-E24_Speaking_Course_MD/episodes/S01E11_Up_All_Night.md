@@ -33,15 +33,15 @@ Overall, this episode is about patience. The characters have to endure physical 
 
 ## 3. Cue Version
 
-I’d like to introduce Episode 11 of *Modern Family* Season 1. ______________________________ As the title suggests, almost everyone has a long and exhausting night.
+I’d like to introduce Episode 11 of *Modern Family* Season 1. It’s called **“Up All Night.”** As the title suggests, ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿ ＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿.
 
-Manny’s biological father, Javier, suddenly arrives. ______________________________ Jay dislikes him at first because he believes Javier keeps disappointing Manny. ______________________________ Gloria is not impressed. She knows that Javier is good at making promises but bad at keeping them. Sure enough, he lets Manny down again. ______________________________
+Manny’s biological father, Javier, ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿. He is ＿＿＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿ ＿＿＿＿, but he is ＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿＿. Jay dislikes him at first because he believes Javier ＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿. However, the two men ＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿＿＿＿＿＿, and Jay quickly ＿＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿. Gloria is not impressed. She knows that Javier is ＿＿＿＿ ＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿ ＿＿＿＿＿＿＿ ＿＿＿＿. Sure enough, he ＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿. Jay finally understands ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿, even though he is ＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿.
 
-At the Dunphy house, Phil has a severe kidney stone and can barely move. ______________________________ Phil is in terrible pain, but he still notices. ______________________________
+At the Dunphy house, Phil ＿＿＿ ＿ ＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿. Claire ＿＿＿＿＿ ＿＿＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿, but before the firefighters arrive, she ＿＿＿＿＿＿＿ ＿＿＿＿ ＿ ＿＿＿＿ ＿＿＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ because she remembers that ＿＿＿ ＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿＿. Phil is in terrible pain, but he ＿＿＿＿＿ ＿＿＿＿＿＿＿. At the hospital, he becomes jealous while also ＿＿＿＿＿＿ ＿＿ ＿＿ ＿＿ ＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿, turning a painful emergency into a comic performance.
 
-Meanwhile, Mitchell and Cameron try to teach Lily to fall asleep by herself. ______________________________ They spend the night arguing, checking on Lily, and stopping each other from going into the room. Both are exhausted, and Mitchell even hurts himself in the dark, but neither wants to admit defeat.
+Meanwhile, Mitchell and Cameron try to ＿＿＿＿＿ ＿＿＿＿ ＿＿ ＿＿＿＿ ＿＿＿＿＿＿ ＿＿ ＿＿＿＿＿＿＿. Mitchell wants to ＿＿＿ ＿＿＿ ＿＿＿ ＿＿＿ ＿ ＿＿＿＿＿, but Cameron ＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿. They spend the night ＿＿＿＿＿＿＿, ＿＿＿＿＿＿＿＿ ＿＿ ＿＿＿＿, ＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿＿＿＿ ＿＿＿＿ ＿＿＿ ＿＿＿＿. Both are exhausted, and Mitchell even hurts himself in the dark, but ＿＿＿＿＿＿＿ ＿＿＿＿＿ ＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿.
 
-Overall, this episode is about patience. ______________________________
+Overall, this episode is about patience. The characters have to ＿＿＿＿＿＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿, ＿ ＿＿＿＿＿＿ ＿＿＿＿, ＿＿＿ ＿ ＿＿＿＿＿＿＿＿ ＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿ ＿＿＿＿＿＿＿ ＿＿＿ ＿＿＿＿＿＿ ＿＿＿＿.
 
 ---
 
