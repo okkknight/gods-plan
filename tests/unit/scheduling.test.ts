@@ -2,6 +2,7 @@ import { describe, expect, it } from "vitest";
 import { completeStage } from "@/domain/scheduling/complete-stage";
 import { getTodayTasks } from "@/domain/scheduling/today-tasks";
 import { forecastTasks } from "@/domain/scheduling/future-plan";
+import type { SchedulableCourse } from "@/domain/scheduling/types";
 
 describe("review scheduling", () => {
   it("moves the first lesson to a review one day after actual completion", () => {
@@ -47,7 +48,27 @@ describe("review scheduling", () => {
     ], []);
     expect(tasks.overdueReviews.map((task) => task.id)).toEqual([1]);
     expect(tasks.dueReviews.map((task) => task.id)).toEqual([2]);
+    expect(tasks.reviewTasks.map((task) => task.id)).toEqual([1, 2]);
     expect(tasks.newCourse?.id).toBe(3);
+  });
+
+  it("shows at most three reviews and pauses new lessons when the backlog is larger", () => {
+    const courses: SchedulableCourse[] = Array.from({ length: 5 }, (_, index) => ({
+      id: index + 1,
+      slug: `review-${index + 1}`,
+      title: `Review ${index + 1}`,
+      orderIndex: index + 1,
+      status: "active" as const,
+      currentStage: 1,
+      nextDueDate: `2026-07-${String(20 + index).padStart(2, "0")}`,
+    }));
+    courses.push({ id: 6, slug: "new", title: "New", orderIndex: 6, status: "queued", currentStage: undefined, nextDueDate: null });
+    const tasks = getTodayTasks("2026-07-27", courses, []);
+
+    expect(tasks.reviewBacklogCount).toBe(5);
+    expect(tasks.reviewTasks).toHaveLength(3);
+    expect(tasks.reviewTasks.map((task) => task.id)).toEqual([1, 2, 3]);
+    expect(tasks.newCourse).toBeNull();
   });
 
   it("forecasts without mutating source progress", () => {

@@ -12,8 +12,7 @@ export default async function CalendarPage({ searchParams }: { searchParams: Pro
 
 function TodayCalendarTasks({ today, tasks }: { today: string; tasks: TodayTasks }) {
   const groups = [
-    ["逾期复习", tasks.overdueReviews],
-    ["今日复习", tasks.dueReviews],
+    ["今日复习", tasks.reviewTasks],
     ["今日新学", tasks.newCourse ? [tasks.newCourse] : []],
     ["今日已完成", tasks.completedToday],
   ] as const;

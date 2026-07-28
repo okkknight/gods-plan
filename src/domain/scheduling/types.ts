@@ -26,6 +26,8 @@ export type CompletedTask = StudyEventSummary & { kind: "completed"; course: Sch
 export type TodayTasks = {
   overdueReviews: ReviewTask[];
   dueReviews: ReviewTask[];
+  reviewTasks: ReviewTask[];
+  reviewBacklogCount: number;
   newCourse: NewCourseTask | null;
   completedToday: CompletedTask[];
 };
