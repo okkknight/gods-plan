@@ -36,3 +36,7 @@ npm run build
 ```
 
 当前版本不包含登录、云同步、AI 生成、音频播放、录音、发音评分或 PWA。
+
+## VPS 部署
+
+VPS 部署必须遵守 [VPS 部署约定](docs/VPS_DEPLOYMENT.md)：只同步 `.next`、`public`、生产数据库和必要的运行依赖，不要把整个项目目录或课程生产缓存同步到 VPS。

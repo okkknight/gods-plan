@@ -1,0 +1,64 @@
+# God's Plan VPS 部署约定
+
+本文档是 God's Plan Web 部署的目录边界。部署时只同步生产运行时需要的文件，不能把整个本地项目目录直接同步到 VPS。
+
+## 运行时真正需要的内容
+
+当前服务由 `godsplan.service` 执行 `npm run start`，工作目录为 `/opt/boringmax/godsplan`。在现有部署方式下，VPS 上需要保留：
+
+- `.next/`：通过生产构建生成的 Next.js 运行产物；
+- `public/`：页面静态资源，尤其是 `public/audio/courses/` 下的 `english.wav` 和 `manifest.json`；
+- `data/english-learning.db`：用户学习进度和已导入课程内容；
+- `node_modules/`：与 VPS 系统和 Node.js 版本匹配的生产依赖；
+- `package.json`：因为 systemd 当前通过 `npm run start` 启动服务；
+- 运行配置：systemd、Caddy 和 VPS 上的环境变量，不从本地项目目录盲目覆盖。
+
+课程页面运行时从 SQLite 读取中文、英文和 Cue 内容，不读取本地课程源文件或课程 JSON。英文音频的分段字幕时间轴从 `public/audio/courses/*/manifest.json` 读取，因此音频目录中的 manifest 不能省略。
+
+## 只用于本地或部署过程的内容
+
+以下内容不属于生产运行时数据，不应同步到 VPS：
+
+- `data/audio-cache/`：Fish Audio 分段生成缓存，成品音频生成并发布后即可删除；
+- `data/*.pre-*`：本地或部署前的数据库快照，只保留 VPS 上必要的最新回滚备份；
+- `content/`、`courses/`、`docs/Modern_Family_S1E01-E24_Speaking_Course_MD/`：课程生产源文件和转换中间数据；
+- `scripts/`：课程转换、导入、音频生成和校验脚本；
+- `src/`：源码，生产环境运行的是 `.next/` 构建产物；
+- `tests/`、`test-results/`、`examples/`、`handoff/`、`superpowers/`：测试、示例和协作资料；
+- `.git/`、`.next-dev/`、`.next/cache/`：版本控制目录、开发构建产物和可再生构建缓存；
+- Fish Audio API key、`.env.local` 及任何本地密钥文件。
+
+`package-lock.json` 只在 VPS 上安装依赖时作为部署输入使用，不是服务运行时数据。若依赖已经在 VPS 安装完成，后续增量发布不需要反复同步它；如需重新安装，必须在 VPS 上用锁文件安装，不能把 macOS 的 `node_modules` 直接复制过去。
+
+## 推荐发布边界
+
+发布前在本地完成测试和生产构建，然后只将构建产物、静态资源和数据库变更发布到 VPS。示意边界如下：
+
+```text
+本地构建：
+  .next/                         -> VPS .next/
+  public/                        -> VPS public/
+  data/english-learning.db      -> VPS data/english-learning.db（先备份）
+  package.json                  -> VPS package.json（仅当启动配置有变化）
+
+禁止同步：
+  data/audio-cache/
+  data/*.pre-*
+  content/ courses/ docs/ scripts/ src/ tests/
+  .git/ .next-dev/ .next/cache/
+  本地密钥和本地开发配置
+```
+
+不要使用不带排除规则的整目录 `scp` 或 `rsync`，例如不要把本地项目根目录直接同步到 `/opt/boringmax/godsplan/`。如果使用 rsync，必须采用显式白名单或至少排除上述目录，并在同步后检查 VPS 目录大小。
+
+## 部署后检查
+
+每次发布后至少确认：
+
+1. `godsplan.service` 处于 `active`；
+2. `https://boringmax.com/godsplan/` 可以打开；
+3. 第一集课程页面可以打开；
+4. 音频请求仍支持 `206 Partial Content`；
+5. VPS 上不存在新产生的 `data/audio-cache/`、`.next/cache/` 或测试产物。
+
+如果只是更新前端代码，不要重新上传课程源文件、音频生成缓存或本地测试目录。只有课程内容、数据库或音频成品实际变化时，才发布对应的运行时文件。
