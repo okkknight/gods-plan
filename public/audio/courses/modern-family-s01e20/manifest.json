@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T14:54:43.268Z",
+  "generated_at": "2026-08-02T04:27:10.060Z",
   "course": "modern-family-s01e20",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -9,127 +9,188 @@
   "volume": 1.5,
   "temperature": 0.9,
   "top_p": 0.92,
-  "script_sha256": "a37380e27b67e7d1ef2dd627415eb047802bdc0a1451c84c718e8e0a409d3fd8",
-  "segment_count": 9,
+  "script_sha256": "9c4d69b9de1033e5cac8c40206126fe0ab55b29ca16d3f12c3991bf9ea1b5e9d",
+  "segment_count": 14,
   "segments": [
     {
       "index": 1,
-      "text": "I’d like to introduce Episode 20 of Modern Family Season 1. It’s called “Benched.” The episode is about adults struggling when their usual role is taken away or begins to change.",
-      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 20 of Modern Family Season 1. It’s called “Benched.” The episode is about adults struggling when their usual role is taken away or begins to change.",
+      "text": "This episode is about parents learning when to take charge and when to step back.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] This episode is about parents learning when to take charge and when to step back.",
       "tags": [
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 12.495646,
+      "duration": 5.42644,
       "start": 0,
-      "end": 12.495646
+      "end": 5.42644
     },
     {
       "index": 2,
-      "text": "Luke and Manny’s basketball coach constantly yells at the children and makes cruel comments. Phil and Jay ask him to treat the team better, but he suddenly quits in the middle of a game. The team now needs a coach, and both Phil and Jay want the position.",
-      "tts_text": "[a natural conversational storyteller] Luke and Manny’s basketball coach constantly yells at the children and makes cruel comments. Phil and Jay ask him to treat the team better, but he suddenly quits in the middle of a game. The team now needs a coach, and both Phil and Jay want the position.",
+      "text": "Luke and Manny play on the same basketball team, but their coach spends most of the game yelling at the children and calling them names. Phil tries to speak to him calmly, but Jay steps in and threatens him. The coach gets angry, quits on the spot, and tells Jay to take over.",
+      "tts_text": "[a natural conversational storyteller] Luke and Manny play on the same basketball team, but their coach spends most of the game yelling at the children and calling them names. Phil tries to speak to him calmly, but Jay steps in and threatens him. The coach gets angry, quits on the spot, and tells Jay to take over.",
       "tags": [
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 15.127234,
-      "start": 12.495646,
-      "end": 27.622880000000002
+      "duration": 16.675261,
+      "start": 5.42644,
+      "end": 22.101701
     },
     {
       "index": 3,
-      "text": "They begin competing for control instead of working together. Each man wants to prove that he understands the game and the children better.",
-      "tts_text": "[a storyteller building gentle suspense] They begin competing for control instead of working together. Each man wants to prove that he understands the game and the children better.",
+      "text": "Phil has coached basketball before and thinks he should get the job. Jay ignores him, makes himself head coach, and treats Phil like an assistant. He tells the boys to play aggressively, but the team only gets worse. Phil keeps offering useful advice, while Jay refuses to listen.",
+      "tts_text": "[a storyteller building gentle suspense] Phil has coached basketball before and thinks he should get the job. Jay ignores him, makes himself head coach, and treats Phil like an assistant. He tells the boys to play aggressively, but the team only gets worse. Phil keeps offering useful advice, while Jay refuses to listen.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 8.00644,
-      "start": 27.622880000000002,
-      "end": 35.62932
+      "duration": 17.294444,
+      "start": 22.101701,
+      "end": 39.396145
     },
     {
       "index": 4,
-      "text": "Their argument becomes more important to them than the actual players, until they finally realize that the game should not be about adult pride.",
-      "tts_text": "[a storyteller with playful humor] Their argument becomes more important to them than the actual players, until they finally realize that the game should not be about adult pride.",
+      "text": "Phil finally tells Jay that he’s tired of being pushed aside. It isn’t only about basketball. Earlier, Jay also took over the grill at a family barbecue because he didn’t trust Phil to cook the steaks properly.",
+      "tts_text": "[a storyteller with playful humor] Phil finally tells Jay that he’s tired of being pushed aside. It isn’t only about basketball. Earlier, Jay also took over the grill at a family barbecue because he didn’t trust Phil to cook the steaks properly.",
       "tags": [
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 7.284036,
-      "start": 35.62932,
-      "end": 42.913356
+      "duration": 12.908435,
+      "start": 39.396145,
+      "end": 52.30458
     },
     {
       "index": 5,
-      "text": "Meanwhile, Claire takes Alex shopping. When Alex sees some school friends, she quickly leaves Claire to join them. Claire feels rejected because her daughter is becoming a teenager and no longer wants her mother around all the time.",
-      "tts_text": "[an animated storyteller explaining the scene] Meanwhile, Claire takes Alex shopping. When Alex sees some school friends, she quickly leaves Claire to join them. Claire feels rejected because her daughter is becoming a teenager and no longer wants her mother around all the time.",
+      "text": "Jay admits that he likes being in control and should’ve let Phil coach from the beginning.",
+      "tts_text": "[an animated storyteller explaining the scene] Jay admits that he likes being in control and should’ve let Phil coach from the beginning.",
       "tags": [
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.404853,
-      "start": 42.913356,
-      "end": 57.318208999999996
+      "duration": 4.910431,
+      "start": 52.30458,
+      "end": 57.215011000000004
     },
     {
       "index": 6,
-      "text": "Gloria has the same experience when Manny asks her not to be so affectionate in front of his friends. The two mothers walk together while taking care of Lily and admit that their children are beginning to need more independence.",
-      "tts_text": "[a storyteller emphasizing the surprising turn] Gloria has the same experience when Manny asks her not to be so affectionate in front of his friends. The two mothers walk together while taking care of Lily and admit that their children are beginning to need more independence.",
+      "text": "Phil takes over near the end of the game. He creates a simple play that gives Manny a chance to take his first shot of the season. Manny almost scores, and even though the team still loses, the boys finally start playing together.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Phil takes over near the end of the game. He creates a simple play that gives Manny a chance to take his first shot of the season. Manny almost scores, and even though the team still loses, the boys finally start playing together.",
       "tags": [
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.527642,
-      "start": 57.318208999999996,
-      "end": 70.845851
+      "duration": 13.011633,
+      "start": 57.215011000000004,
+      "end": 70.22664400000001
     },
     {
       "index": 7,
-      "text": "Mitchell is still unemployed, while Cameron now works for a greeting-card company. Their usual roles have reversed. Mitchell misses the workplace, and Cameron misses staying home with Lily, but both pretend to be happy.",
-      "tts_text": "[a storyteller smoothly moving to the next story] Mitchell is still unemployed, while Cameron now works for a greeting-card company. Their usual roles have reversed. Mitchell misses the workplace, and Cameron misses staying home with Lily, but both pretend to be happy.",
+      "text": "Meanwhile, Claire takes Alex shopping, but Alex is embarrassed when they run into some girls from school. She asks Claire to wait in the car and acts as if being seen with her mother is the worst thing in the world.",
+      "tts_text": "[a storyteller smoothly moving to the next story] Meanwhile, Claire takes Alex shopping, but Alex is embarrassed when they run into some girls from school. She asks Claire to wait in the car and acts as if being seen with her mother is the worst thing in the world.",
       "tags": [
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.043651,
-      "start": 70.845851,
-      "end": 84.889502
+      "duration": 12.960045,
+      "start": 70.22664400000001,
+      "end": 83.186689
     },
     {
       "index": 8,
-      "text": "Mitchell receives a job offer, and they finally admit that they want their old arrangement back. Then they accidentally damage the new boss’s Ferrari, making the decision much less optional.",
-      "tts_text": "[a storyteller with warm empathy] Mitchell receives a job offer, and they finally admit that they want their old arrangement back. Then they accidentally damage the new boss’s Ferrari, making the decision much less optional.",
+      "text": "At the basketball game, Gloria has the same problem. She cheers so loudly for Manny that the other children make fun of him. Manny asks her not to come to the next game. Both mothers are hurt because their children suddenly seem to want less of them.",
+      "tts_text": "[a storyteller with warm empathy] At the basketball game, Gloria has the same problem. She cheers so loudly for Manny that the other children make fun of him. Manny asks her not to come to the next game. Both mothers are hurt because their children suddenly seem to want less of them.",
       "tags": [
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 12.650431,
-      "start": 84.889502,
-      "end": 97.53993299999999
+      "duration": 14.45644,
+      "start": 83.186689,
+      "end": 97.643129
     },
     {
       "index": 9,
-      "text": "Overall, the episode shows how strongly people connect their identity to a role. When that role changes, even a good change can feel like a loss.",
-      "tts_text": "[a thoughtful storyteller reflecting on the character] Overall, the episode shows how strongly people connect their identity to a role. When that role changes, even a good change can feel like a loss.",
+      "text": "Claire later gets her revenge when Alex asks for money to go out with her friends. She gives Alex the money, then loudly talks to her like a little girl in front of everyone. Gloria takes a different approach.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Claire later gets her revenge when Alex asks for money to go out with her friends. She gives Alex the money, then loudly talks to her like a little girl in front of everyone. Gloria takes a different approach.",
       "tags": [
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 9.348027,
-      "start": 97.53993299999999,
-      "end": 106.88795999999999
+      "duration": 13.888844,
+      "start": 97.643129,
+      "end": 111.53197300000001
+    },
+    {
+      "index": 10,
+      "text": "She talks so much about the lovely day she had with Lily that Manny becomes jealous and invites her to his next game.",
+      "tts_text": "[a storyteller building gentle suspense] She talks so much about the lovely day she had with Lily that Manny becomes jealous and invites her to his next game.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 7.438844,
+      "start": 111.53197300000001,
+      "end": 118.97081700000001
+    },
+    {
+      "index": 11,
+      "text": "Mitchell is still out of work, while Cameron has taken a part-time job. Mitchell says he enjoys staying home with Lily, and Cameron says he enjoys working, but neither of them is being honest.",
+      "tts_text": "[a storyteller warmly enjoying the happy moment] Mitchell is still out of work, while Cameron has taken a part-time job. Mitchell says he enjoys staying home with Lily, and Cameron says he enjoys working, but neither of them is being honest.",
+      "tags": [
+        "[a storyteller warmly enjoying the happy moment]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 12.186032,
+      "start": 118.97081700000001,
+      "end": 131.15684900000002
+    },
+    {
+      "index": 12,
+      "text": "Jay introduces Mitchell to a successful businessman who offers him a job. Cameron makes the meeting awkward by talking too much, but the two of them finally admit what they really want: Mitchell misses working, and Cameron misses staying home with Lily.",
+      "tts_text": "[a heartfelt storyteller bringing the story home] Jay introduces Mitchell to a successful businessman who offers him a job. Cameron makes the meeting awkward by talking too much, but the two of them finally admit what they really want: Mitchell misses working, and Cameron misses staying home with Lily.",
+      "tags": [
+        "[a heartfelt storyteller bringing the story home]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 15.488435,
+      "start": 131.15684900000002,
+      "end": 146.64528400000003
+    },
+    {
+      "index": 13,
+      "text": "As they’re leaving, they accidentally lock themselves in the garage. While trying to get out, they press the wrong controls and repeatedly crash their car into the man’s Ferrari. Mitchell accepts the job, partly because he now has a very expensive accident to make up for.",
+      "tts_text": "As they’re leaving, they accidentally lock themselves in the garage. While trying to get out, they press the wrong controls and repeatedly crash their car into the man’s Ferrari. Mitchell accepts the job, partly because he now has a very expensive accident to make up for.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 14.353243,
+      "start": 146.64528400000003,
+      "end": 160.99852700000002
+    },
+    {
+      "index": 14,
+      "text": "By the end, Phil gets his chance to lead, Mitchell returns to work, and the mothers realize that their children still need them, even when they don’t always want to show it.",
+      "tts_text": "By the end, Phil gets his chance to lead, Mitchell returns to work, and the mothers realize that their children still need them, even when they don’t always want to show it.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 10.328435,
+      "start": 160.99852700000002,
+      "end": 171.32696200000004
     }
   ],
   "audio_file": "english.wav",
-  "duration": 106.88795999999999
+  "duration": 171.32696200000004
 }

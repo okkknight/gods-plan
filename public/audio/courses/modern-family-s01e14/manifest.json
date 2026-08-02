@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T14:51:17.452Z",
+  "generated_at": "2026-08-02T04:23:18.116Z",
   "course": "modern-family-s01e14",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -9,127 +9,199 @@
   "volume": 1.5,
   "temperature": 0.9,
   "top_p": 0.92,
-  "script_sha256": "b26cab3af8c86938f54ea21d1e7cc51d7eccc83463d44e049c0d79233cab1c68",
-  "segment_count": 9,
+  "script_sha256": "da22b246429a1854b3fe4aea816613fae90d3ef748fee248d09970be8c6d4c3a",
+  "segment_count": 15,
   "segments": [
     {
       "index": 1,
-      "text": "I’d like to introduce Episode 14 of Modern Family Season 1. It’s called “Moon Landing.” The episode is mainly about embarrassment and the different ways people try to protect their pride.",
-      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 14 of Modern Family Season 1. It’s called “Moon Landing.” The episode is mainly about embarrassment and the different ways people try to protect their pride.",
+      "text": "This episode is about people worrying about how others see them. Claire compares her life with an old friend’s, Jay feels awkward around Cameron, and Gloria refuses to admit that she may be a terrible driver.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] This episode is about people worrying about how others see them. Claire compares her life with an old friend’s, Jay feels awkward around Cameron, and Gloria refuses to admit that she may be a terrible driver.",
       "tags": [
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.515238,
+      "duration": 13.11483,
       "start": 0,
-      "end": 11.515238
+      "end": 13.11483
     },
     {
       "index": 2,
-      "text": "Gloria gets into a minor car accident and insists that the other driver was completely at fault. She asks Mitchell, who is a lawyer, to help her.",
-      "tts_text": "[a natural conversational storyteller] Gloria gets into a minor car accident and insists that the other driver was completely at fault. She asks Mitchell, who is a lawyer, to help her.",
+      "text": "Claire meets Valerie, a former coworker she hasn’t seen in fifteen years. Claire left her job to raise a family, while Valerie stayed at the company. At first, Claire thinks Valerie is jealous of her marriage and children.",
+      "tts_text": "[a natural conversational storyteller] Claire meets Valerie, a former coworker she hasn’t seen in fifteen years. Claire left her job to raise a family, while Valerie stayed at the company. At first, Claire thinks Valerie is jealous of her marriage and children.",
       "tags": [
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 9.709229,
-      "start": 11.515238,
-      "end": 21.224467
+      "duration": 13.888844,
+      "start": 13.11483,
+      "end": 27.003674
     },
     {
       "index": 3,
-      "text": "Manny honestly points out that Gloria is not a very safe driver, but she becomes angry because she feels that her own family does not believe her. Later, she drives into a restaurant.",
-      "tts_text": "[a storyteller building gentle suspense] Manny honestly points out that Gloria is not a very safe driver, but she becomes angry because she feels that her own family does not believe her. Later, she drives into a restaurant.",
+      "text": "Then she learns that Valerie has become a senior executive, travels around the world, and is about to take an important job in Paris.",
+      "tts_text": "[a storyteller building gentle suspense] Then she learns that Valerie has become a senior executive, travels around the world, and is about to take an important job in Paris.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 12.753651,
-      "start": 21.224467,
-      "end": 33.978118
+      "duration": 8.161247,
+      "start": 27.003674,
+      "end": 35.164921
     },
     {
       "index": 4,
-      "text": "At that point, she has to admit that her driving may be part of the problem, and she asks Mitchell for legal help again.",
-      "tts_text": "[a storyteller with playful humor] At that point, she has to admit that her driving may be part of the problem, and she asks Mitchell for legal help again.",
+      "text": "Claire suddenly feels that Valerie is looking down on her instead. She invites her home because she wants to show her how great her family life is.",
+      "tts_text": "[a storyteller with playful humor] Claire suddenly feels that Valerie is looking down on her instead. She invites her home because she wants to show her how great her family life is.",
       "tags": [
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 7.232449,
-      "start": 33.978118,
-      "end": 41.210567000000005
+      "duration": 8.728844,
+      "start": 35.164921,
+      "end": 43.893765
     },
     {
       "index": 5,
-      "text": "Meanwhile, Claire runs into Valerie, a successful former coworker. Valerie’s career makes Claire feel insecure about leaving the professional world to raise a family. Claire invites her home because she wants to prove that her life is just as impressive.",
-      "tts_text": "[an animated storyteller explaining the scene] Meanwhile, Claire runs into Valerie, a successful former coworker. Valerie’s career makes Claire feel insecure about leaving the professional world to raise a family. Claire invites her home because she wants to prove that her life is just as impressive.",
+      "text": "Unfortunately, Valerie arrives at the worst possible time. The water has been shut off, Luke spills a huge bag of bottles from his recycling drive, and the house smells like alcohol. Alex is chasing a rat, while Haley and Dylan are having a loud argument on the stairs.",
+      "tts_text": "[an animated storyteller explaining the scene] Unfortunately, Valerie arrives at the worst possible time. The water has been shut off, Luke spills a huge bag of bottles from his recycling drive, and the house smells like alcohol. Alex is chasing a rat, while Haley and Dylan are having a loud argument on the stairs.",
       "tags": [
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 15.79805,
-      "start": 41.210567000000005,
-      "end": 57.008617
+      "duration": 17.191247,
+      "start": 43.893765,
+      "end": 61.085012000000006
     },
     {
       "index": 6,
-      "text": "She hopes the children and Phil will behave perfectly, but the entire visit becomes chaotic. Claire is embarrassed, although she also begins to see that Valerie’s apparently perfect life is not as complete as it looks.",
-      "tts_text": "[a storyteller emphasizing the surprising turn] She hopes the children and Phil will behave perfectly, but the entire visit becomes chaotic. Claire is embarrassed, although she also begins to see that Valerie’s apparently perfect life is not as complete as it looks.",
+      "text": "Phil is also stuck outside using a portable toilet while trying to save an important house sale.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Phil is also stuck outside using a portable toilet while trying to save an important house sale.",
       "tags": [
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 12.444036,
-      "start": 57.008617,
-      "end": 69.452653
+      "duration": 6.252041,
+      "start": 61.085012000000006,
+      "end": 67.33705300000001
     },
     {
       "index": 7,
-      "text": "The third story is about Jay and Cameron playing racquetball. In the locker room, they accidentally touch while both bending over. The moment is completely innocent, but Jay cannot stop thinking about it. During the game, he becomes so uncomfortable that he cannot concentrate.",
-      "tts_text": "[a storyteller smoothly moving to the next story] The third story is about Jay and Cameron playing racquetball. In the locker room, they accidentally touch while both bending over. The moment is completely innocent, but Jay cannot stop thinking about it. During the game, he becomes so uncomfortable that he cannot concentrate.",
+      "text": "Valerie leaves after saying that Claire has a beautiful family, but Claire feels completely humiliated. She yells at everyone and walks out. When she comes back later, the family is sitting around the table eating together. Nobody makes her give a big apology.",
+      "tts_text": "[a storyteller smoothly moving to the next story] Valerie leaves after saying that Claire has a beautiful family, but Claire feels completely humiliated. She yells at everyone and walks out. When she comes back later, the family is sitting around the table eating together. Nobody makes her give a big apology.",
       "tags": [
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 16.468844,
-      "start": 69.452653,
-      "end": 85.921497
+      "duration": 15.230454,
+      "start": 67.33705300000001,
+      "end": 82.567507
     },
     {
       "index": 8,
-      "text": "Cameron treats it as no big deal, which only makes Jay feel more awkward.",
-      "tts_text": "[a storyteller with warm empathy] Cameron treats it as no big deal, which only makes Jay feel more awkward.",
+      "text": "They simply make room for her, and she remembers why she chose this life in the first place.",
+      "tts_text": "[a storyteller with warm empathy] They simply make room for her, and she remembers why she chose this life in the first place.",
       "tags": [
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 4.910431,
-      "start": 85.921497,
-      "end": 90.831928
+      "duration": 5.632834,
+      "start": 82.567507,
+      "end": 88.20034100000001
     },
     {
       "index": 9,
-      "text": "Overall, the episode shows that embarrassment becomes more powerful when people refuse to acknowledge it. Gloria, Claire, and Jay all try to hide an uncomfortable truth, but their efforts only make it more obvious.",
-      "tts_text": "[a thoughtful storyteller reflecting on the character] Overall, the episode shows that embarrassment becomes more powerful when people refuse to acknowledge it. Gloria, Claire, and Jay all try to hide an uncomfortable truth, but their efforts only make it more obvious.",
+      "text": "Meanwhile, Jay reluctantly agrees to play racquetball with Cameron. He’s uncomfortable about sharing a locker room with a gay man and keeps imagining that Cameron will look at him differently.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Meanwhile, Jay reluctantly agrees to play racquetball with Cameron. He’s uncomfortable about sharing a locker room with a gay man and keeps imagining that Cameron will look at him differently.",
       "tags": [
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.888844,
-      "start": 90.831928,
-      "end": 104.72077200000001
+      "duration": 11.618435,
+      "start": 88.20034100000001,
+      "end": 99.81877600000001
+    },
+    {
+      "index": 10,
+      "text": "While they’re changing, their bare backsides accidentally touch. Cameron casually calls it a “moon landing,” but Jay can’t stop thinking about it and loses their first game. He demands a rematch and wins.",
+      "tts_text": "[a storyteller building gentle suspense] While they’re changing, their bare backsides accidentally touch. Cameron casually calls it a “moon landing,” but Jay can’t stop thinking about it and loses their first game. He demands a rematch and wins.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 12.289252,
+      "start": 99.81877600000001,
+      "end": 112.10802800000002
+    },
+    {
+      "index": 11,
+      "text": "Back in the locker room, Jay tries to prove that the whole thing no longer bothers him. Then he realizes that the man standing behind him isn’t Cameron, and he suddenly wants to leave as quickly as possible.",
+      "tts_text": "[a storyteller warmly enjoying the happy moment] Back in the locker room, Jay tries to prove that the whole thing no longer bothers him. Then he realizes that the man standing behind him isn’t Cameron, and he suddenly wants to leave as quickly as possible.",
+      "tags": [
+        "[a storyteller warmly enjoying the happy moment]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 12.082834,
+      "start": 112.10802800000002,
+      "end": 124.19086200000002
+    },
+    {
+      "index": 12,
+      "text": "Mitchell is helping Gloria after a car accident. He’s pleased because he thinks Jay finally respects him as a lawyer. Then Manny quietly tells him that Gloria caused the accident.",
+      "tts_text": "[a heartfelt storyteller bringing the story home] Mitchell is helping Gloria after a car accident. He’s pleased because he thinks Jay finally respects him as a lawyer. Then Manny quietly tells him that Gloria caused the accident.",
+      "tags": [
+        "[a heartfelt storyteller bringing the story home]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 11.515238,
+      "start": 124.19086200000002,
+      "end": 135.70610000000002
+    },
+    {
+      "index": 13,
+      "text": "When Mitchell calls Jay, he learns that Jay already knew and only involved him because he didn’t want to confront Gloria himself.",
+      "tts_text": "When Mitchell calls Jay, he learns that Jay already knew and only involved him because he didn’t want to confront Gloria himself.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 8.109637,
+      "start": 135.70610000000002,
+      "end": 143.815737
+    },
+    {
+      "index": 14,
+      "text": "Mitchell tries to tell Gloria the truth, but she becomes defensive and fires him as her lawyer. Later, she returns and admits that the accident may have been partly her fault. Unfortunately, she has already had another accident and needs Mitchell’s help again.",
+      "tts_text": "Mitchell tries to tell Gloria the truth, but she becomes defensive and fires him as her lawyer. Later, she returns and admits that the accident may have been partly her fault. Unfortunately, she has already had another accident and needs Mitchell’s help again.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 14.920839,
+      "start": 143.815737,
+      "end": 158.736576
+    },
+    {
+      "index": 15,
+      "text": "By the end, Claire’s home still looks messy compared with Valerie’s exciting life. But when her family welcomes her back to the table, she knows she’s exactly where she wants to be.",
+      "tts_text": "By the end, Claire’s home still looks messy compared with Valerie’s exciting life. But when her family welcomes her back to the table, she knows she’s exactly where she wants to be.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 10.483243,
+      "start": 158.736576,
+      "end": 169.219819
     }
   ],
   "audio_file": "english.wav",
-  "duration": 104.72077200000001
+  "duration": 169.219819
 }

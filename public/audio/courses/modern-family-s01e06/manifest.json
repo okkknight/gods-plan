@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T14:47:10.335Z",
+  "generated_at": "2026-08-02T04:17:52.282Z",
   "course": "modern-family-s01e06",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -9,114 +9,177 @@
   "volume": 1.5,
   "temperature": 0.9,
   "top_p": 0.92,
-  "script_sha256": "7b7572e221d5e09185e20ea36ac92b67e671a0a89903704adf01d1c6060861c3",
-  "segment_count": 8,
+  "script_sha256": "d22df14c5ab380e21acebe1b47142efc0f2bef48521ded54c96bb286cd85f849",
+  "segment_count": 13,
   "segments": [
     {
       "index": 1,
-      "text": "I’d like to introduce Episode 6 of Modern Family Season 1. It’s called “Run for Your Wife.” The episode takes place on the first day of school.",
-      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 6 of Modern Family Season 1. It’s called “Run for Your Wife.” The episode takes place on the first day of school.",
+      "text": "This episode takes place on the first day of school. The kids are heading back to class, but the parents seem to have a harder time with it than they do.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] This episode takes place on the first day of school. The kids are heading back to class, but the parents seem to have a harder time with it than they do.",
       "tags": [
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 9.915624,
+      "duration": 8.161247,
       "start": 0,
-      "end": 9.915624
+      "end": 8.161247
     },
     {
       "index": 2,
-      "text": "After all three children leave the house, Claire expects to enjoy the peace and quiet. Instead, the empty house makes her feel a little emotional. Phil completely misreads the situation. He thinks Claire needs excitement, so he challenges her to a running race.",
-      "tts_text": "[a natural conversational storyteller] After all three children leave the house, Claire expects to enjoy the peace and quiet. Instead, the empty house makes her feel a little emotional. Phil completely misreads the situation. He thinks Claire needs excitement, so he challenges her to a running race.",
+      "text": "At the Dunphy house, the morning is complete chaos. Luke has barely started the summer journal that’s due that day, Haley is nervous about her driving lesson, and everyone is rushing to get out the door.",
+      "tts_text": "[a natural conversational storyteller] At the Dunphy house, the morning is complete chaos. Luke has barely started the summer journal that’s due that day, Haley is nervous about her driving lesson, and everyone is rushing to get out the door.",
       "tags": [
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 17.346054,
-      "start": 9.915624,
-      "end": 27.261677999999996
+      "duration": 11.773243,
+      "start": 8.161247,
+      "end": 19.93449
     },
     {
       "index": 3,
-      "text": "Claire is actually faster, but she lets Phil win because she knows how much it means to him. Just as Phil is celebrating, Haley, who is learning to drive, accidentally hits him with the car.",
-      "tts_text": "[a storyteller building gentle suspense] Claire is actually faster, but she lets Phil win because she knows how much it means to him. Just as Phil is celebrating, Haley, who is learning to drive, accidentally hits him with the car.",
+      "text": "Once the kids are gone, Claire is looking forward to having a quiet day at home. Phil, however, assumes she must feel lonely. He cancels a work appointment to keep her company and suggests they go running together.",
+      "tts_text": "[a storyteller building gentle suspense] Once the kids are gone, Claire is looking forward to having a quiet day at home. Phil, however, assumes she must feel lonely. He cancels a work appointment to keep her company and suggests they go running together.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 10.896032,
-      "start": 27.261677999999996,
-      "end": 38.157709999999994
+      "duration": 13.218027,
+      "start": 19.93449,
+      "end": 33.152517
     },
     {
       "index": 4,
-      "text": "The second storyline is about Manny’s first day at school. He wants to wear a traditional poncho and play the pan flute for his classmates. Jay is worried that the other children will make fun of him, so he secretly takes the poncho away.",
-      "tts_text": "[a storyteller with playful humor] The second storyline is about Manny’s first day at school. He wants to wear a traditional poncho and play the pan flute for his classmates. Jay is worried that the other children will make fun of him, so he secretly takes the poncho away.",
+      "text": "Claire says she normally runs alone because she’s much faster than him. Phil takes this as a challenge, and the two agree to race. Claire is confident she’ll win, but during the race, she realizes that Phil is the one who’s having trouble with the kids going back to school.",
+      "tts_text": "[a storyteller with playful humor] Claire says she normally runs alone because she’s much faster than him. Phil takes this as a challenge, and the two agree to race. Claire is confident she’ll win, but during the race, she realizes that Phil is the one who’s having trouble with the kids going back to school.",
       "tags": [
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.785646,
-      "start": 38.157709999999994,
-      "end": 51.943355999999994
+      "duration": 16.365646,
+      "start": 33.152517,
+      "end": 49.518163
     },
     {
       "index": 5,
-      "text": "Gloria finds out and insists that Jay return it. She believes Manny should be free to express himself. However, when Manny starts practicing the extremely annoying flute, Gloria quietly asks Jay to make that part of the outfit disappear.",
-      "tts_text": "[an animated storyteller explaining the scene] Gloria finds out and insists that Jay return it. She believes Manny should be free to express himself. However, when Manny starts practicing the extremely annoying flute, Gloria quietly asks Jay to make that part of the outfit disappear.",
+      "text": "She slows down and lets him win. Phil celebrates like he’s won the Olympics, only to get hit by Haley’s driving-school car a few seconds later.",
+      "tts_text": "[an animated storyteller explaining the scene] She slows down and lets him win. Phil celebrates like he’s won the Olympics, only to get hit by Haley’s driving-school car a few seconds later.",
       "tags": [
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.972449,
-      "start": 51.943355999999994,
-      "end": 66.91580499999999
+      "duration": 9.760839,
+      "start": 49.518163,
+      "end": 59.279002000000006
     },
     {
       "index": 6,
-      "text": "Meanwhile, Mitchell and Cameron panic after Lily bumps her head. They rush her to the doctor and worry that everyone will think they are careless parents. They also misunderstand several normal comments and assume that people are judging them as a gay couple.",
-      "tts_text": "[a storyteller emphasizing the surprising turn] Meanwhile, Mitchell and Cameron panic after Lily bumps her head. They rush her to the doctor and worry that everyone will think they are careless parents. They also misunderstand several normal comments and assume that people are judging them as a gay couple.",
+      "text": "Meanwhile, Manny wants to wear a traditional Colombian poncho on his first day. Gloria loves it, but Jay worries that the other children will make fun of him. He makes several jokes about the outfit, and Manny quietly takes it off before school.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Meanwhile, Manny wants to wear a traditional Colombian poncho on his first day. Gloria loves it, but Jay worries that the other children will make fun of him. He makes several jokes about the outfit, and Manny quietly takes it off before school.",
       "tags": [
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.766054,
-      "start": 66.91580499999999,
-      "end": 81.68185899999999
+      "duration": 14.404853,
+      "start": 59.279002000000006,
+      "end": 73.68385500000001
     },
     {
       "index": 7,
-      "text": "The doctor tells them that Lily is completely fine. They finally relax, only to lock her inside the car by accident a few minutes later.",
-      "tts_text": "[a storyteller smoothly moving to the next story] The doctor tells them that Lily is completely fine. They finally relax, only to lock her inside the car by accident a few minutes later.",
+      "text": "When Gloria finds the poncho in the car, she’s angry. She tells Jay that Manny looks up to him, so his comments matter. Jay explains that he’s only trying to protect Manny from being picked on, but Gloria insists that they should support him. They take the poncho back to school.",
+      "tts_text": "[a storyteller smoothly moving to the next story] When Gloria finds the poncho in the car, she’s angry. She tells Jay that Manny looks up to him, so his comments matter. Jay explains that he’s only trying to protect Manny from being picked on, but Gloria insists that they should support him. They take the poncho back to school.",
       "tags": [
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 8.625646,
-      "start": 81.68185899999999,
-      "end": 90.30750499999999
+      "duration": 16.726848,
+      "start": 73.68385500000001,
+      "end": 90.41070300000001
     },
     {
       "index": 8,
-      "text": "Overall, the episode is about anxious parents trying to do the right thing. Their intentions are good, but fear and pride often make simple situations much more complicated than they need to be.",
-      "tts_text": "[a storyteller with warm empathy] Overall, the episode is about anxious parents trying to do the right thing. Their intentions are good, but fear and pride often make simple situations much more complicated than they need to be.",
+      "text": "Then Manny reveals that he also plans to play a pan flute and perform a Colombian dance for the class. Gloria suddenly decides the full performance may be too much and tells Jay to break the flute. Jay happily steps on it and pretends it was an accident.",
+      "tts_text": "[a storyteller with warm empathy] Then Manny reveals that he also plans to play a pan flute and perform a Colombian dance for the class. Gloria suddenly decides the full performance may be too much and tells Jay to break the flute. Jay happily steps on it and pretends it was an accident.",
       "tags": [
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.87644,
-      "start": 90.30750499999999,
-      "end": 102.183945
+      "duration": 14.766054,
+      "start": 90.41070300000001,
+      "end": 105.17675700000001
+    },
+    {
+      "index": 9,
+      "text": "Mitchell is also having a stressful day. He’s been baby-proofing the house because he’s terrified that Lily will get hurt. Cameron thinks he needs to relax, so he gets Mitchell to dance with her.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Mitchell is also having a stressful day. He’s been baby-proofing the house because he’s terrified that Lily will get hurt. Cameron thinks he needs to relax, so he gets Mitchell to dance with her.",
+      "tags": [
+        "[a thoughtful storyteller reflecting on the character]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 11.618435,
+      "start": 105.17675700000001,
+      "end": 116.79519200000001
+    },
+    {
+      "index": 10,
+      "text": "Mitchell accidentally bumps Lily’s head against the wall, and they rush her to the doctor.",
+      "tts_text": "[a storyteller building gentle suspense] Mitchell accidentally bumps Lily’s head against the wall, and they rush her to the doctor.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 5.942426,
+      "start": 116.79519200000001,
+      "end": 122.73761800000001
+    },
+    {
+      "index": 11,
+      "text": "The doctor says Lily is fine and reminds them that all new parents make mistakes. Mitchell still worries that Cameron is a more natural father, but Cameron points out all the important things Mitchell does for their family.",
+      "tts_text": "[a storyteller warmly enjoying the happy moment] The doctor says Lily is fine and reminds them that all new parents make mistakes. Mitchell still worries that Cameron is a more natural father, but Cameron points out all the important things Mitchell does for their family.",
+      "tags": [
+        "[a storyteller warmly enjoying the happy moment]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 13.682449,
+      "start": 122.73761800000001,
+      "end": 136.42006700000002
+    },
+    {
+      "index": 12,
+      "text": "Just as they decide they make a great team, they accidentally lock Lily inside the car.",
+      "tts_text": "[a heartfelt storyteller bringing the story home] Just as they decide they make a great team, they accidentally lock Lily inside the car.",
+      "tags": [
+        "[a heartfelt storyteller bringing the story home]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 5.271633,
+      "start": 136.42006700000002,
+      "end": 141.69170000000003
+    },
+    {
+      "index": 13,
+      "text": "By the end, the children have handled their first day just fine. It’s the parents who spend the whole day worrying, making mistakes, and trying a little too hard to protect them.",
+      "tts_text": "By the end, the children have handled their first day just fine. It’s the parents who spend the whole day worrying, making mistakes, and trying a little too hard to protect them.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 10.741247,
+      "start": 141.69170000000003,
+      "end": 152.432947
     }
   ],
   "audio_file": "english.wav",
-  "duration": 102.183945
+  "duration": 152.432947
 }

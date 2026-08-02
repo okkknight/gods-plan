@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T14:48:44.253Z",
+  "generated_at": "2026-08-02T04:19:55.436Z",
   "course": "modern-family-s01e09",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -9,114 +9,188 @@
   "volume": 1.5,
   "temperature": 0.9,
   "top_p": 0.92,
-  "script_sha256": "d69320a81ed0886e8f2364dfb9463b7239d15cb947526dab49a553e17c18aff7",
-  "segment_count": 8,
+  "script_sha256": "218e38f2f755644f1bae995663faa711386923066aefb2bedb9fdb89b3acc3fe",
+  "segment_count": 14,
   "segments": [
     {
       "index": 1,
-      "text": "I’d like to introduce Episode 9 of Modern Family Season 1. It’s called “Fizbo,” and it takes place during Luke’s birthday party.",
-      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 9 of Modern Family Season 1. It’s called “Fizbo,” and it takes place during Luke’s birthday party.",
+      "text": "This episode is about Luke’s birthday party, which starts as a competition between his parents and ends with the whole family at the hospital.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] This episode is about Luke’s birthday party, which starts as a competition between his parents and ends with the whole family at the hospital.",
       "tags": [
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 9.038435,
+      "duration": 8.574036,
       "start": 0,
-      "end": 9.038435
+      "end": 8.574036
     },
     {
       "index": 2,
-      "text": "Claire and Phil have completely different ideas about the party. Claire wants everything to be safe and controlled, so she prepares a simple craft table.",
-      "tts_text": "[a natural conversational storyteller] Claire and Phil have completely different ideas about the party. Claire wants everything to be safe and controlled, so she prepares a simple craft table.",
+      "text": "Phil and Claire feel guilty because Luke doesn’t ask for much, so they decide to give him the best party they can. Claire plans a craft table where the children can decorate leather holders for their combs.",
+      "tts_text": "[a natural conversational storyteller] Phil and Claire feel guilty because Luke doesn’t ask for much, so they decide to give him the best party they can. Claire plans a craft table where the children can decorate leather holders for their combs.",
       "tags": [
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 8.677234,
-      "start": 9.038435,
-      "end": 17.715669
+      "duration": 12.082834,
+      "start": 8.574036,
+      "end": 20.656869999999998
     },
     {
       "index": 3,
-      "text": "Phil believes a birthday should be exciting, so he adds a bounce house, a rock-climbing wall, an animal show, and several other attractions. Each activity seems harmless by itself, but together they create a chain reaction of accidents. In the end, Luke falls and breaks his arm.",
-      "tts_text": "[a storyteller building gentle suspense] Phil believes a birthday should be exciting, so he adds a bounce house, a rock-climbing wall, an animal show, and several other attractions. Each activity seems harmless by itself, but together they create a chain reaction of accidents. In the end, Luke falls and breaks his arm.",
+      "text": "Phil thinks that sounds incredibly boring, so without telling her, he rents a rock-climbing wall, a zip line, and other big attractions for the backyard.",
+      "tts_text": "[a storyteller building gentle suspense] Phil thinks that sounds incredibly boring, so without telling her, he rents a rock-climbing wall, a zip line, and other big attractions for the backyard.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 17.397642,
-      "start": 17.715669,
-      "end": 35.113310999999996
+      "duration": 9.915624,
+      "start": 20.656869999999998,
+      "end": 30.572494
     },
     {
       "index": 4,
-      "text": "Cameron arrives dressed as Fizbo, the clown character he has performed as for years. Mitchell is embarrassed by the costume and wishes Cameron would act more normally. Later, a man at a gas station makes fun of Mitchell.",
-      "tts_text": "[a storyteller with playful humor] Cameron arrives dressed as Fizbo, the clown character he has performed as for years. Mitchell is embarrassed by the costume and wishes Cameron would act more normally. Later, a man at a gas station makes fun of Mitchell.",
+      "text": "The rest of the family brings their own ideas. Jay buys Luke a crossbow, even though everyone agrees that Luke probably shouldn’t be trusted with one. They also hire a woman to bring reptiles and insects. Cameron wants to come as Fizbo, the clown character he created years ago.",
+      "tts_text": "[a storyteller with playful humor] The rest of the family brings their own ideas. Jay buys Luke a crossbow, even though everyone agrees that Luke probably shouldn’t be trusted with one. They also hire a woman to bring reptiles and insects. Cameron wants to come as Fizbo, the clown character he created years ago.",
       "tags": [
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 15.075646,
-      "start": 35.113310999999996,
-      "end": 50.188956999999995
+      "duration": 16.726848,
+      "start": 30.572494,
+      "end": 47.299341999999996
     },
     {
       "index": 5,
-      "text": "Cameron, still dressed as Fizbo, confidently stands up for him. Mitchell realizes that the ridiculous costume also brings out Cameron’s brave and protective side. Phil has his own problem with Fizbo because he is secretly terrified of clowns, and he can no longer hide it.",
-      "tts_text": "[an animated storyteller explaining the scene] Cameron, still dressed as Fizbo, confidently stands up for him. Mitchell realizes that the ridiculous costume also brings out Cameron’s brave and protective side. Phil has his own problem with Fizbo because he is secretly terrified of clowns, and he can no longer hide it.",
+      "text": "Phil says Luke hates clowns, but the truth is that Phil is the one who’s terrified of them.",
+      "tts_text": "[an animated storyteller explaining the scene] Phil says Luke hates clowns, but the truth is that Phil is the one who’s terrified of them.",
       "tags": [
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 17.08805,
-      "start": 50.188956999999995,
-      "end": 67.277007
+      "duration": 5.839229,
+      "start": 47.299341999999996,
+      "end": 53.138571
     },
     {
       "index": 6,
-      "text": "Meanwhile, Manny wants to impress a girl named Bianca. Jay tells him to act less interested, but the strategy does not work very well. During the chaos, Manny gets a chance to help Bianca when she is in danger, and his real courage is more effective than any dating trick.",
-      "tts_text": "[a storyteller emphasizing the surprising turn] Meanwhile, Manny wants to impress a girl named Bianca. Jay tells him to act less interested, but the strategy does not work very well. During the chaos, Manny gets a chance to help Bianca when she is in danger, and his real courage is more effective than any dating trick.",
+      "text": "Mitchell asks Cameron not to wear the costume, but Cameron can’t let the idea go. On the way to the party, Mitchell gets into an argument with a rude driver who bumped him with his car. Mitchell tries to stand up for himself but quickly loses his confidence.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Mitchell asks Cameron not to wear the costume, but Cameron can’t let the idea go. On the way to the party, Mitchell gets into an argument with a rude driver who bumped him with his car. Mitchell tries to stand up for himself but quickly loses his confidence.",
       "tags": [
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 17.655646,
-      "start": 67.277007,
-      "end": 84.932653
+      "duration": 15.694853,
+      "start": 53.138571,
+      "end": 68.833424
     },
     {
       "index": 7,
-      "text": "Haley also becomes jealous when Dylan pays attention to the animal handler, so she releases a scorpion and makes the party even more dangerous.",
-      "tts_text": "[a storyteller smoothly moving to the next story] Haley also becomes jealous when Dylan pays attention to the animal handler, so she releases a scorpion and makes the party even more dangerous.",
+      "text": "Then Cameron appears dressed as Fizbo and scares the man into apologizing. Mitchell is embarrassed by the clown costume at first, but he has to admit that Fizbo can be useful.",
+      "tts_text": "[a storyteller smoothly moving to the next story] Then Cameron appears dressed as Fizbo and scares the man into apologizing. Mitchell is embarrassed by the clown costume at first, but he has to admit that Fizbo can be useful.",
       "tags": [
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 7.800045,
-      "start": 84.932653,
-      "end": 92.732698
+      "duration": 12.186032,
+      "start": 68.833424,
+      "end": 81.01945599999999
     },
     {
       "index": 8,
-      "text": "Although the party is a disaster from the adults’ point of view, Luke says it was the best birthday he has ever had. The episode shows that children and adults can experience the same event in completely different ways.",
-      "tts_text": "[a storyteller with warm empathy] Although the party is a disaster from the adults’ point of view, Luke says it was the best birthday he has ever had. The episode shows that children and adults can experience the same event in completely different ways.",
+      "text": "Meanwhile, Manny wants to impress a girl from school named Bianca. Jay tells him that girls like funny guys, so Manny tries a few jokes on her. They all go badly. Gloria tells him he doesn’t need tricks and should just be his sweet, natural self.",
+      "tts_text": "[a storyteller with warm empathy] Meanwhile, Manny wants to impress a girl from school named Bianca. Jay tells him that girls like funny guys, so Manny tries a few jokes on her. They all go badly. Gloria tells him he doesn’t need tricks and should just be his sweet, natural self.",
       "tags": [
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 12.805238,
-      "start": 92.732698,
-      "end": 105.537936
+      "duration": 15.643243,
+      "start": 81.01945599999999,
+      "end": 96.66269899999999
+    },
+    {
+      "index": 9,
+      "text": "Manny takes that advice, although he still seems determined to impress her somehow.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Manny takes that advice, although he still seems determined to impress her somehow.",
+      "tags": [
+        "[a thoughtful storyteller reflecting on the character]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 5.632834,
+      "start": 96.66269899999999,
+      "end": 102.29553299999999
+    },
+    {
+      "index": 10,
+      "text": "At the party, almost everything starts going wrong at once. Haley becomes jealous when Dylan spends too much time talking to the woman with the reptiles. A poisonous scorpion gets loose, everyone panics, and Jay accidentally fires the crossbow.",
+      "tts_text": "[a storyteller building gentle suspense] At the party, almost everything starts going wrong at once. Haley becomes jealous when Dylan spends too much time talking to the woman with the reptiles. A poisonous scorpion gets loose, everyone panics, and Jay accidentally fires the crossbow.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 14.869252,
+      "start": 102.29553299999999,
+      "end": 117.164785
+    },
+    {
+      "index": 11,
+      "text": "Manny runs into the chaos to save Bianca’s dog, hoping to prove that he’s a man of action.",
+      "tts_text": "[a storyteller warmly enjoying the happy moment] Manny runs into the chaos to save Bianca’s dog, hoping to prove that he’s a man of action.",
+      "tags": [
+        "[a storyteller warmly enjoying the happy moment]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 6.148844,
+      "start": 117.164785,
+      "end": 123.31362899999999
+    },
+    {
+      "index": 12,
+      "text": "Then Luke slips on some beads from Claire’s craft table and breaks his arm. After all the dangerous attractions Phil brought in, the thing that actually hurts him comes from the quiet activity nobody wanted to try.",
+      "tts_text": "[a heartfelt storyteller bringing the story home] Then Luke slips on some beads from Claire’s craft table and breaks his arm. After all the dangerous attractions Phil brought in, the thing that actually hurts him comes from the quiet activity nobody wanted to try.",
+      "tags": [
+        "[a heartfelt storyteller bringing the story home]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 13.785646,
+      "start": 123.31362899999999,
+      "end": 137.09927499999998
+    },
+    {
+      "index": 13,
+      "text": "At the hospital, Phil and Claire feel terrible and apologize for ruining the day. Luke, however, says it was the best birthday he’s ever had. He finally has a cast, the whole family is around him, and everyone wants to sign it.",
+      "tts_text": "At the hospital, Phil and Claire feel terrible and apologize for ruining the day. Luke, however, says it was the best birthday he’s ever had. He finally has a cast, the whole family is around him, and everyone wants to sign it.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 13.16644,
+      "start": 137.09927499999998,
+      "end": 150.26571499999997
+    },
+    {
+      "index": 14,
+      "text": "The party is a disaster, but Luke couldn’t be happier.",
+      "tts_text": "The party is a disaster, but Luke couldn’t be happier.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 3.826825,
+      "start": 150.26571499999997,
+      "end": 154.09253999999999
     }
   ],
   "audio_file": "english.wav",
-  "duration": 105.537936
+  "duration": 154.09253999999999
 }

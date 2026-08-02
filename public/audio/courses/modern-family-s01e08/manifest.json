@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T14:48:11.871Z",
+  "generated_at": "2026-08-02T04:19:13.251Z",
   "course": "modern-family-s01e08",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -9,127 +9,199 @@
   "volume": 1.5,
   "temperature": 0.9,
   "top_p": 0.92,
-  "script_sha256": "db32189eff91b8b9e7b04bfc23b10ef76899f0346384b2c680a04f01dcaf65f4",
-  "segment_count": 9,
+  "script_sha256": "160552b11012f680bc127d5c02a5190b825b7d6adc2b1c9f01877c7021ca54be",
+  "segment_count": 15,
   "segments": [
     {
       "index": 1,
-      "text": "I’d like to introduce Episode 8 of Modern Family Season 1. It’s called “Great Expectations.” The title fits the episode because several characters plan a perfect evening, but reality does not follow the plan.",
-      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 8 of Modern Family Season 1. It’s called “Great Expectations.” The title fits the episode because several characters plan a perfect evening, but reality does not follow the plan.",
+      "text": "This episode is about people planning a perfect night and then finding out that things don’t go the way they expected.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] This episode is about people planning a perfect night and then finding out that things don’t go the way they expected.",
       "tags": [
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.11483,
+      "duration": 7.077642,
       "start": 0,
-      "end": 13.11483
+      "end": 7.077642
     },
     {
       "index": 2,
-      "text": "The first storyline is about Phil and Claire’s wedding anniversary. Every year, they try to give each other a meaningful gift. Phil is very good at this, so Claire feels pressure to come up with something equally special.",
-      "tts_text": "[a natural conversational storyteller] The first storyline is about Phil and Claire’s wedding anniversary. Every year, they try to give each other a meaningful gift. Phil is very good at this, so Claire feels pressure to come up with something equally special.",
+      "text": "It’s Claire and Phil’s anniversary, and Phil gives Claire several thoughtful gifts, including a bracelet hidden inside a View-Master. Claire only gives him homemade coupons for free hugs, and she feels embarrassed because Phil is much better at giving gifts.",
+      "tts_text": "[a natural conversational storyteller] It’s Claire and Phil’s anniversary, and Phil gives Claire several thoughtful gifts, including a bracelet hidden inside a View-Master. Claire only gives him homemade coupons for free hugs, and she feels embarrassed because Phil is much better at giving gifts.",
       "tags": [
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.16644,
-      "start": 13.11483,
-      "end": 26.28127
+      "duration": 16.933243,
+      "start": 7.077642,
+      "end": 24.010885000000002
     },
     {
       "index": 3,
-      "text": "This year, she hires Izzy LaFontaine, a musician Phil loved when he was younger, to perform in their home. Claire also asks him to play what she believes is “their song.” Unfortunately, she has remembered the story incorrectly.",
-      "tts_text": "[a storyteller building gentle suspense] This year, she hires Izzy LaFontaine, a musician Phil loved when he was younger, to perform in their home. Claire also asks him to play what she believes is “their song.” Unfortunately, she has remembered the story incorrectly.",
+      "text": "She quickly claims that his real present is coming that night, even though she hasn’t planned anything. Then she remembers that “True” by Spandau Ballet was playing when they first kissed.",
+      "tts_text": "[a storyteller building gentle suspense] She quickly claims that his real present is coming that night, even though she hasn’t planned anything. Then she remembers that “True” by Spandau Ballet was playing when they first kissed.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 15.952834,
-      "start": 26.28127,
-      "end": 42.234104
+      "duration": 10.276848,
+      "start": 24.010885000000002,
+      "end": 34.287733
     },
     {
       "index": 4,
-      "text": "The song is connected to an embarrassing memory from Phil’s past, and the romantic surprise becomes extremely awkward. Phil still appreciates the effort, and the musician creates a new song for them, so the evening ends on a warm note.",
-      "tts_text": "[a storyteller with playful humor] The song is connected to an embarrassing memory from Phil’s past, and the romantic surprise becomes extremely awkward. Phil still appreciates the effort, and the musician creates a new song for them, so the evening ends on a warm note.",
+      "text": "She finds a former member of the band and hires him to perform the song in their living room.",
+      "tts_text": "[a storyteller with playful humor] She finds a former member of the band and hires him to perform the song in their living room.",
       "tags": [
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.372857,
-      "start": 42.234104,
-      "end": 55.606961
+      "duration": 5.529637,
+      "start": 34.287733,
+      "end": 39.817370000000004
     },
     {
       "index": 5,
-      "text": "Meanwhile, Jay hosts “Jay’s Night,” a sleepover for his grandchildren. He plans movies, food, and family activities. Haley wants to leave for a party, but Dylan unexpectedly enjoys spending time with Jay.",
-      "tts_text": "[an animated storyteller explaining the scene] Meanwhile, Jay hosts “Jay’s Night,” a sleepover for his grandchildren. He plans movies, food, and family activities. Haley wants to leave for a party, but Dylan unexpectedly enjoys spending time with Jay.",
+      "text": "Claire is sure Phil will love it, but he doesn’t even recognize the musician. He finally admits that he never liked the band and that “True” isn’t actually their song. Claire is crushed because she wanted to give him something meaningful.",
+      "tts_text": "[an animated storyteller explaining the scene] Claire is sure Phil will love it, but he doesn’t even recognize the musician. He finally admits that he never liked the band and that “True” isn’t actually their song. Claire is crushed because she wanted to give him something meaningful.",
       "tags": [
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.630839,
-      "start": 55.606961,
-      "end": 69.2378
+      "duration": 12.031247,
+      "start": 39.817370000000004,
+      "end": 51.848617000000004
     },
     {
       "index": 6,
-      "text": "Alex tells Luke that Jay may not have long to live, so Luke becomes unusually attentive and treats every moment as important.",
-      "tts_text": "[a storyteller emphasizing the surprising turn] Alex tells Luke that Jay may not have long to live, so Luke becomes unusually attentive and treats every moment as important.",
+      "text": "Phil tells her the mistake doesn’t matter. The effort shows how much she loves him, and now they have a new song together.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Phil tells her the mistake doesn’t matter. The effort shows how much she loves him, and now they have a new song together.",
       "tags": [
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 9.038435,
-      "start": 69.2378,
-      "end": 78.27623499999999
+      "duration": 7.438844,
+      "start": 51.848617000000004,
+      "end": 59.28746100000001
     },
     {
       "index": 7,
-      "text": "The third story is about Mitchell and Cameron. They go out with their old friend Sal, hoping to feel like their pre-parenthood selves again. However, Sal is jealous of Lily because the baby has changed their friendship.",
-      "tts_text": "[a storyteller smoothly moving to the next story] The third story is about Mitchell and Cameron. They go out with their old friend Sal, hoping to feel like their pre-parenthood selves again. However, Sal is jealous of Lily because the baby has changed their friendship.",
+      "text": "Meanwhile, Mitchell and Cameron decide they need a night without baby talk, so Gloria babysits Lily while they meet their old friend Sal. Sal is loud, wild, and always ready to party, just as they remember her.",
+      "tts_text": "[a storyteller smoothly moving to the next story] Meanwhile, Mitchell and Cameron decide they need a night without baby talk, so Gloria babysits Lily while they meet their old friend Sal. Sal is loud, wild, and always ready to party, just as they remember her.",
       "tags": [
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.527642,
-      "start": 78.27623499999999,
-      "end": 91.80387699999999
+      "duration": 13.16644,
+      "start": 59.28746100000001,
+      "end": 72.453901
     },
     {
       "index": 8,
-      "text": "Their night does not go as planned, and they eventually end up at Jay’s house with everyone else.",
-      "tts_text": "[a storyteller with warm empathy] Their night does not go as planned, and they eventually end up at Jay’s house with everyone else.",
+      "text": "At first, the three of them have a great time. But whenever Mitchell and Cameron mention Lily, Sal gets annoyed and makes some very dark jokes about her. They soon realize that Sal is jealous. Before Lily arrived, they gave Sal much more attention.",
+      "tts_text": "[a storyteller with warm empathy] At first, the three of them have a great time. But whenever Mitchell and Cameron mention Lily, Sal gets annoyed and makes some very dark jokes about her. They soon realize that Sal is jealous. Before Lily arrived, they gave Sal much more attention.",
       "tags": [
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 5.271633,
-      "start": 91.80387699999999,
-      "end": 97.07550999999998
+      "duration": 15.952834,
+      "start": 72.453901,
+      "end": 88.406735
     },
     {
       "index": 9,
-      "text": "Overall, the episode shows that a perfect plan is not what makes an evening meaningful. The plans fall apart, but the family still finds a way to enjoy being together.",
-      "tts_text": "[a thoughtful storyteller reflecting on the character] Overall, the episode shows that a perfect plan is not what makes an evening meaningful. The plans fall apart, but the family still finds a way to enjoy being together.",
+      "text": "Now they rarely call, and she feels like she’s been replaced.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Now they rarely call, and she feels like she’s been replaced.",
       "tags": [
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 10.63805,
-      "start": 97.07550999999998,
-      "end": 107.71355999999997
+      "duration": 4.497642,
+      "start": 88.406735,
+      "end": 92.904377
+    },
+    {
+      "index": 10,
+      "text": "Mitchell and Cameron assure her that they still love her and that she can always call them. A few minutes later, Sal falls asleep after drinking too much, and they end up taking care of her almost like another child.",
+      "tts_text": "[a storyteller building gentle suspense] Mitchell and Cameron assure her that they still love her and that she can always call them. A few minutes later, Sal falls asleep after drinking too much, and they end up taking care of her almost like another child.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 12.186032,
+      "start": 92.904377,
+      "end": 105.090409
+    },
+    {
+      "index": 11,
+      "text": "At Jay and Gloria’s house, all the grandchildren come over for “Jay’s Night.” Jay makes his special sloppy joes, gets everyone into pajamas, and plans to watch an old Western.",
+      "tts_text": "[a storyteller warmly enjoying the happy moment] At Jay and Gloria’s house, all the grandchildren come over for “Jay’s Night.” Jay makes his special sloppy joes, gets everyone into pajamas, and plans to watch an old Western.",
+      "tags": [
+        "[a storyteller warmly enjoying the happy moment]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 12.082834,
+      "start": 105.090409,
+      "end": 117.173243
+    },
+    {
+      "index": 12,
+      "text": "Haley wants to leave early for a party nearby. Jay sees through her plan and refuses to let her go. Gloria tells him that Haley isn’t rejecting him. She’s simply a teenager who wants to see her friends.",
+      "tts_text": "[a heartfelt storyteller bringing the story home] Haley wants to leave early for a party nearby. Jay sees through her plan and refuses to let her go. Gloria tells him that Haley isn’t rejecting him. She’s simply a teenager who wants to see her friends.",
+      "tags": [
+        "[a heartfelt storyteller bringing the story home]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 12.753651,
+      "start": 117.173243,
+      "end": 129.926894
+    },
+    {
+      "index": 13,
+      "text": "Jay admits that he just wants to keep the grandchildren around a little longer because they’re growing up so quickly.",
+      "tts_text": "Jay admits that he just wants to keep the grandchildren around a little longer because they’re growing up so quickly.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 6.148844,
+      "start": 129.926894,
+      "end": 136.075738
+    },
+    {
+      "index": 14,
+      "text": "He finally lets Haley go, and Dylan arrives to pick her up. But once Dylan smells the food and sees the Western, he decides to stay. Haley ends up waiting while the boys enjoy Jay’s Night.",
+      "tts_text": "He finally lets Haley go, and Dylan arrives to pick her up. But once Dylan smells the food and sees the Western, he decides to stay. Haley ends up waiting while the boys enjoy Jay’s Night.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 12.237642,
+      "start": 136.075738,
+      "end": 148.31338
+    },
+    {
+      "index": 15,
+      "text": "None of the plans works out as expected, but everyone still gets something they need. Claire and Phil understand each other better, Sal knows she hasn’t been forgotten, and Jay gets a little more time with his family.",
+      "tts_text": "None of the plans works out as expected, but everyone still gets something they need. Claire and Phil understand each other better, Sal knows she hasn’t been forgotten, and Jay gets a little more time with his family.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 12.289252,
+      "start": 148.31338,
+      "end": 160.602632
     }
   ],
   "audio_file": "english.wav",
-  "duration": 107.71355999999997
+  "duration": 160.602632
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T14:49:13.568Z",
+  "generated_at": "2026-08-02T04:20:33.247Z",
   "course": "modern-family-s01e10",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -9,127 +9,177 @@
   "volume": 1.5,
   "temperature": 0.9,
   "top_p": 0.92,
-  "script_sha256": "d41649fd9f55b2ed63585f872b3017b5b8c03eec8f1b6d2c93b3c2a4b94cadc6",
-  "segment_count": 9,
+  "script_sha256": "3a6d3b1a71e113d1a9db3a97dcdbc32db1af31d93db7b05755436b188440cbcc",
+  "segment_count": 13,
   "segments": [
     {
       "index": 1,
-      "text": "I’d like to introduce Episode 10 of Modern Family Season 1. It’s called “Undeck the Halls,” and it is the show’s first Christmas episode.",
-      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 10 of Modern Family Season 1. It’s called “Undeck the Halls,” and it is the show’s first Christmas episode.",
+      "text": "This episode takes place just before Christmas. Each family has its own idea of what the holiday should look like, and all three plans start going wrong.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] This episode takes place just before Christmas. Each family has its own idea of what the holiday should look like, and all three plans start going wrong.",
       "tags": [
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 9.760839,
+      "duration": 9.399637,
       "start": 0,
-      "end": 9.760839
+      "end": 9.399637
     },
     {
       "index": 2,
-      "text": "At the Dunphy house, Phil and Claire find a burn mark on the sofa. They assume that one of the children has been smoking, but Haley, Alex, and Luke all deny it. Phil decides to cancel Christmas until somebody tells the truth.",
-      "tts_text": "[a natural conversational storyteller] At the Dunphy house, Phil and Claire find a burn mark on the sofa. They assume that one of the children has been smoking, but Haley, Alex, and Luke all deny it. Phil decides to cancel Christmas until somebody tells the truth.",
+      "text": "At the Dunphy house, Claire finds what looks like a cigarette burn on the couch. None of the children admits to smoking, so Phil makes a big announcement: if no one tells the truth, Christmas is canceled.",
+      "tts_text": "[a natural conversational storyteller] At the Dunphy house, Claire finds what looks like a cigarette burn on the couch. None of the children admits to smoking, so Phil makes a big announcement: if no one tells the truth, Christmas is canceled.",
       "tags": [
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.353243,
-      "start": 9.760839,
-      "end": 24.114082000000003
+      "duration": 13.16644,
+      "start": 9.399637,
+      "end": 22.566077
     },
     {
       "index": 3,
-      "text": "He removes the tree, the decorations, and the presents, expecting the guilty child to confess. Nobody does. Alex finally takes the blame even though she is innocent because she does not want the whole family to lose Christmas.",
-      "tts_text": "[a storyteller building gentle suspense] He removes the tree, the decorations, and the presents, expecting the guilty child to confess. Nobody does. Alex finally takes the blame even though she is innocent because she does not want the whole family to lose Christmas.",
+      "text": "Claire thinks he’s gone too far, but Phil refuses to back down. They remove the tree and all the decorations, hoping one of the kids will confess. Haley, Alex, and Luke keep blaming one another, but no one admits anything.",
+      "tts_text": "[a storyteller building gentle suspense] Claire thinks he’s gone too far, but Phil refuses to back down. They remove the tree and all the decorations, hoping one of the kids will confess. Haley, Alex, and Luke keep blaming one another, but no one admits anything.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.043651,
-      "start": 24.114082000000003,
-      "end": 38.15773300000001
+      "duration": 13.940454,
+      "start": 22.566077,
+      "end": 36.506531
     },
     {
       "index": 4,
-      "text": "Later, they discover that sunlight reflected through an ornament caused the burn. Phil and Claire realize they punished the children for something they did not do, so Phil tries to make up for it by promising a family trip to Italy.",
-      "tts_text": "[a storyteller with playful humor] Later, they discover that sunlight reflected through an ornament caused the burn. Phil and Claire realize they punished the children for something they did not do, so Phil tries to make up for it by promising a family trip to Italy.",
+      "text": "Eventually, Alex says she did it. Phil and Claire bring Christmas back, although they still punish her for smoking and lying. Later, sunlight shines through a glass ornament and starts burning the couch in the exact same place.",
+      "tts_text": "[a storyteller with playful humor] Eventually, Alex says she did it. Phil and Claire bring Christmas back, although they still punish her for smoking and lying. Later, sunlight shines through a glass ornament and starts burning the couch in the exact same place.",
       "tags": [
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.11483,
-      "start": 38.15773300000001,
-      "end": 51.272563000000005
+      "duration": 15.127234,
+      "start": 36.506531,
+      "end": 51.633765000000004
     },
     {
       "index": 5,
-      "text": "At Jay’s house, Jay wants Gloria and Manny to celebrate Christmas in a traditional American way. Gloria and Manny want to include Colombian customs as well. At first, both sides treat the other traditions as strange.",
-      "tts_text": "[an animated storyteller explaining the scene] At Jay’s house, Jay wants Gloria and Manny to celebrate Christmas in a traditional American way. Gloria and Manny want to include Colombian customs as well. At first, both sides treat the other traditions as strange.",
+      "text": "The parents realize that none of the children caused the original mark. Alex only confessed because she didn’t want the whole family to lose Christmas.",
+      "tts_text": "[an animated storyteller explaining the scene] The parents realize that none of the children caused the original mark. Alex only confessed because she didn’t want the whole family to lose Christmas.",
       "tags": [
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.353243,
-      "start": 51.272563000000005,
-      "end": 65.62580600000001
+      "duration": 8.677234,
+      "start": 51.633765000000004,
+      "end": 60.310999
     },
     {
       "index": 6,
-      "text": "Eventually, they combine them, ending with loud and slightly dangerous fireworks.",
-      "tts_text": "[a storyteller emphasizing the surprising turn] Eventually, they combine them, ending with loud and slightly dangerous fireworks.",
+      "text": "Meanwhile, Jay wants to celebrate Christmas the way he did when Claire and Mitchell were young. He has a full schedule planned, including pajamas, family pictures, and opening presents early in the morning.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Meanwhile, Jay wants to celebrate Christmas the way he did when Claire and Mitchell were young. He has a full schedule planned, including pajamas, family pictures, and opening presents early in the morning.",
       "tags": [
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 6.510023,
-      "start": 65.62580600000001,
-      "end": 72.13582900000002
+      "duration": 12.444036,
+      "start": 60.310999,
+      "end": 72.755035
     },
     {
       "index": 7,
-      "text": "Meanwhile, Mitchell and Cameron take Lily to meet Santa at the mall. They complain that the Santa is too thin and accidentally get him fired. Feeling guilty, they invite him to dinner.",
-      "tts_text": "[a storyteller smoothly moving to the next story] Meanwhile, Mitchell and Cameron take Lily to meet Santa at the mall. They complain that the Santa is too thin and accidentally get him fired. Feeling guilty, they invite him to dinner.",
+      "text": "Gloria and Manny have very different traditions. In Colombia, they open presents at midnight, eat Colombian food, and play practical jokes on one another. Jay finds the jokes annoying and keeps trying to make them follow his plan.",
+      "tts_text": "[a storyteller smoothly moving to the next story] Gloria and Manny have very different traditions. In Colombia, they open presents at midnight, eat Colombian food, and play practical jokes on one another. Jay finds the jokes annoying and keeps trying to make them follow his plan.",
       "tags": [
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 10.844444,
-      "start": 72.13582900000002,
-      "end": 82.98027300000001
+      "duration": 13.992041,
+      "start": 72.755035,
+      "end": 86.747076
     },
     {
       "index": 8,
-      "text": "Their attempt to help becomes awkward because they keep making assumptions about him and his life.",
-      "tts_text": "[a storyteller with warm empathy] Their attempt to help becomes awkward because they keep making assumptions about him and his life.",
+      "text": "After talking to Cameron, Jay realizes that he can’t simply recreate the Christmases he had with his old family. He needs to make new memories with Gloria and Manny. Manny also understands why Jay cares so much about his old traditions.",
+      "tts_text": "[a storyteller with warm empathy] After talking to Cameron, Jay realizes that he can’t simply recreate the Christmases he had with his old family. He needs to make new memories with Gloria and Manny. Manny also understands why Jay cares so much about his old traditions.",
       "tags": [
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 6.252041,
-      "start": 82.98027300000001,
-      "end": 89.23231400000002
+      "duration": 15.127234,
+      "start": 86.747076,
+      "end": 101.87431000000001
     },
     {
       "index": 9,
-      "text": "Overall, the episode shows how quickly people can become controlling during the holidays. Everyone wants the “right” kind of Christmas, but the family only enjoys it after they admit their mistakes and make room for one another’s traditions.",
-      "tts_text": "[a thoughtful storyteller reflecting on the character] Overall, the episode shows how quickly people can become controlling during the holidays. Everyone wants the “right” kind of Christmas, but the family only enjoys it after they admit their mistakes and make room for one another’s traditions.",
+      "text": "In the end, they mix both kinds of Christmas together.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] In the end, they mix both kinds of Christmas together.",
       "tags": [
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.682449,
-      "start": 89.23231400000002,
-      "end": 102.91476300000002
+      "duration": 3.568844,
+      "start": 101.87431000000001,
+      "end": 105.443154
+    },
+    {
+      "index": 10,
+      "text": "Mitchell and Cameron take Lily to the mall for her first picture with Santa. Mitchell complains that the Santa is too thin, and the man gets fired. Feeling guilty, they invite him home for dinner.",
+      "tts_text": "[a storyteller building gentle suspense] Mitchell and Cameron take Lily to the mall for her first picture with Santa. Mitchell complains that the Santa is too thin, and the man gets fired. Feeling guilty, they invite him home for dinner.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 12.082834,
+      "start": 105.443154,
+      "end": 117.52598800000001
+    },
+    {
+      "index": 11,
+      "text": "The former Santa, Scott, turns out to be a lonely man who moves from place to place doing different jobs. While he’s there, Cameron sees the caroling group that once kicked him out. He wants revenge, but Scott talks about forgiveness, so Cameron tries to be the bigger person.",
+      "tts_text": "[a storyteller warmly enjoying the happy moment] The former Santa, Scott, turns out to be a lonely man who moves from place to place doing different jobs. While he’s there, Cameron sees the caroling group that once kicked him out. He wants revenge, but Scott talks about forgiveness, so Cameron tries to be the bigger person.",
+      "tags": [
+        "[a storyteller warmly enjoying the happy moment]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 17.449252,
+      "start": 117.52598800000001,
+      "end": 134.97524
+    },
+    {
+      "index": 12,
+      "text": "The singers insult him anyway, and Scott decides that Cameron was nice but they were naughty.",
+      "tts_text": "[a heartfelt storyteller bringing the story home] The singers insult him anyway, and Scott decides that Cameron was nice but they were naughty.",
+      "tags": [
+        "[a heartfelt storyteller bringing the story home]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 5.529637,
+      "start": 134.97524,
+      "end": 140.50487700000002
+    },
+    {
+      "index": 13,
+      "text": "By the end, the parents have made mistakes and some traditions have changed, but each family still finds its own way to enjoy Christmas together.",
+      "tts_text": "By the end, the parents have made mistakes and some traditions have changed, but each family still finds its own way to enjoy Christmas together.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 9.502834,
+      "start": 140.50487700000002,
+      "end": 150.00771100000003
     }
   ],
   "audio_file": "english.wav",
-  "duration": 102.91476300000002
+  "duration": 150.00771100000003
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T14:47:41.589Z",
+  "generated_at": "2026-08-02T04:18:31.131Z",
   "course": "modern-family-s01e07",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -9,114 +9,166 @@
   "volume": 1.5,
   "temperature": 0.9,
   "top_p": 0.92,
-  "script_sha256": "ec32d4a149edc0e407ff0127cf7c1fe7bb87695216e450c9a9d796679fb178cb",
-  "segment_count": 8,
+  "script_sha256": "90257a0bba519e4636338b9f24e694973835bde6f0bdc523c15fafa537f63fe9",
+  "segment_count": 12,
   "segments": [
     {
       "index": 1,
-      "text": "I’d like to introduce Episode 7 of Modern Family Season 1. It’s called “En Garde.” The main story begins when the family discovers that Manny is unusually talented at fencing.",
-      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 7 of Modern Family Season 1. It’s called “En Garde.” The main story begins when the family discovers that Manny is unusually talented at fencing.",
+      "text": "This episode is about parents wanting their children to be good at something. Manny finds his talent very quickly, while the adults become far more excited about it than he does.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] This episode is about parents wanting their children to be good at something. Manny finds his talent very quickly, while the adults become far more excited about it than he does.",
       "tags": [
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 12.495646,
+      "duration": 10.328435,
       "start": 0,
-      "end": 12.495646
+      "end": 10.328435
     },
     {
       "index": 2,
-      "text": "Jay is delighted because he finally has a young athlete in the family. He becomes Manny’s biggest supporter and takes the competition very seriously. In the final match, however, Manny has to fence against a girl who has a tragic background and a physical disability.",
-      "tts_text": "[a natural conversational storyteller] Jay is delighted because he finally has a young athlete in the family. He becomes Manny’s biggest supporter and takes the competition very seriously. In the final match, however, Manny has to fence against a girl who has a tragic background and a physical disability.",
+      "text": "Manny has recently started fencing, and he turns out to be excellent at it. The whole family comes to watch one of his competitions, and Jay is especially proud. Manny wins several matches and reaches the final.",
+      "tts_text": "[a natural conversational storyteller] Manny has recently started fencing, and he turns out to be excellent at it. The whole family comes to watch one of his competitions, and Jay is especially proud. Manny wins several matches and reaches the final.",
       "tags": [
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 16.675261,
-      "start": 12.495646,
-      "end": 29.170907
+      "duration": 13.011633,
+      "start": 10.328435,
+      "end": 23.340068000000002
     },
     {
       "index": 3,
-      "text": "The adults on the side do not know what they want him to do. Some signal that he should compete honestly, while others suggest that he should let her win. Manny ignores the confusion, wins the match, and celebrates very proudly, which makes the situation even more uncomfortable.",
-      "tts_text": "[a storyteller building gentle suspense] The adults on the side do not know what they want him to do. Some signal that he should compete honestly, while others suggest that he should let her win. Manny ignores the confusion, wins the match, and celebrates very proudly, which makes the situation even more uncomfortable.",
+      "text": "His last opponent is a girl, so Manny says he wants to quit. He thinks beating a girl would be wrong. Gloria first supports his decision, but when she hears the reason, she tells him that refusing to compete with a girl is actually disrespectful. Manny agrees to continue.",
+      "tts_text": "[a storyteller building gentle suspense] His last opponent is a girl, so Manny says he wants to quit. He thinks beating a girl would be wrong. Gloria first supports his decision, but when she hears the reason, she tells him that refusing to compete with a girl is actually disrespectful. Manny agrees to continue.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 16.984853,
-      "start": 29.170907,
-      "end": 46.15576
+      "duration": 16.417234,
+      "start": 23.340068000000002,
+      "end": 39.757302
     },
     {
       "index": 4,
-      "text": "Jay’s excitement about Manny also brings back an old argument between Mitchell and Claire. Mitchell believes Jay cared more about Claire’s childhood figure-skating career and never really supported him. Claire remembers it differently.",
-      "tts_text": "[a storyteller with playful humor] Jay’s excitement about Manny also brings back an old argument between Mitchell and Claire. Mitchell believes Jay cared more about Claire’s childhood figure-skating career and never really supported him. Claire remembers it differently.",
+      "text": "Then Jay and Gloria learn that the girl has lost both her parents and is being treated at a children’s hospital. When other children from the hospital arrive to cheer for her, they start feeling terrible.",
+      "tts_text": "[a storyteller with playful humor] Then Jay and Gloria learn that the girl has lost both her parents and is being treated at a children’s hospital. When other children from the hospital arrive to cheer for her, they start feeling terrible.",
       "tags": [
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.063243,
-      "start": 46.15576,
-      "end": 59.219003
+      "duration": 11.92805,
+      "start": 39.757302,
+      "end": 51.685352
     },
     {
       "index": 5,
-      "text": "The two siblings start blaming each other, but they eventually put on their skates again and talk about the past. They realize that, in their own imperfect way, they were always there for one another.",
-      "tts_text": "[an animated storyteller explaining the scene] The two siblings start blaming each other, but they eventually put on their skates again and talk about the past. They realize that, in their own imperfect way, they were always there for one another.",
+      "text": "They try to signal Manny to go easy on her, but he misunderstands and thinks they want him to finish the match quickly. He wins easily and celebrates right in front of her. Jay feels guilty, although the enormous trophy soon cheers him up.",
+      "tts_text": "[an animated storyteller explaining the scene] They try to signal Manny to go easy on her, but he misunderstands and thinks they want him to finish the match quickly. He wins easily and celebrates right in front of her. Jay feels guilty, although the enormous trophy soon cheers him up.",
       "tags": [
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.360454,
-      "start": 59.219003,
-      "end": 70.579457
+      "duration": 13.218027,
+      "start": 51.685352,
+      "end": 64.903379
     },
     {
       "index": 6,
-      "text": "Meanwhile, Phil worries that Luke does not have a special talent. He tries to teach him baseball, but Luke is terrible at it. Later, during one of Phil’s open houses, Luke begins talking to potential buyers.",
-      "tts_text": "[a storyteller emphasizing the surprising turn] Meanwhile, Phil worries that Luke does not have a special talent. He tries to teach him baseball, but Luke is terrible at it. Later, during one of Phil’s open houses, Luke begins talking to potential buyers.",
+      "text": "Seeing Jay so proud of Manny brings back an old memory for Mitchell. When he and Claire were children, they competed together as an ice-skating team called “Fire and Nice.” Claire quit just before an important competition, and Mitchell has blamed her ever since.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Seeing Jay so proud of Manny brings back an old memory for Mitchell. When he and Claire were children, they competed together as an ice-skating team called “Fire and Nice.” Claire quit just before an important competition, and Mitchell has blamed her ever since.",
       "tags": [
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.043651,
-      "start": 70.579457,
-      "end": 84.623108
+      "duration": 17.449252,
+      "start": 64.903379,
+      "end": 82.352631
     },
     {
       "index": 7,
-      "text": "He is friendly, confident, and surprisingly good at presenting the house. Phil realizes that Luke does have a natural ability; it is simply not the one Phil was looking for.",
-      "tts_text": "[a storyteller smoothly moving to the next story] He is friendly, confident, and surprisingly good at presenting the house. Phil realizes that Luke does have a natural ability; it is simply not the one Phil was looking for.",
+      "text": "Cameron pushes them to finally talk about it. Claire explains that Mitchell kept dropping her during practice, and she quit because she didn’t want him to embarrass himself in front of everyone. She apologizes for how she handled it.",
+      "tts_text": "[a storyteller smoothly moving to the next story] Cameron pushes them to finally talk about it. Claire explains that Mitchell kept dropping her during practice, and she quit because she didn’t want him to embarrass himself in front of everyone. She apologizes for how she handled it.",
       "tags": [
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 10.844444,
-      "start": 84.623108,
-      "end": 95.467552
+      "duration": 13.11483,
+      "start": 82.352631,
+      "end": 95.467461
     },
     {
       "index": 8,
-      "text": "Overall, this episode is about recognizing talent without forcing it. Parents often look for the ability they want their child to have, while the real strength may be somewhere completely different.",
-      "tts_text": "[a storyteller with warm empathy] Overall, this episode is about recognizing talent without forcing it. Parents often look for the ability they want their child to have, while the real strength may be somewhere completely different.",
+      "text": "Mitchell then admits that the real reason he misses skating is that it made them feel like a team. Since their parents’ divorce, they’ve grown apart and often taken different sides.",
+      "tts_text": "[a storyteller with warm empathy] Mitchell then admits that the real reason he misses skating is that it made them feel like a team. Since their parents’ divorce, they’ve grown apart and often taken different sides.",
       "tags": [
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.721633,
-      "start": 95.467552,
-      "end": 107.189185
+      "duration": 10.328435,
+      "start": 95.467461,
+      "end": 105.795896
+    },
+    {
+      "index": 9,
+      "text": "Claire understands, and the two of them perform one last skating routine together, without any ice.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Claire understands, and the two of them perform one last skating routine together, without any ice.",
+      "tags": [
+        "[a thoughtful storyteller reflecting on the character]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 7.026032,
+      "start": 105.795896,
+      "end": 112.821928
+    },
+    {
+      "index": 10,
+      "text": "Meanwhile, Phil worries that Manny has found something he’s great at while Luke hasn’t. He tries baseball and other activities, but Luke doesn’t seem especially talented at any of them.",
+      "tts_text": "[a storyteller building gentle suspense] Meanwhile, Phil worries that Manny has found something he’s great at while Luke hasn’t. He tries baseball and other activities, but Luke doesn’t seem especially talented at any of them.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 10.947642,
+      "start": 112.821928,
+      "end": 123.76957
+    },
+    {
+      "index": 11,
+      "text": "Later, Phil takes Luke with him while showing a house to a client. Luke talks excitedly about the backyard and the bedrooms, and he makes the house sound like an amazing place for children. Phil suddenly realizes that Luke may have inherited his talent for selling.",
+      "tts_text": "[a storyteller warmly enjoying the happy moment] Later, Phil takes Luke with him while showing a house to a client. Luke talks excitedly about the backyard and the bedrooms, and he makes the house sound like an amazing place for children. Phil suddenly realizes that Luke may have inherited his talent for selling.",
+      "tags": [
+        "[a storyteller warmly enjoying the happy moment]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 15.591655,
+      "start": 123.76957,
+      "end": 139.361225
+    },
+    {
+      "index": 12,
+      "text": "By the end, Manny has a huge trophy, Mitchell and Claire feel like a team again, and Phil learns that Luke’s talent appears naturally when he stops trying so hard to find it.",
+      "tts_text": "[a heartfelt storyteller bringing the story home] By the end, Manny has a huge trophy, Mitchell and Claire feel like a team again, and Phil learns that Luke’s talent appears naturally when he stops trying so hard to find it.",
+      "tags": [
+        "[a heartfelt storyteller bringing the story home]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 10.483243,
+      "start": 139.361225,
+      "end": 149.84446799999998
     }
   ],
   "audio_file": "english.wav",
-  "duration": 107.189185
+  "duration": 149.84446799999998
 }

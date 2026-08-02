@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T14:45:09.733Z",
+  "generated_at": "2026-08-02T04:15:01.561Z",
   "course": "modern-family-s01e02",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -9,179 +9,177 @@
   "volume": 1.5,
   "temperature": 0.9,
   "top_p": 0.92,
-  "script_sha256": "fd8ac0bd37c55345be4075c01bf1ee4b0a05dfca0c0def46061050d399ef1d3a",
+  "script_sha256": "4966c47855746fadcec9af3b1d6bd8caa49c81152178707199c6b61d992a3987",
   "segment_count": 13,
   "segments": [
     {
       "index": 1,
-      "text": "I’d like to introduce Episode 2 of Modern Family Season 1. It is called “The Bicycle Thief.” All three storylines explore the same question: what does it mean to be a good father?",
-      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 2 of Modern Family Season 1. It is called “The Bicycle Thief.” All three storylines explore the same question: what does it mean to be a good father?",
+      "text": "This episode is mostly about the fathers in the family trying to look after their children, even though they don’t always know what they’re doing.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] This episode is mostly about the fathers in the family trying to look after their children, even though they don’t always know what they’re doing.",
       "tags": [
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 12.082834,
+      "duration": 8.109637,
       "start": 0,
-      "end": 12.082834
+      "end": 8.109637
     },
     {
       "index": 2,
-      "text": "The first story is about Phil and Luke. Luke has been riding his sister’s old bike because Claire does not think he is responsible enough to own a new one. Phil disagrees and buys him a brand-new bike, hoping that Luke will prove he can take care of it.",
-      "tts_text": "[a natural conversational storyteller] The first story is about Phil and Luke. Luke has been riding his sister’s old bike because Claire does not think he is responsible enough to own a new one. Phil disagrees and buys him a brand-new bike, hoping that Luke will prove he can take care of it.",
+      "text": "Phil buys Luke a new bike because he wants to show Claire that their son can be responsible. Claire is sure Luke will lose it, and soon after, Phil sees what looks like Luke’s bike lying outside without a lock.",
+      "tts_text": "[a natural conversational storyteller] Phil buys Luke a new bike because he wants to show Claire that their son can be responsible. Claire is sure Luke will lose it, and soon after, Phil sees what looks like Luke’s bike lying outside without a lock.",
       "tags": [
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.972449,
-      "start": 12.082834,
-      "end": 27.055283
+      "duration": 13.579252,
+      "start": 8.109637,
+      "end": 21.688889
     },
     {
       "index": 3,
-      "text": "Later, Phil sees an identical bike sitting on the street without a lock. He assumes that Luke has left his new bike there, so he takes it to teach him a lesson.",
-      "tts_text": "[a storyteller building gentle suspense] Later, Phil sees an identical bike sitting on the street without a lock. He assumes that Luke has left his new bike there, so he takes it to teach him a lesson.",
+      "text": "Phil decides to teach Luke a lesson, so he takes the bike and hides it. But while he’s helping their new neighbor, Desiree, get into her locked house, the bike disappears. Phil panics and buys another one before Claire finds out.",
+      "tts_text": "[a storyteller building gentle suspense] Phil decides to teach Luke a lesson, so he takes the bike and hides it. But while he’s helping their new neighbor, Desiree, get into her locked house, the bike disappears. Phil panics and buys another one before Claire finds out.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 9.038435,
-      "start": 27.055283,
-      "end": 36.093717999999996
+      "duration": 13.992041,
+      "start": 21.688889,
+      "end": 35.680930000000004
     },
     {
       "index": 4,
-      "text": "On his way home, Phil stops to help their attractive new neighbor, Desiree, climb through a window because she has locked herself out. When he comes outside again, the bike is gone.",
-      "tts_text": "[a storyteller with playful humor] On his way home, Phil stops to help their attractive new neighbor, Desiree, climb through a window because she has locked herself out. When he comes outside again, the bike is gone.",
+      "text": "When he gets home, he realizes Luke’s real bike has been there the whole time. He took another child’s bike by mistake. Claire finds out, and instead of admitting everything, Phil makes up an even bigger story.",
+      "tts_text": "[a storyteller with playful humor] When he gets home, he realizes Luke’s real bike has been there the whole time. He took another child’s bike by mistake. Claire finds out, and instead of admitting everything, Phil makes up an even bigger story.",
       "tags": [
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.102449,
-      "start": 36.093717999999996,
-      "end": 47.196166999999996
+      "duration": 13.218027,
+      "start": 35.680930000000004,
+      "end": 48.898957
     },
     {
       "index": 5,
-      "text": "Phil buys another identical bike to cover up the problem. However, when he gets home, he discovers that Luke’s real bike has been there the whole time. He has taken the wrong bike.",
-      "tts_text": "[an animated storyteller explaining the scene] Phil buys another identical bike to cover up the problem. However, when he gets home, he discovers that Luke’s real bike has been there the whole time. He has taken the wrong bike.",
+      "text": "Unfortunately, Desiree arrives with the missing bike and explains exactly what happened. Phil is caught lying, and when he later tries to return the replacement bike, its real owner catches him too.",
+      "tts_text": "[an animated storyteller explaining the scene] Unfortunately, Desiree arrives with the missing bike and explains exactly what happened. Phil is caught lying, and when he later tries to return the replacement bike, its real owner catches him too.",
       "tags": [
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.618435,
-      "start": 47.196166999999996,
-      "end": 58.814601999999994
+      "duration": 12.444036,
+      "start": 48.898957,
+      "end": 61.34299300000001
     },
     {
       "index": 6,
-      "text": "Claire works out what happened and finds it funny, but Phil still claims that the bike disappeared at a gas station. Then Desiree returns it and mentions that Phil was in her bedroom, exposing his lie.",
-      "tts_text": "[a storyteller emphasizing the surprising turn] Claire works out what happened and finds it funny, but Phil still claims that the bike disappeared at a gas station. Then Desiree returns it and mentions that Phil was in her bedroom, exposing his lie.",
+      "text": "Meanwhile, Gloria asks Jay and Manny to install a ceiling fan together. She hopes spending some time together will help them get closer.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Meanwhile, Gloria asks Jay and Manny to install a ceiling fan together. She hopes spending some time together will help them get closer.",
       "tags": [
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.269637,
-      "start": 58.814601999999994,
-      "end": 72.084239
+      "duration": 8.470839,
+      "start": 61.34299300000001,
+      "end": 69.813832
     },
     {
       "index": 7,
-      "text": "In the end, Phil tries to put the original bike back, but its real owner catches him.",
-      "tts_text": "[a storyteller smoothly moving to the next story] In the end, Phil tries to put the original bike back, but its real owner catches him.",
+      "text": "It doesn’t go well. Jay refuses to read the instructions, while Manny keeps talking about his biological father, Javier, and how exciting and fearless he is. Jay gets annoyed because he knows Javier often lets Manny down.",
+      "tts_text": "[a storyteller smoothly moving to the next story] It doesn’t go well. Jay refuses to read the instructions, while Manny keeps talking about his biological father, Javier, and how exciting and fearless he is. Jay gets annoyed because he knows Javier often lets Manny down.",
       "tags": [
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 4.755646,
-      "start": 72.084239,
-      "end": 76.839885
+      "duration": 14.817642,
+      "start": 69.813832,
+      "end": 84.631474
     },
     {
       "index": 8,
-      "text": "The second story is about Jay and Manny. Gloria asks them to install a ceiling fan together so that they can become closer. Jay ignores the instructions, while Manny keeps warning him about safety. They argue and say some hurtful things.",
-      "tts_text": "[a storyteller with warm empathy] The second story is about Jay and Manny. Gloria asks them to install a ceiling fan together so that they can become closer. Jay ignores the instructions, while Manny keeps warning him about safety. They argue and say some hurtful things.",
+      "text": "After Manny gets hit by one of the fan blades, they start arguing. Manny says Jay doesn’t care about him, and Jay says he doesn’t need to be Manny’s father.",
+      "tts_text": "[a storyteller with warm empathy] After Manny gets hit by one of the fan blades, they start arguing. Manny says Jay doesn’t care about him, and Jay says he doesn’t need to be Manny’s father.",
       "tags": [
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.611247,
-      "start": 76.839885,
-      "end": 91.451132
+      "duration": 9.606032,
+      "start": 84.631474,
+      "end": 94.237506
     },
     {
       "index": 9,
-      "text": "Later, Manny’s biological father, Javier, cancels their Disneyland trip because he is gambling at a casino. Jay is furious, but he does not want Manny to feel rejected.",
-      "tts_text": "[a thoughtful storyteller reflecting on the character] Later, Manny’s biological father, Javier, cancels their Disneyland trip because he is gambling at a casino. Jay is furious, but he does not want Manny to feel rejected.",
+      "text": "Later, Manny waits outside because Javier is supposed to take him to Disneyland. Javier calls Jay and says he isn’t coming because he’s busy gambling. Jay is furious, but he doesn’t want Manny to know the truth.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Later, Manny waits outside because Javier is supposed to take him to Disneyland. Javier calls Jay and says he isn’t coming because he’s busy gambling. Jay is furious, but he doesn’t want Manny to know the truth.",
       "tags": [
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 12.237642,
-      "start": 91.451132,
-      "end": 103.688774
+      "duration": 12.289252,
+      "start": 94.237506,
+      "end": 106.526758
     },
     {
       "index": 10,
-      "text": "He invents a kinder explanation and uses the limousine meant for his own trip to take Manny and Gloria to Disneyland.",
-      "tts_text": "[a storyteller building gentle suspense] He invents a kinder explanation and uses the limousine meant for his own trip to take Manny and Gloria to Disneyland.",
+      "text": "Instead, Jay tells him that Javier gave his plane ticket to an old woman and arranged a limousine for Manny. Jay and Gloria then take him to Disneyland themselves. On the way home, Manny falls asleep on Jay’s shoulder.",
+      "tts_text": "[a storyteller building gentle suspense] Instead, Jay tells him that Javier gave his plane ticket to an old woman and arranged a limousine for Manny. Jay and Gloria then take him to Disneyland themselves. On the way home, Manny falls asleep on Jay’s shoulder.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 6.76805,
-      "start": 103.688774,
-      "end": 110.456824
+      "duration": 14.043651,
+      "start": 106.526758,
+      "end": 120.570409
     },
     {
       "index": 11,
-      "text": "The third story is about Mitchell and Cameron. They take Lily to a parent-and-baby class. Mitchell is nervous about fitting in and asks Cameron to tone himself down. When the other children seem more advanced than Lily, they pretend that Lily has stacked another child’s blocks.",
-      "tts_text": "[a storyteller warmly enjoying the happy moment] The third story is about Mitchell and Cameron. They take Lily to a parent-and-baby class. Mitchell is nervous about fitting in and asks Cameron to tone himself down. When the other children seem more advanced than Lily, they pretend that Lily has stacked another child’s blocks.",
+      "text": "Mitchell and Cameron also take Lily to a baby class for the first time. Mitchell worries that the other parents will judge them, so he asks Cameron to dress and act less dramatically.",
+      "tts_text": "[a storyteller warmly enjoying the happy moment] Mitchell and Cameron also take Lily to a baby class for the first time. Mitchell worries that the other parents will judge them, so he asks Cameron to dress and act less dramatically.",
       "tags": [
         "[a storyteller warmly enjoying the happy moment]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 17.294444,
-      "start": 110.456824,
-      "end": 127.751268
+      "duration": 10.844444,
+      "start": 120.570409,
+      "end": 131.414853
     },
     {
       "index": 12,
-      "text": "They quickly discover that the class is recorded on camera. Mitchell also realizes that his insecurity has made him dishonest and has stopped Cameron from being himself.",
-      "tts_text": "[a heartfelt storyteller bringing the story home] They quickly discover that the class is recorded on camera. Mitchell also realizes that his insecurity has made him dishonest and has stopped Cameron from being himself.",
+      "text": "Once the class begins, Mitchell becomes nervous because the other babies seem to be developing faster than Lily. Cameron, however, just wants them to enjoy the experience. Mitchell finally realizes that he’s putting too much pressure on everyone and lets Cameron be himself.",
+      "tts_text": "[a heartfelt storyteller bringing the story home] Once the class begins, Mitchell becomes nervous because the other babies seem to be developing faster than Lily. Cameron, however, just wants them to enjoy the experience. Mitchell finally realizes that he’s putting too much pressure on everyone and lets Cameron be himself.",
       "tags": [
         "[a heartfelt storyteller bringing the story home]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 10.58644,
-      "start": 127.751268,
-      "end": 138.337708
+      "duration": 16.056054,
+      "start": 131.414853,
+      "end": 147.47090699999998
     },
     {
       "index": 13,
-      "text": "Overall, the episode shows that parents often make mistakes while trying to do the right thing. As Jay says near the end, ninety percent of being a dad is just showing up.",
-      "tts_text": "[thoughtful conclusion] Overall, the episode shows that parents often make mistakes while trying to do the right thing. As Jay says near the end, ninety percent of being a dad is just showing up.",
-      "tags": [
-        "[thoughtful conclusion]"
-      ],
+      "text": "By the end, all three fathers have made mistakes. But they keep trying, and they keep spending time with their children. As Jay stays beside Manny, the caring and protective side of him starts to come out naturally.",
+      "tts_text": "By the end, all three fathers have made mistakes. But they keep trying, and they keep spending time with their children. As Jay stays beside Manny, the caring and protective side of him starts to come out naturally.",
+      "tags": [],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.566848,
-      "start": 138.337708,
-      "end": 149.90455599999999
+      "duration": 12.547234,
+      "start": 147.47090699999998,
+      "end": 160.01814099999999
     }
   ],
   "audio_file": "english.wav",
-  "duration": 149.90455599999999
+  "duration": 160.01814099999999
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T14:49:47.061Z",
+  "generated_at": "2026-08-02T04:21:14.918Z",
   "course": "modern-family-s01e11",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -9,127 +9,210 @@
   "volume": 1.5,
   "temperature": 0.9,
   "top_p": 0.92,
-  "script_sha256": "f6007258773123357cbb3242dccfb43f17d8faf63baada14774556723ee4598c",
-  "segment_count": 9,
+  "script_sha256": "15d76b5a1e1f4b74bf5dd5dc38379a09d2003e0968b05aba9438ad6a0f4f9598",
+  "segment_count": 16,
   "segments": [
     {
       "index": 1,
-      "text": "I’d like to introduce Episode 11 of Modern Family Season 1. It’s called “Up All Night.” As the title suggests, almost everyone has a long and exhausting night.",
-      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 11 of Modern Family Season 1. It’s called “Up All Night.” As the title suggests, almost everyone has a long and exhausting night.",
+      "text": "This episode keeps all three families awake for different reasons. Jay spends the night with Manny’s unreliable father, Phil has a medical emergency, and Mitchell and Cameron argue over how to get Lily to sleep.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] This episode keeps all three families awake for different reasons. Jay spends the night with Manny’s unreliable father, Phil has a medical emergency, and Mitchell and Cameron argue over how to get Lily to sleep.",
       "tags": [
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.205646,
+      "duration": 12.908435,
       "start": 0,
-      "end": 11.205646
+      "end": 12.908435
     },
     {
       "index": 2,
-      "text": "Manny’s biological father, Javier, suddenly arrives. He is unreliable and rarely follows a plan, but he is charming and full of exciting stories. Jay dislikes him at first because he believes Javier keeps disappointing Manny.",
-      "tts_text": "[a natural conversational storyteller] Manny’s biological father, Javier, suddenly arrives. He is unreliable and rarely follows a plan, but he is charming and full of exciting stories. Jay dislikes him at first because he believes Javier keeps disappointing Manny.",
+      "text": "Manny’s father, Javier, suddenly arrives at Jay and Gloria’s house after missing another visit with his son. He brings lobsters, expensive gifts, and stories about his latest adventures. Manny is thrilled, but Jay doesn’t trust him.",
+      "tts_text": "[a natural conversational storyteller] Manny’s father, Javier, suddenly arrives at Jay and Gloria’s house after missing another visit with his son. He brings lobsters, expensive gifts, and stories about his latest adventures. Manny is thrilled, but Jay doesn’t trust him.",
       "tags": [
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 15.127234,
-      "start": 11.205646,
-      "end": 26.33288
+      "duration": 15.075646,
+      "start": 12.908435,
+      "end": 27.984081000000003
     },
     {
       "index": 3,
-      "text": "However, the two men begin talking about baseball and motorcycles, and Jay quickly gets caught up in Javier’s energy. Gloria is not impressed. She knows that Javier is good at making promises but bad at keeping them. Sure enough, he lets Manny down again.",
-      "tts_text": "[a storyteller building gentle suspense] However, the two men begin talking about baseball and motorcycles, and Jay quickly gets caught up in Javier’s energy. Gloria is not impressed. She knows that Javier is good at making promises but bad at keeping them. Sure enough, he lets Manny down again.",
+      "text": "He sees Javier as a father who makes big promises and rarely shows up.",
+      "tts_text": "[a storyteller building gentle suspense] He sees Javier as a father who makes big promises and rarely shows up.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 15.127234,
-      "start": 26.33288,
-      "end": 41.460114
+      "duration": 4.497642,
+      "start": 27.984081000000003,
+      "end": 32.481723
     },
     {
       "index": 4,
-      "text": "Jay finally understands why Gloria does not trust him, even though he is so easy to like.",
-      "tts_text": "[a storyteller with playful humor] Jay finally understands why Gloria does not trust him, even though he is so easy to like.",
+      "text": "Gloria asks Jay to be nice because Manny needs time with his dad. Later that night, Jay finds Javier playing pool and finally tells him what he thinks.",
+      "tts_text": "[a storyteller with playful humor] Gloria asks Jay to be nice because Manny needs time with his dad. Later that night, Jay finds Javier playing pool and finally tells him what he thinks.",
       "tags": [
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 6.71644,
-      "start": 41.460114,
-      "end": 48.176553999999996
+      "duration": 9.915624,
+      "start": 32.481723,
+      "end": 42.397347
     },
     {
       "index": 5,
-      "text": "At the Dunphy house, Phil has a severe kidney stone and can barely move. Claire calls the fire department for help, but before the firefighters arrive, she changes into a more attractive outfit because she remembers that one of them is handsome.",
-      "tts_text": "[an animated storyteller explaining the scene] At the Dunphy house, Phil has a severe kidney stone and can barely move. Claire calls the fire department for help, but before the firefighters arrive, she changes into a more attractive outfit because she remembers that one of them is handsome.",
+      "text": "Javier admits that visiting Manny is difficult because Jay has become the stable father in Manny’s life, and he feels like he can’t compete with that.",
+      "tts_text": "[an animated storyteller explaining the scene] Javier admits that visiting Manny is difficult because Jay has become the stable father in Manny’s life, and he feels like he can’t compete with that.",
       "tags": [
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.611247,
-      "start": 48.176553999999996,
-      "end": 62.787800999999995
+      "duration": 8.161247,
+      "start": 42.397347,
+      "end": 50.558594
     },
     {
       "index": 6,
-      "text": "Phil is in terrible pain, but he still notices. At the hospital, he becomes jealous while also acting as if he is about to die, turning a painful emergency into a comic performance.",
-      "tts_text": "[a storyteller emphasizing the surprising turn] Phil is in terrible pain, but he still notices. At the hospital, he becomes jealous while also acting as if he is about to die, turning a painful emergency into a comic performance.",
+      "text": "The two men soon discover that they both love baseball. Javier takes Jay and Manny out to hit some balls, and they stay up all night eating hot dogs and having fun. Jay starts to understand why Gloria and Manny are so easily charmed by him.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] The two men soon discover that they both love baseball. Javier takes Jay and Manny out to hit some balls, and they stay up all night eating hot dogs and having fun. Jay starts to understand why Gloria and Manny are so easily charmed by him.",
       "tags": [
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 12.753651,
-      "start": 62.787800999999995,
-      "end": 75.54145199999999
+      "duration": 15.488435,
+      "start": 50.558594,
+      "end": 66.047029
     },
     {
       "index": 7,
-      "text": "Meanwhile, Mitchell and Cameron try to teach Lily to fall asleep by herself. Mitchell wants to let her cry for a while, but Cameron cannot stand listening to her. They spend the night arguing, checking on Lily, and stopping each other from going into the room.",
-      "tts_text": "[a storyteller smoothly moving to the next story] Meanwhile, Mitchell and Cameron try to teach Lily to fall asleep by herself. Mitchell wants to let her cry for a while, but Cameron cannot stand listening to her. They spend the night arguing, checking on Lily, and stopping each other from going into the room.",
+      "text": "The next day, Javier even arrives with a motorcycle and talks Jay into going for a ride.",
+      "tts_text": "[a storyteller smoothly moving to the next story] The next day, Javier even arrives with a motorcycle and talks Jay into going for a ride.",
       "tags": [
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.662857,
-      "start": 75.54145199999999,
-      "end": 90.204309
+      "duration": 5.839229,
+      "start": 66.047029,
+      "end": 71.886258
     },
     {
       "index": 8,
-      "text": "Both are exhausted, and Mitchell even hurts himself in the dark, but neither wants to admit defeat.",
-      "tts_text": "[a storyteller with warm empathy] Both are exhausted, and Mitchell even hurts himself in the dark, but neither wants to admit defeat.",
+      "text": "Jay insists that he’s only spending time with Javier for Manny’s sake, but Gloria can see that he likes him. Later, Javier is supposed to take Jay out to meet some former baseball players. Jay waits for him, but Javier never arrives.",
+      "tts_text": "[a storyteller with warm empathy] Jay insists that he’s only spending time with Javier for Manny’s sake, but Gloria can see that he likes him. Later, Javier is supposed to take Jay out to meet some former baseball players. Jay waits for him, but Javier never arrives.",
       "tags": [
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 5.994036,
-      "start": 90.204309,
-      "end": 96.19834499999999
+      "duration": 14.972449,
+      "start": 71.886258,
+      "end": 86.858707
     },
     {
       "index": 9,
-      "text": "Overall, this episode is about patience. The characters have to endure physical pain, a crying baby, and a charming person who keeps letting the family down.",
-      "tts_text": "[a thoughtful storyteller reflecting on the character] Overall, this episode is about patience. The characters have to endure physical pain, a crying baby, and a charming person who keeps letting the family down.",
+      "text": "In the end, Jay gets the same treatment Manny has been getting for years.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] In the end, Jay gets the same treatment Manny has been getting for years.",
       "tags": [
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 10.328435,
-      "start": 96.19834499999999,
-      "end": 106.52677999999999
+      "duration": 4.807234,
+      "start": 86.858707,
+      "end": 91.66594099999999
+    },
+    {
+      "index": 10,
+      "text": "Meanwhile, Phil suddenly develops terrible stomach pain in the middle of the night. He becomes convinced that he’s dying, and Claire calls an ambulance. Since the local firefighters are known for being attractive, Claire quickly changes into nicer clothes before they arrive.",
+      "tts_text": "[a storyteller building gentle suspense] Meanwhile, Phil suddenly develops terrible stomach pain in the middle of the night. He becomes convinced that he’s dying, and Claire calls an ambulance. Since the local firefighters are known for being attractive, Claire quickly changes into nicer clothes before they arrive.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 15.849637,
+      "start": 91.66594099999999,
+      "end": 107.51557799999999
+    },
+    {
+      "index": 11,
+      "text": "Even though Phil is in great pain, he notices what she’s done and feels offended. At the hospital, the doctors find a kidney stone.",
+      "tts_text": "[a storyteller warmly enjoying the happy moment] Even though Phil is in great pain, he notices what she’s done and feels offended. At the hospital, the doctors find a kidney stone.",
+      "tags": [
+        "[a storyteller warmly enjoying the happy moment]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 9.141633,
+      "start": 107.51557799999999,
+      "end": 116.65721099999999
+    },
+    {
+      "index": 12,
+      "text": "Claire admits that she dressed up because she spends most of her time in old clothes, taking care of the house and the children, and she wanted to feel attractive for a moment.",
+      "tts_text": "[a heartfelt storyteller bringing the story home] Claire admits that she dressed up because she spends most of her time in old clothes, taking care of the house and the children, and she wanted to feel attractive for a moment.",
+      "tags": [
+        "[a heartfelt storyteller bringing the story home]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 10.431633,
+      "start": 116.65721099999999,
+      "end": 127.088844
+    },
+    {
+      "index": 13,
+      "text": "Phil acts as if he’ll use her guilt to get whatever he wants in the future. But before leaving the hospital, he starts performing card tricks for a group of women, so he quickly loses the advantage.",
+      "tts_text": "Phil acts as if he’ll use her guilt to get whatever he wants in the future. But before leaving the hospital, he starts performing card tricks for a group of women, so he quickly loses the advantage.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 10.999252,
+      "start": 127.088844,
+      "end": 138.088096
+    },
+    {
+      "index": 14,
+      "text": "Mitchell and Cameron are also up all night because they’re trying to teach Lily to fall asleep on her own. Mitchell wants to let her cry for a while, but Cameron keeps going into her room to comfort her. Their argument becomes so physical that Cameron hurts his ankle.",
+      "tts_text": "Mitchell and Cameron are also up all night because they’re trying to teach Lily to fall asleep on her own. Mitchell wants to let her cry for a while, but Cameron keeps going into her room to comfort her. Their argument becomes so physical that Cameron hurts his ankle.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 14.50805,
+      "start": 138.088096,
+      "end": 152.596146
+    },
+    {
+      "index": 15,
+      "text": "After they calm down, Mitchell explains that he doesn’t want to be the only strict parent. Cameron agrees that they should share both the comforting and the difficult parts of raising Lily.",
+      "tts_text": "After they calm down, Mitchell explains that he doesn’t want to be the only strict parent. Cameron agrees that they should share both the comforting and the difficult parts of raising Lily.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 10.483243,
+      "start": 152.596146,
+      "end": 163.079389
+    },
+    {
+      "index": 16,
+      "text": "By the end, all the adults are tired, emotional, and acting almost as childish as the kids they’re always correcting.",
+      "tts_text": "By the end, all the adults are tired, emotional, and acting almost as childish as the kids they’re always correcting.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 6.66483,
+      "start": 163.079389,
+      "end": 169.744219
     }
   ],
   "audio_file": "english.wav",
-  "duration": 106.52677999999999
+  "duration": 169.744219
 }

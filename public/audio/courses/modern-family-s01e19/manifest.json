@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T14:54:14.754Z",
+  "generated_at": "2026-08-02T04:26:32.260Z",
   "course": "modern-family-s01e19",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -9,127 +9,188 @@
   "volume": 1.5,
   "temperature": 0.9,
   "top_p": 0.92,
-  "script_sha256": "4f2f57a98c16f05e947e8a7a916644e459ee2b95a246ac5af0ca7dcdd681b227",
-  "segment_count": 9,
+  "script_sha256": "6424ba8e11f202a31f801973f23d356d555250ec1f8e8abbd964c35d805416cc",
+  "segment_count": 14,
   "segments": [
     {
       "index": 1,
-      "text": "I’d like to introduce Episode 19 of Modern Family Season 1. It’s called “Game Changer.” The episode takes place on Phil’s birthday, which is also the release day of the first iPad.",
-      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 19 of Modern Family Season 1. It’s called “Game Changer.” The episode takes place on Phil’s birthday, which is also the release day of the first iPad.",
+      "text": "This episode takes place on Phil’s birthday, which also happens to be the day the new iPad goes on sale. Phil is extremely excited and plans to wake up early and wait outside the store.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] This episode takes place on Phil’s birthday, which also happens to be the day the new iPad goes on sale. Phil is extremely excited and plans to wake up early and wait outside the store.",
       "tags": [
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.063243,
+      "duration": 12.495646,
       "start": 0,
-      "end": 13.063243
+      "end": 12.495646
     },
     {
       "index": 2,
-      "text": "Phil desperately wants the new device and dreams of getting one on the first day. Claire promises to wait in line for him, but she accidentally oversleeps. By the time she reaches the stores, the iPad is sold out everywhere.",
-      "tts_text": "[a natural conversational storyteller] Phil desperately wants the new device and dreams of getting one on the first day. Claire promises to wait in line for him, but she accidentally oversleeps. By the time she reaches the stores, the iPad is sold out everywhere.",
+      "text": "Claire wants him to enjoy his birthday instead of spending half of it in line, so she promises to buy the iPad for him. She gets up early but accidentally falls asleep again on the couch. By the time she reaches the store, they’ve sold out.",
+      "tts_text": "[a natural conversational storyteller] Claire wants him to enjoy his birthday instead of spending half of it in line, so she promises to buy the iPad for him. She gets up early but accidentally falls asleep again on the couch. By the time she reaches the store, they’ve sold out.",
       "tags": [
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.043651,
-      "start": 13.063243,
-      "end": 27.106894
+      "duration": 12.960045,
+      "start": 12.495646,
+      "end": 25.455691
     },
     {
       "index": 3,
-      "text": "She spends the day searching because she does not want to disappoint Phil. Luke eventually finds a seller online. To persuade the man to give them the device, Luke claims that his father is seriously ill and that the iPad is his final wish.",
-      "tts_text": "[a storyteller building gentle suspense] She spends the day searching because she does not want to disappoint Phil. Luke eventually finds a seller online. To persuade the man to give them the device, Luke claims that his father is seriously ill and that the iPad is his final wish.",
+      "text": "Phil is clearly disappointed, even though he tries not to blame her. Claire feels terrible because she was finally sure she had found the perfect gift for him. She gets the children to help her search for one somewhere else.",
+      "tts_text": "[a storyteller building gentle suspense] Phil is clearly disappointed, even though he tries not to blame her. Claire feels terrible because she was finally sure she had found the perfect gift for him. She gets the children to help her search for one somewhere else.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 15.694853,
-      "start": 27.106894,
-      "end": 42.801747
+      "duration": 12.960045,
+      "start": 25.455691,
+      "end": 38.415736
     },
     {
       "index": 4,
-      "text": "The story is completely dishonest, but it works. Phil receives the iPad and believes his family has given him the perfect birthday.",
-      "tts_text": "[a storyteller with playful humor] The story is completely dishonest, but it works. Phil receives the iPad and believes his family has given him the perfect birthday.",
+      "text": "Phil goes to the batting cages to cheer himself up. When he sees a birthday party there, he briefly thinks Claire has planned a surprise for him. Then he realizes the party is for a little boy who is also named Phil.",
+      "tts_text": "[a storyteller with playful humor] Phil goes to the batting cages to cheer himself up. When he sees a birthday party there, he briefly thinks Claire has planned a surprise for him. Then he realizes the party is for a little boy who is also named Phil.",
       "tags": [
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 7.903243,
-      "start": 42.801747,
-      "end": 50.704989999999995
+      "duration": 12.805238,
+      "start": 38.415736,
+      "end": 51.220974
     },
     {
       "index": 5,
-      "text": "Meanwhile, Jay plays chess with Manny. Jay sees himself as an expert and hates losing. Manny is actually a stronger player, but Gloria encourages him to hide his ability to protect Jay’s pride. Manny finally decides to play seriously and wins one of Jay’s watches.",
-      "tts_text": "[an animated storyteller explaining the scene] Meanwhile, Jay plays chess with Manny. Jay sees himself as an expert and hates losing. Manny is actually a stronger player, but Gloria encourages him to hide his ability to protect Jay’s pride. Manny finally decides to play seriously and wins one of Jay’s watches.",
+      "text": "After that, he gives up on having a good birthday and goes home.",
+      "tts_text": "[an animated storyteller explaining the scene] After that, he gives up on having a good birthday and goes home.",
       "tags": [
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 16.417234,
-      "start": 50.704989999999995,
-      "end": 67.12222399999999
+      "duration": 3.207642,
+      "start": 51.220974,
+      "end": 54.428616
     },
     {
       "index": 6,
-      "text": "Jay is impressed to have found a worthy opponent, although he still does not know that Gloria is the best chess player in the house.",
-      "tts_text": "[a storyteller emphasizing the surprising turn] Jay is impressed to have found a worthy opponent, although he still does not know that Gloria is the best chess player in the house.",
+      "text": "Claire still hasn’t found an iPad, but Luke has. He contacted some of Phil’s technology-loving friends online and told them that his father was dying and that his final wish was an iPad. One of them had bought an extra one and brought it over.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Claire still hasn’t found an iPad, but Luke has. He contacted some of Phil’s technology-loving friends online and told them that his father was dying and that his final wish was an iPad. One of them had bought an extra one and brought it over.",
       "tags": [
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 8.05805,
-      "start": 67.12222399999999,
-      "end": 75.18027399999998
+      "duration": 14.972449,
+      "start": 54.428616,
+      "end": 69.401065
     },
     {
       "index": 7,
-      "text": "Mitchell and Cameron accidentally hear their neighbors arguing through the baby monitor. Cameron becomes emotionally involved and tries to repair their marriage. Mitchell thinks he is crossing a line.",
-      "tts_text": "[a storyteller smoothly moving to the next story] Mitchell and Cameron accidentally hear their neighbors arguing through the baby monitor. Cameron becomes emotionally involved and tries to repair their marriage. Mitchell thinks he is crossing a line.",
+      "text": "Claire gives it to Phil at his birthday party, and his terrible day suddenly becomes perfect.",
+      "tts_text": "[a storyteller smoothly moving to the next story] Claire gives it to Phil at his birthday party, and his terrible day suddenly becomes perfect.",
       "tags": [
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 12.444036,
-      "start": 75.18027399999998,
-      "end": 87.62430999999998
+      "duration": 6.097234,
+      "start": 69.401065,
+      "end": 75.498299
     },
     {
       "index": 8,
-      "text": "He also worries that the neighbors do not see him as masculine enough, so he makes several awkward attempts to act tougher. Cameron’s interference is inappropriate, but it surprisingly helps the couple communicate.",
-      "tts_text": "[a storyteller with warm empathy] He also worries that the neighbors do not see him as masculine enough, so he makes several awkward attempts to act tougher. Cameron’s interference is inappropriate, but it surprisingly helps the couple communicate.",
+      "text": "Meanwhile, Jay has bought Phil a chess set and decides to test it by playing Manny. Jay assumes Manny is a beginner, so Gloria secretly asks Manny to let him win. Manny does, but Jay keeps giving him childish advice and acting as if the game is too easy.",
+      "tts_text": "[a storyteller with warm empathy] Meanwhile, Jay has bought Phil a chess set and decides to test it by playing Manny. Jay assumes Manny is a beginner, so Gloria secretly asks Manny to let him win. Manny does, but Jay keeps giving him childish advice and acting as if the game is too easy.",
       "tags": [
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.992041,
-      "start": 87.62430999999998,
-      "end": 101.61635099999998
+      "duration": 17.242857,
+      "start": 75.498299,
+      "end": 92.741156
     },
     {
       "index": 9,
-      "text": "Overall, the episode shows how an unexpected person or action can completely change a situation, even when the method is far from perfect.",
-      "tts_text": "[a thoughtful storyteller reflecting on the character] Overall, the episode shows how an unexpected person or action can completely change a situation, even when the method is far from perfect.",
+      "text": "Manny gets annoyed and challenges him to another game, with Jay’s watch as the prize. This time, Manny stops pretending and beats him in only four moves. Jay is shocked. He later plays Gloria and thinks he’s winning, but she admits that she could beat him easily too.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Manny gets annoyed and challenges him to another game, with Jay’s watch as the prize. This time, Manny stops pretending and beats him in only four moves. Jay is shocked. He later plays Gloria and thinks he’s winning, but she admits that she could beat him easily too.",
       "tags": [
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 10.070454,
-      "start": 101.61635099999998,
-      "end": 111.68680499999998
+      "duration": 16.675261,
+      "start": 92.741156,
+      "end": 109.416417
+    },
+    {
+      "index": 10,
+      "text": "She usually lets him win because she knows how badly he handles losing.",
+      "tts_text": "[a storyteller building gentle suspense] She usually lets him win because she knows how badly he handles losing.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 4.497642,
+      "start": 109.416417,
+      "end": 113.914059
+    },
+    {
+      "index": 11,
+      "text": "At Mitchell and Cameron’s house, they hear a strange man’s voice through Lily’s baby monitor and think someone has broken in. Mitchell freezes, while Cameron runs in to protect Lily. They soon discover that the monitor is picking up a signal from a neighbor’s house.",
+      "tts_text": "[a storyteller warmly enjoying the happy moment] At Mitchell and Cameron’s house, they hear a strange man’s voice through Lily’s baby monitor and think someone has broken in. Mitchell freezes, while Cameron runs in to protect Lily. They soon discover that the monitor is picking up a signal from a neighbor’s house.",
+      "tags": [
+        "[a storyteller warmly enjoying the happy moment]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 16.417234,
+      "start": 113.914059,
+      "end": 130.331293
+    },
+    {
+      "index": 12,
+      "text": "Mitchell is embarrassed by his reaction and asks Jay to teach him how to defend himself. Cameron keeps listening to the neighbors and realizes that a misunderstanding may end their marriage. He goes over and explains everything, believing he has saved the day.",
+      "tts_text": "[a heartfelt storyteller bringing the story home] Mitchell is embarrassed by his reaction and asks Jay to teach him how to defend himself. Cameron keeps listening to the neighbors and realizes that a misunderstanding may end their marriage. He goes over and explains everything, believing he has saved the day.",
+      "tags": [
+        "[a heartfelt storyteller bringing the story home]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 15.643243,
+      "start": 130.331293,
+      "end": 145.974536
+    },
+    {
+      "index": 13,
+      "text": "Later, the couple realizes he was listening to their private conversations and starts calling him a creep.",
+      "tts_text": "Later, the couple realizes he was listening to their private conversations and starts calling him a creep.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 5.942426,
+      "start": 145.974536,
+      "end": 151.916962
+    },
+    {
+      "index": 14,
+      "text": "By the end, Phil gets exactly what he wanted, Jay learns not to underestimate Manny and Gloria, and Cameron’s helpful act becomes much less heroic than he imagined.",
+      "tts_text": "By the end, Phil gets exactly what he wanted, Jay learns not to underestimate Manny and Gloria, and Cameron’s helpful act becomes much less heroic than he imagined.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 10.122041,
+      "start": 151.916962,
+      "end": 162.039003
     }
   ],
   "audio_file": "english.wav",
-  "duration": 111.68680499999998
+  "duration": 162.039003
 }

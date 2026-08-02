@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T14:55:36.626Z",
+  "generated_at": "2026-08-02T04:28:31.708Z",
   "course": "modern-family-s01e22",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -9,127 +9,188 @@
   "volume": 1.5,
   "temperature": 0.9,
   "top_p": 0.92,
-  "script_sha256": "79be3af94f144b5b31173d959802a09925bcbf3be88faa2ad1e516534f9feed5",
-  "segment_count": 9,
+  "script_sha256": "b477590ca579178b47841809f9618452f897b2ecfb8066c5d606066f0653a78f",
+  "segment_count": 14,
   "segments": [
     {
       "index": 1,
-      "text": "I’d like to introduce Episode 22 of Modern Family Season 1. It’s called “Airport 2010,” and it follows the family as they try to leave for a vacation in Hawaii.",
-      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 22 of Modern Family Season 1. It’s called “Airport 2010,” and it follows the family as they try to leave for a vacation in Hawaii.",
+      "text": "This episode follows the whole family as they try to get to Hawaii for Jay’s birthday. Gloria believes she has planned the perfect surprise: a full week in Maui.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] This episode follows the whole family as they try to get to Hawaii for Jay’s birthday. Gloria believes she has planned the perfect surprise: a full week in Maui.",
       "tags": [
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.566848,
+      "duration": 10.070454,
       "start": 0,
-      "end": 11.566848
+      "end": 10.070454
     },
     {
       "index": 2,
-      "text": "Gloria tells Jay that the trip is a birthday present. Jay expects a quiet vacation for the two of them, but at the airport he discovers that Gloria has invited the entire family.",
-      "tts_text": "[a natural conversational storyteller] Gloria tells Jay that the trip is a birthday present. Jay expects a quiet vacation for the two of them, but at the airport he discovers that Gloria has invited the entire family.",
+      "text": "Jay is delighted when he thinks the trip will be just the two of them. Then Claire, Phil, Mitchell, Cameron, the children, and Lily all arrive with their luggage. Gloria has paid for everyone to come along.",
+      "tts_text": "[a natural conversational storyteller] Jay is delighted when he thinks the trip will be just the two of them. Then Claire, Phil, Mitchell, Cameron, the children, and Lily all arrive with their luggage. Gloria has paid for everyone to come along.",
       "tags": [
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.050839,
-      "start": 11.566848,
-      "end": 22.617687
+      "duration": 12.340839,
+      "start": 10.070454,
+      "end": 22.411293
     },
     {
       "index": 3,
-      "text": "He complains about the crowd, but his deeper concern is that Gloria may be avoiding time alone with him. Later, he learns that everyone else will return home early. Gloria has actually planned several private days for the two of them at the end of the trip.",
-      "tts_text": "[a storyteller building gentle suspense] He complains about the crowd, but his deeper concern is that Gloria may be avoiding time alone with him. Later, he learns that everyone else will return home early. Gloria has actually planned several private days for the two of them at the end of the trip.",
+      "text": "Jay tries to look happy, but this isn’t the quiet holiday he imagined. He wanted to sit by the pool with Gloria and read. Instead, he learns that Cameron has planned morning hikes, Manny wants to explore the island, and the family is preparing a birthday show for him.",
+      "tts_text": "[a storyteller building gentle suspense] Jay tries to look happy, but this isn’t the quiet holiday he imagined. He wanted to sit by the pool with Gloria and read. Instead, he learns that Cameron has planned morning hikes, Manny wants to explore the island, and the family is preparing a birthday show for him.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 16.159252,
-      "start": 22.617687,
-      "end": 38.776939
+      "duration": 16.262449,
+      "start": 22.411293,
+      "end": 38.673742000000004
     },
     {
       "index": 4,
-      "text": "Meanwhile, Mitchell realizes that he left his wallet and identification at home. He blames Cameron for not packing them. Phil offers to drive Mitchell back to the house, which upsets Claire.",
-      "tts_text": "[a storyteller with playful humor] Meanwhile, Mitchell realizes that he left his wallet and identification at home. He blames Cameron for not packing them. Phil offers to drive Mitchell back to the house, which upsets Claire.",
+      "text": "Every new surprise sounds worse than the last.",
+      "tts_text": "[a storyteller with playful humor] Every new surprise sounds worse than the last.",
       "tags": [
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 10.999252,
-      "start": 38.776939,
-      "end": 49.776191
+      "duration": 3.052834,
+      "start": 38.673742000000004,
+      "end": 41.726576
     },
     {
       "index": 5,
-      "text": "She is afraid of flying and wanted Phil to stay with her, but she expected him to understand without being told. Cameron advises Claire to express her needs instead of asking Phil to read her mind.",
-      "tts_text": "[an animated storyteller explaining the scene] She is afraid of flying and wanted Phil to stay with her, but she expected him to understand without being told. Cameron advises Claire to express her needs instead of asking Phil to read her mind.",
+      "text": "Mitchell and Cameron are already arguing before they reach the airport. Cameron scheduled a playdate for Lily just before they had to leave, so Mitchell handled most of the packing. In all the confusion, Mitchell forgets his wallet and can’t board without his ID.",
+      "tts_text": "[an animated storyteller explaining the scene] Mitchell and Cameron are already arguing before they reach the airport. Cameron scheduled a playdate for Lily just before they had to leave, so Mitchell handled most of the packing. In all the confusion, Mitchell forgets his wallet and can’t board without his ID.",
       "tags": [
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.050839,
-      "start": 49.776191,
-      "end": 60.82702999999999
+      "duration": 15.591655,
+      "start": 41.726576,
+      "end": 57.318231
     },
     {
       "index": 6,
-      "text": "At the same time, Phil tells Mitchell that partners should sometimes notice when help is needed, even if nobody asks directly. Both couples eventually apologize.",
-      "tts_text": "[a storyteller emphasizing the surprising turn] At the same time, Phil tells Mitchell that partners should sometimes notice when help is needed, even if nobody asks directly. Both couples eventually apologize.",
+      "text": "Phil offers to drive him home. This creates another problem because Claire is terrified of flying and was counting on Phil to stay with her. While Phil and Mitchell race back, Claire and Cameron complain to each other about their partners.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Phil offers to drive him home. This creates another problem because Claire is terrified of flying and was counting on Phil to stay with her. While Phil and Mitchell race back, Claire and Cameron complain to each other about their partners.",
       "tags": [
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.102449,
-      "start": 60.82702999999999,
-      "end": 71.92947899999999
+      "duration": 14.404853,
+      "start": 57.318231,
+      "end": 71.723084
     },
     {
       "index": 7,
-      "text": "Several smaller problems happen at the airport. Manny’s name matches a name on a no-fly list, so security questions him. Haley flirts with an attractive boy and later discovers that he is only fourteen.",
-      "tts_text": "[a storyteller smoothly moving to the next story] Several smaller problems happen at the airport. Manny’s name matches a name on a no-fly list, so security questions him. Haley flirts with an attractive boy and later discovers that he is only fourteen.",
+      "text": "Claire says Phil should’ve known she needed him, even though she never directly asked him to stay. Cameron says that’s unfair and that she should simply ask for help.",
+      "tts_text": "[a storyteller smoothly moving to the next story] Claire says Phil should’ve known she needed him, even though she never directly asked him to stay. Cameron says that’s unfair and that she should simply ask for help.",
       "tags": [
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.198435,
-      "start": 71.92947899999999,
-      "end": 86.12791399999999
+      "duration": 11.82483,
+      "start": 71.723084,
+      "end": 83.547914
     },
     {
       "index": 8,
-      "text": "Dylan, meanwhile, is trapped inside the Dunphy house after falling asleep in Haley’s room the night before.",
-      "tts_text": "[a storyteller with warm empathy] Dylan, meanwhile, is trapped inside the Dunphy house after falling asleep in Haley’s room the night before.",
+      "text": "Then he complains that Mitchell should’ve known he needed help packing, even though Mitchell never directly asked either. They both realize they’re making the same argument from opposite sides.",
+      "tts_text": "[a storyteller with warm empathy] Then he complains that Mitchell should’ve known he needed help packing, even though Mitchell never directly asked either. They both realize they’re making the same argument from opposite sides.",
       "tags": [
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 6.71644,
-      "start": 86.12791399999999,
-      "end": 92.844354
+      "duration": 10.173651,
+      "start": 83.547914,
+      "end": 93.721565
     },
     {
       "index": 9,
-      "text": "Overall, the episode is about communication. A partner cannot read every thought, but “you never asked” is not always a good excuse for failing to pay attention.",
-      "tts_text": "[a thoughtful storyteller reflecting on the character] Overall, the episode is about communication. A partner cannot read every thought, but “you never asked” is not always a good excuse for failing to pay attention.",
+      "text": "Phil and Mitchell don’t have an easy trip home. They miss turns, lock themselves out, climb through a window, and set off the house alarm. They finally get the wallet and rush back to the airport.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Phil and Mitchell don’t have an easy trip home. They miss turns, lock themselves out, climb through a window, and set off the house alarm. They finally get the wallet and rush back to the airport.",
       "tags": [
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 10.018844,
-      "start": 92.844354,
-      "end": 102.863198
+      "duration": 11.670045,
+      "start": 93.721565,
+      "end": 105.39161
+    },
+    {
+      "index": 10,
+      "text": "The rest of the family has problems too. Manny is stopped because another person with his name is on a no-fly list, and Gloria’s angry defense of him only makes security more suspicious.",
+      "tts_text": "[a storyteller building gentle suspense] The rest of the family has problems too. Manny is stopped because another person with his name is on a no-fly list, and Gloria’s angry defense of him only makes security more suspicious.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 10.999252,
+      "start": 105.39161,
+      "end": 116.390862
+    },
+    {
+      "index": 11,
+      "text": "Claire becomes more nervous as the flight gets closer and starts drinking to calm herself down.",
+      "tts_text": "[a storyteller warmly enjoying the happy moment] Claire becomes more nervous as the flight gets closer and starts drinking to calm herself down.",
+      "tags": [
+        "[a storyteller warmly enjoying the happy moment]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 6.355238,
+      "start": 116.390862,
+      "end": 122.7461
+    },
+    {
+      "index": 12,
+      "text": "Jay admits that flying has started to scare him too. He says he has much more to lose now, but he’s also upset because it feels like Gloria has planned everything except time alone with him.",
+      "tts_text": "[a heartfelt storyteller bringing the story home] Jay admits that flying has started to scare him too. He says he has much more to lose now, but he’s also upset because it feels like Gloria has planned everything except time alone with him.",
+      "tags": [
+        "[a heartfelt storyteller bringing the story home]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 11.721633,
+      "start": 122.7461,
+      "end": 134.467733
+    },
+    {
+      "index": 13,
+      "text": "Just before they board, Jay learns the final part of Gloria’s surprise. The family will return home after six days, but Jay and Gloria are staying longer by themselves. Jay immediately cheers up.",
+      "tts_text": "Just before they board, Jay learns the final part of Gloria’s surprise. The family will return home after six days, but Jay and Gloria are staying longer by themselves. Jay immediately cheers up.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 13.269637,
+      "start": 134.467733,
+      "end": 147.73737
+    },
+    {
+      "index": 14,
+      "text": "They haven’t even left the airport yet, and the trip is already a complete mess. But Phil and Mitchell make it back, the family gets through security, and Jay finally gets the birthday holiday he was hoping for.",
+      "tts_text": "They haven’t even left the airport yet, and the trip is already a complete mess. But Phil and Mitchell make it back, the family gets through security, and Jay finally gets the birthday holiday he was hoping for.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 11.92805,
+      "start": 147.73737,
+      "end": 159.66542
     }
   ],
   "audio_file": "english.wav",
-  "duration": 102.863198
+  "duration": 159.66542
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T14:45:43.892Z",
+  "generated_at": "2026-08-02T04:15:43.514Z",
   "course": "modern-family-s01e03",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -9,127 +9,177 @@
   "volume": 1.5,
   "temperature": 0.9,
   "top_p": 0.92,
-  "script_sha256": "5cf4fbb9b5f0123939867c532110ad50d76b464c5d7feaa08aa3a6b5068baacc",
-  "segment_count": 9,
+  "script_sha256": "1405b527f19a1e14ae93730aaf2e9692809fc23a2e0f7da5144244a60bc92629",
+  "segment_count": 13,
   "segments": [
     {
       "index": 1,
-      "text": "I’d like to introduce Episode 3 of Modern Family Season 1. It’s called “Come Fly with Me.” This episode has three main storylines, and they are all about family members getting to know one another better.",
-      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 3 of Modern Family Season 1. It’s called “Come Fly with Me.” This episode has three main storylines, and they are all about family members getting to know one another better.",
+      "text": "This episode is about family members who think they already understand one another, but slowly realize they may have judged too quickly.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] This episode is about family members who think they already understand one another, but slowly realize they may have judged too quickly.",
       "tags": [
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.372857,
+      "duration": 8.522426,
       "start": 0,
-      "end": 13.372857
+      "end": 8.522426
     },
     {
       "index": 2,
-      "text": "The first story is about Phil and Jay. Phil really wants a closer relationship with his father-in-law, but Jay usually keeps him at a distance. One day, Phil finds out that Jay is going to fly his new model airplane, so he invites himself along.",
-      "tts_text": "[a natural conversational storyteller] The first story is about Phil and Jay. Phil really wants a closer relationship with his father-in-law, but Jay usually keeps him at a distance. One day, Phil finds out that Jay is going to fly his new model airplane, so he invites himself along.",
+      "text": "Phil wants to have a closer relationship with Jay, his father-in-law. He tells Claire that he and Jay are good friends, but Claire points out that after sixteen years of marriage, Phil still acts nervous around him.",
+      "tts_text": "[a natural conversational storyteller] Phil wants to have a closer relationship with Jay, his father-in-law. He tells Claire that he and Jay are good friends, but Claire points out that after sixteen years of marriage, Phil still acts nervous around him.",
       "tags": [
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 15.436848,
-      "start": 13.372857,
-      "end": 28.809705
+      "duration": 13.527642,
+      "start": 8.522426,
+      "end": 22.050068
     },
     {
       "index": 3,
-      "text": "Phil is extremely excited and keeps talking, while Jay just wants to enjoy his hobby in peace. After a while, Jay asks Phil to stand far away and hold up a large hoop. He says he is going to fly the plane through it, but the plane hits Phil right in the face instead.",
-      "tts_text": "[a storyteller building gentle suspense] Phil is extremely excited and keeps talking, while Jay just wants to enjoy his hobby in peace. After a while, Jay asks Phil to stand far away and hold up a large hoop. He says he is going to fly the plane through it, but the plane hits Phil right in the face instead.",
+      "text": "When Phil visits Jay, Jay is working on a model airplane and clearly wants to be left alone. Phil keeps trying to join in, so Jay finally takes him to a field to fly it. Phil is excited and hopes this will be their chance to connect.",
+      "tts_text": "[a storyteller building gentle suspense] When Phil visits Jay, Jay is working on a model airplane and clearly wants to be left alone. Phil keeps trying to join in, so Jay finally takes him to a field to fly it. Phil is excited and hopes this will be their chance to connect.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 17.08805,
-      "start": 28.809705,
-      "end": 45.897755000000004
+      "duration": 14.043651,
+      "start": 22.050068,
+      "end": 36.093719
     },
     {
       "index": 4,
-      "text": "Jay claims it was an accident, although Claire is pretty sure he did it on purpose. She makes Jay apologize. In the end, Jay admits that Phil can get on his nerves, but he does not actually dislike him. Phil is thrilled because he has always wanted Jay’s approval.",
-      "tts_text": "[a storyteller with playful humor] Jay claims it was an accident, although Claire is pretty sure he did it on purpose. She makes Jay apologize. In the end, Jay admits that Phil can get on his nerves, but he does not actually dislike him. Phil is thrilled because he has always wanted Jay’s approval.",
+      "text": "At first, things seem to be going well. Then Jay asks Phil to stand far away and hold up a hoop so he can fly the plane through it. Instead, Jay flies the plane straight into Phil’s face.",
+      "tts_text": "[a storyteller with playful humor] At first, things seem to be going well. Then Jay asks Phil to stand far away and hold up a hoop so he can fly the plane through it. Instead, Jay flies the plane straight into Phil’s face.",
       "tags": [
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 15.488435,
-      "start": 45.897755000000004,
-      "end": 61.386190000000006
+      "duration": 14.250045,
+      "start": 36.093719,
+      "end": 50.343764
     },
     {
       "index": 5,
-      "text": "The second story is about Gloria and Alex. Claire wants Alex to wear a dress to a family wedding, so Gloria takes her shopping. Alex feels uncomfortable because she thinks Haley is the pretty and popular sister, while she is only known for being smart.",
-      "tts_text": "[an animated storyteller explaining the scene] The second story is about Gloria and Alex. Claire wants Alex to wear a dress to a family wedding, so Gloria takes her shopping. Alex feels uncomfortable because she thinks Haley is the pretty and popular sister, while she is only known for being smart.",
+      "text": "He says it was an accident, but Claire knows her father too well and makes him admit the truth.",
+      "tts_text": "[an animated storyteller explaining the scene] He says it was an accident, but Claire knows her father too well and makes him admit the truth.",
       "tags": [
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 16.520431,
-      "start": 61.386190000000006,
-      "end": 77.906621
+      "duration": 6.045624,
+      "start": 50.343764,
+      "end": 56.389388
     },
     {
       "index": 6,
-      "text": "Gloria tells her not to compare herself with Haley and helps her see that she is attractive in her own way. Meanwhile, Manny gives Claire some surprisingly mature advice. He tells her that she should accept Alex instead of trying to turn her into someone else.",
-      "tts_text": "[a storyteller emphasizing the surprising turn] Gloria tells her not to compare herself with Haley and helps her see that she is attractive in her own way. Meanwhile, Manny gives Claire some surprisingly mature advice. He tells her that she should accept Alex instead of trying to turn her into someone else.",
+      "text": "Jay explains that Phil tries too hard, which gets on his nerves. Claire tells him that Phil only does that because Jay never makes any effort with him. Jay finally apologizes and tells Phil that he likes him. He even says Phil is a good dad, which means a lot to him.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Jay explains that Phil tries too hard, which gets on his nerves. Claire tells him that Phil only does that because Jay never makes any effort with him. Jay finally apologizes and tells Phil that he likes him. He even says Phil is a good dad, which means a lot to him.",
       "tags": [
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 15.127234,
-      "start": 77.906621,
-      "end": 93.033855
+      "duration": 16.675261,
+      "start": 56.389388,
+      "end": 73.064649
     },
     {
       "index": 7,
-      "text": "The third story is about Mitchell and Cameron. Cameron takes Mitchell to Costco to buy diapers. Mitchell looks down on the store at first, but once he sees the low prices and the huge selection, he completely changes his mind.",
-      "tts_text": "[a storyteller smoothly moving to the next story] The third story is about Mitchell and Cameron. Cameron takes Mitchell to Costco to buy diapers. Mitchell looks down on the store at first, but once he sees the low prices and the huge selection, he completely changes his mind.",
+      "text": "Meanwhile, Claire is arguing with her younger daughter, Alex, about what she should wear to a wedding. Claire wants her to wear a dress, but Alex doesn’t want to look like Haley. She feels that Claire doesn’t understand her at all.",
+      "tts_text": "[a storyteller smoothly moving to the next story] Meanwhile, Claire is arguing with her younger daughter, Alex, about what she should wear to a wedding. Claire wants her to wear a dress, but Alex doesn’t want to look like Haley. She feels that Claire doesn’t understand her at all.",
       "tags": [
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.043651,
-      "start": 93.033855,
-      "end": 107.077506
+      "duration": 15.333651,
+      "start": 73.064649,
+      "end": 88.3983
     },
     {
       "index": 8,
-      "text": "By the end, the person who did not want to go is the one filling several shopping carts.",
-      "tts_text": "[a storyteller with warm empathy] By the end, the person who did not want to go is the one filling several shopping carts.",
+      "text": "Gloria takes Alex shopping and talks to her more like a friend than a parent. Alex eventually admits that she doesn’t think she’s pretty like Haley and Claire.",
+      "tts_text": "[a storyteller with warm empathy] Gloria takes Alex shopping and talks to her more like a friend than a parent. Alex eventually admits that she doesn’t think she’s pretty like Haley and Claire.",
       "tags": [
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 5.478027,
-      "start": 107.077506,
-      "end": 112.555533
+      "duration": 10.225238,
+      "start": 88.3983,
+      "end": 98.62353800000001
     },
     {
       "index": 9,
-      "text": "Overall, the episode shows that people are often different from our first impression of them. It is funny, but it also moves several family relationships forward.",
-      "tts_text": "[a thoughtful storyteller reflecting on the character] Overall, the episode shows that people are often different from our first impression of them. It is funny, but it also moves several family relationships forward.",
+      "text": "She sees herself as “the smart one.” Gloria points out that a cute boy at the restaurant has been looking at her, which gives Alex a little more confidence.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] She sees herself as “the smart one.” Gloria points out that a cute boy at the restaurant has been looking at her, which gives Alex a little more confidence.",
       "tags": [
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 10.070454,
-      "start": 112.555533,
-      "end": 122.625987
+      "duration": 10.58644,
+      "start": 98.62353800000001,
+      "end": 109.209978
+    },
+    {
+      "index": 10,
+      "text": "While they’re out, Manny stays at Claire’s house. He suggests that Alex may simply be trying to have her own identity instead of competing with Haley. Claire decides not to force the dress issue. By then, however, Alex has chosen to buy one herself.",
+      "tts_text": "[a storyteller building gentle suspense] While they’re out, Manny stays at Claire’s house. He suggests that Alex may simply be trying to have her own identity instead of competing with Haley. Claire decides not to force the dress issue. By then, however, Alex has chosen to buy one herself.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 15.178844,
+      "start": 109.209978,
+      "end": 124.388822
+    },
+    {
+      "index": 11,
+      "text": "Mitchell and Cameron have a much lighter problem. They go to Costco to buy diapers, but Mitchell looks down on the store and wants to leave as quickly as possible. Then he discovers the cheap wine, the food, the electronics, and the huge packs of everything.",
+      "tts_text": "[a storyteller warmly enjoying the happy moment] Mitchell and Cameron have a much lighter problem. They go to Costco to buy diapers, but Mitchell looks down on the store and wants to leave as quickly as possible. Then he discovers the cheap wine, the food, the electronics, and the huge packs of everything.",
+      "tags": [
+        "[a storyteller warmly enjoying the happy moment]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 15.694853,
+      "start": 124.388822,
+      "end": 140.083675
+    },
+    {
+      "index": 12,
+      "text": "Within minutes, Mitchell is completely in love with the place and starts filling several carts with things they don’t need. Cameron can only watch as Mitchell becomes a bigger Costco fan than he is.",
+      "tts_text": "[a heartfelt storyteller bringing the story home] Within minutes, Mitchell is completely in love with the place and starts filling several carts with things they don’t need. Cameron can only watch as Mitchell becomes a bigger Costco fan than he is.",
+      "tags": [
+        "[a heartfelt storyteller bringing the story home]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 10.844444,
+      "start": 140.083675,
+      "end": 150.928119
+    },
+    {
+      "index": 13,
+      "text": "By the end, Jay makes an effort with Phil, Claire gives Alex more room, and Mitchell admits he was wrong about Costco. Nobody changes completely, but they all understand one another a little better.",
+      "tts_text": "By the end, Jay makes an effort with Phil, Claire gives Alex more room, and Mitchell admits he was wrong about Costco. Nobody changes completely, but they all understand one another a little better.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 12.753651,
+      "start": 150.928119,
+      "end": 163.68177
     }
   ],
   "audio_file": "english.wav",
-  "duration": 122.625987
+  "duration": 163.68177
 }

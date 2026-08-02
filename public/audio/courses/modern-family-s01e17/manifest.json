@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T14:53:14.510Z",
+  "generated_at": "2026-08-02T04:25:12.809Z",
   "course": "modern-family-s01e17",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -9,127 +9,190 @@
   "volume": 1.5,
   "temperature": 0.9,
   "top_p": 0.92,
-  "script_sha256": "d1b253339dd5ed02eb9bda85163f3213f264c2666c804b843de7fccdb3e68ab7",
-  "segment_count": 9,
+  "script_sha256": "a02ce0ae7188ad713e414606a7d7c7fc5155cfe6247a7b6150385a3011980bfb",
+  "segment_count": 14,
   "segments": [
     {
       "index": 1,
-      "text": "I’d like to introduce Episode 17 of Modern Family Season 1. It’s called “Truth Be Told.” Each storyline involves someone avoiding a truth that eventually becomes impossible to ignore.",
-      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 17 of Modern Family Season 1. It’s called “Truth Be Told.” Each storyline involves someone avoiding a truth that eventually becomes impossible to ignore.",
+      "text": "This episode is about people hiding the truth because they think it will make life easier. As usual, the lies only create bigger problems.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] This episode is about people hiding the truth because they think it will make life easier. As usual, the lies only create bigger problems.",
       "tags": [
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.011633,
+      "duration": 9.24483,
       "start": 0,
-      "end": 13.011633
+      "end": 9.24483
     },
     {
       "index": 2,
-      "text": "Phil reconnects online with Denise, an old friend from college. He believes she is simply being friendly, but Claire immediately suspects that Denise had feelings for him.",
-      "tts_text": "[a natural conversational storyteller] Phil reconnects online with Denise, an old friend from college. He believes she is simply being friendly, but Claire immediately suspects that Denise had feelings for him.",
+      "text": "Phil has reconnected with his old high school girlfriend, Denise, on Facebook. He plans to meet her for a drink, but Claire immediately becomes suspicious. Phil insists that they’re only friends and invites Denise to the house instead, hoping to prove that Claire is overreacting.",
+      "tts_text": "[a natural conversational storyteller] Phil has reconnected with his old high school girlfriend, Denise, on Facebook. He plans to meet her for a drink, but Claire immediately becomes suspicious. Phil insists that they’re only friends and invites Denise to the house instead, hoping to prove that Claire is overreacting.",
       "tags": [
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 9.24483,
-      "start": 13.011633,
-      "end": 22.256463
+      "duration": 15.488435,
+      "start": 9.24483,
+      "end": 24.733265000000003
     },
     {
       "index": 3,
-      "text": "When Denise visits the house, she keeps bringing up private memories and hints that there was always something romantic between them. Phil misses every signal until Denise finally makes her interest obvious. He is shocked, while Claire is not surprised at all.",
-      "tts_text": "[a storyteller building gentle suspense] When Denise visits the house, she keeps bringing up private memories and hints that there was always something romantic between them. Phil misses every signal until Denise finally makes her interest obvious. He is shocked, while Claire is not surprised at all.",
+      "text": "At first, Denise seems friendly, and Claire starts to think she was wrong. But as soon as Claire leaves the room, Denise begins touching Phil, flirting with him, and even gives him a key to her hotel room.",
+      "tts_text": "[a storyteller building gentle suspense] At first, Denise seems friendly, and Claire starts to think she was wrong. But as soon as Claire leaves the room, Denise begins touching Phil, flirting with him, and even gives him a key to her hotel room.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 15.127234,
-      "start": 22.256463,
-      "end": 37.383697
+      "duration": 14.45644,
+      "start": 24.733265000000003,
+      "end": 39.189705000000004
     },
     {
       "index": 4,
-      "text": "After Denise leaves, Phil has to admit that he is not nearly as good at reading women as he thought.",
-      "tts_text": "[a storyteller with playful humor] After Denise leaves, Phil has to admit that he is not nearly as good at reading women as he thought.",
+      "text": "Phil finally realizes that Claire understood the situation much better than he did.",
+      "tts_text": "[a storyteller with playful humor] Phil finally realizes that Claire understood the situation much better than he did.",
       "tags": [
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 6.355238,
-      "start": 37.383697,
-      "end": 43.738935
+      "duration": 4.755646,
+      "start": 39.189705000000004,
+      "end": 43.945351
     },
     {
       "index": 5,
-      "text": "Meanwhile, Alex plays a cruel prank on Luke. She tells him that she found evidence online that he was adopted. Luke believes her and begins reinterpreting every family interaction as proof that he does not belong.",
-      "tts_text": "[an animated storyteller explaining the scene] Meanwhile, Alex plays a cruel prank on Luke. She tells him that she found evidence online that he was adopted. Luke believes her and begins reinterpreting every family interaction as proof that he does not belong.",
+      "text": "Things become even more awkward when Claire finds an old photo and discovers that Phil started dating her before he had officially broken up with Denise. Denise is furious because she always thought Phil had left her long before meeting Claire.",
+      "tts_text": "[an animated storyteller explaining the scene] Things become even more awkward when Claire finds an old photo and discovers that Phil started dating her before he had officially broken up with Denise. Denise is furious because she always thought Phil had left her long before meeting Claire.",
       "tags": [
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.16644,
-      "start": 43.738935,
-      "end": 56.905375
+      "duration": 15.591655,
+      "start": 43.945351,
+      "end": 59.537006000000005
     },
     {
       "index": 6,
-      "text": "Alex meant it as a joke, but she realizes she has gone too far when she sees that Luke is genuinely hurt.",
-      "tts_text": "[a storyteller emphasizing the surprising turn] Alex meant it as a joke, but she realizes she has gone too far when she sees that Luke is genuinely hurt.",
+      "text": "She storms out, leaving Phil in trouble with both women.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] She storms out, leaving Phil in trouble with both women.",
       "tags": [
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 7.180839,
-      "start": 56.905375,
-      "end": 64.086214
+      "duration": 3.878435,
+      "start": 59.537006000000005,
+      "end": 63.41544100000001
     },
     {
       "index": 7,
-      "text": "At Jay’s house, Jay accidentally kills Manny’s pet turtle. Instead of admitting it, he creates an elaborate story about a raccoon attack. Manny quickly figures out what really happened, but he waits for Jay to tell the truth on his own. Jay finally confesses.",
-      "tts_text": "[a storyteller smoothly moving to the next story] At Jay’s house, Jay accidentally kills Manny’s pet turtle. Instead of admitting it, he creates an elaborate story about a raccoon attack. Manny quickly figures out what really happened, but he waits for Jay to tell the truth on his own. Jay finally confesses.",
+      "text": "Meanwhile, Manny is upset because he didn’t get a part in a school play. Jay buys him a motivational poster and hangs it above his pet turtle’s tank. The poster falls during the night and kills the turtle.",
+      "tts_text": "[a storyteller smoothly moving to the next story] Meanwhile, Manny is upset because he didn’t get a part in a school play. Jay buys him a motivational poster and hangs it above his pet turtle’s tank. The poster falls during the night and kills the turtle.",
       "tags": [
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 16.314036,
-      "start": 64.086214,
-      "end": 80.40025
+      "duration": 13.424444,
+      "start": 63.41544100000001,
+      "end": 76.83988500000001
     },
     {
       "index": 8,
-      "text": "Mitchell also tries to be honest. He tells his boss that work should not always come before his family. He expects the boss to respect his courage, but he gets fired instead.",
-      "tts_text": "[a storyteller with warm empathy] Mitchell also tries to be honest. He tells his boss that work should not always come before his family. He expects the boss to respect his courage, but he gets fired instead.",
+      "text": "Jay doesn’t want Manny to blame him, so he creates an entire story about a raccoon breaking into the house. He even damages the room and leaves muddy footprints to make the story look real. Gloria sees through the lie and tells him to confess.",
+      "tts_text": "[a storyteller with warm empathy] Jay doesn’t want Manny to blame him, so he creates an entire story about a raccoon breaking into the house. He even damages the room and leaves muddy footprints to make the story look real. Gloria sees through the lie and tells him to confess.",
       "tags": [
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 10.792834,
-      "start": 80.40025,
-      "end": 91.193084
+      "duration": 14.404853,
+      "start": 76.83988500000001,
+      "end": 91.24473800000001
     },
     {
       "index": 9,
-      "text": "Overall, the episode shows that honesty is not always rewarded immediately. Still, avoiding the truth usually creates a much bigger problem than the truth itself.",
-      "tts_text": "[a thoughtful storyteller reflecting on the character] Overall, the episode shows that honesty is not always rewarded immediately. Still, avoiding the truth usually creates a much bigger problem than the truth itself.",
+      "text": "Jay explains that years ago, he accidentally killed one of Mitchell’s pets and told him the truth. Mitchell never forgot it, so Jay thinks lying may be kinder this time. But during the turtle’s funeral, he feels too guilty and finally admits what happened.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Jay explains that years ago, he accidentally killed one of Mitchell’s pets and told him the truth. Mitchell never forgot it, so Jay thinks lying may be kinder this time. But during the turtle’s funeral, he feels too guilty and finally admits what happened.",
       "tags": [
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 10.63805,
-      "start": 91.193084,
-      "end": 101.83113399999999
+      "duration": 16.210839,
+      "start": 91.24473800000001,
+      "end": 107.455577
+    },
+    {
+      "index": 10,
+      "text": "Manny calmly tells him that he already knew because the story made no sense.",
+      "tts_text": "[a storyteller building gentle suspense] Manny calmly tells him that he already knew because the story made no sense.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 4.239637,
+      "start": 107.455577,
+      "end": 111.695214
+    },
+    {
+      "index": 11,
+      "text": "Mitchell is also struggling because his job keeps taking him away from Cameron and Lily. He has already missed several important moments, and when his boss calls him into work on a family day, Mitchell finally says no.",
+      "tts_text": "[a storyteller warmly enjoying the happy moment] Mitchell is also struggling because his job keeps taking him away from Cameron and Lily. He has already missed several important moments, and when his boss calls him into work on a family day, Mitchell finally says no.",
+      "tags": [
+        "[a storyteller warmly enjoying the happy moment]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 13.321247,
+      "start": 111.695214,
+      "end": 125.016461
+    },
+    {
+      "index": 12,
+      "text": "His boss tells him that if he leaves, he’s fired. Mitchell walks out feeling proud and free. Once he gets home, however, he starts worrying about money and panics over what he has done.",
+      "tts_text": "[a heartfelt storyteller bringing the story home] His boss tells him that if he leaves, he’s fired. Mitchell walks out feeling proud and free. Once he gets home, however, he starts worrying about money and panics over what he has done.",
+      "tags": [
+        "[a heartfelt storyteller bringing the story home]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 11.566848,
+      "start": 125.016461,
+      "end": 136.583309
+    },
+    {
+      "index": 13,
+      "text": "Cameron supports him, and Jay offers to help while he looks for another job, although the only help Jay actually gives him is the same motivational poster.",
+      "tts_text": "Cameron supports him, and Jay offers to help while he looks for another job, although the only help Jay actually gives him is the same motivational poster.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 9.915624,
+      "start": 136.583309,
+      "end": 146.49893300000002
+    },
+    {
+      "index": 14,
+      "text": "In the end, telling the truth is uncomfortable, but every lie in this episode only makes things harder.",
+      "tts_text": "[thoughtful conclusion] In the end, telling the truth is uncomfortable, but every lie in this episode only makes things harder.",
+      "tags": [
+        "[thoughtful conclusion]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 5.684444,
+      "start": 146.49893300000002,
+      "end": 152.18337700000004
     }
   ],
   "audio_file": "english.wav",
-  "duration": 101.83113399999999
+  "duration": 152.18337700000004
 }

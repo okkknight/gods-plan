@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T14:46:11.691Z",
+  "generated_at": "2026-08-02T04:16:23.423Z",
   "course": "modern-family-s01e04",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -9,127 +9,199 @@
   "volume": 1.5,
   "temperature": 0.9,
   "top_p": 0.92,
-  "script_sha256": "c9a03528100054e917ec635e3426056a9fd5b163148dc801e45a2a9e09081198",
-  "segment_count": 9,
+  "script_sha256": "24ec9654c482d0d17ad218447755ec38a1cbf0fade517556db9d2b433699321a",
+  "segment_count": 15,
   "segments": [
     {
       "index": 1,
-      "text": "I’d like to introduce Episode 4 of Modern Family Season 1. It’s called “The Incident.” The title refers to a huge family fight that happened at Jay and Gloria’s wedding.",
-      "tts_text": "[a warm storyteller inviting the listener into the story] I’d like to introduce Episode 4 of Modern Family Season 1. It’s called “The Incident.” The title refers to a huge family fight that happened at Jay and Gloria’s wedding.",
+      "text": "This episode brings Claire and Mitchell’s mother, DeDe, back into the family. She wants everyone to forgive her for ruining Jay and Gloria’s wedding, but getting the whole family together again only creates another disaster.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] This episode brings Claire and Mitchell’s mother, DeDe, back into the family. She wants everyone to forgive her for ruining Jay and Gloria’s wedding, but getting the whole family together again only creates another disaster.",
       "tags": [
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.205646,
+      "duration": 13.579252,
       "start": 0,
-      "end": 11.205646
+      "end": 13.579252
     },
     {
       "index": 2,
-      "text": "Jay’s ex-wife, Dede, comes back to town and says she wants to apologize for losing control at the wedding. Mitchell knows that she is coming, but he only warns Jay. He does not tell Gloria because he is afraid the two women will fight again.",
-      "tts_text": "[a natural conversational storyteller] Jay’s ex-wife, Dede, comes back to town and says she wants to apologize for losing control at the wedding. Mitchell knows that she is coming, but he only warns Jay. He does not tell Gloria because he is afraid the two women will fight again.",
+      "text": "DeDe suddenly shows up at Mitchell and Cameron’s house. She says she’s moving to Canada with her new boyfriend, but before she goes, she needs to make peace with the family.",
+      "tts_text": "[a natural conversational storyteller] DeDe suddenly shows up at Mitchell and Cameron’s house. She says she’s moving to Canada with her new boyfriend, but before she goes, she needs to make peace with the family.",
       "tags": [
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 15.849637,
-      "start": 11.205646,
-      "end": 27.055283
+      "duration": 10.018844,
+      "start": 13.579252,
+      "end": 23.598095999999998
     },
     {
       "index": 3,
-      "text": "Later, the whole family has dinner together. At first, Dede seems calm and gives Gloria a sincere apology. For a moment, everyone thinks the problem has finally been settled. However, Dede soon becomes emotional again and attacks Gloria. The dinner turns into complete chaos.",
-      "tts_text": "[a storyteller building gentle suspense] Later, the whole family has dinner together. At first, Dede seems calm and gives Gloria a sincere apology. For a moment, everyone thinks the problem has finally been settled. However, Dede soon becomes emotional again and attacks Gloria. The dinner turns into complete chaos.",
+      "text": "The problem is what happened at Jay and Gloria’s wedding. DeDe got very drunk, gave a speech insulting Gloria, and had to be carried out. On the way, she knocked over the wedding cake.",
+      "tts_text": "[a storyteller building gentle suspense] The problem is what happened at Jay and Gloria’s wedding. DeDe got very drunk, gave a speech insulting Gloria, and had to be carried out. On the way, she knocked over the wedding cake.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 19.048844,
-      "start": 27.055283,
-      "end": 46.104127
+      "duration": 11.050839,
+      "start": 23.598095999999998,
+      "end": 34.648934999999994
     },
     {
       "index": 4,
-      "text": "Surprisingly, Dylan, Haley’s boyfriend, is the one who speaks up and tells the adults how ridiculous they are being. His comments are simple but honest, and Phil and Claire suddenly see him in a better light.",
-      "tts_text": "[a storyteller with playful humor] Surprisingly, Dylan, Haley’s boyfriend, is the one who speaks up and tells the adults how ridiculous they are being. His comments are simple but honest, and Phil and Claire suddenly see him in a better light.",
+      "text": "Now she asks Mitchell to get permission for her to come to the family dinner so she can apologize.",
+      "tts_text": "[a storyteller with playful humor] Now she asks Mitchell to get permission for her to come to the family dinner so she can apologize.",
       "tags": [
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.360454,
-      "start": 46.104127,
-      "end": 57.464580999999995
+      "duration": 5.37483,
+      "start": 34.648934999999994,
+      "end": 40.023765
     },
     {
       "index": 5,
-      "text": "This connects to the second storyline. Haley wants permission to go to a concert with Dylan. Phil and Claire are not sure whether they can trust him, so they spend the evening judging his behavior.",
-      "tts_text": "[an animated storyteller explaining the scene] This connects to the second storyline. Haley wants permission to go to a concert with Dylan. Phil and Claire are not sure whether they can trust him, so they spend the evening judging his behavior.",
+      "text": "Mitchell agrees, even though Cameron can see that DeDe is making him solve her problem for her. Claire isn’t happy about the idea either. She says Mitchell always cleans up their mother’s messes.",
+      "tts_text": "[an animated storyteller explaining the scene] Mitchell agrees, even though Cameron can see that DeDe is making him solve her problem for her. Claire isn’t happy about the idea either. She says Mitchell always cleans up their mother’s messes.",
       "tags": [
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.205646,
-      "start": 57.464580999999995,
-      "end": 68.670227
+      "duration": 11.360454,
+      "start": 40.023765,
+      "end": 51.384219
     },
     {
       "index": 6,
-      "text": "After Dylan handles the family fight so maturely, they decide that he may be more responsible than they thought. Unfortunately, he then performs a song he wrote for Haley. The song starts out sweet, but the lyrics become more and more inappropriate.",
-      "tts_text": "[a storyteller emphasizing the surprising turn] After Dylan handles the family fight so maturely, they decide that he may be more responsible than they thought. Unfortunately, he then performs a song he wrote for Haley. The song starts out sweet, but the lyrics become more and more inappropriate.",
+      "text": "Jay is willing to let DeDe come, but he refuses to tell Gloria because he knows she’ll never agree.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Jay is willing to let DeDe come, but he refuses to tell Gloria because he knows she’ll never agree.",
       "tags": [
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 15.230454,
-      "start": 68.670227,
-      "end": 83.90068099999999
+      "duration": 6.252041,
+      "start": 51.384219,
+      "end": 57.63626
     },
     {
       "index": 7,
-      "text": "Phil and Claire immediately change their minds about the concert.",
-      "tts_text": "[a storyteller smoothly moving to the next story] Phil and Claire immediately change their minds about the concert.",
+      "text": "Meanwhile, Haley wants to go to an overnight concert with Dylan, but Claire and Phil say no. DeDe then tells Haley that Claire also had a wild boyfriend when she was young.",
+      "tts_text": "[a storyteller smoothly moving to the next story] Meanwhile, Haley wants to go to an overnight concert with Dylan, but Claire and Phil say no. DeDe then tells Haley that Claire also had a wild boyfriend when she was young.",
       "tags": [
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 4.342834,
-      "start": 83.90068099999999,
-      "end": 88.24351499999999
+      "duration": 10.999252,
+      "start": 57.63626,
+      "end": 68.635512
     },
     {
       "index": 8,
-      "text": "Meanwhile, Gloria is furious when she learns that Mitchell kept Dede’s visit a secret from her. She gets back at him with a prank, reminding him that nobody likes being left in the dark.",
-      "tts_text": "[a storyteller with warm empathy] Meanwhile, Gloria is furious when she learns that Mitchell kept Dede’s visit a secret from her. She gets back at him with a prank, reminding him that nobody likes being left in the dark.",
+      "text": "Claire doesn’t want to act like her own mother, so she invites Dylan to dinner and promises to reconsider if he makes a good impression.",
+      "tts_text": "[a storyteller with warm empathy] Claire doesn’t want to act like her own mother, so she invites Dylan to dinner and promises to reconsider if he makes a good impression.",
       "tags": [
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.050839,
-      "start": 88.24351499999999,
-      "end": 99.29435399999998
+      "duration": 7.95483,
+      "start": 68.635512,
+      "end": 76.590342
     },
     {
       "index": 9,
-      "text": "Overall, this episode is about old family conflicts coming back to the surface. It also shows that the person everyone underestimates may sometimes be the most sensible person in the room.",
-      "tts_text": "[a thoughtful storyteller reflecting on the character] Overall, this episode is about old family conflicts coming back to the surface. It also shows that the person everyone underestimates may sometimes be the most sensible person in the room.",
+      "text": "There’s also a smaller problem at Jay’s house. Some boys draw a mustache on Manny while he’s asleep at a party. Jay tells him to get them back, but Manny takes the advice too far and sets one boy’s bike on fire.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] There’s also a smaller problem at Jay’s house. Some boys draw a mustache on Manny while he’s asleep at a party. Jay tells him to get them back, but Manny takes the advice too far and sets one boy’s bike on fire.",
       "tags": [
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 12.237642,
-      "start": 99.29435399999998,
-      "end": 111.53199599999998
+      "duration": 13.063243,
+      "start": 76.590342,
+      "end": 89.653585
+    },
+    {
+      "index": 10,
+      "text": "That evening, Jay and Gloria arrive at Claire’s house and find DeDe waiting for them. Gloria is furious because no one warned her. DeDe gives what sounds like a sincere apology and says she wouldn’t blame Gloria for wanting to punch her.",
+      "tts_text": "[a storyteller building gentle suspense] That evening, Jay and Gloria arrive at Claire’s house and find DeDe waiting for them. Gloria is furious because no one warned her. DeDe gives what sounds like a sincere apology and says she wouldn’t blame Gloria for wanting to punch her.",
+      "tags": [
+        "[a storyteller building gentle suspense]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 15.540045,
+      "start": 89.653585,
+      "end": 105.19363000000001
+    },
+    {
+      "index": 11,
+      "text": "Instead, Gloria calmly says she forgives her. DeDe isn’t ready for that response. She suddenly loses control and attacks Gloria, and the rest of the family has to pull them apart. Jay finally tells DeDe that Gloria didn’t steal him.",
+      "tts_text": "[a storyteller warmly enjoying the happy moment] Instead, Gloria calmly says she forgives her. DeDe isn’t ready for that response. She suddenly loses control and attacks Gloria, and the rest of the family has to pull them apart. Jay finally tells DeDe that Gloria didn’t steal him.",
+      "tags": [
+        "[a storyteller warmly enjoying the happy moment]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 15.849637,
+      "start": 105.19363000000001,
+      "end": 121.04326700000001
+    },
+    {
+      "index": 12,
+      "text": "Their marriage had been falling apart for years.",
+      "tts_text": "[a heartfelt storyteller bringing the story home] Their marriage had been falling apart for years.",
+      "tags": [
+        "[a heartfelt storyteller bringing the story home]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 2.949637,
+      "start": 121.04326700000001,
+      "end": 123.99290400000001
+    },
+    {
+      "index": 13,
+      "text": "Dylan then surprises everyone by saying that, even though the family is loud and strange, they clearly love one another. Claire and Phil are so impressed that they decide Haley can go to the concert.",
+      "tts_text": "Dylan then surprises everyone by saying that, even though the family is loud and strange, they clearly love one another. Claire and Phil are so impressed that they decide Haley can go to the concert.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 12.340839,
+      "start": 123.99290400000001,
+      "end": 136.333743
+    },
+    {
+      "index": 14,
+      "text": "Then Dylan sings a romantic song he wrote for her. It sounds sweet at first, but the lyrics quickly become very inappropriate. Claire and Phil immediately change their minds.",
+      "tts_text": "Then Dylan sings a romantic song he wrote for her. It sounds sweet at first, but the lyrics quickly become very inappropriate. Claire and Phil immediately change their minds.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 11.721633,
+      "start": 136.333743,
+      "end": 148.055376
+    },
+    {
+      "index": 15,
+      "text": "The dinner is a complete mess, but the song is so catchy that the whole family is still singing it the next morning.",
+      "tts_text": "The dinner is a complete mess, but the song is so catchy that the whole family is still singing it the next morning.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 6.561633,
+      "start": 148.055376,
+      "end": 154.617009
     }
   ],
   "audio_file": "english.wav",
-  "duration": 111.53199599999998
+  "duration": 154.617009
 }
