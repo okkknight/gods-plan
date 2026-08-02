@@ -12,12 +12,13 @@ test("learn, switch modes, complete, and undo today's first course", async ({ pa
   await expect(page.getByRole("heading", { name: "今天学什么" })).toBeVisible();
   await page.getByRole("link", { name: /S01E01.*Pilot/ }).click();
   await page.waitForLoadState("networkidle");
-  await expect(page.getByRole("tab", { name: "中文" })).toHaveAttribute("aria-selected", "true");
-  await page.getByRole("tab", { name: "英文" }).click();
-  await expect(page.getByRole("tab", { name: "英文" })).toHaveAttribute("aria-selected", "true");
+  const modeButton = page.locator(".mode-cycle-button");
+  await expect(modeButton).toHaveAttribute("data-mode", "chinese");
+  await modeButton.click();
+  await expect(modeButton).toHaveAttribute("data-mode", "english");
   await expect(page.getByRole("heading", { name: "Spoken English 标准版" })).toBeVisible();
-  await page.getByRole("tab", { name: "Cue" }).click();
-  await expect(page.getByRole("tab", { name: "Cue" })).toHaveAttribute("aria-selected", "true");
+  await modeButton.click();
+  await expect(modeButton).toHaveAttribute("data-mode", "cue");
   await expect(page.getByRole("heading", { name: "Cue Version" })).toBeVisible();
   await page.getByRole("button", { name: "完成本次学习" }).click();
   await expect(page).toHaveURL(/\/today$/);
@@ -32,6 +33,15 @@ test("future calendar is read-only and explains forecasting", async ({ page }) =
   await expect(page.getByText("预计计划")).toBeVisible();
   await expect(page.getByText("未来安排会自动变化")).toBeVisible();
   await expect(page.getByRole("button", { name: "完成本次学习" })).not.toBeVisible();
+});
+
+test("calendar date picker navigates immediately", async ({ page }) => {
+  const tomorrow = addDays(appToday, 1);
+  await page.goto("/calendar");
+  await page.getByLabel("选择日期").fill(tomorrow);
+  await expect(page).toHaveURL(new RegExp(`/calendar\\?date=${tomorrow}$`));
+  await expect(page.getByText("预计计划")).toBeVisible();
+  await expect(page.getByRole("button", { name: "查看" })).not.toBeVisible();
 });
 
 test("today page arrows move one day at a time", async ({ page }) => {
@@ -63,11 +73,11 @@ test("english audio element survives switching to another mode", async ({ page }
   await page.goto("/course/1?stage=0&date=2026-07-27");
   await expect(page.locator(".reader-header")).toBeVisible();
   await expect(page.locator(".reader-article")).toBeVisible();
-  await page.getByRole("tab", { name: "英文" }).click();
+  await page.locator(".mode-cycle-button").click();
   const audio = page.locator("audio");
   await expect(audio).toBeVisible();
   await audio.evaluate((element) => { element.setAttribute("data-persist-marker", "true"); });
-  await page.getByRole("tab", { name: "Cue" }).click();
+  await page.locator(".mode-cycle-button").click();
   await expect(audio).toHaveAttribute("data-persist-marker", "true");
   await expect(page.locator(".reader-workbench")).toBeVisible();
   await expect(audio).toBeVisible();
@@ -75,14 +85,14 @@ test("english audio element survives switching to another mode", async ({ page }
 
 test("floating workbench stays usable while reading down the article", async ({ page }) => {
   await page.goto("/course/1?stage=0&date=2026-07-27");
-  await page.getByRole("tab", { name: "英文" }).click();
+  await page.locator(".mode-cycle-button").click();
   await page.locator(".audio-segment").last().scrollIntoViewIfNeeded();
   const workbench = page.locator(".reader-workbench");
   await expect(workbench).toBeVisible();
   const box = await workbench.boundingBox();
   expect(box).not.toBeNull();
   expect(box!.y + box!.height).toBeLessThanOrEqual(page.viewportSize()!.height);
-  await expect(page.getByRole("tab", { name: "Cue" })).toBeVisible();
+  await expect(page.locator(".mode-cycle-button")).toBeVisible();
 });
 
 test("floating workbench fits a mobile reading viewport", async ({ page }) => {
@@ -98,7 +108,7 @@ test("floating workbench fits a mobile reading viewport", async ({ page }) => {
 
 test("english audio supports once and loop modes", async ({ page }) => {
   await page.goto("/course/1?stage=0&date=2026-07-27");
-  await page.getByRole("tab", { name: "英文" }).click();
+  await page.locator(".mode-cycle-button").click();
   const audio = page.locator("audio");
   await expect(audio).toHaveJSProperty("loop", false);
   await page.getByRole("button", { name: "切换到循环播放" }).click();
@@ -109,7 +119,7 @@ test("english audio supports once and loop modes", async ({ page }) => {
 
 test("english subtitles follow audio segments and can jump to a segment", async ({ page }) => {
   await page.goto("/course/1?stage=0&date=2026-07-27");
-  await page.getByRole("tab", { name: "英文" }).click();
+  await page.locator(".mode-cycle-button").click();
   const segments = page.locator(".audio-segment");
   await expect(segments).toHaveCount(14);
   await segments.nth(4).click();
@@ -125,14 +135,16 @@ test("english subtitles follow audio segments and can jump to a segment", async 
 
 test("first cue version keeps the story skeleton with fill-in blanks", async ({ page }) => {
   await page.goto("/course/1?stage=0&date=2026-07-28");
-  await page.getByRole("tab", { name: "Cue" }).click();
+  await page.locator(".mode-cycle-button").click();
+  await page.locator(".mode-cycle-button").click();
   await expect(page.locator(".cue-blank").first()).toBeVisible();
   await expect(page.locator(".markdown-content ul")).toHaveCount(0);
 });
 
 test("cue blanks reveal their matching source text and can be hidden again", async ({ page }) => {
   await page.goto("/course/1?stage=0&date=2026-07-28");
-  await page.getByRole("tab", { name: "Cue" }).click();
+  await page.locator(".mode-cycle-button").click();
+  await page.locator(".mode-cycle-button").click();
   const firstBlank = page.locator(".cue-blank").first();
   const secondBlank = page.locator(".cue-blank").nth(1);
 
@@ -172,7 +184,8 @@ test("mobile navigation and Cue blanks remain keyboard accessible", async ({ pag
   const dimensions = await page.evaluate(() => ({ scrollWidth: document.documentElement.scrollWidth, innerWidth: window.innerWidth }));
   expect(dimensions.scrollWidth).toBeLessThanOrEqual(dimensions.innerWidth);
   await page.goto("/course/1?stage=0&date=2026-07-27");
-  await page.getByRole("tab", { name: "Cue" }).click();
+  await page.locator(".mode-cycle-button").click();
+  await page.locator(".mode-cycle-button").click();
   const firstBlank = page.locator(".cue-blank").first();
   await firstBlank.focus();
   await page.keyboard.press("Enter");

@@ -11,6 +11,7 @@
 - `data/english-learning.db`：用户学习进度和已导入课程内容；
 - `node_modules/`：与 VPS 系统和 Node.js 版本匹配的生产依赖；
 - `package.json`：因为 systemd 当前通过 `npm run start` 启动服务；
+- `next.config.js`：生产启动时由 Next 读取的运行配置；
 - 运行配置：systemd、Caddy 和 VPS 上的环境变量，不从本地项目目录盲目覆盖。
 
 课程页面运行时从 SQLite 读取中文、英文和 Cue 内容，不读取本地课程源文件或课程 JSON。英文音频的分段字幕时间轴从 `public/audio/courses/*/manifest.json` 读取，因此音频目录中的 manifest 不能省略。
@@ -62,3 +63,15 @@
 5. VPS 上不存在新产生的 `data/audio-cache/`、`.next/cache/` 或测试产物。
 
 如果只是更新前端代码，不要重新上传课程源文件、音频生成缓存或本地测试目录。只有课程内容、数据库或音频成品实际变化时，才发布对应的运行时文件。
+
+## 每次部署后的依赖清理
+
+每次部署完成后，必须在 VPS 上清理开发依赖，避免测试、构建和课程生产工具长期占用空间：
+
+```bash
+cd /opt/boringmax/godsplan
+npm prune --omit=dev
+systemctl restart godsplan.service
+```
+
+清理后必须确认 `godsplan.service` 为 `active`，并重新检查首页、课程页和音频请求。线上服务通过 `npm run start` 运行，只依赖 `dependencies`；不要在 VPS 上运行本地构建、测试或课程生产脚本。生产配置使用 `next.config.js`，因此 Next 启动不需要 TypeScript。当前 VPS 使用 Node 24；若锁文件中的 `better-sqlite3` 版本没有 Node 24 的预编译包，安装 production-only 依赖后需使用兼容 Node 24 的版本并验证原生绑定。以后如需在 VPS 重新安装依赖，必须使用 `npm ci --omit=dev`，不能使用默认的 `npm install` 把开发依赖重新装回去。
