@@ -1,9 +1,17 @@
 import { expect, test } from "@playwright/test";
 
+const appToday = new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Shanghai" }).format(new Date());
+function addDays(date: string, days: number) {
+  const value = new Date(`${date}T12:00:00+08:00`);
+  value.setDate(value.getDate() + days);
+  return new Intl.DateTimeFormat("en-CA", { timeZone: "Asia/Shanghai" }).format(value);
+}
+
 test("learn, switch modes, complete, and undo today's first course", async ({ page }) => {
   await page.goto("/today");
   await expect(page.getByRole("heading", { name: "今天学什么" })).toBeVisible();
   await page.getByRole("link", { name: "开始练习" }).first().click();
+  await page.waitForLoadState("networkidle");
   await expect(page.getByRole("tab", { name: "中文" })).toHaveAttribute("aria-selected", "true");
   await page.getByRole("tab", { name: "英文" }).click();
   await expect(page.getByRole("tab", { name: "英文" })).toHaveAttribute("aria-selected", "true");
@@ -20,7 +28,7 @@ test("learn, switch modes, complete, and undo today's first course", async ({ pa
 });
 
 test("future calendar is read-only and explains forecasting", async ({ page }) => {
-  await page.goto("/calendar?date=2026-07-28");
+  await page.goto(`/calendar?date=${addDays(appToday, 1)}`);
   await expect(page.getByText("预计计划")).toBeVisible();
   await expect(page.getByText("未来安排会自动变化")).toBeVisible();
   await expect(page.getByRole("button", { name: "完成本次学习" })).not.toBeVisible();
@@ -31,10 +39,10 @@ test("today page arrows move one day at a time", async ({ page }) => {
   await expect(page.getByRole("button", { name: "前一天" })).toBeVisible();
   await expect(page.getByRole("button", { name: "后一天" })).toBeVisible();
   await page.getByRole("button", { name: "后一天" }).click();
-  await expect(page).toHaveURL(/\/today\?date=2026-07-28$/);
+  await expect(page).toHaveURL(new RegExp(`/today\\?date=${addDays(appToday, 1)}$`));
   await expect(page.getByText("预计计划")).toBeVisible();
   await page.getByRole("button", { name: "前一天" }).click();
-  await expect(page).toHaveURL(/\/today\?date=2026-07-27$/);
+  await expect(page).toHaveURL(new RegExp(`/today\\?date=${appToday}$`));
 });
 
 test("today hides empty priority groups so available courses move up", async ({ page }) => {
@@ -59,7 +67,28 @@ test("english audio element survives switching to another mode", async ({ page }
   await audio.evaluate((element) => { element.setAttribute("data-persist-marker", "true"); });
   await page.getByRole("tab", { name: "Cue" }).click();
   await expect(audio).toHaveAttribute("data-persist-marker", "true");
-  await expect(page.locator(".reader-audio")).toHaveClass(/reader-audio-hidden/);
+  await expect(page.locator(".reader-workbench")).toBeVisible();
+  await expect(audio).toBeVisible();
+});
+
+test("floating workbench stays usable while reading down the article", async ({ page }) => {
+  await page.goto("/course/1?stage=0&date=2026-07-27");
+  await page.getByRole("tab", { name: "英文" }).click();
+  await page.locator(".audio-segment").last().scrollIntoViewIfNeeded();
+  const workbench = page.locator(".reader-workbench");
+  await expect(workbench).toBeVisible();
+  const box = await workbench.boundingBox();
+  expect(box).not.toBeNull();
+  expect(box!.y + box!.height).toBeLessThanOrEqual(page.viewportSize()!.height);
+  await expect(page.getByRole("tab", { name: "Cue" })).toBeVisible();
+});
+
+test("floating workbench fits a mobile reading viewport", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/course/1?stage=0&date=2026-07-27");
+  await expect(page.locator(".reader-workbench")).toBeVisible();
+  const dimensions = await page.evaluate(() => ({ scrollWidth: document.documentElement.scrollWidth, innerWidth: window.innerWidth }));
+  expect(dimensions.scrollWidth).toBeLessThanOrEqual(dimensions.innerWidth);
 });
 
 test("english audio supports once and loop modes", async ({ page }) => {
@@ -77,7 +106,7 @@ test("english subtitles follow audio segments and can jump to a segment", async 
   await page.goto("/course/1?stage=0&date=2026-07-27");
   await page.getByRole("tab", { name: "英文" }).click();
   const segments = page.locator(".audio-segment");
-  await expect(segments).toHaveCount(12);
+  await expect(segments).toHaveCount(14);
   await segments.nth(4).click();
   await expect(segments.nth(4)).toHaveClass(/active/);
   const start = Number(await segments.nth(7).getAttribute("data-start"));
