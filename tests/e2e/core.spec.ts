@@ -125,6 +125,23 @@ test("first cue version keeps the story skeleton with fill-in blanks", async ({ 
   await expect(page.locator(".markdown-content ul")).toHaveCount(0);
 });
 
+test("cue blanks reveal their matching source text and can be hidden again", async ({ page }) => {
+  await page.goto("/course/1?stage=0&date=2026-07-28");
+  await page.getByRole("tab", { name: "Cue" }).click();
+  const firstBlank = page.locator(".cue-blank").first();
+  const secondBlank = page.locator(".cue-blank").nth(1);
+
+  await firstBlank.click();
+  await expect(page.locator(".cue-revealed").first()).toHaveText("three");
+  await expect(secondBlank).toBeVisible();
+
+  await firstBlank.click();
+  await expect(page.locator(".cue-revealed")).toHaveCount(0);
+
+  await secondBlank.click();
+  await expect(page.locator(".cue-revealed").first()).toHaveText("families");
+});
+
 test("today does not show explanatory marketing copy", async ({ page }) => {
   await page.goto("/today");
   await expect(page.getByText("把今天的一小段练习完成，复习会自己继续向前。", { exact: true })).not.toBeVisible();
