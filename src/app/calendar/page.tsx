@@ -2,7 +2,7 @@ import { Navigation } from "@/components/navigation";
 import { getTasksForDate } from "@/services/calendar-service";
 import { getTodayInAppTimezone } from "@/domain/scheduling/date-utils";
 import { STAGE_LABELS } from "@/domain/scheduling/constants";
-import { TaskCard } from "@/components/task-card";
+import { TaskGroup } from "@/components/task-group";
 import type { TodayTasks } from "@/domain/scheduling/types";
 
 export default async function CalendarPage({ searchParams }: { searchParams: Promise<{ date?: string }> }) {
@@ -11,10 +11,6 @@ export default async function CalendarPage({ searchParams }: { searchParams: Pro
 }
 
 function TodayCalendarTasks({ today, tasks }: { today: string; tasks: TodayTasks }) {
-  const groups = [
-    ["今日复习", tasks.reviewTasks],
-    ["今日新学", tasks.newCourse ? [tasks.newCourse] : []],
-    ["今日已完成", tasks.completedToday],
-  ] as const;
-  return <section className="calendar-list">{groups.filter(([, group]) => group.length > 0).map(([title, group]) => <div className="task-group" key={title}><div className="section-heading"><h2>{title}</h2><span>{group.length} 项</span></div>{group.map((task) => <TaskCard key={`${task.kind}-${task.kind === "completed" ? task.courseId : task.id}-${task.stage}`} task={task} today={today} completed={task.kind === "completed"} />)}</div>)}{groups.every(([, group]) => group.length === 0) && <div className="empty">今天没有学习任务。</div>}</section>;
+  const hasTasks = tasks.reviewTasks.length > 0 || Boolean(tasks.newCourse) || tasks.completedToday.length > 0;
+  return <section className="calendar-list"><TaskGroup title="今日复习" tasks={tasks.reviewTasks} today={today} /><TaskGroup title="今日新学" tasks={tasks.newCourse ? [tasks.newCourse] : []} today={today} /><TaskGroup title="今日已完成" tasks={tasks.completedToday} today={today} />{!hasTasks && <div className="empty">今天没有学习任务。</div>}</section>;
 }

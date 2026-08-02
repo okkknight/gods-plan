@@ -1,10 +1,11 @@
 import { Navigation } from "@/components/navigation";
-import { TaskCard } from "@/components/task-card";
 import { getTodayDashboard } from "@/services/dashboard-service";
 import { getTasksForDate } from "@/services/calendar-service";
 import { getTodayInAppTimezone, isValidBusinessDate } from "@/domain/scheduling/date-utils";
 import { DateNavigator } from "@/components/date-navigator";
 import { STAGE_LABELS } from "@/domain/scheduling/constants";
+import { TaskGroup } from "@/components/task-group";
+import { EmptyState } from "@/components/ui";
 
 export default async function TodayPage({ searchParams }: { searchParams: Promise<{ date?: string }> }) {
   const today = getTodayInAppTimezone();
@@ -14,10 +15,8 @@ export default async function TodayPage({ searchParams }: { searchParams: Promis
   const { tasks } = getTodayDashboard(today);
   const total = tasks.reviewTasks.length + (tasks.newCourse ? 1 : 0) + tasks.completedToday.length;
   const completed = tasks.completedToday.length;
-  return <><Navigation /><main className="shell"><header className="page-heading"><div><p className="eyebrow">{new Intl.DateTimeFormat("zh-CN", { dateStyle: "full", timeZone: "Asia/Shanghai" }).format(new Date(`${today}T12:00:00+08:00`))}</p><h1>今天学什么</h1></div><div className="progress"><strong>{completed} / {total || 0}</strong><span>今日完成</span></div></header><TaskGroup title="今日复习" tasks={tasks.reviewTasks} today={today} />{tasks.newCourse && <section className="task-group"><div className="section-heading"><h2>今日新学</h2></div><TaskCard task={tasks.newCourse} today={today} /></section>}{tasks.completedToday.length > 0 && <section className="task-group"><div className="section-heading"><h2>今日已完成</h2><span>{completed} 项</span></div>{tasks.completedToday.map((task) => <TaskCard key={`${task.courseId}-${task.stage}`} task={task} today={today} completed />)}</section>}{total === 0 && <div className="empty">今天没有学习任务。</div>}<DateNavigator currentDate={today} today={today} /></main></>;
+  return <><Navigation /><main className="shell"><header className="today-hero"><div><p className="today-kicker">{new Intl.DateTimeFormat("zh-CN", { dateStyle: "full", timeZone: "Asia/Shanghai" }).format(new Date(`${today}T12:00:00+08:00`))}</p><h1>今天学什么</h1></div><div className="today-progress"><div className="progress"><strong>{completed} / {total || 0}</strong><span>今日完成</span><div className="progress-bar" aria-hidden="true"><span style={{ width: `${total ? Math.round((completed / total) * 100) : 0}%` }} /></div></div></div></header><TaskGroup title="今日复习" tasks={tasks.reviewTasks} today={today} eyebrow="回到熟悉的内容" />{tasks.newCourse && <TaskGroup title="今日新学" tasks={[tasks.newCourse]} today={today} eyebrow="继续向前" />}{tasks.completedToday.length > 0 && <TaskGroup title="今日已完成" tasks={tasks.completedToday} today={today} eyebrow="已经完成" />}{total === 0 && <EmptyState title="今天没有学习任务" description="新的安排会在下一次学习计划中出现。" />}<DateNavigator currentDate={today} today={today} /></main></>;
 }
-
-function TaskGroup({ title, tasks, today }: { title: string; tasks: any[]; today: string }) { if (!tasks.length) return null; return <section className="task-group"><div className="section-heading"><h2>{title}</h2><span>{tasks.length} 项</span></div>{tasks.map((task) => <TaskCard key={`${task.id}-${task.stage}`} task={task} today={today} />)}</section>; }
 
 function NonTodayOverview({ result, selectedDate }: { result: Awaited<ReturnType<typeof getTasksForDate>>; selectedDate: string }) {
   if (result.mode === "past") return <section className="date-overview"><h2>{selectedDate} 完成记录</h2>{result.events.length ? result.events.map((event) => <div className="history-row" key={event.id}><span>{STAGE_LABELS[event.stage]}</span><strong>{event.course?.title ?? `课程 #${event.courseId}`}</strong><small>原计划 {event.scheduledDate} · 实际完成 {event.completedDate}</small></div>) : <div className="empty">这一天没有完成记录。</div>}</section>;

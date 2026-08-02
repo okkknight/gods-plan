@@ -10,7 +10,7 @@ function addDays(date: string, days: number) {
 test("learn, switch modes, complete, and undo today's first course", async ({ page }) => {
   await page.goto("/today");
   await expect(page.getByRole("heading", { name: "今天学什么" })).toBeVisible();
-  await page.getByRole("link", { name: "开始练习" }).first().click();
+  await page.getByRole("link", { name: /S01E01.*Pilot/ }).click();
   await page.waitForLoadState("networkidle");
   await expect(page.getByRole("tab", { name: "中文" })).toHaveAttribute("aria-selected", "true");
   await page.getByRole("tab", { name: "英文" }).click();
@@ -145,4 +145,10 @@ test("cue blanks reveal their matching source text and can be hidden again", asy
 test("today does not show explanatory marketing copy", async ({ page }) => {
   await page.goto("/today");
   await expect(page.getByText("把今天的一小段练习完成，复习会自己继续向前。", { exact: true })).not.toBeVisible();
+});
+
+test("main navigation marks the current page", async ({ page }) => {
+  await page.goto("/today");
+  await expect(page.getByRole("link", { name: "今日", exact: true })).toHaveAttribute("aria-current", "page");
+  await expect(page.getByRole("link", { name: "日历", exact: true })).not.toHaveAttribute("aria-current", "page");
 });
