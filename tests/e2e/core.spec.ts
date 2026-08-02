@@ -164,3 +164,17 @@ test("library uses product status rows and a dedicated toolbar", async ({ page }
   await expect(page.locator(".library-row").first()).toBeVisible();
   await expect(page.locator(".status-badge").first()).toBeVisible();
 });
+
+test("mobile navigation and Cue blanks remain keyboard accessible", async ({ page }) => {
+  await page.setViewportSize({ width: 390, height: 844 });
+  await page.goto("/today");
+  await expect(page.locator(".nav")).toBeVisible();
+  const dimensions = await page.evaluate(() => ({ scrollWidth: document.documentElement.scrollWidth, innerWidth: window.innerWidth }));
+  expect(dimensions.scrollWidth).toBeLessThanOrEqual(dimensions.innerWidth);
+  await page.goto("/course/1?stage=0&date=2026-07-27");
+  await page.getByRole("tab", { name: "Cue" }).click();
+  const firstBlank = page.locator(".cue-blank").first();
+  await firstBlank.focus();
+  await page.keyboard.press("Enter");
+  await expect(page.locator(".cue-revealed").first()).toHaveText("three");
+});
