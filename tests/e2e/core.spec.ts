@@ -157,3 +157,10 @@ test("main navigation marks the current page", async ({ page }) => {
   await expect(page.getByRole("link", { name: "今日", exact: true })).toHaveAttribute("aria-current", "page");
   await expect(page.getByRole("link", { name: "日历", exact: true })).not.toHaveAttribute("aria-current", "page");
 });
+
+test("library uses product status rows and a dedicated toolbar", async ({ page }) => {
+  await page.goto("/library");
+  await expect(page.locator(".library-toolbar")).toBeVisible();
+  await expect(page.locator(".library-row").first()).toBeVisible();
+  await expect(page.locator(".status-badge").first()).toBeVisible();
+});
