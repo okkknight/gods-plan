@@ -61,6 +61,8 @@ test("course card opens the lesson and removes the new-course hint", async ({ pa
 
 test("english audio element survives switching to another mode", async ({ page }) => {
   await page.goto("/course/1?stage=0&date=2026-07-27");
+  await expect(page.locator(".reader-header")).toBeVisible();
+  await expect(page.locator(".reader-article")).toBeVisible();
   await page.getByRole("tab", { name: "英文" }).click();
   const audio = page.locator("audio");
   await expect(audio).toBeVisible();
@@ -89,6 +91,9 @@ test("floating workbench fits a mobile reading viewport", async ({ page }) => {
   await expect(page.locator(".reader-workbench")).toBeVisible();
   const dimensions = await page.evaluate(() => ({ scrollWidth: document.documentElement.scrollWidth, innerWidth: window.innerWidth }));
   expect(dimensions.scrollWidth).toBeLessThanOrEqual(dimensions.innerWidth);
+  const workbench = await page.locator(".reader-workbench").boundingBox();
+  expect(workbench).not.toBeNull();
+  expect(workbench!.width).toBeLessThanOrEqual(390);
 });
 
 test("english audio supports once and loop modes", async ({ page }) => {
