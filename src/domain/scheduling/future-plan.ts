@@ -10,7 +10,7 @@ export function forecastTasks(fromDate: string, toDate: string, sourceCourses: S
   const output: ForecastTask[] = [];
   let date = fromDate;
   while (date <= toDate) {
-    const active = courses.filter((course) => course.status === "active" && course.nextDueDate === date);
+    const active = courses.filter((course) => course.status === "active" && course.nextDueDate !== null && course.nextDueDate <= date);
     for (const course of active) {
       output.push({ date, courseId: course.id, title: course.title, stage: course.currentStage, kind: "review" });
       advanceSimulatedCourse(course, date);

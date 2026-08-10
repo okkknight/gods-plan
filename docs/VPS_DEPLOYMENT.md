@@ -64,9 +64,47 @@
 
 如果只是更新前端代码，不要重新上传课程源文件、音频生成缓存或本地测试目录。只有课程内容、数据库或音频成品实际变化时，才发布对应的运行时文件。
 
-## 每次部署后的依赖清理
+## 默认：代码增量发布（最常用）
 
-每次部署完成后，必须在 VPS 上清理开发依赖，避免测试、构建和课程生产工具长期占用空间：
+只修改 `src/`、预测逻辑或页面交互时，部署不需要同步数据库，也不需要在 VPS 上重新安装或清理依赖：
+
+```bash
+# 本地
+NEXT_PUBLIC_BASE_PATH=/godsplan npm run test:run
+NEXT_PUBLIC_BASE_PATH=/godsplan npm run build
+
+# 只同步新的生产构建
+rsync -az --delete .next/ root@89.208.242.44:/opt/boringmax/godsplan/.next/
+ssh root@89.208.242.44 'systemctl restart godsplan.service && systemctl is-active godsplan.service'
+
+# 发布后检查
+curl -fsS https://boringmax.com/godsplan/today >/dev/null
+curl -fsS https://boringmax.com/godsplan/library >/dev/null
+curl -fsS https://boringmax.com/godsplan/calendar >/dev/null
+```
+
+这条路径明确禁止执行 `npm install`、`npm ci` 或 `npm prune`。VPS 上的 `node_modules/` 是与 Node 24 匹配的运行时环境，代码发布不应触碰它。
+
+## 依赖变更发布（仅在 package.json 或锁文件变化时）
+
+只有依赖确实变化时，才在 VPS 上单独维护 `node_modules/`。当前 VPS 使用 Node 24，线上实际运行的 `better-sqlite3` 为兼容 Node 24 的 `13.0.2`；不能直接按本地 macOS 锁文件把 `11.x` 原生包装上去。
+
+依赖变更前必须先备份并验证原生绑定：
+
+```bash
+cd /opt/boringmax/godsplan
+cp -a data/english-learning.db data/english-learning.db.pre-deps-$(date -u +%Y%m%dT%H%M%SZ)
+npm install --omit=dev
+test -n "$(find node_modules/better-sqlite3 -name '*.node' -print -quit)"
+systemctl restart godsplan.service
+systemctl is-active godsplan.service
+```
+
+如果依赖安装移除了 `better-sqlite3` 原生绑定，应立即停止发布流程，恢复兼容版本并重新验证页面；不要继续反复执行 `npm prune` 或默认 `npm install`。
+
+## 依赖清理约定
+
+依赖清理不是代码增量发布的必经步骤。只有依赖维护完成、服务和原生模块验证通过后，才可以执行：
 
 ```bash
 cd /opt/boringmax/godsplan
@@ -74,4 +112,4 @@ npm prune --omit=dev
 systemctl restart godsplan.service
 ```
 
-清理后必须确认 `godsplan.service` 为 `active`，并重新检查首页、课程页和音频请求。线上服务通过 `npm run start` 运行，只依赖 `dependencies`；不要在 VPS 上运行本地构建、测试或课程生产脚本。生产配置使用 `next.config.js`，因此 Next 启动不需要 TypeScript。当前 VPS 使用 Node 24；若锁文件中的 `better-sqlite3` 版本没有 Node 24 的预编译包，安装 production-only 依赖后需使用兼容 Node 24 的版本并验证原生绑定。以后如需在 VPS 重新安装依赖，必须使用 `npm ci --omit=dev`，不能使用默认的 `npm install` 把开发依赖重新装回去。
+清理后必须确认 `godsplan.service` 为 `active`，并重新检查首页、课程页和音频请求。线上服务通过 `npm run start` 运行，只依赖 `dependencies`；不要在 VPS 上运行本地构建、测试或课程生产脚本。生产配置使用 `next.config.js`，因此 Next 启动不需要 TypeScript。以后如需在 VPS 重新安装依赖，必须先确认锁文件与 Node 24 原生模块兼容，并使用 production-only 安装；不能把 macOS 的 `node_modules` 直接复制到 VPS。

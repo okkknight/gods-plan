@@ -77,4 +77,26 @@ describe("review scheduling", () => {
     expect(forecast.some((task) => task.date === "2026-07-27" && task.stage === 0)).toBe(true);
     expect(courses[0].status).toBe("queued");
   });
+
+  it("carries an unfinished review into the next day's forecast", () => {
+    const courses: SchedulableCourse[] = [{
+      id: 1,
+      slug: "review",
+      title: "Review",
+      orderIndex: 1,
+      status: "active",
+      currentStage: 1,
+      nextDueDate: "2026-07-27",
+    }];
+
+    const forecast = forecastTasks("2026-07-28", "2026-07-28", courses, []);
+
+    expect(forecast).toEqual([{
+      date: "2026-07-28",
+      courseId: 1,
+      title: "Review",
+      stage: 1,
+      kind: "review",
+    }]);
+  });
 });
