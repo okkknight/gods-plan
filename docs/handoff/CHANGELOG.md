@@ -61,7 +61,7 @@
 
 ## 2026-07-27 VPS deployment
 
-- 已部署到 VPS `89.208.242.44`：公网地址为 `https://boringmax.com/godsplan/`，由独立的 `godsplan.service`（127.0.0.1:3013）和 Caddy 子路径路由提供服务。
+- 已部署到 VPS `43.172.79.177`：公网地址为 `https://boringmax.com/godsplan/`，由独立的 `godsplan.service`（127.0.0.1:3013）和 Caddy 子路径路由提供服务。
 - 24 篇课程音频已同步并验证 Range 206 播放；WordLoop 原路由保持可用。
 
 ## 2026-07-27 today card and cue markdown

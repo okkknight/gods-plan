@@ -74,8 +74,8 @@ NEXT_PUBLIC_BASE_PATH=/godsplan npm run test:run
 NEXT_PUBLIC_BASE_PATH=/godsplan npm run build
 
 # 只同步新的生产构建
-rsync -az --delete .next/ root@89.208.242.44:/opt/boringmax/godsplan/.next/
-ssh root@89.208.242.44 'systemctl restart godsplan.service && systemctl is-active godsplan.service'
+rsync -az --delete .next/ ubuntu@43.172.79.177:/opt/boringmax/godsplan/.next/
+ssh ubuntu@43.172.79.177 'systemctl restart godsplan.service && systemctl is-active godsplan.service'
 
 # 发布后检查
 curl -fsS https://boringmax.com/godsplan/today >/dev/null
