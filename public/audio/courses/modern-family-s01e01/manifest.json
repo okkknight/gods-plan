@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T04:14:20.278Z",
+  "generated_at": "2026-08-20T10:38:52.148Z",
   "course": "modern-family-s01e01",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -9,8 +9,8 @@
   "volume": 1.5,
   "temperature": 0.9,
   "top_p": 0.92,
-  "script_sha256": "864703f4243ee7e2e0931066a3c092e83cd387f2387c6f9a0038756b6c1777f1",
-  "segment_count": 14,
+  "script_sha256": "7c1b42ea0fe967f904de3f940ea5e435db0b89563c2562dd35c82b1818503d0b",
+  "segment_count": 15,
   "segments": [
     {
       "index": 1,
@@ -20,10 +20,7 @@
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 9.812426,
-      "start": 0,
-      "end": 9.812426
+      "cached": false
     },
     {
       "index": 2,
@@ -33,10 +30,7 @@
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 18.171655,
-      "start": 9.812426,
-      "end": 27.984081000000003
+      "cached": false
     },
     {
       "index": 3,
@@ -46,151 +40,122 @@
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 5.581224,
-      "start": 27.984081000000003,
-      "end": 33.565305
+      "cached": false
     },
     {
       "index": 4,
-      "text": "Claire asks Phil to scare Dylan a little, but Phil’s attempt to act cool only embarrasses everyone. Claire keeps checking on Haley upstairs, which leads to an argument between them. At the same time, Phil has another parenting problem.",
-      "tts_text": "[a storyteller with playful humor] Claire asks Phil to scare Dylan a little, but Phil’s attempt to act cool only embarrasses everyone. Claire keeps checking on Haley upstairs, which leads to an argument between them. At the same time, Phil has another parenting problem.",
+      "text": "Claire asks Phil to scare Dylan a little, but Phil’s attempt to act cool only embarrasses everyone. Claire keeps checking on Haley upstairs, which leads to an argument between them.",
+      "tts_text": "[a storyteller with playful humor] Claire asks Phil to scare Dylan a little, but Phil’s attempt to act cool only embarrasses everyone. Claire keeps checking on Haley upstairs, which leads to an argument between them.",
       "tags": [
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 15.127234,
-      "start": 33.565305,
-      "end": 48.692539000000004
+      "cached": false
     },
     {
       "index": 5,
-      "text": "Luke shot Alex with a BB gun, and Phil had promised that if Luke ever shot someone, he would shoot Luke back. Phil tries to carry out the punishment but can’t do it properly. In the confusion, he accidentally shoots Dylan instead.",
-      "tts_text": "[an animated storyteller explaining the scene] Luke shot Alex with a BB gun, and Phil had promised that if Luke ever shot someone, he would shoot Luke back. Phil tries to carry out the punishment but can’t do it properly. In the confusion, he accidentally shoots Dylan instead.",
+      "text": "At the same time, Phil has another parenting problem. Luke shot Alex with a BB gun, and Phil had promised that if Luke ever shot someone, he would shoot Luke back. Phil clearly doesn’t want to do it, but the punishment is even written on the family calendar.",
+      "tts_text": "[an animated storyteller explaining the scene] At the same time, Phil has another parenting problem. Luke shot Alex with a BB gun, and Phil had promised that if Luke ever shot someone, he would shoot Luke back. Phil clearly doesn’t want to do it, but the punishment is even written on the family calendar.",
       "tags": [
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 14.611247,
-      "start": 48.692539000000004,
-      "end": 63.303786
+      "cached": false
     },
     {
       "index": 6,
-      "text": "The second family is Jay, his much younger wife Gloria, and Gloria’s eleven-year-old son, Manny. Jay is already uncomfortable about their age difference, especially after another parent mistakes him for Gloria’s father.",
-      "tts_text": "[a storyteller emphasizing the surprising turn] The second family is Jay, his much younger wife Gloria, and Gloria’s eleven-year-old son, Manny. Jay is already uncomfortable about their age difference, especially after another parent mistakes him for Gloria’s father.",
+      "text": "When the time finally comes, the whole thing turns into a mess. Phil accidentally shoots Luke, then Dylan, and finally himself.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] When the time finally comes, the whole thing turns into a mess. Phil accidentally shoots Luke, then Dylan, and finally himself.",
       "tags": [
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 15.385238,
-      "start": 63.303786,
-      "end": 78.689024
+      "cached": false
     },
     {
       "index": 7,
-      "text": "Manny, meanwhile, has fallen for a sixteen-year-old girl named Brenda. He decides to go to the mall and read her a poem. Jay thinks this is a terrible idea and tries to stop him because he doesn’t want Manny to make a fool of himself.",
-      "tts_text": "[a storyteller smoothly moving to the next story] Manny, meanwhile, has fallen for a sixteen-year-old girl named Brenda. He decides to go to the mall and read her a poem. Jay thinks this is a terrible idea and tries to stop him because he doesn’t want Manny to make a fool of himself.",
+      "text": "The second family is Jay, his much younger wife Gloria, and Gloria’s eleven-year-old son, Manny. Jay is already uncomfortable about their age difference, especially after another parent mistakes him for Gloria’s father.",
+      "tts_text": "[a storyteller smoothly moving to the next story] The second family is Jay, his much younger wife Gloria, and Gloria’s eleven-year-old son, Manny. Jay is already uncomfortable about their age difference, especially after another parent mistakes him for Gloria’s father.",
       "tags": [
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 13.630839,
-      "start": 78.689024,
-      "end": 92.319863
+      "cached": false
     },
     {
       "index": 8,
-      "text": "Gloria tells Jay that Manny is his family now, so he should support him instead of putting him down.",
-      "tts_text": "[a storyteller with warm empathy] Gloria tells Jay that Manny is his family now, so he should support him instead of putting him down.",
+      "text": "Manny, meanwhile, has fallen for a sixteen-year-old girl named Brenda. He decides to go to the mall and read her a poem. Jay thinks this is a terrible idea and tries to stop him because he doesn’t want Manny to make a fool of himself.",
+      "tts_text": "[a storyteller with warm empathy] Manny, meanwhile, has fallen for a sixteen-year-old girl named Brenda. He decides to go to the mall and read her a poem. Jay thinks this is a terrible idea and tries to stop him because he doesn’t want Manny to make a fool of himself.",
       "tags": [
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 6.66483,
-      "start": 92.319863,
-      "end": 98.984693
+      "cached": false
     },
     {
       "index": 9,
-      "text": "Manny reads the poem, but Brenda tells him she already has a boyfriend. He comes back disappointed, and Jay finally tells him that what he did was brave.",
-      "tts_text": "[a thoughtful storyteller reflecting on the character] Manny reads the poem, but Brenda tells him she already has a boyfriend. He comes back disappointed, and Jay finally tells him that what he did was brave.",
+      "text": "Gloria tells Jay that Manny is his family now, so he should support him instead of putting him down.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Gloria tells Jay that Manny is his family now, so he should support him instead of putting him down.",
       "tags": [
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 10.173651,
-      "start": 98.984693,
-      "end": 109.158344
+      "cached": false
     },
     {
       "index": 10,
-      "text": "The third family is Mitchell and his partner Cameron. They’ve just adopted a baby girl named Lily from Vietnam. Mitchell is happy, but he’s nervous about telling his family because he expects his father to judge him.",
-      "tts_text": "[a storyteller building gentle suspense] The third family is Mitchell and his partner Cameron. They’ve just adopted a baby girl named Lily from Vietnam. Mitchell is happy, but he’s nervous about telling his family because he expects his father to judge him.",
+      "text": "Manny reads the poem, but Brenda tells him she already has a boyfriend. He comes back disappointed, and Jay admits that what he did was brave.",
+      "tts_text": "[a storyteller building gentle suspense] Manny reads the poem, but Brenda tells him she already has a boyfriend. He comes back disappointed, and Jay admits that what he did was brave.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 13.527642,
-      "start": 109.158344,
-      "end": 122.685986
+      "cached": false
     },
     {
       "index": 11,
-      "text": "Cameron knows Mitchell will keep avoiding the conversation, so he secretly invites the whole family over for dinner.",
-      "tts_text": "[a storyteller warmly enjoying the happy moment] Cameron knows Mitchell will keep avoiding the conversation, so he secretly invites the whole family over for dinner.",
+      "text": "The third family is Mitchell and his partner Cameron. They’ve just adopted a baby girl named Lily from Vietnam. Mitchell is happy, but he’s nervous about telling his family because he expects his father to judge him.",
+      "tts_text": "[a storyteller warmly enjoying the happy moment] The third family is Mitchell and his partner Cameron. They’ve just adopted a baby girl named Lily from Vietnam. Mitchell is happy, but he’s nervous about telling his family because he expects his father to judge him.",
       "tags": [
         "[a storyteller warmly enjoying the happy moment]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 7.129229,
-      "start": 122.685986,
-      "end": 129.815215
+      "cached": false
     },
     {
       "index": 12,
-      "text": "At dinner, the three stories finally come together. Jay is Claire and Mitchell’s father, which means all three households are part of the same family. When Mitchell tells everyone about the adoption, Jay reacts badly and says two men shouldn’t raise a child without a mother.",
-      "tts_text": "[a heartfelt storyteller bringing the story home] At dinner, the three stories finally come together. Jay is Claire and Mitchell’s father, which means all three households are part of the same family. When Mitchell tells everyone about the adoption, Jay reacts badly and says two men shouldn’t raise a child without a mother.",
+      "text": "Cameron knows Mitchell will keep avoiding the conversation, so he secretly invites the whole family over for dinner.",
+      "tts_text": "[a heartfelt storyteller bringing the story home] Cameron knows Mitchell will keep avoiding the conversation, so he secretly invites the whole family over for dinner.",
       "tags": [
         "[a heartfelt storyteller bringing the story home]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 17.707256,
-      "start": 129.815215,
-      "end": 147.522471
+      "cached": false
     },
     {
       "index": 13,
+      "text": "At dinner, the three stories finally come together. Jay is Claire and Mitchell’s father, which means all three households are part of the same family. When Mitchell tells everyone about the adoption, Jay reacts badly and says children need a mother.",
+      "tts_text": "At dinner, the three stories finally come together. Jay is Claire and Mitchell’s father, which means all three households are part of the same family. When Mitchell tells everyone about the adoption, Jay reacts badly and says children need a mother.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 14,
       "text": "Then Cameron enters, holding Lily in the air while “Circle of Life” plays. The dramatic entrance is funny, but it also changes the mood. Once Jay sees Lily, he softens. He admits that he’s still making mistakes as a father himself and welcomes her into the family.",
       "tts_text": "Then Cameron enters, holding Lily in the air while “Circle of Life” plays. The dramatic entrance is funny, but it also changes the mood. Once Jay sees Lily, he softens. He admits that he’s still making mistakes as a father himself and welcomes her into the family.",
       "tags": [],
       "speed": 0.9,
-      "cached": false,
-      "duration": 17.449252,
-      "start": 147.522471,
-      "end": 164.971723
+      "cached": false
     },
     {
-      "index": 14,
+      "index": 15,
       "text": "The episode shows a family that often embarrasses and annoys one another, but still tries to be there when it matters.",
       "tts_text": "The episode shows a family that often embarrasses and annoys one another, but still tries to be there when it matters.",
       "tags": [],
       "speed": 0.9,
-      "cached": false,
-      "duration": 6.974444,
-      "start": 164.971723,
-      "end": 171.946167
+      "cached": false
     }
   ],
-  "audio_file": "english.wav",
-  "duration": 171.946167
+  "audio_file": "english.wav"
 }

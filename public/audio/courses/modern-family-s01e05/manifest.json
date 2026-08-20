@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T04:17:08.463Z",
+  "generated_at": "2026-08-20T10:40:29.481Z",
   "course": "modern-family-s01e05",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -9,21 +9,18 @@
   "volume": 1.5,
   "temperature": 0.9,
   "top_p": 0.92,
-  "script_sha256": "1e43d49edbe85ac8b4024a9e1b45c8eebf3899d68a672c0614869bfb361197fe",
-  "segment_count": 13,
+  "script_sha256": "c02f70edbadab2311fe1fa667ac7f672acb9eacd672d9ca0a581f16a99ee5772",
+  "segment_count": 17,
   "segments": [
     {
       "index": 1,
-      "text": "This episode brings the whole family together for a barbecue and a football game, but an argument between Luke and Manny brings out a much bigger problem between Claire and Gloria.",
-      "tts_text": "[a warm storyteller inviting the listener into the story] This episode brings the whole family together for a barbecue and a football game, but an argument between Luke and Manny brings out a much bigger problem between Claire and Gloria.",
+      "text": "This episode brings the whole family together for a barbecue and a football game, but a fight between Luke and Manny brings out a much bigger problem between Claire and Gloria.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] This episode brings the whole family together for a barbecue and a football game, but a fight between Luke and Manny brings out a much bigger problem between Claire and Gloria.",
       "tags": [
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 10.844444,
-      "start": 0,
-      "end": 10.844444
+      "cached": false
     },
     {
       "index": 2,
@@ -33,153 +30,148 @@
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 8.522426,
-      "start": 10.844444,
-      "end": 19.36687
+      "cached": false
     },
     {
       "index": 3,
-      "text": "When their parents meet with the principal, she says it can be difficult when one child is “a little different.” Claire immediately thinks she means Luke, while Gloria is sure she means Manny. Both women become defensive, and it’s clear there’s already some tension between them.",
-      "tts_text": "[a storyteller building gentle suspense] When their parents meet with the principal, she says it can be difficult when one child is “a little different.” Claire immediately thinks she means Luke, while Gloria is sure she means Manny. Both women become defensive, and it’s clear there’s already some tension between them.",
+      "text": "When their parents meet with the school principal, he says both boys are good kids, but things can be difficult when one child is “a little different.” Afterward, Claire complains that Gloria must think Luke is the weird one.",
+      "tts_text": "[a storyteller building gentle suspense] When their parents meet with the school principal, he says both boys are good kids, but things can be difficult when one child is “a little different.” Afterward, Claire complains that Gloria must think Luke is the weird one.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 16.675261,
-      "start": 19.36687,
-      "end": 36.042131
+      "cached": false
     },
     {
       "index": 4,
-      "text": "The family still goes to Jay and Gloria’s house that evening. Jay mainly wants everyone to stop talking so he can watch the football game, but Phil thinks they should discuss their feelings and solve the problem properly. He gets Luke and Manny to sit down together and apologize.",
-      "tts_text": "[a storyteller with playful humor] The family still goes to Jay and Gloria’s house that evening. Jay mainly wants everyone to stop talking so he can watch the football game, but Phil thinks they should discuss their feelings and solve the problem properly. He gets Luke and Manny to sit down together and apologize.",
+      "text": "At the same time, Gloria complains that Claire must think Manny is the different one. Both women feel that the other is judging her child, and the tension between them gets worse.",
+      "tts_text": "[a storyteller with playful humor] At the same time, Gloria complains that Claire must think Manny is the different one. Both women feel that the other is judging her child, and the tension between them gets worse.",
       "tags": [
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 15.488435,
-      "start": 36.042131,
-      "end": 51.530566
+      "cached": false
     },
     {
       "index": 5,
-      "text": "The boys make up quite easily. Luke admits that he made fun of Manny’s accent, and Manny says he teased Luke about eating the same lunch every day. Then Manny adds that Luke said Gloria used to be a “coal digger.”",
-      "tts_text": "[an animated storyteller explaining the scene] The boys make up quite easily. Luke admits that he made fun of Manny’s accent, and Manny says he teased Luke about eating the same lunch every day. Then Manny adds that Luke said Gloria used to be a “coal digger.”",
+      "text": "The family still goes to Jay and Gloria’s house that evening. Jay mainly wants everyone to stop talking so he can watch the football game, but Phil thinks they should discuss what happened.",
+      "tts_text": "[an animated storyteller explaining the scene] The family still goes to Jay and Gloria’s house that evening. Jay mainly wants everyone to stop talking so he can watch the football game, but Phil thinks they should discuss what happened.",
       "tags": [
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 12.960045,
-      "start": 51.530566,
-      "end": 64.490611
+      "cached": false
     },
     {
       "index": 6,
-      "text": "Everyone goes quiet. Phil explains that the expression is actually “gold digger,” and Luke says he heard it from Claire. Gloria realizes that Claire once thought she married Jay for his money.",
-      "tts_text": "[a storyteller emphasizing the surprising turn] Everyone goes quiet. Phil explains that the expression is actually “gold digger,” and Luke says he heard it from Claire. Gloria realizes that Claire once thought she married Jay for his money.",
+      "text": "Phil gets everyone together, but Jay quickly asks Luke and Manny whether people in their family kick and punch each other or love each other. Both boys say they love each other, and that’s basically the end of Jay’s discussion.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Phil gets everyone together, but Jay quickly asks Luke and Manny whether people in their family kick and punch each other or love each other. Both boys say they love each other, and that’s basically the end of Jay’s discussion.",
       "tags": [
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 11.721633,
-      "start": 64.490611,
-      "end": 76.212244
+      "cached": false
     },
     {
       "index": 7,
-      "text": "She feels especially hurt because she has always believed Claire doesn’t really accept her or Manny as part of the family.",
-      "tts_text": "[a storyteller smoothly moving to the next story] She feels especially hurt because she has always believed Claire doesn’t really accept her or Manny as part of the family.",
+      "text": "Later, the boys come back clearly getting along again.",
+      "tts_text": "[a storyteller smoothly moving to the next story] Later, the boys come back clearly getting along again.",
       "tags": [
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 8.677234,
-      "start": 76.212244,
-      "end": 84.889478
+      "cached": false
     },
     {
       "index": 8,
-      "text": "Claire tries to explain that she said it a long time ago, before she really knew Gloria. But Gloria goes upstairs and refuses to come back down. Phil talks to her and says Claire was also suspicious of him when he first joined the family.",
-      "tts_text": "[a storyteller with warm empathy] Claire tries to explain that she said it a long time ago, before she really knew Gloria. But Gloria goes upstairs and refuses to come back down. Phil talks to her and says Claire was also suspicious of him when he first joined the family.",
+      "text": "Luke admits that he made fun of Manny’s accent, and Manny says he teased Luke about eating the same lunch every day. Luke also says he made fun of Manny because his mother used to dig coal. Manny then tells Gloria that Luke said she was a “coal digger.”",
+      "tts_text": "[a storyteller with warm empathy] Luke admits that he made fun of Manny’s accent, and Manny says he teased Luke about eating the same lunch every day. Luke also says he made fun of Manny because his mother used to dig coal. Manny then tells Gloria that Luke said she was a “coal digger.”",
       "tags": [
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 13.888844,
-      "start": 84.889478,
-      "end": 98.778322
+      "cached": false
     },
     {
       "index": 9,
-      "text": "The Pritchetts are very protective of one another, and it sometimes takes them time to trust new people.",
-      "tts_text": "[a thoughtful storyteller reflecting on the character] The Pritchetts are very protective of one another, and it sometimes takes them time to trust new people.",
+      "text": "Everyone goes quiet. Phil explains that the expression is actually “gold digger,” and Luke says he heard it from Claire. Gloria realizes that Claire once thought she married Jay for his money.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Everyone goes quiet. Phil explains that the expression is actually “gold digger,” and Luke says he heard it from Claire. Gloria realizes that Claire once thought she married Jay for his money.",
       "tags": [
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 5.994036,
-      "start": 98.778322,
-      "end": 104.772358
+      "cached": false
     },
     {
       "index": 10,
-      "text": "Claire finally goes upstairs and gives Gloria a real apology. She admits that Jay’s new marriage was difficult for her at first, but she now sees that Gloria makes him happy.",
-      "tts_text": "[a storyteller building gentle suspense] Claire finally goes upstairs and gives Gloria a real apology. She admits that Jay’s new marriage was difficult for her at first, but she now sees that Gloria makes him happy.",
+      "text": "She’s especially hurt because she already feels that she and Manny haven’t been fully accepted by the family.",
+      "tts_text": "[a storyteller building gentle suspense] She’s especially hurt because she already feels that she and Manny haven’t been fully accepted by the family.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 10.741247,
-      "start": 104.772358,
-      "end": 115.513605
+      "cached": false
     },
     {
       "index": 11,
-      "text": "Gloria accepts the apology, but only after making Claire jump into the swimming pool with all her clothes on.",
-      "tts_text": "[a storyteller warmly enjoying the happy moment] Gloria accepts the apology, but only after making Claire jump into the swimming pool with all her clothes on.",
+      "text": "Claire tries to explain that she said it a long time ago, before she really knew Gloria. But Gloria goes upstairs and refuses to come back down.",
+      "tts_text": "[a storyteller warmly enjoying the happy moment] Claire tries to explain that she said it a long time ago, before she really knew Gloria. But Gloria goes upstairs and refuses to come back down.",
       "tags": [
         "[a storyteller warmly enjoying the happy moment]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 6.819637,
-      "start": 115.513605,
-      "end": 122.333242
+      "cached": false
     },
     {
       "index": 12,
-      "text": "Meanwhile, Mitchell has been trying to learn about football because Cameron loves it. He surprises everyone by understanding the game much better than expected, although his interest doesn’t last very long.",
-      "tts_text": "[a heartfelt storyteller bringing the story home] Meanwhile, Mitchell has been trying to learn about football because Cameron loves it. He surprises everyone by understanding the game much better than expected, although his interest doesn’t last very long.",
+      "text": "Phil talks to her. He explains that the Pritchetts are very protective of their family. When Claire first brought Phil home, Jay didn’t think he was good enough for his daughter either. Over time, Jay saw how much Phil loved Claire and finally accepted him.",
+      "tts_text": "[a heartfelt storyteller bringing the story home] Phil talks to her. He explains that the Pritchetts are very protective of their family. When Claire first brought Phil home, Jay didn’t think he was good enough for his daughter either. Over time, Jay saw how much Phil loved Claire and finally accepted him.",
       "tags": [
         "[a heartfelt storyteller bringing the story home]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 12.031247,
-      "start": 122.333242,
-      "end": 134.364489
+      "cached": false
     },
     {
       "index": 13,
-      "text": "Once Claire is in the pool, the serious mood disappears. Gloria forgives her, and soon almost everyone is either jumping or being pushed into the water. The day starts with everyone defending their own side, but it ends with them laughing together again.",
-      "tts_text": "Once Claire is in the pool, the serious mood disappears. Gloria forgives her, and soon almost everyone is either jumping or being pushed into the water. The day starts with everyone defending their own side, but it ends with them laughing together again.",
+      "text": "Phil tells Gloria that Claire just needs time too.",
+      "tts_text": "Phil tells Gloria that Claire just needs time too.",
       "tags": [],
       "speed": 0.9,
-      "cached": false,
-      "duration": 15.436848,
-      "start": 134.364489,
-      "end": 149.801337
+      "cached": false
+    },
+    {
+      "index": 14,
+      "text": "Claire eventually goes upstairs and gives Gloria a real apology. She admits that Jay’s new marriage was difficult for her at first, but she now sees that Gloria makes him happy.",
+      "tts_text": "Claire eventually goes upstairs and gives Gloria a real apology. She admits that Jay’s new marriage was difficult for her at first, but she now sees that Gloria makes him happy.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 15,
+      "text": "Gloria accepts the apology, but only after making Claire jump into the swimming pool with all her clothes on.",
+      "tts_text": "Gloria accepts the apology, but only after making Claire jump into the swimming pool with all her clothes on.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 16,
+      "text": "Meanwhile, Mitchell has been trying to learn about football because Cameron loves it. He surprises everyone by understanding the game much better than expected, although his interest doesn’t last very long.",
+      "tts_text": "Meanwhile, Mitchell has been trying to learn about football because Cameron loves it. He surprises everyone by understanding the game much better than expected, although his interest doesn’t last very long.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 17,
+      "text": "Once Claire is in the pool, the serious mood disappears. Gloria forgives her, and soon almost everyone is either jumping or being pushed into the water.",
+      "tts_text": "Once Claire is in the pool, the serious mood disappears. Gloria forgives her, and soon almost everyone is either jumping or being pushed into the water.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false
     }
   ],
-  "audio_file": "english.wav",
-  "duration": 149.801337
+  "audio_file": "english.wav"
 }

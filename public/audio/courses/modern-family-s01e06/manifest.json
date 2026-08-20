@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T04:17:52.282Z",
+  "generated_at": "2026-08-20T10:41:11.703Z",
   "course": "modern-family-s01e06",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -9,7 +9,7 @@
   "volume": 1.5,
   "temperature": 0.9,
   "top_p": 0.92,
-  "script_sha256": "d22df14c5ab380e21acebe1b47142efc0f2bef48521ded54c96bb286cd85f849",
+  "script_sha256": "6e1c9a045d1dd0c4cf550e83ea88356e9bde16553a02f7c4865edd8ea68b9bde",
   "segment_count": 13,
   "segments": [
     {
@@ -20,10 +20,7 @@
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 8.161247,
-      "start": 0,
-      "end": 8.161247
+      "cached": false
     },
     {
       "index": 2,
@@ -33,23 +30,17 @@
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 11.773243,
-      "start": 8.161247,
-      "end": 19.93449
+      "cached": false
     },
     {
       "index": 3,
-      "text": "Once the kids are gone, Claire is looking forward to having a quiet day at home. Phil, however, assumes she must feel lonely. He cancels a work appointment to keep her company and suggests they go running together.",
-      "tts_text": "[a storyteller building gentle suspense] Once the kids are gone, Claire is looking forward to having a quiet day at home. Phil, however, assumes she must feel lonely. He cancels a work appointment to keep her company and suggests they go running together.",
+      "text": "Once the kids are gone, Claire is looking forward to having a quiet day at home. Phil, however, assumes she must feel lonely. He reschedules an open house so he can keep her company and suggests they go running together.",
+      "tts_text": "[a storyteller building gentle suspense] Once the kids are gone, Claire is looking forward to having a quiet day at home. Phil, however, assumes she must feel lonely. He reschedules an open house so he can keep her company and suggests they go running together.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 13.218027,
-      "start": 19.93449,
-      "end": 33.152517
+      "cached": false
     },
     {
       "index": 4,
@@ -59,10 +50,7 @@
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 16.365646,
-      "start": 33.152517,
-      "end": 49.518163
+      "cached": false
     },
     {
       "index": 5,
@@ -72,10 +60,7 @@
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 9.760839,
-      "start": 49.518163,
-      "end": 59.279002000000006
+      "cached": false
     },
     {
       "index": 6,
@@ -85,10 +70,7 @@
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 14.404853,
-      "start": 59.279002000000006,
-      "end": 73.68385500000001
+      "cached": false
     },
     {
       "index": 7,
@@ -98,10 +80,7 @@
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 16.726848,
-      "start": 73.68385500000001,
-      "end": 90.41070300000001
+      "cached": false
     },
     {
       "index": 8,
@@ -111,10 +90,7 @@
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 14.766054,
-      "start": 90.41070300000001,
-      "end": 105.17675700000001
+      "cached": false
     },
     {
       "index": 9,
@@ -124,10 +100,7 @@
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 11.618435,
-      "start": 105.17675700000001,
-      "end": 116.79519200000001
+      "cached": false
     },
     {
       "index": 10,
@@ -137,10 +110,7 @@
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 5.942426,
-      "start": 116.79519200000001,
-      "end": 122.73761800000001
+      "cached": false
     },
     {
       "index": 11,
@@ -150,10 +120,7 @@
         "[a storyteller warmly enjoying the happy moment]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 13.682449,
-      "start": 122.73761800000001,
-      "end": 136.42006700000002
+      "cached": false
     },
     {
       "index": 12,
@@ -163,10 +130,7 @@
         "[a heartfelt storyteller bringing the story home]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 5.271633,
-      "start": 136.42006700000002,
-      "end": 141.69170000000003
+      "cached": false
     },
     {
       "index": 13,
@@ -174,12 +138,8 @@
       "tts_text": "By the end, the children have handled their first day just fine. It’s the parents who spend the whole day worrying, making mistakes, and trying a little too hard to protect them.",
       "tags": [],
       "speed": 0.9,
-      "cached": false,
-      "duration": 10.741247,
-      "start": 141.69170000000003,
-      "end": 152.432947
+      "cached": false
     }
   ],
-  "audio_file": "english.wav",
-  "duration": 152.432947
+  "audio_file": "english.wav"
 }

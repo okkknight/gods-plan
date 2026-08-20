@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T04:29:07.662Z",
+  "generated_at": "2026-08-20T10:42:48.431Z",
   "course": "modern-family-s01e23",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -9,8 +9,8 @@
   "volume": 1.5,
   "temperature": 0.9,
   "top_p": 0.92,
-  "script_sha256": "9e5ae43b9953fb9636ead335cd42816de8fdff6e732687d6d737ea6724371e36",
-  "segment_count": 13,
+  "script_sha256": "225eaafc480085bcff6b56b1cc1c270f508f61f04a893eae9c6dca1d8befaf9d",
+  "segment_count": 14,
   "segments": [
     {
       "index": 1,
@@ -20,10 +20,7 @@
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 10.276848,
-      "start": 0,
-      "end": 10.276848
+      "cached": false
     },
     {
       "index": 2,
@@ -33,10 +30,7 @@
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 14.920839,
-      "start": 10.276848,
-      "end": 25.197687000000002
+      "cached": false
     },
     {
       "index": 3,
@@ -46,10 +40,7 @@
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 13.785646,
-      "start": 25.197687000000002,
-      "end": 38.983333
+      "cached": false
     },
     {
       "index": 4,
@@ -59,10 +50,7 @@
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 15.488435,
-      "start": 38.983333,
-      "end": 54.471768000000004
+      "cached": false
     },
     {
       "index": 5,
@@ -72,10 +60,7 @@
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 9.606032,
-      "start": 54.471768000000004,
-      "end": 64.07780000000001
+      "cached": false
     },
     {
       "index": 6,
@@ -85,10 +70,7 @@
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 15.127234,
-      "start": 64.07780000000001,
-      "end": 79.20503400000001
+      "cached": false
     },
     {
       "index": 7,
@@ -98,10 +80,7 @@
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 14.559637,
-      "start": 79.20503400000001,
-      "end": 93.764671
+      "cached": false
     },
     {
       "index": 8,
@@ -111,10 +90,7 @@
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 13.837256,
-      "start": 93.764671,
-      "end": 107.601927
+      "cached": false
     },
     {
       "index": 9,
@@ -124,62 +100,54 @@
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 4.239637,
-      "start": 107.601927,
-      "end": 111.841564
+      "cached": false
     },
     {
       "index": 10,
-      "text": "Mitchell wants to visit every interesting place on the island, while Cameron only wants to sit by the pool. Cameron agrees to go sightseeing but clearly isn’t enjoying it, so Mitchell eventually goes alone.",
-      "tts_text": "[a storyteller building gentle suspense] Mitchell wants to visit every interesting place on the island, while Cameron only wants to sit by the pool. Cameron agrees to go sightseeing but clearly isn’t enjoying it, so Mitchell eventually goes alone.",
+      "text": "Mitchell has almost the opposite problem. He wants to spend the trip sightseeing, while Cameron would rather sit by the pool and do nothing. Mitchell goes off on his own to visit a lavender farm, but when he comes back, he’s still annoyed that Cameron didn’t go with him.",
+      "tts_text": "[a storyteller building gentle suspense] Mitchell has almost the opposite problem. He wants to spend the trip sightseeing, while Cameron would rather sit by the pool and do nothing. Mitchell goes off on his own to visit a lavender farm, but when he comes back, he’s still annoyed that Cameron didn’t go with him.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 11.360454,
-      "start": 111.841564,
-      "end": 123.20201800000001
+      "cached": false
     },
     {
       "index": 11,
-      "text": "When Mitchell comes back, he realizes that doing things separately is fine. They don’t have to enjoy a vacation in exactly the same way.",
-      "tts_text": "[a storyteller warmly enjoying the happy moment] When Mitchell comes back, he realizes that doing things separately is fine. They don’t have to enjoy a vacation in exactly the same way.",
+      "text": "He even makes up a story about meeting Elton John there just to make Cameron jealous.",
+      "tts_text": "[a storyteller warmly enjoying the happy moment] He even makes up a story about meeting Elton John there just to make Cameron jealous.",
       "tags": [
         "[a storyteller warmly enjoying the happy moment]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 7.438844,
-      "start": 123.20201800000001,
-      "end": 130.640862
+      "cached": false
     },
     {
       "index": 12,
-      "text": "Unfortunately, after they both become more relaxed, they accidentally leave Lily in an elevator. Gloria finds her and brings her back, but later they manage to lose her again during another trip.",
-      "tts_text": "[a heartfelt storyteller bringing the story home] Unfortunately, after they both become more relaxed, they accidentally leave Lily in an elevator. Gloria finds her and brings her back, but later they manage to lose her again during another trip.",
+      "text": "Later, Cameron gets Mitchell to finally sit down and relax. Hotel workers put his feet up, hand him a drink, and even massage him. Mitchell is surprised by how good it feels. For the first time, he understands why Cameron is perfectly happy doing nothing on vacation.",
+      "tts_text": "[a heartfelt storyteller bringing the story home] Later, Cameron gets Mitchell to finally sit down and relax. Hotel workers put his feet up, hand him a drink, and even massage him. Mitchell is surprised by how good it feels. For the first time, he understands why Cameron is perfectly happy doing nothing on vacation.",
       "tags": [
         "[a heartfelt storyteller bringing the story home]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 11.773243,
-      "start": 130.640862,
-      "end": 142.414105
+      "cached": false
     },
     {
       "index": 13,
-      "text": "The vacation is messy, and hardly anyone follows the original plan. Still, Phil and Claire finally get their wedding, Jay finds a better balance, and the family ends the trip with one more good memory together.",
-      "tts_text": "The vacation is messy, and hardly anyone follows the original plan. Still, Phil and Claire finally get their wedding, Jay finds a better balance, and the family ends the trip with one more good memory together.",
+      "text": "Unfortunately, the two of them are so relaxed that they accidentally leave Lily behind in an elevator, and Gloria has to bring her back.",
+      "tts_text": "Unfortunately, the two of them are so relaxed that they accidentally leave Lily behind in an elevator, and Gloria has to bring her back.",
       "tags": [],
       "speed": 0.9,
-      "cached": false,
-      "duration": 13.321247,
-      "start": 142.414105,
-      "end": 155.735352
+      "cached": false
+    },
+    {
+      "index": 14,
+      "text": "The vacation is messy, and hardly anyone follows the original plan. Still, Phil and Claire finally get their wedding, Jay finds a better balance, and Mitchell finally learns how to slow down and enjoy the trip.",
+      "tts_text": "The vacation is messy, and hardly anyone follows the original plan. Still, Phil and Claire finally get their wedding, Jay finds a better balance, and Mitchell finally learns how to slow down and enjoy the trip.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false
     }
   ],
-  "audio_file": "english.wav",
-  "duration": 155.735352
+  "audio_file": "english.wav"
 }

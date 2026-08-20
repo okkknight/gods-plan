@@ -1,58 +1,58 @@
 # Modern Family S01E01 — Pilot
 
-> 463 words
+> 474 words
 
-This episode introduces _____ ________ ___ ____ ________ __ _____. Each family has its own problems, but by ___ ___, __ ____ ___ ____’__ ___ _________.
+This episode introduces _____ ________ ___ ____ ________ __ first. Each family has ___ ___ ________, ___ by the end, we ____ ___ ____’__ ___ connected.
 
-The first family is Claire and Phil Dunphy ___ _____ _____ ________, Haley, Alex, and Luke. Claire is the stricter parent, while Phil _____ __ _____ __’_ _ “____ ___.” _____ _______-____-___ ________ Haley _______ _ ______ _____ Dylan ____, ___ Claire immediately starts worrying. She remembers the ________ ___ ____ __ _ ________ ___ _____’_ ____ Haley to do the same things.
+The first family is Claire and Phil Dunphy ___ _____ _____ ________, Haley, Alex, and Luke. Claire is the ________ ______, _____ Phil likes to think he’s _ “____ ___.” _____ fifteen-year-old daughter Haley _______ _ ______ _____ Dylan over, and Claire ___________ ______ worrying. She remembers the ________ ___ ____ __ _ ________ ___ _____’_ want Haley __ __ ___ ____ things.
 
-Claire asks Phil to scare Dylan a little, but Phil’s _______ __ ___ ____ ____ ___________ ________. Claire keeps checking on Haley ________, _____ _____ __ __ ________ _______ ____. At the same time, Phil ___ _______ _________ _______. Luke shot Alex ____ _ BB ___, ___ Phil ___ ________ ____ __ Luke ____ ____ _______, he would shoot Luke back. Phil tries to _____ ___ ___ __________ but can’t do it properly. In the confusion, __ ____________ ______ Dylan instead.
+Claire asks Phil __ _____ Dylan _ ______, ___ ____’_ _______ __ ___ ____ only embarrasses everyone. Claire keeps checking on Haley ________, _____ _____ __ __ ________ _______ them.
 
-The second family is Jay, ___ ____ _______ ____ Gloria, and Gloria’s ______-____-___ ___, Manny. Jay is already _____________ _____ _____ ___ __________, __________ after another parent mistakes him for Gloria’s father.
+At the same time, Phil ___ _______ _________ problem. Luke shot Alex ____ _ __ ___, and Phil ___ ________ ____ __ Luke ____ ____ _______, __ would shoot Luke back. Phil clearly doesn’t ____ __ __ __, ___ ___ __________ __ ____ _______ __ ___ family calendar. When the time _______ _____, ___ _____ _____ _____ ____ _ mess. Phil accidentally shoots Luke, then Dylan, ___ _______ himself.
 
-Manny, meanwhile, has fallen for a _______-____-___ ____ _____ Brenda. He decides to go to the mall ___ ____ ___ _ ____. Jay thinks this is a terrible ____ ___ _____ __ ____ ___ because he _____’_ ____ Manny to make a ____ __ _______. Gloria tells Jay that Manny __ ___ ______ ___, so he ______ _______ ___ instead of _______ ___ ____.
+The second family is Jay, ___ ____ _______ ____ Gloria, ___ ______’_ ______-____-___ ___, Manny. Jay is already _____________ _____ _____ ___ difference, especially after another ______ ________ ___ ___ Gloria’s father.
 
-Manny reads the poem, but Brenda _____ ___ ___ _______ ___ _ _________. He comes back ____________, ___ Jay finally tells ___ ____ ____ __ did was brave.
+Manny, meanwhile, has ______ ___ _ _______-____-___ ____ _____ Brenda. He decides to __ __ ___ ____ ___ ____ ___ _ poem. Jay thinks this __ _ ________ ____ ___ _____ __ ____ ___ _______ __ _____’_ want Manny to make a fool of himself. Gloria tells Jay that Manny __ ___ ______ ___, __ __ ______ _______ ___ _______ __ _______ him down.
 
-The third family is Mitchell ___ ___ _______ Cameron. They’ve just adopted _ ____ ____ _____ Lily from Vietnam. Mitchell is happy, but he’s _______ _____ _______ ___ ______ because he _______ ___ ______ to judge him. Cameron knows Mitchell ____ ____ ________ ___ ____________, so he secretly invites the whole ______ ____ ___ dinner.
+Manny reads the ____, ___ Brenda _____ ___ ___ _______ ___ _ boyfriend. He comes back ____________, ___ Jay ______ ____ ____ __ ___ ___ brave.
 
-At dinner, the _____ _______ finally come together. Jay is Claire and Mitchell’s ______, _____ _____ ___ _____ __________ ___ ____ of the same family. When Mitchell tells everyone about the adoption, Jay ______ _____ ___ ____ ___ ___ _______’_ raise a child _______ _ ______.
+The third family is Mitchell ___ ___ _______ Cameron. They’ve just adopted _ ____ ____ _____ Lily from Vietnam. Mitchell is happy, ___ __’_ _______ _____ _______ ___ ______ _______ __ _______ ___ ______ to judge him. Cameron knows Mitchell ____ ____ ________ ___ ____________, __ __ ________ _______ ___ _____ ______ over for dinner.
 
-Then Cameron enters, holding Lily __ ___ ___ while “Circle of Life” plays. The dramatic entrance __ _____, but it ____ _______ ___ ____. Once Jay sees Lily, __ _______. He admits that he’s still making ________ __ _ ______ _______ ___ ________ ___ into the family.
+At dinner, the _____ _______ _______ ____ together. Jay is Claire ___ ________’_ ______, _____ means all three households ___ ____ __ ___ same family. When Mitchell tells ________ _____ ___ ________, Jay reacts badly and says ________ ____ _ mother.
 
-The episode shows _ ______ ____ _____ ___________ ___ ______ ___ _______, but still tries to be there when it matters.
+Then Cameron enters, holding Lily __ ___ ___ _____ “______ __ ____” plays. The dramatic entrance __ _____, ___ __ ____ _______ ___ mood. Once Jay sees Lily, he softens. He admits that __’_ _____ ______ ________ as a father himself ___ ________ ___ ____ the family.
 
-
+The episode shows _ ______ ____ _____ ___________ ___ ______ ___ _______, ___ _____ _____ to be there when it matters.
 
 # Modern Family S01E02 — The Bicycle Thief
 
-> 472 words
+> 510 words
 
-This episode is ______ _____ ___ _______ in the family ______ __ ____ after their ________, ____ though they ___’_ ______ ____ what they’re doing.
+This episode is ______ _____ ___ _______ __ ___ ______ ______ __ ____ _____ _____ children, even though they ___’_ ______ ____ ____ they’re doing.
 
-Phil buys Luke _ ___ ____ because he wants to show Claire ____ _____ ___ ___ __ ___________. Claire is sure Luke ____ ____ __, ___ ____ after, Phil ____ ____ _____ ____ Luke’s bike lying outside _______ _ ____.
+Phil buys Luke _ ___ ____ _______ __ _____ __ ____ Claire ____ _____ ___ ___ be responsible. Claire is sure Luke ____ ____ __, ___ ____ _____, Phil ____ ____ _____ ____ Luke’s bike lying outside _______ _ lock.
 
-Phil decides to teach Luke _ ______, so he _____ ___ ____ ___ _____ __. But while he’s _______ _____ ___ ________, Desiree, get into her locked house, ___ ____ __________. Phil panics and ____ _______ ___ before Claire _____ ___.
+Phil decides to teach Luke _ ______, __ __ _____ ___ ____ ___ hides it. But while he’s _______ _____ ___ ________, Desiree, ___ ____ ___ ______ _____, ___ ____ disappears. Phil panics and ____ _______ ___ ______ Claire finds out.
 
-When he gets home, he realizes Luke’s ____ ____ ___ ____ _____ ___ _____ ____. He took another _____’_ ____ __ _______. Claire finds out, and instead of _________ __________, Phil makes up an ____ ______ _____. Unfortunately, Desiree arrives with the missing ____ ___ ________ _______ ____ ________. Phil is caught _____, ___ when he later tries __ ______ ___ ___________ bike, its real owner _______ ___ ___.
+When he gets ____, __ ________ ____’_ real bike has been _____ ___ _____ time. He took another _____’_ ____ __ mistake. Claire finds out, ___ _______ __ _________ everything, Phil _____ __ __ ____ ______ _____ _____ ___ the bike disappeared.
 
-Meanwhile, Gloria asks Jay and Manny __ _______ _ _______ ___ ________. She hopes spending ____ ____ ________ ____ help them get closer.
+Unfortunately, Desiree arrives ____ ___ _______ ____ ___ ________ ____ _ ________ _____ __ ____ her garage while Phil ___ _______ her. His story falls apart. Later, Phil takes ___ ____ ____ __ ___ _____ _____ __ __________ _____ __, ___ a boy sees him _______ __ ____ ___ yells that it’s his bike. Phil runs away ____ ___ ____ _______ him.
 
-It doesn’t go well. Jay refuses to ____ ___ ____________, while Manny _____ _______ _____ ___ __________ ______, Javier, and how exciting and fearless he is. Jay gets annoyed because he knows Javier _____ ____ Manny down.
+Meanwhile, Gloria asks Jay and Manny __ _______ _ _______ fan together. She hopes spending ____ ____ ________ ____ ____ ____ ___ closer.
 
-After Manny gets hit by one of the fan blades, ____ _____ _______. Manny says Jay _____’_ ____ _____ ___, ___ Jay ____ __ _____’_ need to be Manny’s father.
+It doesn’t go well. Jay refuses to ____ ___ ____________, _____ Manny _____ _______ _____ ___ __________ ______, Javier, and how exciting and ________ __ is. Jay gets annoyed _______ __ _____ Javier _____ ____ Manny down.
 
-Later, Manny waits outside because Javier __ ________ __ ____ ___ __ Disneyland. Javier calls Jay ___ ____ __ ___’_ ______ because he’s ____ ________. Jay is furious, but he _____’_ ____ Manny __ ____ ___ _____.
+After a fan _____ ____ Manny, ____ _____ arguing. Manny accuses Jay __ ___ _______ ___ ______, ___ Jay _______ ____ ____, _____ at that moment, he doesn’t. Manny says he wishes Jay ___ _____ _______ Gloria, and Jay _____ ____ ____ ___ _________ ___’_ _______ ____ for him either.
 
-Instead, Jay tells ___ ____ Javier gave his plane ticket __ __ ___ _____ ___ ________ _ _________ ___ Manny. Jay and Gloria then take ___ __ Disneyland themselves. On the way home, Manny _____ ______ __ Jay’s shoulder.
+Later, Manny waits _______ _______ Javier __ ________ __ ____ ___ __ Disneyland. Javier calls Jay ___ ____ __ ___’_ ______ _______ __’_ ____ gambling. Jay is furious, ___ __ _____’_ ____ Manny __ ____ ___ truth.
 
-Mitchell and Cameron ____ ____ Lily __ _ ____ class ___ ___ _____ ____. Mitchell worries that ___ _____ _______ will judge them, so he asks Cameron __ _____ ___ ___ ____ ____________.
+Instead, Jay tells ___ ____ Javier ____ ___ _____ ______ __ __ ___ _____ ___ ________ _ _________ for Manny. Jay and Gloria ____ ____ ___ __ Disneyland themselves. On the way home, Manny _____ ______ __ ___’_ shoulder.
 
-Once the class begins, Mitchell _______ _______ because the _____ ______ ____ __ __ __________ ______ ____ Lily. Cameron, however, just wants them to _____ ___ __________. Mitchell finally realizes ____ __’_ _______ ___ much pressure on ________ ___ ____ Cameron __ _______.
+Mitchell and Cameron ____ ____ Lily __ _ ____ _____ ___ ___ _____ time. Mitchell worries that ___ _____ _______ ____ _____ ____, __ __ asks Cameron __ _____ ___ ___ less dramatically.
 
-By the end, all three fathers ____ ____ ________. But they keep ______, ___ ____ ____ ________ ____ with their children. As Jay stays beside Manny, ___ ______ ___ __________ ____ __ ___ ______ to come out naturally.
+Once the class begins, Mitchell _______ _______ _______ ___ other babies seem to __ __________ ______ ____ Lily. Cameron, however, just _____ ____ __ _____ the experience. Mitchell eventually realizes ____ __’_ _______ ___ ____ ________ __ ________ ___ ____ Cameron be himself.
 
-
+By the end, ___ _____ _______ ____ made mistakes. But they keep ______, ___ ____ ____ ________ ____ ____ _____ children. As Jay stays beside Manny, ___ ______ ___ __________ ____ __ ___ ______ __ ____ ___ naturally.
 
 # Modern Family S01E03 — Come Fly with Me
 
@@ -112,27 +112,31 @@ The dinner is _ ________ ____, but the song is so catchy ____ ___ _____ ______ _
 
 # Modern Family S01E05 — Coal Digger
 
-> 434 words
+> 498 words
 
-This episode brings ___ _____ ______ ________ ___ _ barbecue and a football game, but an ________ _______ Luke and Manny ______ ___ _ ____ ______ _______ _______ Claire and Gloria.
+This episode brings ___ _____ ______ ________ ___ _ ________ ___ _ ________ ____, ___ _ _____ _______ Luke and Manny ______ ___ _ ____ bigger problem between Claire and Gloria.
 
-It starts when Luke and Manny ___ ____ _ _____ __ school. They’ve been making ___ __ ____ _____, ___ Luke ____ __ _______ __ Manny’s chest. When their parents meet with the principal, she says it ___ __ _________ when one _____ __ “_ ______ _________.” Claire ___________ ______ ___ _____ Luke, while Gloria __ ____ ___ _____ Manny. Both women become defensive, and it’s clear _____’_ _______ ____ _______ _______ ____.
+It starts when Luke and Manny ___ ____ _ _____ at school. They’ve been making ___ __ ____ _____, and Luke ____ __ _______ __ Manny’s chest.
 
-The family still goes to Jay and Gloria’s house ____ _______. Jay mainly wants ________ __ ____ _______ so he can watch the football game, but Phil ______ ____ ______ _______ _____ ________ ___ _____ the problem properly. He gets Luke and Manny to sit down ________ ___ _________.
+When their parents ____ ____ ___ ______ _________, __ ____ ____ ____ ___ ____ ____, but things can be _________ ____ ___ _____ is “a little different.” Afterward, Claire _________ ____ Gloria must think Luke __ ___ _____ one. At the same time, Gloria _________ ____ Claire ____ _____ Manny __ ___ _________ one. Both women feel ____ ___ _____ __ _______ ___ _____, ___ ___ _______ _______ ____ gets worse.
 
-The boys make __ _____ ______. Luke admits that __ ____ ___ __ Manny’s ______, ___ Manny ____ __ ______ Luke about eating the same _____ _____ ___. Then Manny adds that Luke said Gloria ____ __ __ _ “____ ______.”
+The family still ____ __ Jay ___ ______’_ _____ ____ evening. Jay mainly wants ________ __ ____ _______ __ __ ___ _____ ___ ________ ____, ___ Phil thinks they should discuss what happened.
 
-Everyone goes quiet. Phil explains that ___ __________ __ ________ “gold digger,” and Luke ____ __ _____ __ ____ Claire. Gloria realizes that Claire once thought ___ _______ Jay ___ ___ _____. She feels especially hurt because she ___ ______ ________ Claire _____’_ ______ ______ ___ __ Manny __ ____ __ ___ ______.
+Phil gets everyone ________, ___ Jay _______ ____ Luke and Manny _______ ______ __ _____ family kick and punch ____ _____ __ ____ each other. Both boys say ____ ____ ____ _____, ___ ____’_ _________ ___ ___ __ ___’_ discussion. Later, the boys ____ ____ _______ _______ along again.
 
-Claire tries to _______ ____ ___ said it a ____ ____ ___, before she ______ ____ Gloria. But Gloria goes ________ ___ _______ __ come back down. Phil talks to her and says Claire ___ ____ __________ __ ___ when he _____ ______ ___ ______. The Pritchetts are ____ __________ __ ___ _______, ___ __ _________ takes them time to trust new people.
+Luke admits that __ ____ ___ __ _____’_ ______, ___ Manny ____ __ ______ Luke about eating the same _____ _____ day. Luke also says __ ____ ___ __ Manny _______ ___ ______ ____ __ ___ coal. Manny then tells Gloria that Luke ____ ___ ___ _ “coal digger.”
 
-Claire finally goes ________ ___ _____ Gloria _ ____ _______. She admits that Jay’s ___ ________ ___ _________ ___ ___ __ _____, but she ___ ____ ____ Gloria makes him happy. Gloria accepts the apology, but only after making Claire ____ ____ ___ ________ pool ____ ___ ___ _______ __.
+Everyone goes quiet. Phil explains that ___ __________ __ ________ “____ ______,” ___ Luke ____ __ _____ __ from Claire. Gloria realizes that Claire ____ _______ ___ _______ Jay ___ ___ money. She’s especially hurt _______ ___ _______ _____ that she and Manny _____’_ ____ _____ ________ by the family.
 
-Meanwhile, Mitchell has ____ ______ __ _____ _____ ________ because Cameron _____ __. He surprises everyone by understanding the game ____ ______ ____ ________, although his ________ _____’_ ____ ____ ____.
+Claire tries to _______ ____ ___ ____ it a long time ___, ______ ___ ______ knew Gloria. But Gloria goes ________ ___ _______ __ ____ ____ down.
 
-Once Claire is in the pool, ___ _______ ____ __________. Gloria forgives her, and soon almost everyone __ ______ _______ __ _____ ______ ____ ___ _____. The day starts ____ ________ _________ their own side, but it ends with them ________ ________ _____.
+Phil talks to her. He explains that the Pritchetts ___ ____ __________ __ their family. When Claire first brought Phil home, Jay ____’_ _____ __ ___ ____ ______ ___ ___ daughter either. Over time, Jay ___ ___ ____ Phil loved Claire ___ _______ ________ him. Phil tells Gloria that Claire ____ _____ ____ too.
 
+Claire eventually goes ________ ___ _____ Gloria _ ____ apology. She admits that ___’_ ___ ________ ___ _________ ___ ___ __ _____, ___ ___ ___ sees that Gloria _____ ___ happy. Gloria accepts the _______, ___ ____ _____ making Claire ____ ____ ___ ________ ____ ____ ___ ___ clothes on.
 
+Meanwhile, Mitchell has ____ ______ __ _____ _____ ________ _______ Cameron loves it. He surprises everyone __ _____________ ___ ____ ____ ______ ____ ________, ________ ___ ________ _____’_ last very long.
+
+Once Claire is __ ___ ____, ___ _______ ____ disappears. Gloria forgives her, ___ ____ ______ ________ is either jumping or _____ ______ ____ ___ water.
 
 # Modern Family S01E06 — Run for Your Wife
 
@@ -157,8 +161,6 @@ Mitchell is also ______ _ _________ ___. He’s been baby-proofing the house bec
 The doctor says Lily is fine and reminds ____ ____ ___ ___ _______ ____ ________. Mitchell still worries that Cameron __ _ ____ _______ ______, but Cameron points out all ___ _________ ______ Mitchell ____ ___ _____ ______. Just as they ______ ____ ____ a great team, ____ ____________ ____ Lily inside the car.
 
 By the end, ___ ________ ____ handled their first ___ ____ ____. It’s the parents ___ _____ ___ _____ day worrying, making mistakes, and trying a ______ ___ ____ __ _______ ____.
-
-
 
 # Modern Family S01E07 — En Garde
 
@@ -426,29 +428,31 @@ By the end, ________ __ still afraid __ _________. But whether it’s _ ____ ___
 
 # Modern Family S01E17 — Truth Be Told
 
-> 441 words
+> 496 words
 
-This episode is _____ ______ ______ ___ _____ because they _____ __ ____ make life easier. As usual, the ____ ____ ______ ______ ________.
+This episode is _____ ______ ______ ___ truth because they think __ ____ ____ ____ easier. As usual, the ____ ____ ______ ______ problems.
 
-Phil has reconnected ____ ___ ___ ____ school girlfriend, Denise, on Facebook. He plans to meet her for a drink, but Claire ___________ _______ __________. Phil insists that ____’__ ____ _______ ___ _______ Denise to the house instead, hoping __ _____ ____ Claire __ ____________.
+Phil has reconnected ____ ___ ___ ____ ______ __________, Denise, on Facebook. He plans to ____ ___ ___ _ drink, but Claire ___________ _______ suspicious. Phil insists that ____’__ ____ _______ ___ invites Denise __ ___ _____ _______, ______ __ _____ ____ Claire is overreacting.
 
-At first, Denise _____ ________, ___ Claire ______ __ _____ she was wrong. But as soon as Claire leaves the room, Denise ______ ________ Phil, ________ ____ ___, ___ ____ _____ ___ _ ___ __ ___ hotel room. Phil finally realizes that Claire __________ ___ _________ ____ ______ ____ __ ___.
+At first, Denise _____ ________, ___ Claire ______ __ _____ ___ was wrong. But as soon as Claire ______ ___ ____, Denise ______ ________ Phil, ________ ____ ___, ___ even gives him a ___ __ ___ _____ room. Phil finally realizes that Claire __________ ___ _________ ____ ______ ____ __ did.
 
-Things become even ____ _______ when Claire _____ __ ___ _____ ___ _________ ____ Phil started dating her before he ___ __________ ______ __ ____ Denise. Denise is furious because she ______ _______ Phil ___ ____ ___ ____ before meeting Claire. She storms out, leaving Phil __ _______ ____ ____ _____.
+Things become even ____ _______ ____ Claire _____ __ ___ _____ ___ _________ ____ Phil started dating her before __ ___ __________ ______ up with Denise. Denise is furious _______ ___ ______ _______ Phil had left her long ______ _______ Claire. She storms out, leaving Phil __ _______ ____ ____ women.
 
-Meanwhile, Manny is upset because he ____’_ ___ _ ____ __ _ school play. Jay buys him a motivational poster and _____ __ _____ ___ ___ ______’_ ____. The poster falls during the _____ ___ _____ ___ ______.
+Meanwhile, Manny is _____ _______ __ ____’_ get a part in _ ______ play. Jay buys him _ ____________ ______ ___ hangs it above his ___ ______’_ tank. The poster falls ___ _____ ___ turtle.
 
-Jay doesn’t want Manny __ _____ ___, so he _______ __ ______ _____ _____ _ _______ breaking into the house. He even damages the room ___ ______ _____ __________ __ ____ ___ story look real. Gloria sees through ___ ___ ___ _____ ___ __ _______.
+Jay doesn’t want Manny __ _____ ___, __ __ _______ __ ______ _____ _____ _ _______ breaking into the house. He even damages ___ ____ ___ ______ _____ __________ __ ____ ___ _____ ____ real. Gloria sees through ___ ___ ___ _____ ___ __ confess.
 
-Jay explains that _____ ___, __ ____________ ______ ___ __ Mitchell’s ____ ___ ____ him the truth. Mitchell never forgot it, so Jay ______ _____ ___ __ ______ ____ ____. But during the ______’_ _______, __ _____ ___ ______ ___ finally admits what happened. Manny calmly tells ___ ____ __ _______ ____ because the _____ ____ __ _____.
+Jay explains that _____ ___, __ ____________ killed one of Mitchell’s ____ ___ ____ ___ the truth. Mitchell never forgot __, __ Jay ______ _____ ___ __ ______ ____ time.
 
-Mitchell is also struggling because his ___ _____ ______ ___ ____ ____ Cameron and Lily. He has already ______ _______ _________ _______, ___ when his boss calls him ____ ____ __ _ ______ ___, Mitchell finally says no.
+During the turtle’s funeral, Manny _______ ____ __ ____ __ ____ ___ __ _____ __ ___ room. He starts blaming _______, ________ ___ ____ ____ ____ _________ ___ raccoon. Jay feels terrible, ___ __ _____ _____’_ _____ ____ ______ happened.
 
-His boss tells him that if he ______, __’_ _____. Mitchell walks out _______ _____ ___ ____. Once he gets home, however, he ______ ________ _____ _____ and panics over what __ ___ ____. Cameron supports him, and Jay ______ __ ____ while he _____ ___ _______ ___, although the ____ ____ Jay actually gives him is ___ ____ ____________ ______.
+That night, Jay can’t sleep. When he goes __ _____’_ ____, Manny __ _______ _____ _______ for him. Manny asks him ________ __ __ ______ ___ _ raccoon. Jay finally admits ____ __ ______ Shel by accident and says __ ____ _______ _____ relationship had only recently _______ _______ ______, ___ he was afraid Manny _____ __ _____ ____ him.
 
-In the end, telling the truth is uncomfortable, but every ___ __ ____ _______ ____ _____ ______ ______.
+Mitchell is also __________ _______ ___ ___ _____ ______ ___ ____ from Cameron and Lily. He has already ______ _______ _________ _______, and when his boss _____ ___ ____ ____ on a family day, Mitchell _______ ____ no.
 
+His boss tells ___ ____ __ __ ______, __’_ fired. Mitchell walks out _______ _____ ___ free. Once he gets ____, _______, __ ______ worrying about money and ______ ____ ____ __ has done. Cameron supports him, and Jay ______ __ ____ _____ he looks for another ___, ________ ___ “____” turns out to be ___ ____ ____________ poster.
 
+In the end, _______ ___ _____ __ _____________, ___ _____ ___ __ ____ _______ ____ makes things harder.
 
 # Modern Family S01E18 — Starry Night
 
@@ -590,29 +594,29 @@ They haven’t even left the airport yet, and ___ ____ __ _______ _ ________ ___
 
 # Modern Family S01E23 — Hawaii
 
-> 451 words
+> 497 words
 
-This episode continues ___ ______’_ ____ __ Hawaii. Everyone wants a _________ ____ __ ________, and most of them ____ _______ ________ __ the way they planned.
+This episode continues ___ ______’_ ____ __ ______. Everyone wants a _________ ____ __ ________, and most of them ____ _______ ________ __ ___ ___ ____ _______.
 
-Phil wants to turn the trip into ___ _________ __ ___ Claire _____ ______ ___. Claire says that _________ ____ _____ children doesn’t feel ____ _ ________, but Phil _________ ___ __ _____ ___ ____ ____ Mitchell and Cameron and spend some time _____ ____ ___.
+Phil wants to turn the trip into ___ _________ __ ___ ______ _____ ______ ___. Claire says that _________ ____ _____ ________ doesn’t feel like a vacation, but Phil convinces her to _____ ___ ____ ____ ________ ___ _______ and spend ____ ____ _____ ____ ___.
 
-They go to ___ ______-____ pool, and Claire finally starts __ _____. Then Haley appears and says she’s going ___ ____ ____ _________ ___ ____ ___. Claire wants to stop her, but Phil __________ ___ __ _____ Haley ___ _____ ___ ___.
+They go to the ______-____ ____, and Claire finally starts to relax. Then Haley appears and says she’s _____ ___ ____ ____ _________ ___ ____ ___. Claire wants to stop her, but Phil encourages her to _____ _____ ___ _____ ___ ___.
 
-A few hours later, Alex tells them that Haley __ _____ ___ ________ __ __ ___ ________. Claire takes care of her and warns ___ ____ _______ ____ always make her ____ ____ ________. Phil’s romantic plan _____ __ __ ____, but he ___ ___ ____ ________. He arranges a small wedding ceremony so they can finally have the wedding ____ ______ _____ ___. The whole family _____ ____ __ ____ renew their vows.
+A few hours later, Alex tells them that Haley __ _____ ___ ________ __ __ ___ ________. Claire takes care of her and warns her that _______ ____ ______ ____ ___ ____ ____ ________. Phil’s romantic plan seems to be over, but he has one more surprise. He arranges a small wedding ceremony so they can finally have the _______ ____ ______ _____ ___. The whole family _____ ____ __ ____ _____ _____ ____.
 
-Meanwhile, Jay plans __ _____ ___ ________ ______, ________, and doing nothing. Then his brother _____ ___ _______ ___ that their father ____ __ _____-_____, ___ ____ ___ Jay has just turned. Jay suddenly becomes _______ _____ ___ ______.
+Meanwhile, Jay plans to spend the vacation ______, ________, ___ _____ _______. Then his brother calls and reminds him that their ______ ____ __ _____-_____, the same age Jay has just turned. Jay suddenly becomes _______ _____ ___ ______.
 
-He starts exercising, ________, ___ ________ _______ ____. Gloria gets annoyed because she _______ ___ __ Hawaii __ _____, ___ __ ____ ___ ____ ____ a fitness camp. Jay pushes himself ___ ____ ___ eventually hurts ___ ____ while getting ____ _ _______.
+He starts __________, ________, ___ ________ _______ ____. Gloria gets annoyed because she brought him to Hawaii to relax, not __ ____ ___ ____ ____ _ _______ ____. Jay pushes himself too hard and eventually _____ ___ ____ _____ _______ ____ _ _______.
 
-Phil finds him stuck there and _____ ___ ______ __ ___ ______. Jay finally tells Gloria ___ __’_ ____ ______ ___________. He doesn’t want to die young ____ ___ ______. Gloria understands, but she ____ _______ ___ ____ ________ ____ _______. Jay finally relaxes ___ ______ ___ ____ he wanted in ___ _____ _____.
+Phil finds him stuck there and _____ ___ ______ __ ___ ______. Jay finally tells Gloria ___ __’_ ____ ______ ___________. He doesn’t want to die young like his father. Gloria understands, but she also reminds him that ________ ____ _______. Jay finally relaxes and ______ ___ ____ __ ______ __ ___ _____ _____.
 
-Mitchell wants to _____ _____ ___________ _____ __ ___ island, while Cameron ____ _____ __ sit by the pool. Cameron agrees to __ ___________ but clearly ___’_ ________ __, so Mitchell eventually goes alone. When Mitchell comes back, he realizes that doing ______ __________ __ ____. They don’t have __ _____ _ ________ __ _______ the same way.
+Mitchell has almost ___ ________ _______. He wants to _____ ___ ____ ___________, while Cameron would rather ___ __ ___ ____ ___ __ _______. Mitchell goes off on his own to _____ _ ________ ____, but when he comes back, he’s _____ _______ ____ _______ ____’_ __ ____ ___. He even makes up a story about _______ _____ ____ _____ just to ____ _______ _______.
 
-Unfortunately, after they ____ ______ ____ _______, ____ ____________ _____ Lily in an elevator. Gloria finds her ___ ______ ___ ____, but later they ______ __ ____ ___ _____ during another trip.
+Later, Cameron gets Mitchell to _______ ___ ____ ___ _____. Hotel workers ___ ___ ____ __, ____ ___ _ _____, ___ ____ _______ ___. Mitchell is _________ __ ___ ____ __ _____. For the first time, he understands why Cameron is _________ _____ _____ _______ __ ________.
 
-The vacation is messy, and hardly anyone _______ ___ ________ ____. Still, Phil and Claire finally get their wedding, Jay _____ _ ______ _______, ___ ___ ______ ____ the trip with one ____ ____ ______ ________.
+Unfortunately, the two of them are so relaxed that they ____________ _____ ____ ______ __ __ ________, and Gloria ___ __ _____ ___ ____.
 
-
+The vacation is messy, and hardly anyone follows the original plan. Still, Phil and Claire finally get their wedding, Jay finds a better balance, and Mitchell finally ______ ___ __ ____ ____ ___ _____ ___ ____.
 
 # Modern Family S01E24 — Family Portrait
 

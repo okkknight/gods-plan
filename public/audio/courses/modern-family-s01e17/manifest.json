@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T04:25:12.809Z",
+  "generated_at": "2026-08-20T10:41:58.732Z",
   "course": "modern-family-s01e17",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -9,8 +9,8 @@
   "volume": 1.5,
   "temperature": 0.9,
   "top_p": 0.92,
-  "script_sha256": "a02ce0ae7188ad713e414606a7d7c7fc5155cfe6247a7b6150385a3011980bfb",
-  "segment_count": 14,
+  "script_sha256": "b299e6f6f1df48c839d7d7a9b500bbbfc5060a3a20e3c6475becf8ab37012c80",
+  "segment_count": 16,
   "segments": [
     {
       "index": 1,
@@ -20,10 +20,7 @@
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 9.24483,
-      "start": 0,
-      "end": 9.24483
+      "cached": false
     },
     {
       "index": 2,
@@ -33,10 +30,7 @@
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 15.488435,
-      "start": 9.24483,
-      "end": 24.733265000000003
+      "cached": false
     },
     {
       "index": 3,
@@ -46,10 +40,7 @@
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 14.45644,
-      "start": 24.733265000000003,
-      "end": 39.189705000000004
+      "cached": false
     },
     {
       "index": 4,
@@ -59,10 +50,7 @@
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 4.755646,
-      "start": 39.189705000000004,
-      "end": 43.945351
+      "cached": false
     },
     {
       "index": 5,
@@ -72,10 +60,7 @@
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 15.591655,
-      "start": 43.945351,
-      "end": 59.537006000000005
+      "cached": false
     },
     {
       "index": 6,
@@ -85,23 +70,17 @@
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 3.878435,
-      "start": 59.537006000000005,
-      "end": 63.41544100000001
+      "cached": false
     },
     {
       "index": 7,
-      "text": "Meanwhile, Manny is upset because he didn’t get a part in a school play. Jay buys him a motivational poster and hangs it above his pet turtle’s tank. The poster falls during the night and kills the turtle.",
-      "tts_text": "[a storyteller smoothly moving to the next story] Meanwhile, Manny is upset because he didn’t get a part in a school play. Jay buys him a motivational poster and hangs it above his pet turtle’s tank. The poster falls during the night and kills the turtle.",
+      "text": "Meanwhile, Manny is upset because he didn’t get a part in a school play. Jay buys him a motivational poster and hangs it above his pet turtle’s tank. The poster falls and kills the turtle.",
+      "tts_text": "[a storyteller smoothly moving to the next story] Meanwhile, Manny is upset because he didn’t get a part in a school play. Jay buys him a motivational poster and hangs it above his pet turtle’s tank. The poster falls and kills the turtle.",
       "tags": [
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 13.424444,
-      "start": 63.41544100000001,
-      "end": 76.83988500000001
+      "cached": false
     },
     {
       "index": 8,
@@ -111,88 +90,82 @@
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 14.404853,
-      "start": 76.83988500000001,
-      "end": 91.24473800000001
+      "cached": false
     },
     {
       "index": 9,
-      "text": "Jay explains that years ago, he accidentally killed one of Mitchell’s pets and told him the truth. Mitchell never forgot it, so Jay thinks lying may be kinder this time. But during the turtle’s funeral, he feels too guilty and finally admits what happened.",
-      "tts_text": "[a thoughtful storyteller reflecting on the character] Jay explains that years ago, he accidentally killed one of Mitchell’s pets and told him the truth. Mitchell never forgot it, so Jay thinks lying may be kinder this time. But during the turtle’s funeral, he feels too guilty and finally admits what happened.",
+      "text": "Jay explains that years ago, he accidentally killed one of Mitchell’s pets and told him the truth. Mitchell never forgot it, so Jay thinks lying may be kinder this time.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Jay explains that years ago, he accidentally killed one of Mitchell’s pets and told him the truth. Mitchell never forgot it, so Jay thinks lying may be kinder this time.",
       "tags": [
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 16.210839,
-      "start": 91.24473800000001,
-      "end": 107.455577
+      "cached": false
     },
     {
       "index": 10,
-      "text": "Manny calmly tells him that he already knew because the story made no sense.",
-      "tts_text": "[a storyteller building gentle suspense] Manny calmly tells him that he already knew because the story made no sense.",
+      "text": "During the turtle’s funeral, Manny notices that he left an open bag of chips in his room. He starts blaming himself, thinking the food must have attracted the raccoon. Jay feels terrible, but he still doesn’t admit what really happened.",
+      "tts_text": "[a storyteller building gentle suspense] During the turtle’s funeral, Manny notices that he left an open bag of chips in his room. He starts blaming himself, thinking the food must have attracted the raccoon. Jay feels terrible, but he still doesn’t admit what really happened.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 4.239637,
-      "start": 107.455577,
-      "end": 111.695214
+      "cached": false
     },
     {
       "index": 11,
-      "text": "Mitchell is also struggling because his job keeps taking him away from Cameron and Lily. He has already missed several important moments, and when his boss calls him into work on a family day, Mitchell finally says no.",
-      "tts_text": "[a storyteller warmly enjoying the happy moment] Mitchell is also struggling because his job keeps taking him away from Cameron and Lily. He has already missed several important moments, and when his boss calls him into work on a family day, Mitchell finally says no.",
+      "text": "That night, Jay can’t sleep. When he goes to Manny’s room, Manny is already awake waiting for him. Manny asks him directly if it really was a raccoon.",
+      "tts_text": "[a storyteller warmly enjoying the happy moment] That night, Jay can’t sleep. When he goes to Manny’s room, Manny is already awake waiting for him. Manny asks him directly if it really was a raccoon.",
       "tags": [
         "[a storyteller warmly enjoying the happy moment]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 13.321247,
-      "start": 111.695214,
-      "end": 125.016461
+      "cached": false
     },
     {
       "index": 12,
-      "text": "His boss tells him that if he leaves, he’s fired. Mitchell walks out feeling proud and free. Once he gets home, however, he starts worrying about money and panics over what he has done.",
-      "tts_text": "[a heartfelt storyteller bringing the story home] His boss tells him that if he leaves, he’s fired. Mitchell walks out feeling proud and free. Once he gets home, however, he starts worrying about money and panics over what he has done.",
+      "text": "Jay finally admits that he killed Shel by accident and says he lied because their relationship had only recently started getting better, and he was afraid Manny would be angry with him.",
+      "tts_text": "[a heartfelt storyteller bringing the story home] Jay finally admits that he killed Shel by accident and says he lied because their relationship had only recently started getting better, and he was afraid Manny would be angry with him.",
       "tags": [
         "[a heartfelt storyteller bringing the story home]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 11.566848,
-      "start": 125.016461,
-      "end": 136.583309
+      "cached": false
     },
     {
       "index": 13,
-      "text": "Cameron supports him, and Jay offers to help while he looks for another job, although the only help Jay actually gives him is the same motivational poster.",
-      "tts_text": "Cameron supports him, and Jay offers to help while he looks for another job, although the only help Jay actually gives him is the same motivational poster.",
+      "text": "Mitchell is also struggling because his job keeps taking him away from Cameron and Lily. He has already missed several important moments, and when his boss calls him into work on a family day, Mitchell finally says no.",
+      "tts_text": "Mitchell is also struggling because his job keeps taking him away from Cameron and Lily. He has already missed several important moments, and when his boss calls him into work on a family day, Mitchell finally says no.",
       "tags": [],
       "speed": 0.9,
-      "cached": false,
-      "duration": 9.915624,
-      "start": 136.583309,
-      "end": 146.49893300000002
+      "cached": false
     },
     {
       "index": 14,
+      "text": "His boss tells him that if he leaves, he’s fired. Mitchell walks out feeling proud and free. Once he gets home, however, he starts worrying about money and panics over what he has done.",
+      "tts_text": "His boss tells him that if he leaves, he’s fired. Mitchell walks out feeling proud and free. Once he gets home, however, he starts worrying about money and panics over what he has done.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 15,
+      "text": "Cameron supports him, and Jay offers to help while he looks for another job, although the “help” turns out to be the same motivational poster.",
+      "tts_text": "Cameron supports him, and Jay offers to help while he looks for another job, although the “help” turns out to be the same motivational poster.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false
+    },
+    {
+      "index": 16,
       "text": "In the end, telling the truth is uncomfortable, but every lie in this episode only makes things harder.",
       "tts_text": "[thoughtful conclusion] In the end, telling the truth is uncomfortable, but every lie in this episode only makes things harder.",
       "tags": [
         "[thoughtful conclusion]"
       ],
       "speed": 0.9,
-      "cached": false,
-      "duration": 5.684444,
-      "start": 146.49893300000002,
-      "end": 152.18337700000004
+      "cached": false
     }
   ],
-  "audio_file": "english.wav",
-  "duration": 152.18337700000004
+  "audio_file": "english.wav"
 }

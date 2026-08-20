@@ -10,7 +10,7 @@ const root = process.cwd();
 const courseArgumentIndex = process.argv.indexOf("--course");
 const slug = courseArgumentIndex >= 0 ? process.argv[courseArgumentIndex + 1] : "modern-family-s01e01";
 const generateAll = process.argv.includes("--all");
-const referenceId = process.env.FISH_AUDIO_REFERENCE_ID ?? "933563129e564b19a115bedd57b7406a";
+const referenceId = process.env.FISH_AUDIO_REFERENCE_ID ?? "76fcd904aa4b4a47af107686abd68248";
 const apiKey = process.env.FISH_AUDIO_API_KEY ?? process.env.FISH_API_KEY;
 const model = process.env.FISH_AUDIO_MODEL ?? "s2.1-pro-free";
 const maxRetries = 4;

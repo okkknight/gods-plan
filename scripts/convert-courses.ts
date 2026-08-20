@@ -26,9 +26,20 @@ function parseSeasonFile(filePath: string): EpisodeBlock[] {
 }
 
 function convertSeasonFolder() {
-  const englishPath = path.join(seasonSourceDir, "Modern Family S01 Spoken English.md");
-  const chinesePath = path.join(seasonSourceDir, "Modern_Family_Season_1_Chinese_Translation.md");
-  const cuePath = path.join(seasonSourceDir, "Modern_Family_Season_1_Cue_Version.md");
+  const englishPath = [
+    "Modern_Family_Season_1_English_Final_Fact_Checked.md",
+    "Modern Family S01 Spoken English.md",
+  ].map((file) => path.join(seasonSourceDir, file)).find((file) => fs.existsSync(file));
+  const chinesePath = [
+    "Modern_Family_Season_1_Chinese_Translation_Final_Fact_Checked.md",
+    "Modern_Family_Season_1_Chinese_Translation_Fact_Checked.md",
+    "Modern_Family_Season_1_Chinese_Translation.md",
+  ].map((file) => path.join(seasonSourceDir, file)).find((file) => fs.existsSync(file));
+  const cuePath = [
+    "Modern_Family_Season_1_Cue_Version_Final_Fact_Checked.md",
+    "Modern_Family_Season_1_Cue_Version.md",
+  ].map((file) => path.join(seasonSourceDir, file)).find((file) => fs.existsSync(file));
+  if (!englishPath || !chinesePath || !cuePath) throw new Error("ModernFamily S01 缺少 English、Chinese 或 Cue 课程文件");
   const [english, chinese, cue] = [englishPath, chinesePath, cuePath].map(parseSeasonFile);
   if (english.length !== 24 || chinese.length !== 24 || cue.length !== 24) {
     throw new Error(`ModernFamily S01 必须各包含 24 集：English=${english.length}, Chinese=${chinese.length}, Cue=${cue.length}`);
