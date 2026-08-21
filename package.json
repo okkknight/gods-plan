@@ -20,7 +20,8 @@
     "course:import": "tsx scripts/import-course.ts",
     "audio:generate": "tsx scripts/generate-course-audio.ts",
     "audio:generate:all": "tsx scripts/generate-course-audio.ts --all",
-    "audio:enrich": "tsx scripts/enrich-audio-manifests.ts"
+    "audio:enrich": "tsx scripts/enrich-audio-manifests.ts",
+    "audio:validate": "tsx scripts/validate-audio-assets.ts"
   },
   "dependencies": {
     "@libsql/client": "^0.15.9",

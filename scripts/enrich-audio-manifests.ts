@@ -10,6 +10,9 @@ type Manifest = { model: string; reference_id: string; volume: number; temperatu
 const root = process.cwd();
 const audioRoot = path.join(root, "public", "audio", "courses");
 const cacheRoot = path.join(root, "data", "audio-cache");
+const requestedSlugs = process.argv
+  .flatMap((argument, index, argumentsList) => argument === "--course" ? [argumentsList[index + 1]] : [])
+  .filter((slug): slug is string => Boolean(slug));
 
 function cacheKey(manifest: Manifest, segment: ManifestSegment) {
   return createHash("sha256").update(JSON.stringify({
@@ -31,7 +34,7 @@ function durationOf(file: string) {
 }
 
 async function main() {
-  const slugs = (await readdir(audioRoot)).filter((entry) => entry.startsWith("modern-family-"));
+  const slugs = (await readdir(audioRoot)).filter((entry) => entry.startsWith("modern-family-") && (!requestedSlugs.length || requestedSlugs.includes(entry)));
   let updated = 0;
   for (const slug of slugs) {
     const manifestPath = path.join(audioRoot, slug, "manifest.json");

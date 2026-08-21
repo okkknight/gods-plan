@@ -47,6 +47,12 @@ function runFfmpeg(args: string[]) {
   if (result.status !== 0) throw new Error(`FFmpeg 失败：${result.stderr}`);
 }
 
+function durationOf(file: string) {
+  const result = spawnSync("ffprobe", ["-v", "error", "-show_entries", "format=duration", "-of", "default=nw=1:nk=1", file], { encoding: "utf8" });
+  if (result.status !== 0) throw new Error(`无法读取音频时长：${file}\n${result.stderr}`);
+  return Number(result.stdout.trim());
+}
+
 async function generateCourse(courseSlug: string) {
   const outputDir = path.join(root, "public", "audio", "courses", courseSlug);
   const course = JSON.parse(await readFile(path.join(root, "content", "courses", `${courseSlug}.json`), "utf8"));
@@ -87,7 +93,14 @@ async function generateCourse(courseSlug: string) {
   runFfmpeg(["-f", "concat", "-safe", "0", "-i", concatFile, "-c", "copy", rawOutput]);
   await mkdir(outputDir, { recursive: true });
   runFfmpeg(["-i", rawOutput, "-af", "loudnorm=I=-16:TP=-1.5:LRA=11", "-ar", "44100", "-ac", "1", "-sample_fmt", "s16", path.join(outputDir, "english.wav")]);
-  await writeFile(path.join(outputDir, "manifest.json"), JSON.stringify({ generated_at: new Date().toISOString(), course: courseSlug, mode: "english", model, reference_id: referenceId, performance_profile: "storyteller-v8", speed: 0.90, volume: 1.5, temperature: 0.9, top_p: 0.92, script_sha256: createHash("sha256").update(english).digest("hex"), segment_count: generated.length, segments: generated.map(({ index, text, ttsText, tags, speed, cached }) => ({ index, text, tts_text: ttsText, tags, speed, cached })), audio_file: "english.wav" }, null, 2));
+  let cursor = 0;
+  const timedSegments = generated.map(({ index, text, ttsText, tags, speed, cached }) => {
+    const duration = durationOf(path.join(normalizedDir, `${String(index).padStart(3, "0")}.wav`));
+    const segment = { index, text, tts_text: ttsText, tags, speed, cached, duration, start: cursor, end: cursor + duration };
+    cursor += duration;
+    return segment;
+  });
+  await writeFile(path.join(outputDir, "manifest.json"), JSON.stringify({ generated_at: new Date().toISOString(), course: courseSlug, mode: "english", model, reference_id: referenceId, performance_profile: "storyteller-v8", speed: 0.90, volume: 1.5, temperature: 0.9, top_p: 0.92, script_sha256: createHash("sha256").update(english).digest("hex"), segment_count: timedSegments.length, duration: cursor, segments: timedSegments, audio_file: "english.wav" }, null, 2));
   await rm(workDir, { recursive: true, force: true });
   console.log(`已生成 ${path.join(outputDir, "english.wav")}，共 ${generated.length} 段`);
 }

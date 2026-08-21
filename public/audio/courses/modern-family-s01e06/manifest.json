@@ -20,7 +20,10 @@
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 8.161247,
+      "start": 0,
+      "end": 8.161247
     },
     {
       "index": 2,
@@ -30,7 +33,10 @@
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 12.753651,
+      "start": 8.161247,
+      "end": 20.914898
     },
     {
       "index": 3,
@@ -40,7 +46,10 @@
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 13.321247,
+      "start": 20.914898,
+      "end": 34.236145
     },
     {
       "index": 4,
@@ -50,7 +59,10 @@
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 14.972449,
+      "start": 34.236145,
+      "end": 49.208594
     },
     {
       "index": 5,
@@ -60,7 +72,10 @@
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 10.483243,
+      "start": 49.208594,
+      "end": 59.691837
     },
     {
       "index": 6,
@@ -70,7 +85,10 @@
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 14.404853,
+      "start": 59.691837,
+      "end": 74.09669
     },
     {
       "index": 7,
@@ -80,7 +98,10 @@
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 15.488435,
+      "start": 74.09669,
+      "end": 89.58512499999999
     },
     {
       "index": 8,
@@ -90,7 +111,10 @@
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 15.127234,
+      "start": 89.58512499999999,
+      "end": 104.71235899999999
     },
     {
       "index": 9,
@@ -100,7 +124,10 @@
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 10.63805,
+      "start": 104.71235899999999,
+      "end": 115.35040899999998
     },
     {
       "index": 10,
@@ -110,7 +137,10 @@
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 5.581224,
+      "start": 115.35040899999998,
+      "end": 120.93163299999999
     },
     {
       "index": 11,
@@ -120,7 +150,10 @@
         "[a storyteller warmly enjoying the happy moment]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 12.960045,
+      "start": 120.93163299999999,
+      "end": 133.89167799999998
     },
     {
       "index": 12,
@@ -130,7 +163,10 @@
         "[a heartfelt storyteller bringing the story home]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 6.66483,
+      "start": 133.89167799999998,
+      "end": 140.55650799999998
     },
     {
       "index": 13,
@@ -138,8 +174,12 @@
       "tts_text": "By the end, the children have handled their first day just fine. It’s the parents who spend the whole day worrying, making mistakes, and trying a little too hard to protect them.",
       "tags": [],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 11.618435,
+      "start": 140.55650799999998,
+      "end": 152.17494299999998
     }
   ],
-  "audio_file": "english.wav"
+  "audio_file": "english.wav",
+  "duration": 152.17494299999998
 }

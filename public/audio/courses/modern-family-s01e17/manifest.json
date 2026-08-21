@@ -20,7 +20,10 @@
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 9.24483,
+      "start": 0,
+      "end": 9.24483
     },
     {
       "index": 2,
@@ -30,7 +33,10 @@
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 17.965261,
+      "start": 9.24483,
+      "end": 27.210091000000002
     },
     {
       "index": 3,
@@ -40,7 +46,10 @@
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 13.940454,
+      "start": 27.210091000000002,
+      "end": 41.150545
     },
     {
       "index": 4,
@@ -50,7 +59,10 @@
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 4.910431,
+      "start": 41.150545,
+      "end": 46.060976000000004
     },
     {
       "index": 5,
@@ -60,7 +72,10 @@
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 15.540045,
+      "start": 46.060976000000004,
+      "end": 61.601021
     },
     {
       "index": 6,
@@ -70,7 +85,10 @@
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 4.652426,
+      "start": 61.601021,
+      "end": 66.25344700000001
     },
     {
       "index": 7,
@@ -80,7 +98,10 @@
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 12.340839,
+      "start": 66.25344700000001,
+      "end": 78.59428600000001
     },
     {
       "index": 8,
@@ -90,7 +111,10 @@
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 14.45644,
+      "start": 78.59428600000001,
+      "end": 93.05072600000001
     },
     {
       "index": 9,
@@ -100,7 +124,10 @@
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 11.154036,
+      "start": 93.05072600000001,
+      "end": 104.20476200000002
     },
     {
       "index": 10,
@@ -110,7 +137,10 @@
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 15.075646,
+      "start": 104.20476200000002,
+      "end": 119.28040800000002
     },
     {
       "index": 11,
@@ -120,7 +150,10 @@
         "[a storyteller warmly enjoying the happy moment]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 10.483243,
+      "start": 119.28040800000002,
+      "end": 129.763651
     },
     {
       "index": 12,
@@ -130,7 +163,10 @@
         "[a heartfelt storyteller bringing the story home]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 11.308844,
+      "start": 129.763651,
+      "end": 141.072495
     },
     {
       "index": 13,
@@ -138,7 +174,10 @@
       "tts_text": "Mitchell is also struggling because his job keeps taking him away from Cameron and Lily. He has already missed several important moments, and when his boss calls him into work on a family day, Mitchell finally says no.",
       "tags": [],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 12.805238,
+      "start": 141.072495,
+      "end": 153.877733
     },
     {
       "index": 14,
@@ -146,7 +185,10 @@
       "tts_text": "His boss tells him that if he leaves, he’s fired. Mitchell walks out feeling proud and free. Once he gets home, however, he starts worrying about money and panics over what he has done.",
       "tags": [],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 11.721633,
+      "start": 153.877733,
+      "end": 165.599366
     },
     {
       "index": 15,
@@ -154,7 +196,10 @@
       "tts_text": "Cameron supports him, and Jay offers to help while he looks for another job, although the “help” turns out to be the same motivational poster.",
       "tags": [],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 8.986848,
+      "start": 165.599366,
+      "end": 174.586214
     },
     {
       "index": 16,
@@ -164,8 +209,12 @@
         "[thoughtful conclusion]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 4.910431,
+      "start": 174.586214,
+      "end": 179.496645
     }
   ],
-  "audio_file": "english.wav"
+  "audio_file": "english.wav",
+  "duration": 179.496645
 }

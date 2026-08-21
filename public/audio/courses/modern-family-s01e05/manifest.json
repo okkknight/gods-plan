@@ -20,7 +20,10 @@
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 10.276848,
+      "start": 0,
+      "end": 10.276848
     },
     {
       "index": 2,
@@ -30,7 +33,10 @@
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 8.05805,
+      "start": 10.276848,
+      "end": 18.334898
     },
     {
       "index": 3,
@@ -40,7 +46,10 @@
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 12.805238,
+      "start": 18.334898,
+      "end": 31.140136
     },
     {
       "index": 4,
@@ -50,7 +59,10 @@
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 10.276848,
+      "start": 31.140136,
+      "end": 41.416984
     },
     {
       "index": 5,
@@ -60,7 +72,10 @@
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 10.63805,
+      "start": 41.416984,
+      "end": 52.055034
     },
     {
       "index": 6,
@@ -70,7 +85,10 @@
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 13.476054,
+      "start": 52.055034,
+      "end": 65.531088
     },
     {
       "index": 7,
@@ -80,7 +98,10 @@
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 3.672041,
+      "start": 65.531088,
+      "end": 69.20312899999999
     },
     {
       "index": 8,
@@ -90,7 +111,10 @@
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 15.385238,
+      "start": 69.20312899999999,
+      "end": 84.58836699999999
     },
     {
       "index": 9,
@@ -100,7 +124,10 @@
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 12.805238,
+      "start": 84.58836699999999,
+      "end": 97.393605
     },
     {
       "index": 10,
@@ -110,7 +137,10 @@
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 6.355238,
+      "start": 97.393605,
+      "end": 103.748843
     },
     {
       "index": 11,
@@ -120,7 +150,10 @@
         "[a storyteller warmly enjoying the happy moment]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 9.24483,
+      "start": 103.748843,
+      "end": 112.993673
     },
     {
       "index": 12,
@@ -130,7 +163,10 @@
         "[a heartfelt storyteller bringing the story home]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 16.572041,
+      "start": 112.993673,
+      "end": 129.565714
     },
     {
       "index": 13,
@@ -138,7 +174,10 @@
       "tts_text": "Phil tells Gloria that Claire just needs time too.",
       "tags": [],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 4.446032,
+      "start": 129.565714,
+      "end": 134.01174600000002
     },
     {
       "index": 14,
@@ -146,7 +185,10 @@
       "tts_text": "Claire eventually goes upstairs and gives Gloria a real apology. She admits that Jay’s new marriage was difficult for her at first, but she now sees that Gloria makes him happy.",
       "tags": [],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 11.515238,
+      "start": 134.01174600000002,
+      "end": 145.52698400000003
     },
     {
       "index": 15,
@@ -154,7 +196,10 @@
       "tts_text": "Gloria accepts the apology, but only after making Claire jump into the swimming pool with all her clothes on.",
       "tags": [],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 7.95483,
+      "start": 145.52698400000003,
+      "end": 153.481814
     },
     {
       "index": 16,
@@ -162,7 +207,10 @@
       "tts_text": "Meanwhile, Mitchell has been trying to learn about football because Cameron loves it. He surprises everyone by understanding the game much better than expected, although his interest doesn’t last very long.",
       "tags": [],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 10.947642,
+      "start": 153.481814,
+      "end": 164.42945600000002
     },
     {
       "index": 17,
@@ -170,8 +218,12 @@
       "tts_text": "Once Claire is in the pool, the serious mood disappears. Gloria forgives her, and soon almost everyone is either jumping or being pushed into the water.",
       "tags": [],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 10.896032,
+      "start": 164.42945600000002,
+      "end": 175.325488
     }
   ],
-  "audio_file": "english.wav"
+  "audio_file": "english.wav",
+  "duration": 175.325488
 }

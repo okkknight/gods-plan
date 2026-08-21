@@ -20,7 +20,10 @@
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 9.967234,
+      "start": 0,
+      "end": 9.967234
     },
     {
       "index": 2,
@@ -30,7 +33,10 @@
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 13.992041,
+      "start": 9.967234,
+      "end": 23.959274999999998
     },
     {
       "index": 3,
@@ -40,7 +46,10 @@
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 14.972449,
+      "start": 23.959274999999998,
+      "end": 38.931723999999996
     },
     {
       "index": 4,
@@ -50,7 +59,10 @@
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 14.766054,
+      "start": 38.931723999999996,
+      "end": 53.697778
     },
     {
       "index": 5,
@@ -60,7 +72,10 @@
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 9.038435,
+      "start": 53.697778,
+      "end": 62.736213
     },
     {
       "index": 6,
@@ -70,7 +85,10 @@
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 14.714444,
+      "start": 62.736213,
+      "end": 77.450657
     },
     {
       "index": 7,
@@ -80,7 +98,10 @@
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 14.611247,
+      "start": 77.450657,
+      "end": 92.06190400000001
     },
     {
       "index": 8,
@@ -90,7 +111,10 @@
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 16.262449,
+      "start": 92.06190400000001,
+      "end": 108.32435300000002
     },
     {
       "index": 9,
@@ -100,7 +124,10 @@
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 4.08483,
+      "start": 108.32435300000002,
+      "end": 112.40918300000001
     },
     {
       "index": 10,
@@ -110,7 +137,10 @@
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 15.643243,
+      "start": 112.40918300000001,
+      "end": 128.05242600000003
     },
     {
       "index": 11,
@@ -120,7 +150,10 @@
         "[a storyteller warmly enjoying the happy moment]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 4.910431,
+      "start": 128.05242600000003,
+      "end": 132.962857
     },
     {
       "index": 12,
@@ -130,7 +163,10 @@
         "[a heartfelt storyteller bringing the story home]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 16.314036,
+      "start": 132.962857,
+      "end": 149.27689300000003
     },
     {
       "index": 13,
@@ -138,7 +174,10 @@
       "tts_text": "Unfortunately, the two of them are so relaxed that they accidentally leave Lily behind in an elevator, and Gloria has to bring her back.",
       "tags": [],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 8.00644,
+      "start": 149.27689300000003,
+      "end": 157.28333300000003
     },
     {
       "index": 14,
@@ -146,8 +185,12 @@
       "tts_text": "The vacation is messy, and hardly anyone follows the original plan. Still, Phil and Claire finally get their wedding, Jay finds a better balance, and Mitchell finally learns how to slow down and enjoy the trip.",
       "tags": [],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 13.269637,
+      "start": 157.28333300000003,
+      "end": 170.55297000000002
     }
   ],
-  "audio_file": "english.wav"
+  "audio_file": "english.wav",
+  "duration": 170.55297000000002
 }

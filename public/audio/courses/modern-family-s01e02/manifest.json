@@ -20,7 +20,10 @@
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 8.00644,
+      "start": 0,
+      "end": 8.00644
     },
     {
       "index": 2,
@@ -30,7 +33,10 @@
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 12.960045,
+      "start": 8.00644,
+      "end": 20.966485
     },
     {
       "index": 3,
@@ -40,7 +46,10 @@
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 13.063243,
+      "start": 20.966485,
+      "end": 34.029728
     },
     {
       "index": 4,
@@ -50,7 +59,10 @@
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 14.250045,
+      "start": 34.029728,
+      "end": 48.279773
     },
     {
       "index": 5,
@@ -60,7 +72,10 @@
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 10.225238,
+      "start": 48.279773,
+      "end": 58.505010999999996
     },
     {
       "index": 6,
@@ -70,7 +85,10 @@
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 11.721633,
+      "start": 58.505010999999996,
+      "end": 70.226644
     },
     {
       "index": 7,
@@ -80,7 +98,10 @@
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 8.883628,
+      "start": 70.226644,
+      "end": 79.110272
     },
     {
       "index": 8,
@@ -90,7 +111,10 @@
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 14.714444,
+      "start": 79.110272,
+      "end": 93.824716
     },
     {
       "index": 9,
@@ -100,7 +124,10 @@
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 18.481247,
+      "start": 93.824716,
+      "end": 112.30596299999999
     },
     {
       "index": 10,
@@ -110,7 +137,10 @@
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 13.011633,
+      "start": 112.30596299999999,
+      "end": 125.317596
     },
     {
       "index": 11,
@@ -120,7 +150,10 @@
         "[a storyteller warmly enjoying the happy moment]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 13.218027,
+      "start": 125.317596,
+      "end": 138.535623
     },
     {
       "index": 12,
@@ -130,7 +163,10 @@
         "[a heartfelt storyteller bringing the story home]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 11.360454,
+      "start": 138.535623,
+      "end": 149.896077
     },
     {
       "index": 13,
@@ -140,7 +176,10 @@
         "[empathetic]"
       ],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 14.972449,
+      "start": 149.896077,
+      "end": 164.868526
     },
     {
       "index": 14,
@@ -148,8 +187,12 @@
       "tts_text": "By the end, all three fathers have made mistakes. But they keep trying, and they keep spending time with their children. As Jay stays beside Manny, the caring and protective side of him starts to come out naturally.",
       "tags": [],
       "speed": 0.9,
-      "cached": false
+      "cached": false,
+      "duration": 13.837256,
+      "start": 164.868526,
+      "end": 178.705782
     }
   ],
-  "audio_file": "english.wav"
+  "audio_file": "english.wav",
+  "duration": 178.705782
 }
