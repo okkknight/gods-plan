@@ -140,13 +140,13 @@ Once Claire is __ ___ ____, ___ _______ ____ disappears. Gloria forgives her, __
 
 # Modern Family S01E06 — Run for Your Wife
 
-> 458 words
+> 460 words
 
 This episode takes _____ __ ___ _____ ___ __ school. The kids are _______ ____ __ class, but the parents seem to have _ ______ ____ ____ __ ____ ____ __.
 
 At the Dunphy house, ___ _______ __ ________ _____. Luke has barely _______ ___ ______ _______ that’s due that day, Haley is nervous about her _______ ______, ___ ________ __ _______ __ ___ out the door.
 
-Once the kids are gone, Claire __ _______ _______ __ ______ _ _____ ___ __ home. Phil, however, assumes ___ ____ ____ ______. He cancels a ____ ___________ __ ____ ___ _______ ___ ________ they go running together.
+Once the kids are gone, Claire __ _______ _______ __ ______ _ _____ ___ __ home. Phil, however, assumes ___ ____ ____ ______. He ___________ an ____ _____ so he can ____ her _______ and ________ they go _______ together.
 
 Claire says she ________ ____ _____ because she’s ____ ______ ____ ___. Phil takes this __ _ _________, and the two _____ __ ____. Claire is confident ___’__ ___, but during the race, she realizes that Phil __ ___ ___ ___’_ ______ _______ ____ ___ ____ _____ ____ __ school. She slows down ___ ____ ___ ___. Phil celebrates like __’_ ___ ___ ________, ____ __ ___ ___ __ Haley’s driving-school car _ ___ _______ later.
 

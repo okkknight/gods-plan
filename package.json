@@ -15,6 +15,7 @@
     "db:seed": "tsx scripts/seed.ts",
     "course:convert": "tsx scripts/convert-courses.ts",
     "course:cues:apply-collection": "tsx scripts/apply-revised-cue-collection.ts",
+    "course:cues:apply-synced": "tsx scripts/apply-synced-cue.ts",
     "course:cues:rebuild": "tsx scripts/rebuild-cues-from-english.ts",
     "course:validate": "tsx scripts/validate-course.ts",
     "course:import": "tsx scripts/import-course.ts",

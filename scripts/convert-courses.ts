@@ -36,6 +36,7 @@ function convertSeasonFolder() {
     "Modern_Family_Season_1_Chinese_Translation.md",
   ].map((file) => path.join(seasonSourceDir, file)).find((file) => fs.existsSync(file));
   const cuePath = [
+    "Modern_Family_Season_1_Cue_Version_Final_Synced.md",
     "Modern_Family_Season_1_Cue_Version_Final_Fact_Checked.md",
     "Modern_Family_Season_1_Cue_Version.md",
   ].map((file) => path.join(seasonSourceDir, file)).find((file) => fs.existsSync(file));
