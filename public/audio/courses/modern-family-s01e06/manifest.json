@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T10:41:11.703Z",
+  "generated_at": "2026-08-22T05:05:39.921Z",
   "course": "modern-family-s01e06",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -11,6 +11,7 @@
   "top_p": 0.92,
   "script_sha256": "6e1c9a045d1dd0c4cf550e83ea88356e9bde16553a02f7c4865edd8ea68b9bde",
   "segment_count": 13,
+  "duration": 149.285351,
   "segments": [
     {
       "index": 1,
@@ -20,7 +21,7 @@
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
-      "cached": false,
+      "cached": true,
       "duration": 8.161247,
       "start": 0,
       "end": 8.161247
@@ -33,7 +34,7 @@
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
-      "cached": false,
+      "cached": true,
       "duration": 12.753651,
       "start": 8.161247,
       "end": 20.914898
@@ -46,7 +47,7 @@
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
-      "cached": false,
+      "cached": true,
       "duration": 13.321247,
       "start": 20.914898,
       "end": 34.236145
@@ -59,7 +60,7 @@
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
-      "cached": false,
+      "cached": true,
       "duration": 14.972449,
       "start": 34.236145,
       "end": 49.208594
@@ -72,7 +73,7 @@
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
-      "cached": false,
+      "cached": true,
       "duration": 10.483243,
       "start": 49.208594,
       "end": 59.691837
@@ -85,7 +86,7 @@
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
-      "cached": false,
+      "cached": true,
       "duration": 14.404853,
       "start": 59.691837,
       "end": 74.09669
@@ -98,7 +99,7 @@
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
-      "cached": false,
+      "cached": true,
       "duration": 15.488435,
       "start": 74.09669,
       "end": 89.58512499999999
@@ -111,7 +112,7 @@
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
-      "cached": false,
+      "cached": true,
       "duration": 15.127234,
       "start": 89.58512499999999,
       "end": 104.71235899999999
@@ -124,7 +125,7 @@
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
-      "cached": false,
+      "cached": true,
       "duration": 10.63805,
       "start": 104.71235899999999,
       "end": 115.35040899999998
@@ -137,7 +138,7 @@
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
-      "cached": false,
+      "cached": true,
       "duration": 5.581224,
       "start": 115.35040899999998,
       "end": 120.93163299999999
@@ -150,7 +151,7 @@
         "[a storyteller warmly enjoying the happy moment]"
       ],
       "speed": 0.9,
-      "cached": false,
+      "cached": true,
       "duration": 12.960045,
       "start": 120.93163299999999,
       "end": 133.89167799999998
@@ -164,9 +165,9 @@
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 6.66483,
+      "duration": 5.684444,
       "start": 133.89167799999998,
-      "end": 140.55650799999998
+      "end": 139.576122
     },
     {
       "index": 13,
@@ -175,11 +176,10 @@
       "tags": [],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.618435,
-      "start": 140.55650799999998,
-      "end": 152.17494299999998
+      "duration": 9.709229,
+      "start": 139.576122,
+      "end": 149.285351
     }
   ],
-  "audio_file": "english.wav",
-  "duration": 152.17494299999998
+  "audio_file": "english.wav"
 }
