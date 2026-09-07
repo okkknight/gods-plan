@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T10:42:48.431Z",
+  "generated_at": "2026-09-07T05:30:48.198Z",
   "course": "modern-family-s01e23",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -9,188 +9,210 @@
   "volume": 1.5,
   "temperature": 0.9,
   "top_p": 0.92,
-  "script_sha256": "225eaafc480085bcff6b56b1cc1c270f508f61f04a893eae9c6dca1d8befaf9d",
-  "segment_count": 14,
+  "script_sha256": "fc50088c40df62b67100c00b9211d11e0a7e5f07fd54fb6329faae3d06625d57",
+  "segment_count": 16,
+  "duration": 188.93941000000004,
   "segments": [
     {
       "index": 1,
-      "text": "This episode continues the family’s trip to Hawaii. Everyone wants a different kind of vacation, and most of them have trouble relaxing in the way they planned.",
-      "tts_text": "[a warm storyteller inviting the listener into the story] This episode continues the family’s trip to Hawaii. Everyone wants a different kind of vacation, and most of them have trouble relaxing in the way they planned.",
+      "text": "This episode continues the family’s trip to Hawaii. Everybody arrives with a different idea of what a vacation should be, and almost all of them have to change it.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] This episode continues the family’s trip to Hawaii. Everybody arrives with a different idea of what a vacation should be, and almost all of them have to change it.",
       "tags": [
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 9.967234,
+      "duration": 10.792834,
       "start": 0,
-      "end": 9.967234
+      "end": 10.792834
     },
     {
       "index": 2,
-      "text": "Phil wants to turn the trip into the honeymoon he and Claire never really had. Claire says that traveling with three children doesn’t feel like a vacation, but Phil convinces her to leave the kids with Mitchell and Cameron and spend some time alone with him.",
-      "tts_text": "[a natural conversational storyteller] Phil wants to turn the trip into the honeymoon he and Claire never really had. Claire says that traveling with three children doesn’t feel like a vacation, but Phil convinces her to leave the kids with Mitchell and Cameron and spend some time alone with him.",
+      "text": "Phil wants Hawaii to become the honeymoon he and Claire never had. They got married quickly at a courthouse because Claire was pregnant with Haley, so Phil sees this as a chance to finally do the romantic version properly.",
+      "tts_text": "[a natural conversational storyteller] Phil wants Hawaii to become the honeymoon he and Claire never had. They got married quickly at a courthouse because Claire was pregnant with Haley, so Phil sees this as a chance to finally do the romantic version properly.",
       "tags": [
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.992041,
-      "start": 9.967234,
-      "end": 23.959274999999998
+      "duration": 12.444036,
+      "start": 10.792834,
+      "end": 23.23687
     },
     {
       "index": 3,
-      "text": "They go to the adults-only pool, and Claire finally starts to relax. Then Haley appears and says she’s going out with some teenagers she just met. Claire wants to stop her, but Phil encourages her to trust Haley and enjoy the day.",
-      "tts_text": "[a storyteller building gentle suspense] They go to the adults-only pool, and Claire finally starts to relax. Then Haley appears and says she’s going out with some teenagers she just met. Claire wants to stop her, but Phil encourages her to trust Haley and enjoy the day.",
+      "text": "Claire points out that traveling with three kids doesn’t feel like a honeymoon. To her, it’s a business trip with nicer weather.",
+      "tts_text": "[a storyteller building gentle suspense] Claire points out that traveling with three kids doesn’t feel like a honeymoon. To her, it’s a business trip with nicer weather.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.972449,
-      "start": 23.959274999999998,
-      "end": 38.931723999999996
+      "duration": 7.180839,
+      "start": 23.23687,
+      "end": 30.417709
     },
     {
       "index": 4,
-      "text": "A few hours later, Alex tells them that Haley is drunk and throwing up in the bathroom. Claire takes care of her and warns her that alcohol will always make her feel this terrible. Phil’s romantic plan seems to be over, but he has one more surprise.",
-      "tts_text": "[a storyteller with playful humor] A few hours later, Alex tells them that Haley is drunk and throwing up in the bathroom. Claire takes care of her and warns her that alcohol will always make her feel this terrible. Phil’s romantic plan seems to be over, but he has one more surprise.",
+      "text": "Phil gets her to leave the kids with Mitchell and Cameron and go to the adults-only pool. Claire slowly starts to relax. Then Haley shows up and says she wants to go to another hotel with teenagers she just met.",
+      "tts_text": "[a storyteller with playful humor] Phil gets her to leave the kids with Mitchell and Cameron and go to the adults-only pool. Claire slowly starts to relax. Then Haley shows up and says she wants to go to another hotel with teenagers she just met.",
       "tags": [
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.766054,
-      "start": 38.931723999999996,
-      "end": 53.697778
+      "duration": 15.075646,
+      "start": 30.417709,
+      "end": 45.493355
     },
     {
       "index": 5,
-      "text": "He arranges a small wedding ceremony so they can finally have the wedding they missed years ago. The whole family joins them as they renew their vows.",
-      "tts_text": "[an animated storyteller explaining the scene] He arranges a small wedding ceremony so they can finally have the wedding they missed years ago. The whole family joins them as they renew their vows.",
+      "text": "Claire wants to follow her, but Phil talks her into trusting Haley and letting go for once.",
+      "tts_text": "[an animated storyteller explaining the scene] Claire wants to follow her, but Phil talks her into trusting Haley and letting go for once.",
       "tags": [
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 9.038435,
-      "start": 53.697778,
-      "end": 62.736213
+      "duration": 6.303628,
+      "start": 45.493355,
+      "end": 51.796983
     },
     {
       "index": 6,
-      "text": "Meanwhile, Jay plans to spend the vacation eating, drinking, and doing nothing. Then his brother calls and reminds him that their father died at sixty-three, the same age Jay has just turned. Jay suddenly becomes worried about his health.",
-      "tts_text": "[a storyteller emphasizing the surprising turn] Meanwhile, Jay plans to spend the vacation eating, drinking, and doing nothing. Then his brother calls and reminds him that their father died at sixty-three, the same age Jay has just turned. Jay suddenly becomes worried about his health.",
+      "text": "A few hours later, Alex tells them Haley is upstairs drunk and throwing up. Claire is furious with herself for ignoring her instincts. She looks after Haley and reminds her how lucky she is that nothing worse happened.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] A few hours later, Alex tells them Haley is upstairs drunk and throwing up. Claire is furious with herself for ignoring her instincts. She looks after Haley and reminds her how lucky she is that nothing worse happened.",
       "tags": [
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.714444,
-      "start": 62.736213,
-      "end": 77.450657
+      "duration": 13.063243,
+      "start": 51.796983,
+      "end": 64.860226
     },
     {
       "index": 7,
-      "text": "He starts exercising, swimming, and choosing healthy food. Gloria gets annoyed because she brought him to Hawaii to relax, not to turn the trip into a fitness camp. Jay pushes himself too hard and eventually hurts his back while getting into a hammock.",
-      "tts_text": "[a storyteller smoothly moving to the next story] He starts exercising, swimming, and choosing healthy food. Gloria gets annoyed because she brought him to Hawaii to relax, not to turn the trip into a fitness camp. Jay pushes himself too hard and eventually hurts his back while getting into a hammock.",
+      "text": "When Haley asks if drinking always makes you feel this terrible, Claire says yes without hesitation. It’s not exactly true, but Claire is happy to let her believe it.",
+      "tts_text": "[a storyteller smoothly moving to the next story] When Haley asks if drinking always makes you feel this terrible, Claire says yes without hesitation. It’s not exactly true, but Claire is happy to let her believe it.",
       "tags": [
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.611247,
-      "start": 77.450657,
-      "end": 92.06190400000001
+      "duration": 10.999252,
+      "start": 64.860226,
+      "end": 75.859478
     },
     {
       "index": 8,
-      "text": "Phil finds him stuck there and helps him return to the family. Jay finally tells Gloria why he’s been acting differently. He doesn’t want to die young like his father. Gloria understands, but she also reminds him that enjoying life matters.",
-      "tts_text": "[a storyteller with warm empathy] Phil finds him stuck there and helps him return to the family. Jay finally tells Gloria why he’s been acting differently. He doesn’t want to die young like his father. Gloria understands, but she also reminds him that enjoying life matters.",
+      "text": "Phil’s honeymoon idea seems finished, but he has one last surprise. He realizes the thing they really missed wasn’t the honeymoon—it was the wedding. He arranges a small ceremony at the hotel, and the whole family gathers while Phil and Claire renew their vows.",
+      "tts_text": "[a storyteller with warm empathy] Phil’s honeymoon idea seems finished, but he has one last surprise. He realizes the thing they really missed wasn’t the honeymoon—it was the wedding. He arranges a small ceremony at the hotel, and the whole family gathers while Phil and Claire renew their vows.",
       "tags": [
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 16.262449,
-      "start": 92.06190400000001,
-      "end": 108.32435300000002
+      "duration": 16.572041,
+      "start": 75.859478,
+      "end": 92.431519
     },
     {
       "index": 9,
-      "text": "Jay finally relaxes and orders the food he wanted in the first place.",
-      "tts_text": "[a thoughtful storyteller reflecting on the character] Jay finally relaxes and orders the food he wanted in the first place.",
+      "text": "Meanwhile, Jay starts the trip wanting to eat, drink, and do nothing. Then his brother reminds him that their father died at sixty-three, Jay’s age now. That scares him. Suddenly Jay is working out, swimming, rowing, and eating healthy food like he can reverse aging in a weekend.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Meanwhile, Jay starts the trip wanting to eat, drink, and do nothing. Then his brother reminds him that their father died at sixty-three, Jay’s age now. That scares him. Suddenly Jay is working out, swimming, rowing, and eating healthy food like he can reverse aging in a weekend.",
       "tags": [
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 4.08483,
-      "start": 108.32435300000002,
-      "end": 112.40918300000001
+      "duration": 17.500839,
+      "start": 92.431519,
+      "end": 109.932358
     },
     {
       "index": 10,
-      "text": "Mitchell has almost the opposite problem. He wants to spend the trip sightseeing, while Cameron would rather sit by the pool and do nothing. Mitchell goes off on his own to visit a lavender farm, but when he comes back, he’s still annoyed that Cameron didn’t go with him.",
-      "tts_text": "[a storyteller building gentle suspense] Mitchell has almost the opposite problem. He wants to spend the trip sightseeing, while Cameron would rather sit by the pool and do nothing. Mitchell goes off on his own to visit a lavender farm, but when he comes back, he’s still annoyed that Cameron didn’t go with him.",
+      "text": "Gloria gets annoyed because he’s turning the vacation into boot camp. Jay pushes too hard and throws out his back getting into a hammock. Phil finds him stuck there, and Jay admits he’s scared of dying at the same age his father did.",
+      "tts_text": "[a storyteller building gentle suspense] Gloria gets annoyed because he’s turning the vacation into boot camp. Jay pushes too hard and throws out his back getting into a hammock. Phil finds him stuck there, and Jay admits he’s scared of dying at the same age his father did.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 15.643243,
-      "start": 112.40918300000001,
-      "end": 128.05242600000003
+      "duration": 13.734036,
+      "start": 109.932358,
+      "end": 123.666394
     },
     {
       "index": 11,
-      "text": "He even makes up a story about meeting Elton John there just to make Cameron jealous.",
-      "tts_text": "[a storyteller warmly enjoying the happy moment] He even makes up a story about meeting Elton John there just to make Cameron jealous.",
+      "text": "Gloria understands, but reminds him that staying alive should still include enjoying himself.",
+      "tts_text": "[a storyteller warmly enjoying the happy moment] Gloria understands, but reminds him that staying alive should still include enjoying himself.",
       "tags": [
         "[a storyteller warmly enjoying the happy moment]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 4.910431,
-      "start": 128.05242600000003,
-      "end": 132.962857
+      "duration": 6.406825,
+      "start": 123.666394,
+      "end": 130.073219
     },
     {
       "index": 12,
-      "text": "Later, Cameron gets Mitchell to finally sit down and relax. Hotel workers put his feet up, hand him a drink, and even massage him. Mitchell is surprised by how good it feels. For the first time, he understands why Cameron is perfectly happy doing nothing on vacation.",
-      "tts_text": "[a heartfelt storyteller bringing the story home] Later, Cameron gets Mitchell to finally sit down and relax. Hotel workers put his feet up, hand him a drink, and even massage him. Mitchell is surprised by how good it feels. For the first time, he understands why Cameron is perfectly happy doing nothing on vacation.",
+      "text": "Mitchell has the opposite problem. He wants to sightsee every minute, while Cameron wants to lie by the pool. Cameron has actually been pretending for years that he loves adventurous travel because Mitchell loves it.",
+      "tts_text": "[a heartfelt storyteller bringing the story home] Mitchell has the opposite problem. He wants to sightsee every minute, while Cameron wants to lie by the pool. Cameron has actually been pretending for years that he loves adventurous travel because Mitchell loves it.",
       "tags": [
         "[a heartfelt storyteller bringing the story home]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 16.314036,
-      "start": 132.962857,
-      "end": 149.27689300000003
+      "duration": 13.11483,
+      "start": 130.073219,
+      "end": 143.188049
     },
     {
       "index": 13,
-      "text": "Unfortunately, the two of them are so relaxed that they accidentally leave Lily behind in an elevator, and Gloria has to bring her back.",
-      "tts_text": "Unfortunately, the two of them are so relaxed that they accidentally leave Lily behind in an elevator, and Gloria has to bring her back.",
+      "text": "Mitchell goes to a lavender farm alone, comes back annoyed, and even invents a story about meeting Elton John to make Cameron jealous.",
+      "tts_text": "Mitchell goes to a lavender farm alone, comes back annoyed, and even invents a story about meeting Elton John to make Cameron jealous.",
       "tags": [],
       "speed": 0.9,
       "cached": false,
-      "duration": 8.00644,
-      "start": 149.27689300000003,
-      "end": 157.28333300000003
+      "duration": 9.502834,
+      "start": 143.188049,
+      "end": 152.690883
     },
     {
       "index": 14,
-      "text": "The vacation is messy, and hardly anyone follows the original plan. Still, Phil and Claire finally get their wedding, Jay finds a better balance, and Mitchell finally learns how to slow down and enjoy the trip.",
-      "tts_text": "The vacation is messy, and hardly anyone follows the original plan. Still, Phil and Claire finally get their wedding, Jay finds a better balance, and Mitchell finally learns how to slow down and enjoy the trip.",
+      "text": "Later, Mitchell finally tries Cameron’s version of vacation. He sits down, gets a drink, puts his feet up, and discovers that doing nothing feels amazing. Unfortunately, they get so relaxed that they accidentally leave Lily in an elevator. Gloria finds her and brings her back.",
+      "tts_text": "Later, Mitchell finally tries Cameron’s version of vacation. He sits down, gets a drink, puts his feet up, and discovers that doing nothing feels amazing. Unfortunately, they get so relaxed that they accidentally leave Lily in an elevator. Gloria finds her and brings her back.",
       "tags": [],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.269637,
-      "start": 157.28333300000003,
-      "end": 170.55297000000002
+      "duration": 19.048844,
+      "start": 152.690883,
+      "end": 171.73972700000002
+    },
+    {
+      "index": 15,
+      "text": "Later, at a banana plantation, they lose her again.",
+      "tts_text": "Later, at a banana plantation, they lose her again.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 4.497642,
+      "start": 171.73972700000002,
+      "end": 176.23736900000003
+    },
+    {
+      "index": 16,
+      "text": "The trip is messy: Haley makes a stupid choice, Jay scares himself, and Mitchell and Cameron literally lose their baby twice. Somehow Phil still manages to end it with the wedding he and Claire never had.",
+      "tts_text": "The trip is messy: Haley makes a stupid choice, Jay scares himself, and Mitchell and Cameron literally lose their baby twice. Somehow Phil still manages to end it with the wedding he and Claire never had.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 12.702041,
+      "start": 176.23736900000003,
+      "end": 188.93941000000004
     }
   ],
-  "audio_file": "english.wav",
-  "duration": 170.55297000000002
+  "audio_file": "english.mp3"
 }

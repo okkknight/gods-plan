@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T04:27:51.093Z",
+  "generated_at": "2026-09-07T05:28:29.964Z",
   "course": "modern-family-s01e21",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -9,210 +9,188 @@
   "volume": 1.5,
   "temperature": 0.9,
   "top_p": 0.92,
-  "script_sha256": "2c9026c600d5fac98f46559972765cd2a43e1c01fe056f6338d4466fa3e78c9a",
-  "segment_count": 16,
+  "script_sha256": "b5b71f8d65482dbdf6661eba9806226d4ab75293c6c1ddaf225b78ea536787e0",
+  "segment_count": 14,
+  "duration": 176.641792,
   "segments": [
     {
       "index": 1,
-      "text": "This episode is about family members trying to help one another, even when they don’t fully understand what the other person needs.",
-      "tts_text": "[a warm storyteller inviting the listener into the story] This episode is about family members trying to help one another, even when they don’t fully understand what the other person needs.",
+      "text": "This episode starts when Phil’s father, Frank, suddenly arrives from Florida in an RV and brings the Dunphys a dog named Scout. The kids fall in love with Scout immediately. Claire does not.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] This episode starts when Phil’s father, Frank, suddenly arrives from Florida in an RV and brings the Dunphys a dog named Scout. The kids fall in love with Scout immediately. Claire does not.",
       "tags": [
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 7.232449,
+      "duration": 14.611247,
       "start": 0,
-      "end": 7.232449
+      "end": 14.611247
     },
     {
       "index": 2,
-      "text": "Phil’s father, Frank, unexpectedly arrives from Florida in an RV. He brings a dog named Scout and says Phil’s mother wanted him but discovered she’s allergic. The children immediately love Scout, but Claire isn’t happy.",
-      "tts_text": "[a natural conversational storyteller] Phil’s father, Frank, unexpectedly arrives from Florida in an RV. He brings a dog named Scout and says Phil’s mother wanted him but discovered she’s allergic. The children immediately love Scout, but Claire isn’t happy.",
+      "text": "Phil was supposed to warn her about the dog and never did. Claire already knows how this story ends: everybody promises to help, everybody gets bored, and she becomes the one taking care of the dog.",
+      "tts_text": "[a natural conversational storyteller] Phil was supposed to warn her about the dog and never did. Claire already knows how this story ends: everybody promises to help, everybody gets bored, and she becomes the one taking care of the dog.",
       "tags": [
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 15.075646,
-      "start": 7.232449,
-      "end": 22.308095
+      "duration": 12.340839,
+      "start": 14.611247,
+      "end": 26.952086
     },
     {
       "index": 3,
-      "text": "She knows everyone will promise to help and she’ll end up doing most of the work.",
-      "tts_text": "[a storyteller building gentle suspense] She knows everyone will promise to help and she’ll end up doing most of the work.",
+      "text": "Then Claire hears Frank crying alone in the RV. Frank and his wife almost never spend time apart, but she’s away on a cruise and Frank showed up by himself. Claire starts wondering if something is wrong in their marriage.",
+      "tts_text": "[a storyteller building gentle suspense] Then Claire hears Frank crying alone in the RV. Frank and his wife almost never spend time apart, but she’s away on a cruise and Frank showed up by himself. Claire starts wondering if something is wrong in their marriage.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 4.394444,
-      "start": 22.308095,
-      "end": 26.702539
+      "duration": 13.321247,
+      "start": 26.952086,
+      "end": 40.273333
     },
     {
       "index": 4,
-      "text": "Claire becomes more concerned after she hears Frank crying alone in the RV. Since he and his wife almost never spend time apart, she suspects there’s a problem in their marriage.",
-      "tts_text": "[a storyteller with playful humor] Claire becomes more concerned after she hears Frank crying alone in the RV. Since he and his wife almost never spend time apart, she suspects there’s a problem in their marriage.",
+      "text": "Phil doesn’t buy it. His father is the happiest person he knows, and the two of them have spent years turning every serious moment into a joke. Claire points out that they talk all the time, but they never actually talk about anything.",
+      "tts_text": "[a storyteller with playful humor] Phil doesn’t buy it. His father is the happiest person he knows, and the two of them have spent years turning every serious moment into a joke. Claire points out that they talk all the time, but they never actually talk about anything.",
       "tags": [
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 10.018844,
-      "start": 26.702539,
-      "end": 36.721383
+      "duration": 14.146848,
+      "start": 40.273333,
+      "end": 54.420181
     },
     {
       "index": 5,
-      "text": "Phil doesn’t believe it because his father is always cheerful, and the two of them usually avoid serious conversations by making jokes.",
-      "tts_text": "[an animated storyteller explaining the scene] Phil doesn’t believe it because his father is always cheerful, and the two of them usually avoid serious conversations by making jokes.",
+      "text": "Phil asks Frank if he’s okay. Frank says he is, makes a joke, and Phil accepts the answer immediately. Later Frank announces that he’s leaving again, but instead of going home, he plans to keep driving around. Now even Phil starts wondering.",
+      "tts_text": "[an animated storyteller explaining the scene] Phil asks Frank if he’s okay. Frank says he is, makes a joke, and Phil accepts the answer immediately. Later Frank announces that he’s leaving again, but instead of going home, he plans to keep driving around. Now even Phil starts wondering.",
       "tags": [
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 7.542041,
-      "start": 36.721383,
-      "end": 44.263424
+      "duration": 14.920839,
+      "start": 54.420181,
+      "end": 69.34102
     },
     {
       "index": 6,
-      "text": "Phil asks Frank if anything is wrong, but Frank says he’s fine and changes the subject. Later, he announces that he’s leaving again, but instead of driving home, he plans to keep traveling by himself. This finally convinces Phil that Claire may be right.",
-      "tts_text": "[a storyteller emphasizing the surprising turn] Phil asks Frank if anything is wrong, but Frank says he’s fine and changes the subject. Later, he announces that he’s leaving again, but instead of driving home, he plans to keep traveling by himself. This finally convinces Phil that Claire may be right.",
+      "text": "Just before Frank leaves, Phil finally asks him directly what’s going on. Frank says he has fallen in love. Phil braces himself for a family disaster. Then Frank explains that he means Scout. After spending days on the road with the dog, he can’t stand leaving him behind.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Just before Frank leaves, Phil finally asks him directly what’s going on. Frank says he has fallen in love. Phil braces himself for a family disaster. Then Frank explains that he means Scout. After spending days on the road with the dog, he can’t stand leaving him behind.",
       "tags": [
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 16.056054,
-      "start": 44.263424,
-      "end": 60.319478000000004
+      "duration": 18.016848,
+      "start": 69.34102,
+      "end": 87.357868
     },
     {
       "index": 7,
-      "text": "Just before Frank leaves, Phil asks him directly what’s going on. Frank admits that he’s fallen in love, but he means Scout. After several days on the road with the dog, he can’t stand the idea of leaving him behind.",
-      "tts_text": "[a storyteller smoothly moving to the next story] Just before Frank leaves, Phil asks him directly what’s going on. Frank admits that he’s fallen in love, but he means Scout. After several days on the road with the dog, he can’t stand the idea of leaving him behind.",
+      "text": "Phil and the kids have grown attached to Scout too, but Phil lets his dad take him.",
+      "tts_text": "[a storyteller smoothly moving to the next story] Phil and the kids have grown attached to Scout too, but Phil lets his dad take him.",
       "tags": [
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.476054,
-      "start": 60.319478000000004,
-      "end": 73.79553200000001
+      "duration": 5.116825,
+      "start": 87.357868,
+      "end": 92.474693
     },
     {
       "index": 8,
-      "text": "Phil and the kids have also become attached to Scout, but Phil realizes the dog belongs with his father and lets Frank take him.",
-      "tts_text": "[a storyteller with warm empathy] Phil and the kids have also become attached to Scout, but Phil realizes the dog belongs with his father and lets Frank take him.",
+      "text": "Meanwhile, Jay pulls Manny out of school to give him the kind of special day Jay once had with his own father. They go to see a movie starring Ben, one of Mitchell’s old classmates. Jay doesn’t realize it’s a horror movie until it’s too late.",
+      "tts_text": "[a storyteller with warm empathy] Meanwhile, Jay pulls Manny out of school to give him the kind of special day Jay once had with his own father. They go to see a movie starring Ben, one of Mitchell’s old classmates. Jay doesn’t realize it’s a horror movie until it’s too late.",
       "tags": [
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 7.438844,
-      "start": 73.79553200000001,
-      "end": 81.23437600000001
+      "duration": 15.178844,
+      "start": 92.474693,
+      "end": 107.653537
     },
     {
       "index": 9,
-      "text": "Meanwhile, Jay takes Manny out of school to see a movie, hoping to give him the kind of special day he once had with his own father. Unfortunately, he chooses a horror movie. Manny becomes terrified and starts imagining that the killer is everywhere.",
-      "tts_text": "[a thoughtful storyteller reflecting on the character] Meanwhile, Jay takes Manny out of school to see a movie, hoping to give him the kind of special day he once had with his own father. Unfortunately, he chooses a horror movie. Manny becomes terrified and starts imagining that the killer is everywhere.",
+      "text": "Manny is terrified afterward, and Gloria is furious. Jay insists getting scared is part of growing up. To prove the movie is fake, he asks Ben to come over and explain it. Ben decides to show up at Manny’s window holding a fake machete.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Manny is terrified afterward, and Gloria is furious. Jay insists getting scared is part of growing up. To prove the movie is fake, he asks Ben to come over and explain it. Ben decides to show up at Manny’s window holding a fake machete.",
       "tags": [
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 15.849637,
-      "start": 81.23437600000001,
-      "end": 97.08401300000001
+      "duration": 16.417234,
+      "start": 107.653537,
+      "end": 124.07077100000001
     },
     {
       "index": 10,
-      "text": "Gloria is furious, but Jay says being scared is part of growing up. To fix the problem, he invites Ben, an actor from the movie, to explain that everything was fake. Ben arrives holding a rubber machete and knocks on Manny’s window without warning.",
-      "tts_text": "[a storyteller building gentle suspense] Gloria is furious, but Jay says being scared is part of growing up. To fix the problem, he invites Ben, an actor from the movie, to explain that everything was fake. Ben arrives holding a rubber machete and knocks on Manny’s window without warning.",
+      "text": "Manny screams, the whole house panics, and by the end everybody is sleeping in the same bed.",
+      "tts_text": "[a storyteller building gentle suspense] Manny screams, the whole house panics, and by the end everybody is sleeping in the same bed.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 15.901247,
-      "start": 97.08401300000001,
-      "end": 112.98526000000001
+      "duration": 6.148844,
+      "start": 124.07077100000001,
+      "end": 130.219615
     },
     {
       "index": 11,
-      "text": "Instead of calming him down, he scares the whole family, and they all end up sleeping in the same bed.",
-      "tts_text": "[a storyteller warmly enjoying the happy moment] Instead of calming him down, he scares the whole family, and they all end up sleeping in the same bed.",
+      "text": "At Mitchell and Cameron’s house, Dylan’s band suddenly loses its drummer. Cameron used to teach music and offers to fill in. Mitchell reminds him they already promised to attend Pepper’s party, but Cameron admits he needs this.",
+      "tts_text": "[a storyteller warmly enjoying the happy moment] At Mitchell and Cameron’s house, Dylan’s band suddenly loses its drummer. Cameron used to teach music and offers to fill in. Mitchell reminds him they already promised to attend Pepper’s party, but Cameron admits he needs this.",
       "tags": [
         "[a storyteller warmly enjoying the happy moment]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 5.994036,
-      "start": 112.98526000000001,
-      "end": 118.979296
+      "duration": 13.321247,
+      "start": 130.219615,
+      "end": 143.540862
     },
     {
       "index": 12,
-      "text": "At Mitchell and Cameron’s house, Dylan suddenly needs a drummer for his band. Cameron used to teach music and quickly offers to fill in.",
-      "tts_text": "[a heartfelt storyteller bringing the story home] At Mitchell and Cameron’s house, Dylan suddenly needs a drummer for his band. Cameron used to teach music and quickly offers to fill in.",
+      "text": "Staying home with Lily all day has made him stir-crazy, and he wants something that feels like his old life.",
+      "tts_text": "[a heartfelt storyteller bringing the story home] Staying home with Lily all day has made him stir-crazy, and he wants something that feels like his old life.",
       "tags": [
         "[a heartfelt storyteller bringing the story home]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 8.625646,
-      "start": 118.979296,
-      "end": 127.60494200000001
+      "duration": 7.387234,
+      "start": 143.540862,
+      "end": 150.928096
     },
     {
       "index": 13,
-      "text": "Mitchell is annoyed because they already promised to attend their friend Pepper’s party, but Cameron admits that staying home with Lily all day has made him restless. He needs something of his own.",
-      "tts_text": "Mitchell is annoyed because they already promised to attend their friend Pepper’s party, but Cameron admits that staying home with Lily all day has made him restless. He needs something of his own.",
+      "text": "Mitchell goes to the gig planning to stay only a few minutes. Then he sees how happy Cameron is and stays. Cameron plays an enormous drum solo and comes offstage convinced he’s basically in the band now. Then the original drummer comes back, ending that dream almost immediately.",
+      "tts_text": "Mitchell goes to the gig planning to stay only a few minutes. Then he sees how happy Cameron is and stays. Cameron plays an enormous drum solo and comes offstage convinced he’s basically in the band now. Then the original drummer comes back, ending that dream almost immediately.",
       "tags": [],
       "speed": 0.9,
       "cached": false,
-      "duration": 12.753651,
-      "start": 127.60494200000001,
-      "end": 140.358593
+      "duration": 17.552449,
+      "start": 150.928096,
+      "end": 168.480545
     },
     {
       "index": 14,
-      "text": "Mitchell goes to the concert planning to stay for only a few minutes, but Cameron is so happy onstage that he stays to support him. Cameron performs an extremely long drum solo and thinks he has found a new place in the band.",
-      "tts_text": "Mitchell goes to the concert planning to stay for only a few minutes, but Cameron is so happy onstage that he stays to support him. Cameron performs an extremely long drum solo and thinks he has found a new place in the band.",
+      "text": "Phil finally has a real conversation with his father, and Mitchell gives Cameron a night to be something other than the parent who stays home.",
+      "tts_text": "Phil finally has a real conversation with his father, and Mitchell gives Cameron a night to be something other than the parent who stays home.",
       "tags": [],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.527642,
-      "start": 140.358593,
-      "end": 153.886235
-    },
-    {
-      "index": 15,
-      "text": "Then the original drummer returns, so his music career ends almost as soon as it begins.",
-      "tts_text": "Then the original drummer returns, so his music career ends almost as soon as it begins.",
-      "tags": [],
-      "speed": 0.9,
-      "cached": false,
-      "duration": 5.839229,
-      "start": 153.886235,
-      "end": 159.725464
-    },
-    {
-      "index": 16,
-      "text": "By the end, Phil has a more honest conversation with his father, Cameron gets a night to feel like his old self again, and Jay’s attempt to cure Manny’s fear only makes the whole family more frightened.",
-      "tts_text": "By the end, Phil has a more honest conversation with his father, Cameron gets a night to feel like his old self again, and Jay’s attempt to cure Manny’s fear only makes the whole family more frightened.",
-      "tags": [],
-      "speed": 0.9,
-      "cached": false,
-      "duration": 12.082834,
-      "start": 159.725464,
-      "end": 171.80829799999998
+      "duration": 8.161247,
+      "start": 168.480545,
+      "end": 176.641792
     }
   ],
-  "audio_file": "english.wav",
-  "duration": 171.80829799999998
+  "audio_file": "english.mp3"
 }

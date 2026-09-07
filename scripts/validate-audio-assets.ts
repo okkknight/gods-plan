@@ -35,11 +35,11 @@ async function main() {
       }
       previousEnd = segment.end;
     }
-    const wavDuration = durationOf(audioPath);
-    if (Math.abs(wavDuration - previousEnd) > 0.1 || (manifest.duration && Math.abs(manifest.duration - wavDuration) > 0.1)) {
-      throw new Error(`${slug}: manifest ${previousEnd.toFixed(3)}s 与 WAV ${wavDuration.toFixed(3)}s 不一致`);
+    const audioDuration = durationOf(audioPath);
+    if (Math.abs(audioDuration - previousEnd) > 0.1 || (manifest.duration && Math.abs(manifest.duration - audioDuration) > 0.1)) {
+      throw new Error(`${slug}: manifest ${previousEnd.toFixed(3)}s 与音频 ${audioDuration.toFixed(3)}s 不一致`);
     }
-    console.log(`${slug}: ${manifest.segments.length} segments, ${wavDuration.toFixed(3)}s OK`);
+    console.log(`${slug}: ${manifest.segments.length} segments, ${audioDuration.toFixed(3)}s OK`);
   }
 }
 

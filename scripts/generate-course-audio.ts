@@ -92,7 +92,9 @@ async function generateCourse(courseSlug: string) {
   const rawOutput = path.join(workDir, "combined.wav");
   runFfmpeg(["-f", "concat", "-safe", "0", "-i", concatFile, "-c", "copy", rawOutput]);
   await mkdir(outputDir, { recursive: true });
-  runFfmpeg(["-i", rawOutput, "-af", "loudnorm=I=-16:TP=-1.5:LRA=11", "-ar", "44100", "-ac", "1", "-sample_fmt", "s16", path.join(outputDir, "english.wav")]);
+  const deliveryFile = "english.mp3";
+  runFfmpeg(["-i", rawOutput, "-af", "loudnorm=I=-16:TP=-1.5:LRA=11", "-ar", "44100", "-ac", "1", "-codec:a", "libmp3lame", "-b:a", "96k", path.join(outputDir, deliveryFile)]);
+  await rm(path.join(outputDir, "english.wav"), { force: true });
   let cursor = 0;
   const timedSegments = generated.map(({ index, text, ttsText, tags, speed, cached }) => {
     const duration = durationOf(path.join(normalizedDir, `${String(index).padStart(3, "0")}.wav`));
@@ -100,9 +102,9 @@ async function generateCourse(courseSlug: string) {
     cursor += duration;
     return segment;
   });
-  await writeFile(path.join(outputDir, "manifest.json"), JSON.stringify({ generated_at: new Date().toISOString(), course: courseSlug, mode: "english", model, reference_id: referenceId, performance_profile: "storyteller-v8", speed: 0.90, volume: 1.5, temperature: 0.9, top_p: 0.92, script_sha256: createHash("sha256").update(english).digest("hex"), segment_count: timedSegments.length, duration: cursor, segments: timedSegments, audio_file: "english.wav" }, null, 2));
+  await writeFile(path.join(outputDir, "manifest.json"), JSON.stringify({ generated_at: new Date().toISOString(), course: courseSlug, mode: "english", model, reference_id: referenceId, performance_profile: "storyteller-v8", speed: 0.90, volume: 1.5, temperature: 0.9, top_p: 0.92, script_sha256: createHash("sha256").update(english).digest("hex"), segment_count: timedSegments.length, duration: cursor, segments: timedSegments, audio_file: deliveryFile }, null, 2));
   await rm(workDir, { recursive: true, force: true });
-  console.log(`已生成 ${path.join(outputDir, "english.wav")}，共 ${generated.length} 段`);
+  console.log(`已生成 ${path.join(outputDir, deliveryFile)}，共 ${generated.length} 段`);
 }
 
 async function main() {

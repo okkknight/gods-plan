@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T04:22:39.026Z",
+  "generated_at": "2026-09-07T05:19:28.825Z",
   "course": "modern-family-s01e13",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -9,177 +9,188 @@
   "volume": 1.5,
   "temperature": 0.9,
   "top_p": 0.92,
-  "script_sha256": "d0f258b7d39cb5fa15b8c9b29e0498e0775c0075a489123c1401ddbfc9d7fde6",
-  "segment_count": 13,
+  "script_sha256": "a8f5ad497bb2015d9cd53ff7a4de6688324a447ab57e4c60d46c7bbba8445d45",
+  "segment_count": 14,
+  "duration": 162.554989,
   "segments": [
     {
       "index": 1,
-      "text": "This episode is about whether people can really change. Nobody becomes a completely different person, but a few of them manage to change just enough.",
-      "tts_text": "[a warm storyteller inviting the listener into the story] This episode is about whether people can really change. Nobody becomes a completely different person, but a few of them manage to change just enough.",
+      "text": "This episode asks whether people can really change. The answer seems to be yes, but not by much.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] This episode asks whether people can really change. The answer seems to be yes, but not by much.",
       "tags": [
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 8.625646,
+      "duration": 7.077642,
       "start": 0,
-      "end": 8.625646
+      "end": 7.077642
     },
     {
       "index": 2,
-      "text": "Jay runs into Cameron while having lunch with some old friends. Instead of introducing him as Mitchell’s partner, Jay calls him “a friend of my son.” Mitchell is upset because he and Cameron have been together for five years and are raising a daughter together.",
-      "tts_text": "[a natural conversational storyteller] Jay runs into Cameron while having lunch with some old friends. Instead of introducing him as Mitchell’s partner, Jay calls him “a friend of my son.” Mitchell is upset because he and Cameron have been together for five years and are raising a daughter together.",
+      "text": "Jay runs into Cameron while having lunch with some old friends. Instead of introducing him as Mitchell’s partner, Jay calls him “a friend of my son.” Cameron lets it go, but Mitchell doesn’t.",
+      "tts_text": "[a natural conversational storyteller] Jay runs into Cameron while having lunch with some old friends. Instead of introducing him as Mitchell’s partner, Jay calls him “a friend of my son.” Cameron lets it go, but Mitchell doesn’t.",
       "tags": [
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.766054,
-      "start": 8.625646,
-      "end": 23.3917
+      "duration": 11.308844,
+      "start": 7.077642,
+      "end": 18.386486
     },
     {
       "index": 3,
-      "text": "Mitchell confronts Jay, but Jay says his friends wouldn’t understand. To make him question his attitude, Mitchell claims that Jay’s friend Shorty is gay. He isn’t, but Mitchell is so confident that Jay starts wondering whether it could be true.",
-      "tts_text": "[a storyteller building gentle suspense] Mitchell confronts Jay, but Jay says his friends wouldn’t understand. To make him question his attitude, Mitchell claims that Jay’s friend Shorty is gay. He isn’t, but Mitchell is so confident that Jay starts wondering whether it could be true.",
+      "text": "He and Cam have been together for five years and are raising Lily, so Mitchell is tired of Jay acting like their relationship is something he has to hide from other people.",
+      "tts_text": "[a storyteller building gentle suspense] He and Cam have been together for five years and are raising Lily, so Mitchell is tired of Jay acting like their relationship is something he has to hide from other people.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.972449,
-      "start": 23.3917,
-      "end": 38.364149
+      "duration": 9.451247,
+      "start": 18.386486,
+      "end": 27.837733
     },
     {
       "index": 4,
-      "text": "Gloria also thinks Shorty might be gay and encourages Jay to talk to him. Jay takes Shorty golfing and awkwardly tells him that he can share his secret. Shorty finally admits that he’s hiding something: he owes a dangerous gambler twenty thousand dollars.",
-      "tts_text": "[a storyteller with playful humor] Gloria also thinks Shorty might be gay and encourages Jay to talk to him. Jay takes Shorty golfing and awkwardly tells him that he can share his secret. Shorty finally admits that he’s hiding something: he owes a dangerous gambler twenty thousand dollars.",
+      "text": "When Mitchell confronts him, Jay says his old friends wouldn’t understand. Mitchell decides to mess with him and claims that Jay’s friend Shorty is gay. He isn’t, but Mitchell sounds so sure that Jay starts wondering if he’s missed something obvious for thirty years.",
+      "tts_text": "[a storyteller with playful humor] When Mitchell confronts him, Jay says his old friends wouldn’t understand. Mitchell decides to mess with him and claims that Jay’s friend Shorty is gay. He isn’t, but Mitchell sounds so sure that Jay starts wondering if he’s missed something obvious for thirty years.",
       "tags": [
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 16.675261,
-      "start": 38.364149,
-      "end": 55.03941
+      "duration": 13.630839,
+      "start": 27.837733,
+      "end": 41.468572
     },
     {
       "index": 5,
-      "text": "Jay assumes this is the secret they were discussing and offers to help. He then discovers that Shorty isn’t gay at all. When he learns that Mitchell made the whole thing up, he’s furious, especially because the misunderstanding has now cost him twenty thousand dollars.",
-      "tts_text": "[an animated storyteller explaining the scene] Jay assumes this is the secret they were discussing and offers to help. He then discovers that Shorty isn’t gay at all. When he learns that Mitchell made the whole thing up, he’s furious, especially because the misunderstanding has now cost him twenty thousand dollars.",
+      "text": "Gloria makes it worse by saying she believes it too. She pushes Jay to talk to Shorty because Jay has a gay son and should know how to handle it. So Jay takes Shorty to the driving range and awkwardly tells him that whatever secret he’s carrying, he can open up.",
+      "tts_text": "[an animated storyteller explaining the scene] Gloria makes it worse by saying she believes it too. She pushes Jay to talk to Shorty because Jay has a gay son and should know how to handle it. So Jay takes Shorty to the driving range and awkwardly tells him that whatever secret he’s carrying, he can open up.",
       "tags": [
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 16.778458,
-      "start": 55.03941,
-      "end": 71.817868
+      "duration": 14.559637,
+      "start": 41.468572,
+      "end": 56.028209000000004
     },
     {
       "index": 6,
-      "text": "Mitchell apologizes, but he’s also proud of Jay. Even though Jay was uncomfortable, he still tried to support his friend. For Mitchell, that small effort shows that his father is slowly becoming more open-minded.",
-      "tts_text": "[a storyteller emphasizing the surprising turn] Mitchell apologizes, but he’s also proud of Jay. Even though Jay was uncomfortable, he still tried to support his friend. For Mitchell, that small effort shows that his father is slowly becoming more open-minded.",
+      "text": "Shorty finally admits the truth: he owes a dangerous bookie twenty thousand dollars. Jay, still thinking they’re talking about being gay, has basically offered to help before he understands what the secret is.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Shorty finally admits the truth: he owes a dangerous bookie twenty thousand dollars. Jay, still thinking they’re talking about being gay, has basically offered to help before he understands what the secret is.",
       "tags": [
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 12.340839,
-      "start": 71.817868,
-      "end": 84.158707
+      "duration": 12.960045,
+      "start": 56.028209000000004,
+      "end": 68.988254
     },
     {
       "index": 7,
-      "text": "Meanwhile, Phil installs a complicated universal remote for the family’s home theater. Claire can’t use it and becomes angry because Phil always explains technology to her like she’s a child. She loses her temper and breaks the remote.",
-      "tts_text": "[a storyteller smoothly moving to the next story] Meanwhile, Phil installs a complicated universal remote for the family’s home theater. Claire can’t use it and becomes angry because Phil always explains technology to her like she’s a child. She loses her temper and breaks the remote.",
+      "text": "By the time he realizes Shorty is straight, he’s somehow on the hook for twenty grand.",
+      "tts_text": "[a storyteller smoothly moving to the next story] By the time he realizes Shorty is straight, he’s somehow on the hook for twenty grand.",
       "tags": [
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.611247,
-      "start": 84.158707,
-      "end": 98.76995400000001
+      "duration": 5.839229,
+      "start": 68.988254,
+      "end": 74.827483
     },
     {
       "index": 8,
-      "text": "Phil buys another one and says the problem isn’t the remote. To prove it, he agrees to teach Haley how to use it in twenty minutes. Claire is sure he’ll fail, but Haley learns quickly and completes every task Phil gives her.",
-      "tts_text": "[a storyteller with warm empathy] Phil buys another one and says the problem isn’t the remote. To prove it, he agrees to teach Haley how to use it in twenty minutes. Claire is sure he’ll fail, but Haley learns quickly and completes every task Phil gives her.",
+      "text": "Jay is furious when he finds out Mitchell made the whole thing up. Mitchell apologizes, but he’s also genuinely proud of his father. Jay was uncomfortable, but he still tried to support a friend he thought was gay. That’s more progress than Mitchell expected.",
+      "tts_text": "[a storyteller with warm empathy] Jay is furious when he finds out Mitchell made the whole thing up. Mitchell apologizes, but he’s also genuinely proud of his father. Jay was uncomfortable, but he still tried to support a friend he thought was gay. That’s more progress than Mitchell expected.",
       "tags": [
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.682449,
-      "start": 98.76995400000001,
-      "end": 112.45240300000002
+      "duration": 14.198435,
+      "start": 74.827483,
+      "end": 89.025918
     },
     {
       "index": 9,
-      "text": "Claire admits that Phil has proved his point, but she still doesn’t want him teaching her. Later that night, she quietly wakes Haley and asks for help. She’s willing to learn, just not from her husband.",
-      "tts_text": "[a thoughtful storyteller reflecting on the character] Claire admits that Phil has proved his point, but she still doesn’t want him teaching her. Later that night, she quietly wakes Haley and asks for help. She’s willing to learn, just not from her husband.",
+      "text": "Meanwhile, Phil installs a complicated universal remote and Claire can’t get it to work. Phil keeps explaining it in the kind of patient voice that makes her want to throw something, so she finally does—she breaks the remote.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Meanwhile, Phil installs a complicated universal remote and Claire can’t get it to work. Phil keeps explaining it in the kind of patient voice that makes her want to throw something, so she finally does—she breaks the remote.",
       "tags": [
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 12.289252,
-      "start": 112.45240300000002,
-      "end": 124.74165500000002
+      "duration": 13.476054,
+      "start": 89.025918,
+      "end": 102.50197200000001
     },
     {
       "index": 10,
-      "text": "At Jay and Gloria’s house, Manny is preparing for a date with Whitney, someone he met through an online book club. He expects a girl his age, but Whitney turns out to be a grown woman who also thought Manny was an adult.",
-      "tts_text": "[a storyteller building gentle suspense] At Jay and Gloria’s house, Manny is preparing for a date with Whitney, someone he met through an online book club. He expects a girl his age, but Whitney turns out to be a grown woman who also thought Manny was an adult.",
+      "text": "Phil buys the same one again and makes a bet: he can teach Haley to use it in twenty minutes. Claire is sure he’ll fail, but Haley learns it. Claire admits he proved his point, then quietly wakes Haley later that night and asks her to teach her instead. She’s willing to learn.",
+      "tts_text": "[a storyteller building gentle suspense] Phil buys the same one again and makes a bet: he can teach Haley to use it in twenty minutes. Claire is sure he’ll fail, but Haley learns it. Claire admits he proved his point, then quietly wakes Haley later that night and asks her to teach her instead. She’s willing to learn.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.321247,
-      "start": 124.74165500000002,
-      "end": 138.062902
+      "duration": 17.08805,
+      "start": 102.50197200000001,
+      "end": 119.590022
     },
     {
       "index": 11,
-      "text": "The date clearly isn’t going anywhere, but Gloria feels sorry for Whitney and gives her a makeover. Whitney becomes much more confident. When Cameron arrives later, they immediately connect over fashion, old movies, and vampire books.",
-      "tts_text": "[a storyteller warmly enjoying the happy moment] The date clearly isn’t going anywhere, but Gloria feels sorry for Whitney and gives her a makeover. Whitney becomes much more confident. When Cameron arrives later, they immediately connect over fashion, old movies, and vampire books.",
+      "text": "She just doesn’t want to learn from Phil.",
+      "tts_text": "[a storyteller warmly enjoying the happy moment] She just doesn’t want to learn from Phil.",
       "tags": [
         "[a storyteller warmly enjoying the happy moment]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.837256,
-      "start": 138.062902,
-      "end": 151.900158
+      "duration": 2.227234,
+      "start": 119.590022,
+      "end": 121.817256
     },
     {
       "index": 12,
-      "text": "Whitney leaves thinking she may have finally met the right man, without realizing that Cameron is gay.",
-      "tts_text": "[a heartfelt storyteller bringing the story home] Whitney leaves thinking she may have finally met the right man, without realizing that Cameron is gay.",
+      "text": "At Jay and Gloria’s house, Manny is expecting a date with Whitney, a girl he met in an online book club. The problem is that Whitney is a grown woman who thought Manny was an adult too. The date dies immediately, but Gloria feels sorry for her and gives her a makeover.",
+      "tts_text": "[a heartfelt storyteller bringing the story home] At Jay and Gloria’s house, Manny is expecting a date with Whitney, a girl he met in an online book club. The problem is that Whitney is a grown woman who thought Manny was an adult too. The date dies immediately, but Gloria feels sorry for her and gives her a makeover.",
       "tags": [
         "[a heartfelt storyteller bringing the story home]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 6.303628,
-      "start": 151.900158,
-      "end": 158.203786
+      "duration": 16.572041,
+      "start": 121.817256,
+      "end": 138.389297
     },
     {
       "index": 13,
-      "text": "By the end, everyone changes a little. Jay tries to be more accepting, Claire learns to use the remote, and Whitney feels better about herself. They don’t change completely, but sometimes fifteen percent is enough.",
-      "tts_text": "By the end, everyone changes a little. Jay tries to be more accepting, Claire learns to use the remote, and Whitney feels better about herself. They don’t change completely, but sometimes fifteen percent is enough.",
+      "text": "Later, Whitney meets Cameron, and the two instantly connect over clothes, old movies, and vampire books. Whitney leaves convinced she may have met the perfect man, without realizing Cameron is gay.",
+      "tts_text": "Later, Whitney meets Cameron, and the two instantly connect over clothes, old movies, and vampire books. Whitney leaves convinced she may have met the perfect man, without realizing Cameron is gay.",
       "tags": [],
       "speed": 0.9,
       "cached": false,
       "duration": 13.063243,
-      "start": 158.203786,
-      "end": 171.267029
+      "start": 138.389297,
+      "end": 151.45254
+    },
+    {
+      "index": 14,
+      "text": "Nobody becomes a different person. Jay gets a little more open-minded, Claire learns the remote, and Whitney gets some confidence back. Maybe fifteen percent really is enough.",
+      "tts_text": "Nobody becomes a different person. Jay gets a little more open-minded, Claire learns the remote, and Whitney gets some confidence back. Maybe fifteen percent really is enough.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 11.102449,
+      "start": 151.45254,
+      "end": 162.554989
     }
   ],
-  "audio_file": "english.wav",
-  "duration": 171.267029
+  "audio_file": "english.mp3"
 }

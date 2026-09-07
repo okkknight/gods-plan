@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T04:21:57.935Z",
+  "generated_at": "2026-09-07T05:18:32.075Z",
   "course": "modern-family-s01e12",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -9,188 +9,212 @@
   "volume": 1.5,
   "temperature": 0.9,
   "top_p": 0.92,
-  "script_sha256": "a1e77ce568955eecf127c7df9581ff786ac3a6cc0b15b766bd4744c5d97cc4dc",
-  "segment_count": 14,
+  "script_sha256": "00485e1bde77fa294dc034b9ec43bc364ca6d0c36121b278f4cfa4607b4b4efa",
+  "segment_count": 16,
+  "duration": 159.83705400000002,
   "segments": [
     {
       "index": 1,
-      "text": "This episode is about three couples getting annoyed by something their partner brings into the house. Each of them tries to set a limit, but the problem turns out to be more complicated than it first seems.",
-      "tts_text": "[a warm storyteller inviting the listener into the story] This episode is about three couples getting annoyed by something their partner brings into the house. Each of them tries to set a limit, but the problem turns out to be more complicated than it first seems.",
+      "text": "This episode starts with a few small problems around the house, but every one of them turns into a much bigger argument because nobody wants to admit what they really did or what’s really bothering them.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] This episode starts with a few small problems around the house, but every one of them turns into a much bigger argument because nobody wants to admit what they really did or what’s really bothering them.",
       "tags": [
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.87644,
+      "duration": 11.308844,
       "start": 0,
-      "end": 11.87644
+      "end": 11.308844
     },
     {
       "index": 2,
-      "text": "At the Dunphy house, Claire finds a dirty picture on the family computer and assumes Luke was looking at it. Phil knows the picture was actually sent to him by a coworker, but he doesn’t correct her. Instead, he says he’ll talk to Luke himself.",
-      "tts_text": "[a natural conversational storyteller] At the Dunphy house, Claire finds a dirty picture on the family computer and assumes Luke was looking at it. Phil knows the picture was actually sent to him by a coworker, but he doesn’t correct her. Instead, he says he’ll talk to Luke himself.",
+      "text": "At the Dunphy house, Claire finds a dirty picture on the family computer and assumes Luke was looking at it. Phil knows the truth immediately: the picture was sent to him by a guy from work.",
+      "tts_text": "[a natural conversational storyteller] At the Dunphy house, Claire finds a dirty picture on the family computer and assumes Luke was looking at it. Phil knows the truth immediately: the picture was sent to him by a guy from work.",
       "tags": [
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.611247,
-      "start": 11.87644,
-      "end": 26.487687
+      "duration": 10.741247,
+      "start": 11.308844,
+      "end": 22.050091000000002
     },
     {
       "index": 3,
-      "text": "Phil goes into Luke’s room and starts asking questions about deleting things from a computer. Luke thinks Phil is talking about Haley’s private journal, which he secretly read.",
-      "tts_text": "[a storyteller building gentle suspense] Phil goes into Luke’s room and starts asking questions about deleting things from a computer. Luke thinks Phil is talking about Haley’s private journal, which he secretly read.",
+      "text": "Instead of admitting that, he lets Claire believe it was Luke and says he’ll handle the father-son talk himself.",
+      "tts_text": "[a storyteller building gentle suspense] Instead of admitting that, he lets Claire believe it was Luke and says he’ll handle the father-son talk himself.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 10.431633,
-      "start": 26.487687,
-      "end": 36.91932
+      "duration": 6.561633,
+      "start": 22.050091000000002,
+      "end": 28.611724000000002
     },
     {
       "index": 4,
-      "text": "Because they’re discussing two completely different things, Phil leaves the room believing he has solved the problem.",
-      "tts_text": "[a storyteller with playful humor] Because they’re discussing two completely different things, Phil leaves the room believing he has solved the problem.",
+      "text": "The conversation goes nowhere because Luke thinks Phil is talking about something completely different. Luke secretly read Haley’s journal, so when Phil starts asking about deleting things after you look at them, Luke assumes he’s been caught.",
+      "tts_text": "[a storyteller with playful humor] The conversation goes nowhere because Luke thinks Phil is talking about something completely different. Luke secretly read Haley’s journal, so when Phil starts asking about deleting things after you look at them, Luke assumes he’s been caught.",
       "tags": [
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 5.994036,
-      "start": 36.91932,
-      "end": 42.913356
+      "duration": 13.888844,
+      "start": 28.611724000000002,
+      "end": 42.500568
     },
     {
       "index": 5,
-      "text": "Later, Luke admits to Claire that he looked at something he shouldn’t have. Claire tries to have a calm talk with him, but then realizes he means Haley’s journal, not the picture. This starts a huge argument between the children.",
-      "tts_text": "[an animated storyteller explaining the scene] Later, Luke admits to Claire that he looked at something he shouldn’t have. Claire tries to have a calm talk with him, but then realizes he means Haley’s journal, not the picture. This starts a huge argument between the children.",
+      "text": "Phil walks away thinking Luke has understood his lecture, while Luke walks away thinking his dad somehow knows about the journal.",
+      "tts_text": "[an animated storyteller explaining the scene] Phil walks away thinking Luke has understood his lecture, while Luke walks away thinking his dad somehow knows about the journal.",
       "tags": [
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.888844,
-      "start": 42.913356,
-      "end": 56.8022
+      "duration": 7.95483,
+      "start": 42.500568,
+      "end": 50.455398
     },
     {
       "index": 6,
-      "text": "When everyone says the dirty picture wasn’t theirs, Phil finally has to admit the truth.",
-      "tts_text": "[a storyteller emphasizing the surprising turn] When everyone says the dirty picture wasn’t theirs, Phil finally has to admit the truth.",
+      "text": "Later, Luke tells Claire he looked at something he shouldn’t have. Claire starts giving him a careful talk about sex, then realizes he means Haley’s journal.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Later, Luke tells Claire he looked at something he shouldn’t have. Claire starts giving him a careful talk about sex, then realizes he means Haley’s journal.",
       "tags": [
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 5.478027,
-      "start": 56.8022,
-      "end": 62.280227
+      "duration": 10.173651,
+      "start": 50.455398,
+      "end": 60.629049
     },
     {
       "index": 7,
-      "text": "Claire isn’t really angry about the picture. She was upset because Luke is still her little boy, and she wants him to stay innocent for as long as possible.",
-      "tts_text": "[a storyteller smoothly moving to the next story] Claire isn’t really angry about the picture. She was upset because Luke is still her little boy, and she wants him to stay innocent for as long as possible.",
+      "text": "That sets off another fight between the kids, and once everyone says the dirty picture wasn’t theirs, Phil finally has nowhere left to hide. Claire isn’t really shocked by the picture itself.",
+      "tts_text": "[a storyteller smoothly moving to the next story] That sets off another fight between the kids, and once everyone says the dirty picture wasn’t theirs, Phil finally has nowhere left to hide. Claire isn’t really shocked by the picture itself.",
       "tags": [
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 8.470839,
-      "start": 62.280227,
-      "end": 70.751066
+      "duration": 11.566848,
+      "start": 60.629049,
+      "end": 72.195897
     },
     {
       "index": 8,
-      "text": "Phil apologizes to Luke for letting him take the blame, then immediately makes the conversation awkward by giving him far more information than he asked for.",
-      "tts_text": "[a storyteller with warm empathy] Phil apologizes to Luke for letting him take the blame, then immediately makes the conversation awkward by giving him far more information than he asked for.",
+      "text": "What bothers her is the idea that Luke is growing up, and Phil made it worse by letting him take the blame.",
+      "tts_text": "[a storyteller with warm empathy] What bothers her is the idea that Luke is growing up, and Phil made it worse by letting him take the blame.",
       "tags": [
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 9.864036,
-      "start": 70.751066,
-      "end": 80.615102
+      "duration": 6.200431,
+      "start": 72.195897,
+      "end": 78.396328
     },
     {
       "index": 9,
-      "text": "Meanwhile, Jay has bought a large statue of a dog dressed as a butler. He calls it Barkley and thinks it’s hilarious. Gloria hates it because it scares her every time she walks into the room. She tries to hide it and accidentally tears off one of its hands.",
-      "tts_text": "[a thoughtful storyteller reflecting on the character] Meanwhile, Jay has bought a large statue of a dog dressed as a butler. He calls it Barkley and thinks it’s hilarious. Gloria hates it because it scares her every time she walks into the room. She tries to hide it and accidentally tears off one of its hands.",
+      "text": "Meanwhile, Jay has bought a ridiculous statue of a dog dressed as a butler. He calls him Barkley and genuinely loves him. Gloria hates Barkley because every time she turns a corner, she thinks there’s a strange man standing in the house.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Meanwhile, Jay has bought a ridiculous statue of a dog dressed as a butler. He calls him Barkley and genuinely loves him. Gloria hates Barkley because every time she turns a corner, she thinks there’s a strange man standing in the house.",
       "tags": [
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 16.159252,
-      "start": 80.615102,
-      "end": 96.77435399999999
+      "duration": 14.920839,
+      "start": 78.396328,
+      "end": 93.317167
     },
     {
       "index": 10,
-      "text": "Jay gets angry, and the argument soon becomes about more than the statue. Gloria says she puts up with things Jay likes, while Jay complains about all the decorative pillows on their bed. Neither of them wants to give in.",
-      "tts_text": "[a storyteller building gentle suspense] Jay gets angry, and the argument soon becomes about more than the statue. Gloria says she puts up with things Jay likes, while Jay complains about all the decorative pillows on their bed. Neither of them wants to give in.",
+      "text": "She tries moving him into the guest room, then accidentally tears off his hand.",
+      "tts_text": "[a storyteller building gentle suspense] She tries moving him into the guest room, then accidentally tears off his hand.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 15.694853,
-      "start": 96.77435399999999,
-      "end": 112.46920699999998
+      "duration": 4.755646,
+      "start": 93.317167,
+      "end": 98.072813
     },
     {
       "index": 11,
-      "text": "Mitchell and Cameron are supposed to take Lily to a puppet show that Mitchell loved as a child. Before they leave, Cameron sees their gardener crying outside and invites him in.",
-      "tts_text": "[a storyteller warmly enjoying the happy moment] Mitchell and Cameron are supposed to take Lily to a puppet show that Mitchell loved as a child. Before they leave, Cameron sees their gardener crying outside and invites him in.",
+      "text": "Jay gets angry, and pretty soon the fight isn’t really about Barkley anymore. Gloria says she puts up with plenty of things Jay likes, while Jay starts complaining about the mountain of decorative pillows she puts on their bed. Neither of them wants to be the one who gives in.",
+      "tts_text": "[a storyteller warmly enjoying the happy moment] Jay gets angry, and pretty soon the fight isn’t really about Barkley anymore. Gloria says she puts up with plenty of things Jay likes, while Jay starts complaining about the mountain of decorative pillows she puts on their bed. Neither of them wants to be the one who gives in.",
       "tags": [
         "[a storyteller warmly enjoying the happy moment]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 10.431633,
-      "start": 112.46920699999998,
-      "end": 122.90083999999999
+      "duration": 15.849637,
+      "start": 98.072813,
+      "end": 113.92245
     },
     {
       "index": 12,
-      "text": "Cameron barely speaks Spanish, so he has no idea what the man’s problem is, but he keeps trying to help.",
-      "tts_text": "[a heartfelt storyteller bringing the story home] Cameron barely speaks Spanish, so he has no idea what the man’s problem is, but he keeps trying to help.",
+      "text": "Mitchell and Cameron are supposed to take Lily to a puppet show Mitchell loved as a kid. Just before they leave, Cameron sees their gardener looking upset and invites him inside. Cameron barely speaks Spanish, but that doesn’t stop him from trying to help.",
+      "tts_text": "[a heartfelt storyteller bringing the story home] Mitchell and Cameron are supposed to take Lily to a puppet show Mitchell loved as a kid. Just before they leave, Cameron sees their gardener looking upset and invites him inside. Cameron barely speaks Spanish, but that doesn’t stop him from trying to help.",
       "tags": [
         "[a heartfelt storyteller bringing the story home]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 6.561633,
-      "start": 122.90083999999999,
-      "end": 129.462473
+      "duration": 13.682449,
+      "start": 113.92245,
+      "end": 127.604899
     },
     {
       "index": 13,
-      "text": "Mitchell becomes frustrated because Cameron often drops their plans whenever someone else needs him. They argue, and Mitchell leaves without him. After talking to Jay, however, Mitchell realizes that Cameron’s kindness is also one of the things he loves about him.",
-      "tts_text": "Mitchell becomes frustrated because Cameron often drops their plans whenever someone else needs him. They argue, and Mitchell leaves without him. After talking to Jay, however, Mitchell realizes that Cameron’s kindness is also one of the things he loves about him.",
+      "text": "Mitchell gets more and more annoyed because Cameron will drop almost any plan the second a stranger needs something.",
+      "tts_text": "Mitchell gets more and more annoyed because Cameron will drop almost any plan the second a stranger needs something.",
       "tags": [],
       "speed": 0.9,
       "cached": false,
-      "duration": 15.127234,
-      "start": 129.462473,
-      "end": 144.58970699999998
+      "duration": 6.097234,
+      "start": 127.604899,
+      "end": 133.702133
     },
     {
       "index": 14,
-      "text": "He returns home to apologize and discovers that Cameron has helped the gardener hold his wedding in their living room. The day doesn’t go as planned for anyone, but they all end up accepting that the habits that drive them crazy are also part of the people they love.",
-      "tts_text": "He returns home to apologize and discovers that Cameron has helped the gardener hold his wedding in their living room. The day doesn’t go as planned for anyone, but they all end up accepting that the habits that drive them crazy are also part of the people they love.",
+      "text": "Mitchell leaves without him, then later realizes that Cameron’s need to help people is also one of the things he loves about him. He comes home ready to apologize and discovers that Cameron has turned their living room into the gardener’s wedding venue.",
+      "tts_text": "Mitchell leaves without him, then later realizes that Cameron’s need to help people is also one of the things he loves about him. He comes home ready to apologize and discovers that Cameron has turned their living room into the gardener’s wedding venue.",
       "tags": [],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.817642,
-      "start": 144.58970699999998,
-      "end": 159.40734899999998
+      "duration": 14.043651,
+      "start": 133.702133,
+      "end": 147.74578400000001
+    },
+    {
+      "index": 15,
+      "text": "The gardener wasn’t heartbroken at all—he was nervous because he was getting married that day.",
+      "tts_text": "[empathetic] The gardener wasn’t heartbroken at all—he was nervous because he was getting married that day.",
+      "tags": [
+        "[empathetic]"
+      ],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 5.271633,
+      "start": 147.74578400000001,
+      "end": 153.01741700000002
+    },
+    {
+      "index": 16,
+      "text": "Nobody really wins any of the arguments. They just end up remembering that the annoying habits come with the people they chose to live with.",
+      "tts_text": "Nobody really wins any of the arguments. They just end up remembering that the annoying habits come with the people they chose to live with.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 6.819637,
+      "start": 153.01741700000002,
+      "end": 159.83705400000002
     }
   ],
-  "audio_file": "english.wav",
-  "duration": 159.40734899999998
+  "audio_file": "english.mp3"
 }

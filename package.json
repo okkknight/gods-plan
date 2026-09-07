@@ -14,6 +14,7 @@
     "db:migrate": "tsx scripts/migrate.ts",
     "db:seed": "tsx scripts/seed.ts",
     "course:convert": "tsx scripts/convert-courses.ts",
+    "course:apply-combined": "tsx scripts/apply-combined-course-updates.ts",
     "course:cues:apply-collection": "tsx scripts/apply-revised-cue-collection.ts",
     "course:cues:apply-synced": "tsx scripts/apply-synced-cue.ts",
     "course:cues:rebuild": "tsx scripts/rebuild-cues-from-english.ts",
@@ -21,6 +22,7 @@
     "course:import": "tsx scripts/import-course.ts",
     "audio:generate": "tsx scripts/generate-course-audio.ts",
     "audio:generate:all": "tsx scripts/generate-course-audio.ts --all",
+    "audio:convert:mp3": "tsx scripts/convert-course-audio-to-mp3.ts",
     "audio:enrich": "tsx scripts/enrich-audio-manifests.ts",
     "audio:validate": "tsx scripts/validate-audio-assets.ts"
   },

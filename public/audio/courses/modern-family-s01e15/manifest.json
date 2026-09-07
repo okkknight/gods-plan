@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T04:23:54.985Z",
+  "generated_at": "2026-09-07T05:21:58.349Z",
   "course": "modern-family-s01e15",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -9,188 +9,210 @@
   "volume": 1.5,
   "temperature": 0.9,
   "top_p": 0.92,
-  "script_sha256": "418fd4e1f693bf4e0655c49d017c168f10c6db0ac831f44d1d951ebeafde9add",
-  "segment_count": 14,
+  "script_sha256": "bb6dd33900b00f9feb2a330c40999a842625214efed73651281e29f7244919ab",
+  "segment_count": 16,
+  "duration": 180.322224,
   "segments": [
     {
       "index": 1,
-      "text": "This episode takes place on Valentine’s Day. Everyone is trying to make the night feel special, but most of their plans end up becoming much more awkward than romantic.",
-      "tts_text": "[a warm storyteller inviting the listener into the story] This episode takes place on Valentine’s Day. Everyone is trying to make the night feel special, but most of their plans end up becoming much more awkward than romantic.",
+      "text": "This episode is Valentine’s Day, and everybody is trying to make romance happen on purpose. That goes about as well as you’d expect.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] This episode is Valentine’s Day, and everybody is trying to make romance happen on purpose. That goes about as well as you’d expect.",
       "tags": [
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 10.63805,
+      "duration": 9.399637,
       "start": 0,
-      "end": 10.63805
+      "end": 9.399637
     },
     {
       "index": 2,
-      "text": "Phil and Claire usually go to the same Italian restaurant every year. After seeing the huge romantic gift Dylan gives Haley, Phil worries that their own tradition has become boring. He suggests spending the night at a hotel and trying some role-playing.",
-      "tts_text": "[a natural conversational storyteller] Phil and Claire usually go to the same Italian restaurant every year. After seeing the huge romantic gift Dylan gives Haley, Phil worries that their own tradition has become boring. He suggests spending the night at a hotel and trying some role-playing.",
+      "text": "Phil and Claire normally go to the same Italian restaurant every year. After seeing the huge romantic gift Dylan gives Haley, Phil decides their routine has gotten boring. He books a hotel and suggests they try some role-playing instead.",
+      "tts_text": "[a natural conversational storyteller] Phil and Claire normally go to the same Italian restaurant every year. After seeing the huge romantic gift Dylan gives Haley, Phil decides their routine has gotten boring. He books a hotel and suggests they try some role-playing instead.",
       "tags": [
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.662857,
-      "start": 10.63805,
-      "end": 25.300907000000002
+      "duration": 13.579252,
+      "start": 9.399637,
+      "end": 22.978889000000002
     },
     {
       "index": 3,
-      "text": "At the hotel bar, Phil pretends to be a businessman named Clive Bixby, while Claire becomes a mysterious woman named Julianna. Their first attempt goes badly because Phil starts complaining about his real wife without realizing it.",
-      "tts_text": "[a storyteller building gentle suspense] At the hotel bar, Phil pretends to be a businessman named Clive Bixby, while Claire becomes a mysterious woman named Julianna. Their first attempt goes badly because Phil starts complaining about his real wife without realizing it.",
+      "text": "At the hotel bar, Phil becomes Clive Bixby, a businessman in town for a trade show, and Claire becomes Julianna, a mysterious woman he’s just met. Their first attempt is a disaster because Phil starts complaining about his real wife while pretending she’s someone else.",
+      "tts_text": "[a storyteller building gentle suspense] At the hotel bar, Phil becomes Clive Bixby, a businessman in town for a trade show, and Claire becomes Julianna, a mysterious woman he’s just met. Their first attempt is a disaster because Phil starts complaining about his real wife while pretending she’s someone else.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.559637,
-      "start": 25.300907000000002,
-      "end": 39.860544000000004
+      "duration": 16.984853,
+      "start": 22.978889000000002,
+      "end": 39.963742
     },
     {
       "index": 4,
-      "text": "They try again, and this time Claire goes to the bathroom and comes back wearing nothing but her coat.",
-      "tts_text": "[a storyteller with playful humor] They try again, and this time Claire goes to the bathroom and comes back wearing nothing but her coat.",
+      "text": "They reset and try again. This time Claire fully commits: she goes to the bathroom, takes off her dress, and comes back wearing nothing but her coat.",
+      "tts_text": "[a storyteller with playful humor] They reset and try again. This time Claire fully commits: she goes to the bathroom, takes off her dress, and comes back wearing nothing but her coat.",
       "tags": [
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 6.303628,
-      "start": 39.860544000000004,
-      "end": 46.16417200000001
+      "duration": 9.915624,
+      "start": 39.963742,
+      "end": 49.879366000000005
     },
     {
       "index": 5,
-      "text": "As they head upstairs, the coat gets caught in the escalator. Claire can’t take it off, so she and Phil are trapped there while people they know keep stopping to talk to them.",
-      "tts_text": "[an animated storyteller explaining the scene] As they head upstairs, the coat gets caught in the escalator. Claire can’t take it off, so she and Phil are trapped there while people they know keep stopping to talk to them.",
+      "text": "They head upstairs, but Claire’s coat gets caught in the escalator. She can’t take it off because there’s literally nothing underneath. So the two of them are stuck there while people they know keep walking up and starting conversations.",
+      "tts_text": "[an animated storyteller explaining the scene] They head upstairs, but Claire’s coat gets caught in the escalator. She can’t take it off because there’s literally nothing underneath. So the two of them are stuck there while people they know keep walking up and starting conversations.",
       "tags": [
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 10.122041,
-      "start": 46.16417200000001,
-      "end": 56.286213000000004
+      "duration": 12.392449,
+      "start": 49.879366000000005,
+      "end": 62.271815000000004
     },
     {
       "index": 6,
-      "text": "Jay and Gloria eventually arrive, and Gloria gives Claire her own coat so she can escape without anyone seeing her.",
-      "tts_text": "[a storyteller emphasizing the surprising turn] Jay and Gloria eventually arrive, and Gloria gives Claire her own coat so she can escape without anyone seeing her.",
+      "text": "Jay and Gloria eventually arrive, and Gloria gives Claire her own coat so she can escape without flashing the entire hotel.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Jay and Gloria eventually arrive, and Gloria gives Claire her own coat so she can escape without flashing the entire hotel.",
       "tags": [
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 7.696848,
-      "start": 56.286213000000004,
-      "end": 63.983061000000006
+      "duration": 9.760839,
+      "start": 62.271815000000004,
+      "end": 72.03265400000001
     },
     {
       "index": 7,
-      "text": "The next morning, Phil calls Claire to talk about how exciting the night was. He doesn’t realize that his voice is coming through the car’s speaker and all three children can hear him. Claire quickly ends the call before he says anything worse.",
-      "tts_text": "[a storyteller smoothly moving to the next story] The next morning, Phil calls Claire to talk about how exciting the night was. He doesn’t realize that his voice is coming through the car’s speaker and all three children can hear him. Claire quickly ends the call before he says anything worse.",
+      "text": "The next morning, Phil calls Claire to talk about how exciting the night was. He doesn’t realize his voice is playing through the car speakers while all three kids are sitting there. Claire cuts him off before the conversation gets any worse.",
+      "tts_text": "[a storyteller smoothly moving to the next story] The next morning, Phil calls Claire to talk about how exciting the night was. He doesn’t realize his voice is playing through the car speakers while all three kids are sitting there. Claire cuts him off before the conversation gets any worse.",
       "tags": [
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.250045,
-      "start": 63.983061000000006,
-      "end": 78.233106
+      "duration": 15.127234,
+      "start": 72.03265400000001,
+      "end": 87.15988800000001
     },
     {
       "index": 8,
-      "text": "Meanwhile, Jay takes Gloria to see a comedian he has loved for years. Gloria wanted to go salsa dancing, but Jay is sure she’ll enjoy the show. Things are fine until the comedian notices their age difference and starts making jokes about Jay being an old man with a younger wife.",
-      "tts_text": "[a storyteller with warm empathy] Meanwhile, Jay takes Gloria to see a comedian he has loved for years. Gloria wanted to go salsa dancing, but Jay is sure she’ll enjoy the show. Things are fine until the comedian notices their age difference and starts making jokes about Jay being an old man with a younger wife.",
+      "text": "Meanwhile, Jay takes Gloria to see a comedian he has loved for years. Gloria wanted to go salsa dancing, but Jay is sure she’ll love the show.",
+      "tts_text": "[a storyteller with warm empathy] Meanwhile, Jay takes Gloria to see a comedian he has loved for years. Gloria wanted to go salsa dancing, but Jay is sure she’ll love the show.",
       "tags": [
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 17.03644,
-      "start": 78.233106,
-      "end": 95.269546
+      "duration": 9.606032,
+      "start": 87.15988800000001,
+      "end": 96.76592000000001
     },
     {
       "index": 9,
-      "text": "Jay pretends it doesn’t bother him, but he finally walks out. Gloria follows and tells him she doesn’t care what other people think. Jay admits that he worries she may stop wanting him when he gets older. Gloria assures him that she’ll still be there.",
-      "tts_text": "[a thoughtful storyteller reflecting on the character] Jay pretends it doesn’t bother him, but he finally walks out. Gloria follows and tells him she doesn’t care what other people think. Jay admits that he worries she may stop wanting him when he gets older. Gloria assures him that she’ll still be there.",
+      "text": "Then the comedian notices their age difference and starts using Jay as material, making joke after joke about an old man with a much younger wife.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Then the comedian notices their age difference and starts using Jay as material, making joke after joke about an old man with a much younger wife.",
       "tags": [
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.888844,
-      "start": 95.269546,
-      "end": 109.15839000000001
+      "duration": 9.399637,
+      "start": 96.76592000000001,
+      "end": 106.165557
     },
     {
       "index": 10,
-      "text": "They skip the rest of the show and go salsa dancing instead.",
-      "tts_text": "[a storyteller building gentle suspense] They skip the rest of the show and go salsa dancing instead.",
+      "text": "Jay laughs at first, then finally walks out. Gloria follows him, and Jay admits the jokes hit a real nerve. He worries that as he gets older, Gloria may stop wanting him. Gloria tells him she doesn’t care what strangers think and she isn’t going anywhere.",
+      "tts_text": "[a storyteller building gentle suspense] Jay laughs at first, then finally walks out. Gloria follows him, and Jay admits the jokes hit a real nerve. He worries that as he gets older, Gloria may stop wanting him. Gloria tells him she doesn’t care what strangers think and she isn’t going anywhere.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 4.188027,
-      "start": 109.15839000000001,
-      "end": 113.34641700000002
+      "duration": 15.694853,
+      "start": 106.165557,
+      "end": 121.86041
     },
     {
       "index": 11,
-      "text": "Mitchell and Cameron are looking after Manny. Manny is upset because he wrote a Valentine’s poem for a girl named Fiona, but another boy, Durkas, took credit for it and is now on a date with her.",
-      "tts_text": "[a storyteller warmly enjoying the happy moment] Mitchell and Cameron are looking after Manny. Manny is upset because he wrote a Valentine’s poem for a girl named Fiona, but another boy, Durkas, took credit for it and is now on a date with her.",
+      "text": "They skip the rest of the show and go salsa dancing instead.",
+      "tts_text": "[a storyteller warmly enjoying the happy moment] They skip the rest of the show and go salsa dancing instead.",
       "tags": [
         "[a storyteller warmly enjoying the happy moment]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.011633,
-      "start": 113.34641700000002,
-      "end": 126.35805000000002
+      "duration": 4.291224,
+      "start": 121.86041,
+      "end": 126.151634
     },
     {
       "index": 12,
-      "text": "They take Manny to the restaurant so he can tell the truth. Mitchell, who’s frustrated because he didn’t get to give an important speech in court that day, uses the speech to defend Manny. Durkas finally admits that he stole the poem.",
-      "tts_text": "[a heartfelt storyteller bringing the story home] They take Manny to the restaurant so he can tell the truth. Mitchell, who’s frustrated because he didn’t get to give an important speech in court that day, uses the speech to defend Manny. Durkas finally admits that he stole the poem.",
+      "text": "Mitchell and Cameron are looking after Manny, who is having his own romantic disaster. He wrote a Valentine’s poem for Fiona, but another boy, Ted Durkas, stole it and took credit.",
+      "tts_text": "[a heartfelt storyteller bringing the story home] Mitchell and Cameron are looking after Manny, who is having his own romantic disaster. He wrote a Valentine’s poem for Fiona, but another boy, Ted Durkas, stole it and took credit.",
       "tags": [
         "[a heartfelt storyteller bringing the story home]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.476054,
-      "start": 126.35805000000002,
-      "end": 139.83410400000002
+      "duration": 12.289252,
+      "start": 126.151634,
+      "end": 138.440886
     },
     {
       "index": 13,
-      "text": "However, Fiona still chooses him because he says the poem described feelings he really had but couldn’t express.",
-      "tts_text": "However, Fiona still chooses him because he says the poem described feelings he really had but couldn’t express.",
+      "text": "Manny is too intimidated to confront him, so Mitchell and Cameron take him to the restaurant where Fiona and Durkas are having their date.",
+      "tts_text": "Manny is too intimidated to confront him, so Mitchell and Cameron take him to the restaurant where Fiona and Durkas are having their date.",
       "tags": [],
       "speed": 0.9,
       "cached": false,
-      "duration": 6.66483,
-      "start": 139.83410400000002,
-      "end": 146.49893400000002
+      "duration": 7.593628,
+      "start": 138.440886,
+      "end": 146.034514
     },
     {
       "index": 14,
-      "text": "Manny doesn’t get the girl, but Mitchell gets to deliver his speech, Jay and Gloria find a date they both enjoy, and Phil and Claire create a Valentine’s Day they’ll never forget.",
-      "tts_text": "Manny doesn’t get the girl, but Mitchell gets to deliver his speech, Jay and Gloria find a date they both enjoy, and Phil and Claire create a Valentine’s Day they’ll never forget.",
+      "text": "Mitchell has spent months preparing an important speech for court, only to lose the chance to deliver it that day. He ends up using the same fire on Durkas. He publicly calls him out until Durkas finally admits he stole the poem.",
+      "tts_text": "Mitchell has spent months preparing an important speech for court, only to lose the chance to deliver it that day. He ends up using the same fire on Durkas. He publicly calls him out until Durkas finally admits he stole the poem.",
       "tags": [],
       "speed": 0.9,
       "cached": false,
-      "duration": 10.947642,
-      "start": 146.49893400000002,
-      "end": 157.44657600000002
+      "duration": 14.095238,
+      "start": 146.034514,
+      "end": 160.129752
+    },
+    {
+      "index": 15,
+      "text": "It should be Manny’s big win. Instead, Fiona thinks it’s sweet that Durkas had the feelings but didn’t know how to express them, and she stays with him.",
+      "tts_text": "It should be Manny’s big win. Instead, Fiona thinks it’s sweet that Durkas had the feelings but didn’t know how to express them, and she stays with him.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 9.915624,
+      "start": 160.129752,
+      "end": 170.045376
+    },
+    {
+      "index": 16,
+      "text": "So Manny loses the girl, Mitchell finally gets to give his speech, Jay ends up dancing, and Phil and Claire get a Valentine’s Day they definitely won’t forget.",
+      "tts_text": "So Manny loses the girl, Mitchell finally gets to give his speech, Jay ends up dancing, and Phil and Claire get a Valentine’s Day they definitely won’t forget.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 10.276848,
+      "start": 170.045376,
+      "end": 180.322224
     }
   ],
-  "audio_file": "english.wav",
-  "duration": 157.44657600000002
+  "audio_file": "english.mp3"
 }

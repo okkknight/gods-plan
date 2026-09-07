@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T04:29:46.008Z",
+  "generated_at": "2026-09-07T05:31:50.396Z",
   "course": "modern-family-s01e24",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -9,199 +9,199 @@
   "volume": 1.5,
   "temperature": 0.9,
   "top_p": 0.92,
-  "script_sha256": "c41af2f91ff98e3dfec77d7a74aa87621197b76de1569f8b2357c52fa7625b01",
+  "script_sha256": "0aff4c1ae2054d55c33945edd2a28de3843295e70ad741ed5166d1cef338bd12",
   "segment_count": 15,
+  "duration": 171.490227,
   "segments": [
     {
       "index": 1,
-      "text": "This season finale centers on Claire trying to organize one perfect family portrait. She wants the whole extended family dressed in white and standing together on the staircase. To her, it isn’t just a picture.",
-      "tts_text": "[a warm storyteller inviting the listener into the story] This season finale centers on Claire trying to organize one perfect family portrait. She wants the whole extended family dressed in white and standing together on the staircase. To her, it isn’t just a picture.",
+      "text": "This season finale is built around one thing Claire wants more than anything: a perfect family portrait. She has everyone wearing white, she has a photographer booked for one hour, and she wants the whole family standing together on the staircase looking normal for once.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] This season finale is built around one thing Claire wants more than anything: a perfect family portrait. She has everyone wearing white, she has a photographer booked for one hour, and she wants the whole family standing together on the staircase looking normal for once.",
       "tags": [
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.476054,
+      "duration": 16.778458,
       "start": 0,
-      "end": 13.476054
+      "end": 16.778458
     },
     {
       "index": 2,
-      "text": "The children are growing up quickly, and she wants to capture the family as it is right now.",
-      "tts_text": "[a natural conversational storyteller] The children are growing up quickly, and she wants to capture the family as it is right now.",
+      "text": "Naturally, the day starts falling apart almost immediately. There’s a broken step in the background, and Claire decides to fix it herself. She only makes it worse. Haley gets a pimple and starts acting like the portrait is now impossible.",
+      "tts_text": "[a natural conversational storyteller] Naturally, the day starts falling apart almost immediately. There’s a broken step in the background, and Claire decides to fix it herself. She only makes it worse. Haley gets a pimple and starts acting like the portrait is now impossible.",
       "tags": [
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 5.271633,
-      "start": 13.476054,
-      "end": 18.747687
+      "duration": 15.127234,
+      "start": 16.778458,
+      "end": 31.905692000000002
     },
     {
       "index": 3,
-      "text": "Unfortunately, almost everything goes wrong before the photographer even arrives. A broken step is visible in the background, and Claire makes it much worse while trying to fix it herself.",
-      "tts_text": "[a storyteller building gentle suspense] Unfortunately, almost everything goes wrong before the photographer even arrives. A broken step is visible in the background, and Claire makes it much worse while trying to fix it herself.",
+      "text": "Claire refuses to change the plan for anybody.",
+      "tts_text": "[a storyteller building gentle suspense] Claire refuses to change the plan for anybody.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.515238,
-      "start": 18.747687,
-      "end": 30.262925
+      "duration": 3.052834,
+      "start": 31.905692000000002,
+      "end": 34.958526
     },
     {
       "index": 4,
-      "text": "Haley gets a pimple and wants to cancel the picture, while Claire refuses to change the plan for anyone.",
-      "tts_text": "[a storyteller with playful humor] Haley gets a pimple and wants to cancel the picture, while Claire refuses to change the plan for anyone.",
+      "text": "Meanwhile, Phil takes Alex to a Lakers game with Gloria and Manny. Claire calls while Phil is having fun and he ignores the phone. Then the kiss cam lands on Phil and Gloria.",
+      "tts_text": "[a storyteller with playful humor] Meanwhile, Phil takes Alex to a Lakers game with Gloria and Manny. Claire calls while Phil is having fun and he ignores the phone. Then the kiss cam lands on Phil and Gloria.",
       "tags": [
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 6.200431,
-      "start": 30.262925,
-      "end": 36.463356
+      "duration": 12.031247,
+      "start": 34.958526,
+      "end": 46.989773
     },
     {
       "index": 5,
-      "text": "Meanwhile, Phil takes Alex to a Lakers game with Gloria and Manny. Claire calls him while he’s on television, but Phil ignores the call because he’s having fun. A few minutes later, the kiss cam lands on him and Gloria.",
-      "tts_text": "[an animated storyteller explaining the scene] Meanwhile, Phil takes Alex to a Lakers game with Gloria and Manny. Claire calls him while he’s on television, but Phil ignores the call because he’s having fun. A few minutes later, the kiss cam lands on him and Gloria.",
+      "text": "They try not to kiss, but the whole arena starts booing, so Gloria gives Phil a quick kiss just to make the camera move on.",
+      "tts_text": "[an animated storyteller explaining the scene] They try not to kiss, but the whole arena starts booing, so Gloria gives Phil a quick kiss just to make the camera move on.",
       "tags": [
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.630839,
-      "start": 36.463356,
-      "end": 50.094195
+      "duration": 8.00644,
+      "start": 46.989773,
+      "end": 54.996213
     },
     {
       "index": 6,
-      "text": "They refuse to kiss at first, but the crowd starts booing, so Gloria quickly kisses him.",
-      "tts_text": "[a storyteller emphasizing the surprising turn] They refuse to kiss at first, but the crowd starts booing, so Gloria quickly kisses him.",
+      "text": "Claire never actually sees the kiss. Phil thinks she did, though, so he spends the rest of the day acting guilty and trying to explain something she isn’t even asking about. Claire is mainly angry because he ignored her call when she was trying to deal with the portrait disaster.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Claire never actually sees the kiss. Phil thinks she did, though, so he spends the rest of the day acting guilty and trying to explain something she isn’t even asking about. Claire is mainly angry because he ignored her call when she was trying to deal with the portrait disaster.",
       "tags": [
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 5.478027,
-      "start": 50.094195,
-      "end": 55.572222
+      "duration": 16.984853,
+      "start": 54.996213,
+      "end": 71.981066
     },
     {
       "index": 7,
-      "text": "Claire doesn’t actually see the kiss, but Phil thinks she does and spends the rest of the day feeling guilty. When he gets home, he keeps trying to explain himself, even though Claire is mainly angry that he ignored her call.",
-      "tts_text": "[a storyteller smoothly moving to the next story] Claire doesn’t actually see the kiss, but Phil thinks she does and spends the rest of the day feeling guilty. When he gets home, he keeps trying to explain himself, even though Claire is mainly angry that he ignored her call.",
+      "text": "Cameron has been hired to sing at a wedding and wants Mitchell to come. Mitchell stays home with Lily because he hates standing around making small talk with strangers. While Cameron is gone, a pigeon flies into the house. Mitchell completely loses his mind trying to get it out.",
+      "tts_text": "[a storyteller smoothly moving to the next story] Cameron has been hired to sing at a wedding and wants Mitchell to come. Mitchell stays home with Lily because he hates standing around making small talk with strangers. While Cameron is gone, a pigeon flies into the house. Mitchell completely loses his mind trying to get it out.",
       "tags": [
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.424444,
-      "start": 55.572222,
-      "end": 68.99666599999999
+      "duration": 15.385238,
+      "start": 71.981066,
+      "end": 87.366304
     },
     {
       "index": 8,
-      "text": "Cameron has been hired to sing at a wedding, but Mitchell stays home with Lily because he hates making small talk with strangers. While Cameron is singing, a pigeon flies into their house.",
-      "tts_text": "[a storyteller with warm empathy] Cameron has been hired to sing at a wedding, but Mitchell stays home with Lily because he hates making small talk with strangers. While Cameron is singing, a pigeon flies into their house.",
+      "text": "By the time Cameron comes home, furniture and decorations are wrecked, and he’s furious that Mitchell skipped something important to him and then destroyed the house anyway.",
+      "tts_text": "[a storyteller with warm empathy] By the time Cameron comes home, furniture and decorations are wrecked, and he’s furious that Mitchell skipped something important to him and then destroyed the house anyway.",
       "tags": [
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 10.792834,
-      "start": 68.99666599999999,
-      "end": 79.78949999999999
+      "duration": 10.173651,
+      "start": 87.366304,
+      "end": 97.53995499999999
     },
     {
       "index": 9,
-      "text": "Mitchell completely panics and tries to chase it out, destroying several pieces of furniture and decorations in the process. When Cameron comes home, they argue because Mitchell skipped an important day for him and then ruined the house.",
-      "tts_text": "[a thoughtful storyteller reflecting on the character] Mitchell completely panics and tries to chase it out, destroying several pieces of furniture and decorations in the process. When Cameron comes home, they argue because Mitchell skipped an important day for him and then ruined the house.",
+      "text": "Luke also needs to interview Jay about life in the 1960s for a school project. Jay’s real stories are boring Luke to sleep, so Jay starts improving history. Before long, he’s claiming the family barbershop served Martin Luther King Jr., the Kennedys, and Elvis.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Luke also needs to interview Jay about life in the 1960s for a school project. Jay’s real stories are boring Luke to sleep, so Jay starts improving history. Before long, he’s claiming the family barbershop served Martin Luther King Jr., the Kennedys, and Elvis.",
       "tags": [
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.095238,
-      "start": 79.78949999999999,
-      "end": 93.88473799999998
+      "duration": 16.004444,
+      "start": 97.53995499999999,
+      "end": 113.544399
     },
     {
       "index": 10,
-      "text": "Luke also needs to interview Jay about life in the 1960s for a school project. Jay’s real stories are so ordinary that Luke keeps falling asleep, so Jay starts making things up.",
-      "tts_text": "[a storyteller building gentle suspense] Luke also needs to interview Jay about life in the 1960s for a school project. Jay’s real stories are so ordinary that Luke keeps falling asleep, so Jay starts making things up.",
+      "text": "Luke is suddenly very interested.",
+      "tts_text": "[a storyteller building gentle suspense] Luke is suddenly very interested.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.050839,
-      "start": 93.88473799999998,
-      "end": 104.93557699999998
+      "duration": 2.536825,
+      "start": 113.544399,
+      "end": 116.08122399999999
     },
     {
       "index": 11,
-      "text": "Soon, he’s claiming that his family’s barber shop served Martin Luther King Jr., the Kennedys, and even Elvis.",
-      "tts_text": "[a storyteller warmly enjoying the happy moment] Soon, he’s claiming that his family’s barber shop served Martin Luther King Jr., the Kennedys, and even Elvis.",
+      "text": "By the time everybody is finally dressed in white and standing in place, all the other arguments are still sitting there under the surface. Phil confesses the kiss with Gloria. Cameron complains that Mitchell skipped the wedding.",
+      "tts_text": "[a storyteller warmly enjoying the happy moment] By the time everybody is finally dressed in white and standing in place, all the other arguments are still sitting there under the surface. Phil confesses the kiss with Gloria. Cameron complains that Mitchell skipped the wedding.",
       "tags": [
         "[a storyteller warmly enjoying the happy moment]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 7.851633,
-      "start": 104.93557699999998,
-      "end": 112.78720999999999
+      "duration": 14.043651,
+      "start": 116.08122399999999,
+      "end": 130.124875
     },
     {
       "index": 12,
-      "text": "By the time everyone is finally dressed and standing in front of the camera, all the hidden arguments come out.",
-      "tts_text": "[a heartfelt storyteller bringing the story home] By the time everyone is finally dressed and standing in front of the camera, all the hidden arguments come out.",
+      "text": "Claire becomes more desperate to make everyone stop talking and just look like a happy family for ten seconds.",
+      "tts_text": "[a heartfelt storyteller bringing the story home] Claire becomes more desperate to make everyone stop talking and just look like a happy family for ten seconds.",
       "tags": [
         "[a heartfelt storyteller bringing the story home]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 6.71644,
-      "start": 112.78720999999999,
-      "end": 119.50365
+      "duration": 5.839229,
+      "start": 130.124875,
+      "end": 135.964104
     },
     {
       "index": 13,
-      "text": "Phil admits that Gloria kissed him, Cameron complains about Mitchell missing the wedding, and Claire becomes more desperate to make everyone look like a normal, happy family.",
-      "tts_text": "Phil admits that Gloria kissed him, Cameron complains about Mitchell missing the wedding, and Claire becomes more desperate to make everyone look like a normal, happy family.",
+      "text": "Jay finally tells her the obvious: life is not perfect. Claire snaps back that if he has some quick fix for her personality, he should go ahead and give it to her. Jay responds by throwing mud at her.",
+      "tts_text": "Jay finally tells her the obvious: life is not perfect. Claire snaps back that if he has some quick fix for her personality, he should go ahead and give it to her. Jay responds by throwing mud at her.",
       "tags": [],
       "speed": 0.9,
       "cached": false,
-      "duration": 9.606032,
-      "start": 119.50365,
-      "end": 129.109682
+      "duration": 11.87644,
+      "start": 135.964104,
+      "end": 147.840544
     },
     {
       "index": 14,
-      "text": "Jay finally tells Claire that life isn’t perfect and throws mud at her. Within seconds, everyone joins in, and their clean white clothes are completely ruined.",
-      "tts_text": "Jay finally tells Claire that life isn’t perfect and throws mud at her. Within seconds, everyone joins in, and their clean white clothes are completely ruined.",
+      "text": "That starts a full mud fight. Within seconds, the clean white outfits Claire obsessed over are ruined. At first she is horrified. Then she gives up and joins in.",
+      "tts_text": "That starts a full mud fight. Within seconds, the clean white outfits Claire obsessed over are ruined. At first she is horrified. Then she gives up and joins in.",
       "tags": [],
       "speed": 0.9,
       "cached": false,
-      "duration": 8.883628,
-      "start": 129.109682,
-      "end": 137.99330999999998
+      "duration": 11.463651,
+      "start": 147.840544,
+      "end": 159.304195
     },
     {
       "index": 15,
-      "text": "Strangely, that’s when the family finally relaxes. They take the picture covered in mud, laughing instead of posing. It isn’t the perfect portrait Claire planned, but later she realizes it’s a much better picture of what their family is really like.",
-      "tts_text": "Strangely, that’s when the family finally relaxes. They take the picture covered in mud, laughing instead of posing. It isn’t the perfect portrait Claire planned, but later she realizes it’s a much better picture of what their family is really like.",
+      "text": "That’s when they finally take the picture—covered in mud, laughing, and not pretending anymore. It’s nothing like the portrait Claire planned, but it ends up looking much more like the family she actually has.",
+      "tts_text": "That’s when they finally take the picture—covered in mud, laughing, and not pretending anymore. It’s nothing like the portrait Claire planned, but it ends up looking much more like the family she actually has.",
       "tags": [],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.972449,
-      "start": 137.99330999999998,
-      "end": 152.965759
+      "duration": 12.186032,
+      "start": 159.304195,
+      "end": 171.490227
     }
   ],
-  "audio_file": "english.wav",
-  "duration": 152.965759
+  "audio_file": "english.mp3"
 }

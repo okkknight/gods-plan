@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T04:24:33.599Z",
+  "generated_at": "2026-09-07T05:22:59.551Z",
   "course": "modern-family-s01e16",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -9,201 +9,221 @@
   "volume": 1.5,
   "temperature": 0.9,
   "top_p": 0.92,
-  "script_sha256": "e3ac80949e648344b092ab028fa95ff3e3ee8d9d61bbbf1d4355dfbc4c9df02d",
-  "segment_count": 15,
+  "script_sha256": "6bcac89e86c566bd182e46592d9f5ab80664d2b3ba14091d6cdc99145c9c1056",
+  "segment_count": 17,
+  "duration": 170.37185900000003,
   "segments": [
     {
       "index": 1,
-      "text": "This episode is all about fear. The children are afraid of different things, but the adults are just as scared and are much better at pretending they aren’t.",
-      "tts_text": "[a warm storyteller inviting the listener into the story] This episode is all about fear. The children are afraid of different things, but the adults are just as scared and are much better at pretending they aren’t.",
+      "text": "This episode is about fear, but the funny part is that the adults are just as scared as the kids. They’re simply better at pretending they’re not.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] This episode is about fear, but the funny part is that the adults are just as scared as the kids. They’re simply better at pretending they’re not.",
       "tags": [
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 9.141633,
+      "duration": 9.038435,
       "start": 0,
-      "end": 9.141633
+      "end": 9.038435
     },
     {
       "index": 2,
-      "text": "Phil and Luke believe there may be some kind of treasure hidden under their house. They’re both excited to look for it, but Phil is secretly terrified of the dark space and the insects under there.",
-      "tts_text": "[a natural conversational storyteller] Phil and Luke believe there may be some kind of treasure hidden under their house. They’re both excited to look for it, but Phil is secretly terrified of the dark space and the insects under there.",
+      "text": "Phil and Luke become convinced there might be treasure hidden under the house. They both want to explore, but Phil is secretly terrified of the dark crawl space and all the insects down there.",
+      "tts_text": "[a natural conversational storyteller] Phil and Luke become convinced there might be treasure hidden under the house. They both want to explore, but Phil is secretly terrified of the dark crawl space and all the insects down there.",
       "tags": [
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 10.999252,
-      "start": 9.141633,
-      "end": 20.140885
+      "duration": 11.205646,
+      "start": 9.038435,
+      "end": 20.244081
     },
     {
       "index": 3,
-      "text": "Instead of going in, he sends Luke’s remote-controlled truck down with a camera attached to it.",
-      "tts_text": "[a storyteller building gentle suspense] Instead of going in, he sends Luke’s remote-controlled truck down with a camera attached to it.",
+      "text": "So instead of going in himself, he sends Luke’s remote-controlled truck under the house with a camera attached.",
+      "tts_text": "[a storyteller building gentle suspense] So instead of going in himself, he sends Luke’s remote-controlled truck under the house with a camera attached.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 6.252041,
-      "start": 20.140885,
-      "end": 26.392926000000003
+      "duration": 6.406825,
+      "start": 20.244081,
+      "end": 26.650906000000003
     },
     {
       "index": 4,
-      "text": "Phil loses control of the truck, and Luke is upset because it was a Christmas present from Jay. Luke finally crawls under the house to get it himself, but his belt gets caught on a pipe.",
-      "tts_text": "[a storyteller with playful humor] Phil loses control of the truck, and Luke is upset because it was a Christmas present from Jay. Luke finally crawls under the house to get it himself, but his belt gets caught on a pipe.",
+      "text": "Phil loses the truck. Luke is upset because it was a Christmas present from Jay, so he crawls under the house to get it himself. Then his belt gets caught on a pipe.",
+      "tts_text": "[a storyteller with playful humor] Phil loses the truck. Luke is upset because it was a Christmas present from Jay, so he crawls under the house to get it himself. Then his belt gets caught on a pipe.",
       "tags": [
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.205646,
-      "start": 26.392926000000003,
-      "end": 37.598572000000004
+      "duration": 10.483243,
+      "start": 26.650906000000003,
+      "end": 37.134149
     },
     {
       "index": 5,
-      "text": "As soon as Phil hears that his son is trapped, he forgets about his own fear and goes in to help him.",
-      "tts_text": "[an animated storyteller explaining the scene] As soon as Phil hears that his son is trapped, he forgets about his own fear and goes in to help him.",
+      "text": "The second Phil hears that Luke is trapped, he stops thinking about spiders and tight spaces and goes in after him.",
+      "tts_text": "[an animated storyteller explaining the scene] The second Phil hears that Luke is trapped, he stops thinking about spiders and tight spaces and goes in after him.",
       "tags": [
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 6.871247,
-      "start": 37.598572000000004,
-      "end": 44.469819
+      "duration": 6.66483,
+      "start": 37.134149,
+      "end": 43.798979
     },
     {
       "index": 6,
-      "text": "After Phil frees Luke, they decide to keep exploring together. They soon find what look like dead bodies and run out screaming. The police arrive, but the bodies turn out to be old Halloween decorations left by the previous owner.",
-      "tts_text": "[a storyteller emphasizing the surprising turn] After Phil frees Luke, they decide to keep exploring together. They soon find what look like dead bodies and run out screaming. The police arrive, but the bodies turn out to be old Halloween decorations left by the previous owner.",
+      "text": "Phil frees Luke, and for a moment he feels pretty heroic. Luke still wants his truck, though, so they keep going. Once they’re both under the house, Phil starts relaxing and even enjoys the adventure—right up until they find what look like dead bodies.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Phil frees Luke, and for a moment he feels pretty heroic. Luke still wants his truck, though, so they keep going. Once they’re both under the house, Phil starts relaxing and even enjoys the adventure—right up until they find what look like dead bodies.",
       "tags": [
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.353243,
-      "start": 44.469819,
-      "end": 58.823062
+      "duration": 17.08805,
+      "start": 43.798979,
+      "end": 60.887029
     },
     {
       "index": 7,
-      "text": "Meanwhile, Haley is taking her driving test for the third time. She’s so nervous that Claire tells her to take three deep breaths and relax. Unfortunately, Haley gets the same strict examiner who failed her before.",
-      "tts_text": "[a storyteller smoothly moving to the next story] Meanwhile, Haley is taking her driving test for the third time. She’s so nervous that Claire tells her to take three deep breaths and relax. Unfortunately, Haley gets the same strict examiner who failed her before.",
+      "text": "They run out screaming and call the police. The “bodies” turn out to be old Halloween decorations left by the previous owner.",
+      "tts_text": "[a storyteller smoothly moving to the next story] They run out screaming and call the police. The “bodies” turn out to be old Halloween decorations left by the previous owner.",
       "tags": [
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.043651,
-      "start": 58.823062,
-      "end": 72.866713
+      "duration": 7.851633,
+      "start": 60.887029,
+      "end": 68.738662
     },
     {
       "index": 8,
-      "text": "During the test, Haley becomes overwhelmed and starts crying. The examiner admits that she reminds him of his own daughter, which is exactly why he wants her to become a safe driver. He gives her another chance, and she finally passes.",
-      "tts_text": "[a storyteller with warm empathy] During the test, Haley becomes overwhelmed and starts crying. The examiner admits that she reminds him of his own daughter, which is exactly why he wants her to become a safe driver. He gives her another chance, and she finally passes.",
+      "text": "Meanwhile, Haley is taking her driving test for the third time. If she fails again, she has to wait six months, so she’s already panicking before she gets in the car. Claire tells her to take three deep breaths and relax.",
+      "tts_text": "[a storyteller with warm empathy] Meanwhile, Haley is taking her driving test for the third time. If she fails again, she has to wait six months, so she’s already panicking before she gets in the car. Claire tells her to take three deep breaths and relax.",
       "tags": [
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.682449,
-      "start": 72.866713,
-      "end": 86.54916200000001
+      "duration": 12.547234,
+      "start": 68.738662,
+      "end": 81.28589600000001
     },
     {
       "index": 9,
-      "text": "Her celebration almost ends badly when she forgets to put the car in park.",
-      "tts_text": "[a thoughtful storyteller reflecting on the character] Her celebration almost ends badly when she forgets to put the car in park.",
+      "text": "Haley gets the same examiner who failed her before. During the test she gets overwhelmed and starts crying. He admits she reminds him of his own daughter, which is exactly why he’s so hard on her—he wants her to be safe. Haley gets another chance and finally passes.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Haley gets the same examiner who failed her before. During the test she gets overwhelmed and starts crying. He admits she reminds him of his own daughter, which is exactly why he’s so hard on her—he wants her to be safe. Haley gets another chance and finally passes.",
       "tags": [
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 4.394444,
-      "start": 86.54916200000001,
-      "end": 90.94360600000002
+      "duration": 15.540045,
+      "start": 81.28589600000001,
+      "end": 96.825941
     },
     {
       "index": 10,
-      "text": "Alex is also nervous about going to a school dance because she’s afraid no one will ask her to dance. Claire gives her the same advice she gave Haley: take three deep breaths and relax.",
-      "tts_text": "[a storyteller building gentle suspense] Alex is also nervous about going to a school dance because she’s afraid no one will ask her to dance. Claire gives her the same advice she gave Haley: take three deep breaths and relax.",
+      "text": "Then, while celebrating, she almost lets the car roll because she forgets to put it in park.",
+      "tts_text": "[a storyteller building gentle suspense] Then, while celebrating, she almost lets the car roll because she forgets to put it in park.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.308844,
-      "start": 90.94360600000002,
-      "end": 102.25245000000001
+      "duration": 6.458435,
+      "start": 96.825941,
+      "end": 103.284376
     },
     {
       "index": 11,
-      "text": "At Jay and Gloria’s house, Manny pretends to be sick so he can avoid a birthday party at an amusement park. Gloria knows he’s really afraid of the roller coaster, so she and Jay trick him into going.",
-      "tts_text": "[a storyteller warmly enjoying the happy moment] At Jay and Gloria’s house, Manny pretends to be sick so he can avoid a birthday party at an amusement park. Gloria knows he’s really afraid of the roller coaster, so she and Jay trick him into going.",
+      "text": "Alex is scared too. She has a school dance coming up and worries nobody will ask her to dance. Claire gives her the same advice: three deep breaths.",
+      "tts_text": "[a storyteller warmly enjoying the happy moment] Alex is scared too. She has a school dance coming up and worries nobody will ask her to dance. Claire gives her the same advice: three deep breaths.",
       "tags": [
         "[a storyteller warmly enjoying the happy moment]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 12.340839,
-      "start": 102.25245000000001,
-      "end": 114.59328900000001
+      "duration": 11.205646,
+      "start": 103.284376,
+      "end": 114.490022
     },
     {
       "index": 12,
-      "text": "Gloria tells Manny he needs to face his fear, but then she discovers that Jay is scared too. Manny refuses to ride without him, so Jay finally gets on with him.",
-      "tts_text": "[a heartfelt storyteller bringing the story home] Gloria tells Manny he needs to face his fear, but then she discovers that Jay is scared too. Manny refuses to ride without him, so Jay finally gets on with him.",
+      "text": "At Jay and Gloria’s house, Manny pretends to be sick because he doesn’t want to go to a birthday party at an amusement park. Gloria knows he’s really afraid of the roller coaster. She and Jay drag him there and tell him he has to face his fear.",
+      "tts_text": "[a heartfelt storyteller bringing the story home] At Jay and Gloria’s house, Manny pretends to be sick because he doesn’t want to go to a birthday party at an amusement park. Gloria knows he’s really afraid of the roller coaster. She and Jay drag him there and tell him he has to face his fear.",
       "tags": [
         "[a heartfelt storyteller bringing the story home]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 10.58644,
-      "start": 114.59328900000001,
-      "end": 125.17972900000001
+      "duration": 13.682449,
+      "start": 114.490022,
+      "end": 128.172471
     },
     {
       "index": 13,
-      "text": "Mitchell and Cameron invite Lily’s pediatrician over for brunch because they want to become her favorite patients. During the meal, Lily suddenly says “Mommy.” Cameron is heartbroken and starts worrying that Lily needs a mother.",
-      "tts_text": "[empathetic] Mitchell and Cameron invite Lily’s pediatrician over for brunch because they want to become her favorite patients. During the meal, Lily suddenly says “Mommy.” Cameron is heartbroken and starts worrying that Lily needs a mother.",
-      "tags": [
-        "[empathetic]"
-      ],
+      "text": "Then Gloria discovers Jay is scared of the ride too. Manny refuses to go without him, so Jay has no choice but to get on.",
+      "tts_text": "Then Gloria discovers Jay is scared of the ride too. Manny refuses to go without him, so Jay has no choice but to get on.",
+      "tags": [],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.198435,
-      "start": 125.17972900000001,
-      "end": 139.378164
+      "duration": 8.264444,
+      "start": 128.172471,
+      "end": 136.436915
     },
     {
       "index": 14,
-      "text": "The doctor tells them that Lily is lucky to have two fathers who care so much about her. Later, they discover that Lily’s doll says “Mommy” when it’s squeezed. Lily was only copying the sound, and both fathers are relieved.",
-      "tts_text": "The doctor tells them that Lily is lucky to have two fathers who care so much about her. Later, they discover that Lily’s doll says “Mommy” when it’s squeezed. Lily was only copying the sound, and both fathers are relieved.",
+      "text": "Mitchell and Cameron invite Lily’s pediatrician over for brunch because they’re desperate to become her favorite patients. During the meal, Lily suddenly says “Mommy.” Cameron is crushed and starts worrying that Lily somehow knows she’s missing a mother.",
+      "tts_text": "Mitchell and Cameron invite Lily’s pediatrician over for brunch because they’re desperate to become her favorite patients. During the meal, Lily suddenly says “Mommy.” Cameron is crushed and starts worrying that Lily somehow knows she’s missing a mother.",
       "tags": [],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.527642,
-      "start": 139.378164,
-      "end": 152.90580599999998
+      "duration": 15.230454,
+      "start": 136.436915,
+      "end": 151.667369
     },
     {
       "index": 15,
-      "text": "By the end, everyone is still afraid of something. But whether it’s a dark space, a roller coaster, a driving test, or being a good parent, it becomes easier when someone is there with you.",
-      "tts_text": "By the end, everyone is still afraid of something. But whether it’s a dark space, a roller coaster, a driving test, or being a good parent, it becomes easier when someone is there with you.",
+      "text": "The doctor reassures them that Lily has two parents who love her.",
+      "tts_text": "The doctor reassures them that Lily has two parents who love her.",
       "tags": [],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.050839,
-      "start": 152.90580599999998,
-      "end": 163.95664499999998
+      "duration": 3.826825,
+      "start": 151.667369,
+      "end": 155.49419400000002
+    },
+    {
+      "index": 16,
+      "text": "Later, they find out what really happened: Lily’s doll says “Mommy” when you squeeze it. Lily was just copying the sound.",
+      "tts_text": "Later, they find out what really happened: Lily’s doll says “Mommy” when you squeeze it. Lily was just copying the sound.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 8.316032,
+      "start": 155.49419400000002,
+      "end": 163.81022600000003
+    },
+    {
+      "index": 17,
+      "text": "Everybody is still afraid of something by the end. The difference is that most of them manage to move anyway.",
+      "tts_text": "Everybody is still afraid of something by the end. The difference is that most of them manage to move anyway.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 6.561633,
+      "start": 163.81022600000003,
+      "end": 170.37185900000003
     }
   ],
-  "audio_file": "english.wav",
-  "duration": 163.95664499999998
+  "audio_file": "english.mp3"
 }

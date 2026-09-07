@@ -7,7 +7,7 @@
 当前服务由 `godsplan.service` 执行 `npm run start`，工作目录为 `/opt/boringmax/godsplan`。在现有部署方式下，VPS 上需要保留：
 
 - `.next/`：通过生产构建生成的 Next.js 运行产物；
-- `public/`：页面静态资源，尤其是 `public/audio/courses/` 下的 `english.wav` 和 `manifest.json`；
+- `public/`：页面静态资源，尤其是 `public/audio/courses/` 下的 `english.mp3` 和 `manifest.json`；
 - `data/english-learning.db`：用户学习进度和已导入课程内容；
 - `node_modules/`：与 VPS 系统和 Node.js 版本匹配的生产依赖；
 - `package.json`：因为 systemd 当前通过 `npm run start` 启动服务；
@@ -19,6 +19,8 @@
 ## 统一部署身份
 
 VPS 的 SSH 登录、应用目录所有者和应用服务账户均统一为 `ubuntu`。因此发布文件可以直接上传到对应应用目录；不需要跨用户暂存目录，也不要再以 `shipnow` 用户执行部署脚本。`root` 仅用于系统级维护（例如 systemd、Caddy 或软件安装），不是日常部署账户。
+
+`ubuntu` 对 systemd 的操作须使用无交互 sudo，例如 `sudo -n systemctl restart godsplan.service`；直接执行 `systemctl restart` 会被策略拒绝，导致文件虽已上传、运行服务却仍使用旧构建。
 
 ## 只用于本地或部署过程的内容
 
@@ -66,15 +68,15 @@ VPS 的 SSH 登录、应用目录所有者和应用服务账户均统一为 `ubu
 4. 音频请求仍支持 `206 Partial Content`；
 5. VPS 上不存在新产生的 `data/audio-cache/`、`.next/cache/` 或测试产物。
 
-课程音频发布不能只检查 WAV 文件是否存在。每次新增或替换课程音频时，必须在本地先执行：
+课程音频发布不能只检查 MP3 文件是否存在。线上统一发布 96 kbps 单声道 MP3；WAV 仅可作为本地合成中间产物，不能随发布进入 VPS。每次新增或替换课程音频时，必须在本地先执行：
 
 ```bash
 npm run audio:validate -- --course modern-family-s01e01
 ```
 
-不带 `--course` 会校验全部课程。该检查会同时确认 WAV、manifest 分段时间轴，以及 manifest 总时长与 WAV 时长一致；失败时禁止继续发布。音频生成脚本会直接写入 `start`、`end`、`duration`，不再依赖发布后人工补时间轴。
+不带 `--course` 会校验全部课程。该检查会同时确认发布音频、manifest 分段时间轴，以及 manifest 总时长与音频时长一致；失败时禁止继续发布。音频生成脚本会直接写入 `start`、`end`、`duration`，不再依赖发布后人工补时间轴。
 
-部署后还要对公网 manifest 做一次同等检查，并在真实课程页确认播放按钮出现。只看到 WAV 返回 200/206 不代表前端可播放，因为缺少时间轴时页面会主动隐藏播放工作台。
+部署后还要对公网 manifest 做一次同等检查，并在真实课程页确认播放按钮出现。只看到 MP3 返回 200/206 不代表前端可播放，因为缺少时间轴时页面会主动隐藏播放工作台。
 
 如果只是更新前端代码，不要重新上传课程源文件、音频生成缓存或本地测试目录。只有课程内容、数据库或音频成品实际变化时，才发布对应的运行时文件。
 
@@ -89,7 +91,7 @@ NEXT_PUBLIC_BASE_PATH=/godsplan npm run build
 
 # 只同步新的生产构建
 rsync -az --delete .next/ ubuntu@43.172.79.177:/opt/boringmax/godsplan/.next/
-ssh ubuntu@43.172.79.177 'systemctl restart godsplan.service && systemctl is-active godsplan.service'
+ssh ubuntu@43.172.79.177 'sudo -n systemctl restart godsplan.service && sudo -n systemctl is-active godsplan.service'
 
 # 发布后检查
 curl -fsS https://boringmax.com/godsplan/today >/dev/null
@@ -110,8 +112,8 @@ cd /opt/boringmax/godsplan
 cp -a data/english-learning.db data/english-learning.db.pre-deps-$(date -u +%Y%m%dT%H%M%SZ)
 npm install --omit=dev
 test -n "$(find node_modules/better-sqlite3 -name '*.node' -print -quit)"
-systemctl restart godsplan.service
-systemctl is-active godsplan.service
+sudo -n systemctl restart godsplan.service
+sudo -n systemctl is-active godsplan.service
 ```
 
 如果依赖安装移除了 `better-sqlite3` 原生绑定，应立即停止发布流程，恢复兼容版本并重新验证页面；不要继续反复执行 `npm prune` 或默认 `npm install`。
@@ -123,7 +125,7 @@ systemctl is-active godsplan.service
 ```bash
 cd /opt/boringmax/godsplan
 npm prune --omit=dev
-systemctl restart godsplan.service
+sudo -n systemctl restart godsplan.service
 ```
 
 清理后必须确认 `godsplan.service` 为 `active`，并重新检查首页、课程页和音频请求。线上服务通过 `npm run start` 运行，只依赖 `dependencies`；不要在 VPS 上运行本地构建、测试或课程生产脚本。生产配置使用 `next.config.js`，因此 Next 启动不需要 TypeScript。以后如需在 VPS 重新安装依赖，必须先确认锁文件与 Node 24 原生模块兼容，并使用 production-only 安装；不能把 macOS 的 `node_modules` 直接复制到 VPS。

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T04:23:18.116Z",
+  "generated_at": "2026-09-07T05:20:55.403Z",
   "course": "modern-family-s01e14",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -9,199 +9,199 @@
   "volume": 1.5,
   "temperature": 0.9,
   "top_p": 0.92,
-  "script_sha256": "da22b246429a1854b3fe4aea816613fae90d3ef748fee248d09970be8c6d4c3a",
+  "script_sha256": "c3cf5f4c9d4c9932368dc5e9b8a5f371770e791d9ea7fad6dec649cc59858e02",
   "segment_count": 15,
+  "duration": 171.38703,
   "segments": [
     {
       "index": 1,
-      "text": "This episode is about people worrying about how others see them. Claire compares her life with an old friend’s, Jay feels awkward around Cameron, and Gloria refuses to admit that she may be a terrible driver.",
-      "tts_text": "[a warm storyteller inviting the listener into the story] This episode is about people worrying about how others see them. Claire compares her life with an old friend’s, Jay feels awkward around Cameron, and Gloria refuses to admit that she may be a terrible driver.",
+      "text": "This episode is full of people worrying about how they look to someone else, and then making themselves miserable because of it.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] This episode is full of people worrying about how they look to someone else, and then making themselves miserable because of it.",
       "tags": [
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.11483,
+      "duration": 7.180839,
       "start": 0,
-      "end": 13.11483
+      "end": 7.180839
     },
     {
       "index": 2,
-      "text": "Claire meets Valerie, a former coworker she hasn’t seen in fifteen years. Claire left her job to raise a family, while Valerie stayed at the company. At first, Claire thinks Valerie is jealous of her marriage and children.",
-      "tts_text": "[a natural conversational storyteller] Claire meets Valerie, a former coworker she hasn’t seen in fifteen years. Claire left her job to raise a family, while Valerie stayed at the company. At first, Claire thinks Valerie is jealous of her marriage and children.",
+      "text": "Claire meets Valerie, an old coworker she hasn’t seen in fifteen years. Back then they were on the same career track, but Claire left work to raise a family while Valerie stayed with the company. At first Claire assumes Valerie must be jealous of her husband and kids.",
+      "tts_text": "[a natural conversational storyteller] Claire meets Valerie, an old coworker she hasn’t seen in fifteen years. Back then they were on the same career track, but Claire left work to raise a family while Valerie stayed with the company. At first Claire assumes Valerie must be jealous of her husband and kids.",
       "tags": [
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.888844,
-      "start": 13.11483,
-      "end": 27.003674
+      "duration": 16.365646,
+      "start": 7.180839,
+      "end": 23.546485
     },
     {
       "index": 3,
-      "text": "Then she learns that Valerie has become a senior executive, travels around the world, and is about to take an important job in Paris.",
-      "tts_text": "[a storyteller building gentle suspense] Then she learns that Valerie has become a senior executive, travels around the world, and is about to take an important job in Paris.",
+      "text": "Then Valerie casually talks about traveling the world, having lovers in different cities, and possibly getting a huge promotion in Paris.",
+      "tts_text": "[a storyteller building gentle suspense] Then Valerie casually talks about traveling the world, having lovers in different cities, and possibly getting a huge promotion in Paris.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 8.161247,
-      "start": 27.003674,
-      "end": 35.164921
+      "duration": 9.399637,
+      "start": 23.546485,
+      "end": 32.946122
     },
     {
       "index": 4,
-      "text": "Claire suddenly feels that Valerie is looking down on her instead. She invites her home because she wants to show her how great her family life is.",
-      "tts_text": "[a storyteller with playful humor] Claire suddenly feels that Valerie is looking down on her instead. She invites her home because she wants to show her how great her family life is.",
+      "text": "When Valerie gets the promotion, Claire suddenly feels like the one being judged. She convinces herself that Valerie pities her, so she invites her home to prove that family life is amazing.",
+      "tts_text": "[a storyteller with playful humor] When Valerie gets the promotion, Claire suddenly feels like the one being judged. She convinces herself that Valerie pities her, so she invites her home to prove that family life is amazing.",
       "tags": [
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 8.728844,
-      "start": 35.164921,
-      "end": 43.893765
+      "duration": 12.289252,
+      "start": 32.946122,
+      "end": 45.235374
     },
     {
       "index": 5,
-      "text": "Unfortunately, Valerie arrives at the worst possible time. The water has been shut off, Luke spills a huge bag of bottles from his recycling drive, and the house smells like alcohol. Alex is chasing a rat, while Haley and Dylan are having a loud argument on the stairs.",
-      "tts_text": "[an animated storyteller explaining the scene] Unfortunately, Valerie arrives at the worst possible time. The water has been shut off, Luke spills a huge bag of bottles from his recycling drive, and the house smells like alcohol. Alex is chasing a rat, while Haley and Dylan are having a loud argument on the stairs.",
+      "text": "Valerie could not arrive at a worse time. The water is shut off, Luke spills bags of bottles from his recycling drive, and the house smells like alcohol. Alex is chasing a rat. Haley and Dylan are fighting on the stairs.",
+      "tts_text": "[an animated storyteller explaining the scene] Valerie could not arrive at a worse time. The water is shut off, Luke spills bags of bottles from his recycling drive, and the house smells like alcohol. Alex is chasing a rat. Haley and Dylan are fighting on the stairs.",
       "tags": [
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 17.191247,
-      "start": 43.893765,
-      "end": 61.085012000000006
+      "duration": 14.250045,
+      "start": 45.235374,
+      "end": 59.485419
     },
     {
       "index": 6,
-      "text": "Phil is also stuck outside using a portable toilet while trying to save an important house sale.",
-      "tts_text": "[a storyteller emphasizing the surprising turn] Phil is also stuck outside using a portable toilet while trying to save an important house sale.",
+      "text": "Phil is outside dealing with a portable toilet while trying to save a house sale. Claire watches the entire picture she wanted to show off fall apart in front of Valerie.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Phil is outside dealing with a portable toilet while trying to save a house sale. Claire watches the entire picture she wanted to show off fall apart in front of Valerie.",
       "tags": [
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 6.252041,
-      "start": 61.085012000000006,
-      "end": 67.33705300000001
+      "duration": 9.606032,
+      "start": 59.485419,
+      "end": 69.091451
     },
     {
       "index": 7,
-      "text": "Valerie leaves after saying that Claire has a beautiful family, but Claire feels completely humiliated. She yells at everyone and walks out. When she comes back later, the family is sitting around the table eating together. Nobody makes her give a big apology.",
-      "tts_text": "[a storyteller smoothly moving to the next story] Valerie leaves after saying that Claire has a beautiful family, but Claire feels completely humiliated. She yells at everyone and walks out. When she comes back later, the family is sitting around the table eating together. Nobody makes her give a big apology.",
+      "text": "After Valerie leaves, Claire explodes at everyone and storms out. When she comes back later, the family is sitting around the table eating together. Nobody gives her a speech or demands an apology. They just make room for her.",
+      "tts_text": "[a storyteller smoothly moving to the next story] After Valerie leaves, Claire explodes at everyone and storms out. When she comes back later, the family is sitting around the table eating together. Nobody gives her a speech or demands an apology. They just make room for her.",
       "tags": [
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 15.230454,
-      "start": 67.33705300000001,
-      "end": 82.567507
+      "duration": 14.404853,
+      "start": 69.091451,
+      "end": 83.49630400000001
     },
     {
       "index": 8,
-      "text": "They simply make room for her, and she remembers why she chose this life in the first place.",
-      "tts_text": "[a storyteller with warm empathy] They simply make room for her, and she remembers why she chose this life in the first place.",
+      "text": "That quiet moment is enough to remind Claire why she chose this life in the first place.",
+      "tts_text": "[a storyteller with warm empathy] That quiet moment is enough to remind Claire why she chose this life in the first place.",
       "tags": [
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 5.632834,
-      "start": 82.567507,
-      "end": 88.20034100000001
+      "duration": 6.66483,
+      "start": 83.49630400000001,
+      "end": 90.161134
     },
     {
       "index": 9,
-      "text": "Meanwhile, Jay reluctantly agrees to play racquetball with Cameron. He’s uncomfortable about sharing a locker room with a gay man and keeps imagining that Cameron will look at him differently.",
-      "tts_text": "[a thoughtful storyteller reflecting on the character] Meanwhile, Jay reluctantly agrees to play racquetball with Cameron. He’s uncomfortable about sharing a locker room with a gay man and keeps imagining that Cameron will look at him differently.",
+      "text": "Meanwhile, Jay agrees to play racquetball with Cameron. Jay is uncomfortable about changing in a locker room with a gay man and keeps imagining Cameron is going to look at him differently. Then, while they’re changing, their bare backsides accidentally touch.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Meanwhile, Jay agrees to play racquetball with Cameron. Jay is uncomfortable about changing in a locker room with a gay man and keeps imagining Cameron is going to look at him differently. Then, while they’re changing, their bare backsides accidentally touch.",
       "tags": [
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.618435,
-      "start": 88.20034100000001,
-      "end": 99.81877600000001
+      "duration": 15.694853,
+      "start": 90.161134,
+      "end": 105.855987
     },
     {
       "index": 10,
-      "text": "While they’re changing, their bare backsides accidentally touch. Cameron casually calls it a “moon landing,” but Jay can’t stop thinking about it and loses their first game. He demands a rematch and wins.",
-      "tts_text": "[a storyteller building gentle suspense] While they’re changing, their bare backsides accidentally touch. Cameron casually calls it a “moon landing,” but Jay can’t stop thinking about it and loses their first game. He demands a rematch and wins.",
+      "text": "Cameron casually calls it a “moon landing.” Jay acts like it’s no big deal, but it completely gets into his head and ruins his game.",
+      "tts_text": "[a storyteller building gentle suspense] Cameron casually calls it a “moon landing.” Jay acts like it’s no big deal, but it completely gets into his head and ruins his game.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 12.289252,
-      "start": 99.81877600000001,
-      "end": 112.10802800000002
+      "duration": 9.038435,
+      "start": 105.855987,
+      "end": 114.89442199999999
     },
     {
       "index": 11,
-      "text": "Back in the locker room, Jay tries to prove that the whole thing no longer bothers him. Then he realizes that the man standing behind him isn’t Cameron, and he suddenly wants to leave as quickly as possible.",
-      "tts_text": "[a storyteller warmly enjoying the happy moment] Back in the locker room, Jay tries to prove that the whole thing no longer bothers him. Then he realizes that the man standing behind him isn’t Cameron, and he suddenly wants to leave as quickly as possible.",
+      "text": "Jay demands a rematch and wins. Back in the locker room, he tries to prove he’s over the whole thing—then realizes the man standing behind him isn’t Cameron at all, and suddenly he wants out of there as fast as possible.",
+      "tts_text": "[a storyteller warmly enjoying the happy moment] Jay demands a rematch and wins. Back in the locker room, he tries to prove he’s over the whole thing—then realizes the man standing behind him isn’t Cameron at all, and suddenly he wants out of there as fast as possible.",
       "tags": [
         "[a storyteller warmly enjoying the happy moment]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 12.082834,
-      "start": 112.10802800000002,
-      "end": 124.19086200000002
+      "duration": 13.372857,
+      "start": 114.89442199999999,
+      "end": 128.267279
     },
     {
       "index": 12,
-      "text": "Mitchell is helping Gloria after a car accident. He’s pleased because he thinks Jay finally respects him as a lawyer. Then Manny quietly tells him that Gloria caused the accident.",
-      "tts_text": "[a heartfelt storyteller bringing the story home] Mitchell is helping Gloria after a car accident. He’s pleased because he thinks Jay finally respects him as a lawyer. Then Manny quietly tells him that Gloria caused the accident.",
+      "text": "Mitchell has his own problem with Gloria. She’s been in a car accident, and Jay asks Mitchell to help because he’s a lawyer. Mitchell is pleased that his father finally seems to respect him professionally, until Manny quietly reveals that Gloria caused the accident.",
+      "tts_text": "[a heartfelt storyteller bringing the story home] Mitchell has his own problem with Gloria. She’s been in a car accident, and Jay asks Mitchell to help because he’s a lawyer. Mitchell is pleased that his father finally seems to respect him professionally, until Manny quietly reveals that Gloria caused the accident.",
       "tags": [
         "[a heartfelt storyteller bringing the story home]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.515238,
-      "start": 124.19086200000002,
-      "end": 135.70610000000002
+      "duration": 16.520431,
+      "start": 128.267279,
+      "end": 144.78771
     },
     {
       "index": 13,
-      "text": "When Mitchell calls Jay, he learns that Jay already knew and only involved him because he didn’t want to confront Gloria himself.",
-      "tts_text": "When Mitchell calls Jay, he learns that Jay already knew and only involved him because he didn’t want to confront Gloria himself.",
+      "text": "Jay already knew. He only brought Mitchell in because he didn’t want to be the one who told Gloria she was wrong.",
+      "tts_text": "Jay already knew. He only brought Mitchell in because he didn’t want to be the one who told Gloria she was wrong.",
       "tags": [],
       "speed": 0.9,
       "cached": false,
-      "duration": 8.109637,
-      "start": 135.70610000000002,
-      "end": 143.815737
+      "duration": 6.71644,
+      "start": 144.78771,
+      "end": 151.50415
     },
     {
       "index": 14,
-      "text": "Mitchell tries to tell Gloria the truth, but she becomes defensive and fires him as her lawyer. Later, she returns and admits that the accident may have been partly her fault. Unfortunately, she has already had another accident and needs Mitchell’s help again.",
-      "tts_text": "Mitchell tries to tell Gloria the truth, but she becomes defensive and fires him as her lawyer. Later, she returns and admits that the accident may have been partly her fault. Unfortunately, she has already had another accident and needs Mitchell’s help again.",
+      "text": "Mitchell tries anyway. Gloria gets defensive and fires him. Later she comes back, admits the accident may have been partly her fault, and asks for his help again—because she has already had another accident.",
+      "tts_text": "Mitchell tries anyway. Gloria gets defensive and fires him. Later she comes back, admits the accident may have been partly her fault, and asks for his help again—because she has already had another accident.",
       "tags": [],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.920839,
-      "start": 143.815737,
-      "end": 158.736576
+      "duration": 13.372857,
+      "start": 151.50415,
+      "end": 164.87700700000002
     },
     {
       "index": 15,
-      "text": "By the end, Claire’s home still looks messy compared with Valerie’s exciting life. But when her family welcomes her back to the table, she knows she’s exactly where she wants to be.",
-      "tts_text": "By the end, Claire’s home still looks messy compared with Valerie’s exciting life. But when her family welcomes her back to the table, she knows she’s exactly where she wants to be.",
+      "text": "By the end, Claire’s life still looks chaotic next to Valerie’s. She just stops needing it to look better.",
+      "tts_text": "By the end, Claire’s life still looks chaotic next to Valerie’s. She just stops needing it to look better.",
       "tags": [],
       "speed": 0.9,
       "cached": false,
-      "duration": 10.483243,
-      "start": 158.736576,
-      "end": 169.219819
+      "duration": 6.510023,
+      "start": 164.87700700000002,
+      "end": 171.38703
     }
   ],
-  "audio_file": "english.wav",
-  "duration": 169.219819
+  "audio_file": "english.mp3"
 }

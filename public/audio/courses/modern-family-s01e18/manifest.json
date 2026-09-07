@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T04:25:54.861Z",
+  "generated_at": "2026-09-07T05:24:58.932Z",
   "course": "modern-family-s01e18",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -9,199 +9,199 @@
   "volume": 1.5,
   "temperature": 0.9,
   "top_p": 0.92,
-  "script_sha256": "c4c375a52bac4f6a93be0a432975bc9b8d08268ce53fc4d66b80828806f4a16c",
+  "script_sha256": "ae120fd12787fe08dff7cc9ddead2ac047c44b7bb75c4bd99a901a77253e32e5",
   "segment_count": 15,
+  "duration": 171.12904899999995,
   "segments": [
     {
       "index": 1,
-      "text": "This episode is about parents trying to help their children in different ways. Claire believes the kids need constant supervision, while Phil and Jay think a little space and support may work better.",
-      "tts_text": "[a warm storyteller inviting the listener into the story] This episode is about parents trying to help their children in different ways. Claire believes the kids need constant supervision, while Phil and Jay think a little space and support may work better.",
+      "text": "This episode is about parents trying to help kids without always knowing what kind of help they actually need.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] This episode is about parents trying to help kids without always knowing what kind of help they actually need.",
       "tags": [
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.670045,
+      "duration": 6.510023,
       "start": 0,
-      "end": 11.670045
+      "end": 6.510023
     },
     {
       "index": 2,
-      "text": "At the Dunphy house, Luke has a project about Vincent van Gogh due the next day, and Haley needs to make forty cupcakes for a school fundraiser. Claire takes charge of Haley and asks Phil to keep Luke focused.",
-      "tts_text": "[a natural conversational storyteller] At the Dunphy house, Luke has a project about Vincent van Gogh due the next day, and Haley needs to make forty cupcakes for a school fundraiser. Claire takes charge of Haley and asks Phil to keep Luke focused.",
+      "text": "At the Dunphy house, Luke has a huge school project on Vincent van Gogh due the next day, and he hasn’t started. Haley also suddenly announces that she needs forty cupcakes for a fundraiser. Claire takes the cupcakes and tells Phil to stay on top of Luke.",
+      "tts_text": "[a natural conversational storyteller] At the Dunphy house, Luke has a huge school project on Vincent van Gogh due the next day, and he hasn’t started. Haley also suddenly announces that she needs forty cupcakes for a fundraiser. Claire takes the cupcakes and tells Phil to stay on top of Luke.",
       "tags": [
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.16644,
-      "start": 11.670045,
-      "end": 24.836485
+      "duration": 15.436848,
+      "start": 6.510023,
+      "end": 21.946871
     },
     {
       "index": 3,
-      "text": "Phil says he doesn’t want to stand over Luke all night. He plans to give him some guidance and let him work independently. The problem is that Phil gets distracted even more easily than Luke.",
-      "tts_text": "[a storyteller building gentle suspense] Phil says he doesn’t want to stand over Luke all night. He plans to give him some guidance and let him work independently. The problem is that Phil gets distracted even more easily than Luke.",
+      "text": "Phil refuses to micromanage him. He says Luke just needs the right tools and a little space. The problem is that Phil is even easier to distract than Luke.",
+      "tts_text": "[a storyteller building gentle suspense] Phil refuses to micromanage him. He says Luke just needs the right tools and a little space. The problem is that Phil is even easier to distract than Luke.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.154036,
-      "start": 24.836485,
-      "end": 35.990521
+      "duration": 10.122041,
+      "start": 21.946871,
+      "end": 32.068912
     },
     {
       "index": 4,
-      "text": "He keeps leaving the project to fix things around the house, and Claire becomes sure that Luke won’t finish anything.",
-      "tts_text": "[a storyteller with playful humor] He keeps leaving the project to fix things around the house, and Claire becomes sure that Luke won’t finish anything.",
+      "text": "Every few minutes he wanders away to fix something around the house, and Claire becomes more and more convinced that the project is going to be a disaster.",
+      "tts_text": "[a storyteller with playful humor] Every few minutes he wanders away to fix something around the house, and Claire becomes more and more convinced that the project is going to be a disaster.",
       "tags": [
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 5.942426,
-      "start": 35.990521,
-      "end": 41.932947
+      "duration": 8.470839,
+      "start": 32.068912,
+      "end": 40.539750999999995
     },
     {
       "index": 5,
-      "text": "Claire handles Haley very differently. She shows her how to make the cupcakes, but Haley keeps making small mistakes until Claire takes over and does most of the work herself.",
-      "tts_text": "[an animated storyteller explaining the scene] Claire handles Haley very differently. She shows her how to make the cupcakes, but Haley keeps making small mistakes until Claire takes over and does most of the work herself.",
+      "text": "Claire handles Haley in the exact opposite way. She shows her how to make the cupcakes, then keeps stepping in every time Haley does something wrong until Claire is basically doing the whole job herself.",
+      "tts_text": "[an animated storyteller explaining the scene] Claire handles Haley in the exact opposite way. She shows her how to make the cupcakes, then keeps stepping in every time Haley does something wrong until Claire is basically doing the whole job herself.",
       "tags": [
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.050839,
-      "start": 41.932947,
-      "end": 52.983785999999995
+      "duration": 12.289252,
+      "start": 40.539750999999995,
+      "end": 52.82900299999999
     },
     {
       "index": 6,
-      "text": "Later, Claire goes into Luke’s room expecting a disaster. Instead, she finds a creative and well-organized display that he made mostly by himself. She realizes that Phil was right to trust him and apologizes for not giving Luke enough credit.",
-      "tts_text": "[a storyteller emphasizing the surprising turn] Later, Claire goes into Luke’s room expecting a disaster. Instead, she finds a creative and well-organized display that he made mostly by himself. She realizes that Phil was right to trust him and apologizes for not giving Luke enough credit.",
+      "text": "Later, Claire checks Luke’s room expecting nothing. Instead, she finds a creative display that he mostly built on his own. Luke split it into van Gogh’s life on one side and his paintings on the other, and it actually works.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Later, Claire checks Luke’s room expecting nothing. Instead, she finds a creative display that he mostly built on his own. Luke split it into van Gogh’s life on one side and his paintings on the other, and it actually works.",
       "tags": [
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 15.488435,
-      "start": 52.983785999999995,
-      "end": 68.47222099999999
+      "duration": 14.095238,
+      "start": 52.82900299999999,
+      "end": 66.924241
     },
     {
       "index": 7,
-      "text": "She then tells Haley to finish her own cupcakes. Haley does, but they taste so terrible that the family waits until she leaves before spitting them out.",
-      "tts_text": "[a storyteller smoothly moving to the next story] She then tells Haley to finish her own cupcakes. Haley does, but they taste so terrible that the family waits until she leaves before spitting them out.",
+      "text": "Claire admits Phil was right to give him room and tells Luke she should have trusted him more. Then she turns around and makes Haley finish her own cupcakes. Haley does, but they’re so bad that the family waits until she leaves before spitting them out.",
+      "tts_text": "[a storyteller smoothly moving to the next story] Claire admits Phil was right to give him room and tells Luke she should have trusted him more. Then she turns around and makes Haley finish her own cupcakes. Haley does, but they’re so bad that the family waits until she leaves before spitting them out.",
       "tags": [
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 9.915624,
-      "start": 68.47222099999999,
-      "end": 78.38784499999998
+      "duration": 13.992041,
+      "start": 66.924241,
+      "end": 80.916282
     },
     {
       "index": 8,
-      "text": "Meanwhile, Mitchell and Jay are going to watch a meteor shower, something they’ve done together for years. Mitchell expects some quiet time with his father, but Jay brings Manny along.",
-      "tts_text": "[a storyteller with warm empathy] Meanwhile, Mitchell and Jay are going to watch a meteor shower, something they’ve done together for years. Mitchell expects some quiet time with his father, but Jay brings Manny along.",
+      "text": "Meanwhile, Mitchell is excited about a meteor shower because watching the stars has always been something he and Jay do together. Then Jay brings Manny along. Manny wants Mitchell to treat him like a brother, and Jay tells him brothers show affection by making fun of each other.",
+      "tts_text": "[a storyteller with warm empathy] Meanwhile, Mitchell is excited about a meteor shower because watching the stars has always been something he and Jay do together. Then Jay brings Manny along. Manny wants Mitchell to treat him like a brother, and Jay tells him brothers show affection by making fun of each other.",
       "tags": [
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 10.999252,
-      "start": 78.38784499999998,
-      "end": 89.38709699999998
+      "duration": 16.778458,
+      "start": 80.916282,
+      "end": 97.69474
     },
     {
       "index": 9,
-      "text": "Manny wants Mitchell to treat him like a brother, and Jay tells him that brothers show affection by making fun of each other. Manny follows that advice a little too well. After Mitchell gets sprayed by a skunk, Jay and Manny keep teasing him.",
-      "tts_text": "[a thoughtful storyteller reflecting on the character] Manny wants Mitchell to treat him like a brother, and Jay tells him that brothers show affection by making fun of each other. Manny follows that advice a little too well. After Mitchell gets sprayed by a skunk, Jay and Manny keep teasing him.",
+      "text": "Manny takes that advice seriously. After Mitchell gets sprayed by a skunk, Jay and Manny keep teasing him until Mitchell finally gets angry. That’s when Jay tells him what’s really going on.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Manny takes that advice seriously. After Mitchell gets sprayed by a skunk, Jay and Manny keep teasing him until Mitchell finally gets angry. That’s when Jay tells him what’s really going on.",
       "tags": [
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 15.540045,
-      "start": 89.38709699999998,
-      "end": 104.92714199999998
+      "duration": 11.566848,
+      "start": 97.69474,
+      "end": 109.26158799999999
     },
     {
       "index": 10,
-      "text": "Mitchell becomes angry and wants to go home.",
-      "tts_text": "[a storyteller building gentle suspense] Mitchell becomes angry and wants to go home.",
+      "text": "Manny wasn’t invited to a party because some kids he thought were his friends think he’s weird. Jay doesn’t know how to talk to him about it, so he brought Mitchell along because he thought Mitchell might.",
+      "tts_text": "[a storyteller building gentle suspense] Manny wasn’t invited to a party because some kids he thought were his friends think he’s weird. Jay doesn’t know how to talk to him about it, so he brought Mitchell along because he thought Mitchell might.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 3.414036,
-      "start": 104.92714199999998,
-      "end": 108.34117799999997
+      "duration": 10.483243,
+      "start": 109.26158799999999,
+      "end": 119.74483099999999
     },
     {
       "index": 11,
-      "text": "Jay finally explains that Manny wasn’t invited to a party because some children think he’s weird. Jay doesn’t know how to talk to him about it, so he brought Manny along because he thought Mitchell would understand.",
-      "tts_text": "[a storyteller warmly enjoying the happy moment] Jay finally explains that Manny wasn’t invited to a party because some children think he’s weird. Jay doesn’t know how to talk to him about it, so he brought Manny along because he thought Mitchell would understand.",
+      "text": "Mitchell later tells Manny that kids called him weird too. He says the strange thing about growing up is that everybody spends years terrified of being different, and then suddenly being different becomes something people want.",
+      "tts_text": "[a storyteller warmly enjoying the happy moment] Mitchell later tells Manny that kids called him weird too. He says the strange thing about growing up is that everybody spends years terrified of being different, and then suddenly being different becomes something people want.",
       "tags": [
         "[a storyteller warmly enjoying the happy moment]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.618435,
-      "start": 108.34117799999997,
-      "end": 119.95961299999998
+      "duration": 13.888844,
+      "start": 119.74483099999999,
+      "end": 133.63367499999998
     },
     {
       "index": 12,
-      "text": "Mitchell later tells Manny that he was called weird as a child too. He says that when people grow up, being different can become something they’re proud of.",
-      "tts_text": "[a heartfelt storyteller bringing the story home] Mitchell later tells Manny that he was called weird as a child too. He says that when people grow up, being different can become something they’re proud of.",
+      "text": "Manny clearly needs to hear that from someone who actually lived it.",
+      "tts_text": "[a heartfelt storyteller bringing the story home] Manny clearly needs to hear that from someone who actually lived it.",
       "tags": [
         "[a heartfelt storyteller bringing the story home]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 8.316032,
-      "start": 119.95961299999998,
-      "end": 128.27564499999997
+      "duration": 4.239637,
+      "start": 133.63367499999998,
+      "end": 137.87331199999997
     },
     {
       "index": 13,
-      "text": "While the boys are out, Cameron takes Gloria to dinner because he wants them to become closer. He tries too hard to impress her and orders an extremely spicy dish, even after she warns him not to. He can barely finish it.",
-      "tts_text": "While the boys are out, Cameron takes Gloria to dinner because he wants them to become closer. He tries too hard to impress her and orders an extremely spicy dish, even after she warns him not to. He can barely finish it.",
+      "text": "While the boys are out, Cameron takes Gloria to dinner because he wants them to be closer friends. He tries so hard to impress her that he orders an insanely spicy dish even after she warns him not to. He can barely eat it.",
+      "tts_text": "While the boys are out, Cameron takes Gloria to dinner because he wants them to be closer friends. He tries so hard to impress her that he orders an insanely spicy dish even after she warns him not to. He can barely eat it.",
       "tags": [],
       "speed": 0.9,
       "cached": false,
-      "duration": 12.753651,
-      "start": 128.27564499999997,
-      "end": 141.02929599999996
+      "duration": 13.682449,
+      "start": 137.87331199999997,
+      "end": 151.55576099999996
     },
     {
       "index": 14,
-      "text": "Once Cameron stops trying so hard, they finally relax. Gloria shares something she feels guilty about, and Cameron understands immediately. By the end of the night, she tells him that they’re already friends.",
-      "tts_text": "Once Cameron stops trying so hard, they finally relax. Gloria shares something she feels guilty about, and Cameron understands immediately. By the end of the night, she tells him that they’re already friends.",
+      "text": "Once Cameron stops performing and just relaxes, the night gets easier. Gloria opens up to him, and by the end she tells him they’re already friends.",
+      "tts_text": "Once Cameron stops performing and just relaxes, the night gets easier. Gloria opens up to him, and by the end she tells him they’re already friends.",
       "tags": [],
       "speed": 0.9,
       "cached": false,
-      "duration": 12.082834,
-      "start": 141.02929599999996,
-      "end": 153.11212999999995
+      "duration": 10.276848,
+      "start": 151.55576099999996,
+      "end": 161.83260899999996
     },
     {
       "index": 15,
-      "text": "Nobody’s plan works exactly as expected, but Luke earns Claire’s trust, Manny finds someone who understands him, and Cameron learns that friendship doesn’t need to be forced.",
-      "tts_text": "Nobody’s plan works exactly as expected, but Luke earns Claire’s trust, Manny finds someone who understands him, and Cameron learns that friendship doesn’t need to be forced.",
+      "text": "Luke succeeds when Claire backs off, Manny gets help from someone who understands him, and Cameron finally connects with Gloria once he stops forcing it.",
+      "tts_text": "Luke succeeds when Claire backs off, Manny gets help from someone who understands him, and Cameron finally connects with Gloria once he stops forcing it.",
       "tags": [],
       "speed": 0.9,
       "cached": false,
-      "duration": 10.844444,
-      "start": 153.11212999999995,
-      "end": 163.95657399999996
+      "duration": 9.29644,
+      "start": 161.83260899999996,
+      "end": 171.12904899999995
     }
   ],
-  "audio_file": "english.wav",
-  "duration": 163.95657399999996
+  "audio_file": "english.mp3"
 }

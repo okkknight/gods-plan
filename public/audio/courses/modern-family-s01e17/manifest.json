@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T10:41:58.732Z",
+  "generated_at": "2026-09-07T05:24:02.278Z",
   "course": "modern-family-s01e17",
   "mode": "english",
   "model": "s2.1-pro-free",
@@ -9,212 +9,221 @@
   "volume": 1.5,
   "temperature": 0.9,
   "top_p": 0.92,
-  "script_sha256": "b299e6f6f1df48c839d7d7a9b500bbbfc5060a3a20e3c6475becf8ab37012c80",
-  "segment_count": 16,
+  "script_sha256": "6fe78ed06364abbb381754168e6917ff179a93a9d038e1e3927ee39b9dbd3d33",
+  "segment_count": 17,
+  "duration": 183.73630299999996,
   "segments": [
     {
       "index": 1,
-      "text": "This episode is about people hiding the truth because they think it will make life easier. As usual, the lies only create bigger problems.",
-      "tts_text": "[a warm storyteller inviting the listener into the story] This episode is about people hiding the truth because they think it will make life easier. As usual, the lies only create bigger problems.",
+      "text": "This episode is full of people trying to avoid an uncomfortable truth, and every lie makes the situation harder than it needed to be.",
+      "tts_text": "[a warm storyteller inviting the listener into the story] This episode is full of people trying to avoid an uncomfortable truth, and every lie makes the situation harder than it needed to be.",
       "tags": [
         "[a warm storyteller inviting the listener into the story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 9.24483,
+      "duration": 8.935238,
       "start": 0,
-      "end": 9.24483
+      "end": 8.935238
     },
     {
       "index": 2,
-      "text": "Phil has reconnected with his old high school girlfriend, Denise, on Facebook. He plans to meet her for a drink, but Claire immediately becomes suspicious. Phil insists that they’re only friends and invites Denise to the house instead, hoping to prove that Claire is overreacting.",
-      "tts_text": "[a natural conversational storyteller] Phil has reconnected with his old high school girlfriend, Denise, on Facebook. He plans to meet her for a drink, but Claire immediately becomes suspicious. Phil insists that they’re only friends and invites Denise to the house instead, hoping to prove that Claire is overreacting.",
+      "text": "Phil has reconnected with Denise, an old high school girlfriend, on Facebook. He plans to meet her for a drink, and Claire immediately thinks that’s a terrible idea.",
+      "tts_text": "[a natural conversational storyteller] Phil has reconnected with Denise, an old high school girlfriend, on Facebook. He plans to meet her for a drink, and Claire immediately thinks that’s a terrible idea.",
       "tags": [
         "[a natural conversational storyteller]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 17.965261,
-      "start": 9.24483,
-      "end": 27.210091000000002
+      "duration": 10.225238,
+      "start": 8.935238,
+      "end": 19.160476
     },
     {
       "index": 3,
-      "text": "At first, Denise seems friendly, and Claire starts to think she was wrong. But as soon as Claire leaves the room, Denise begins touching Phil, flirting with him, and even gives him a key to her hotel room.",
-      "tts_text": "[a storyteller building gentle suspense] At first, Denise seems friendly, and Claire starts to think she was wrong. But as soon as Claire leaves the room, Denise begins touching Phil, flirting with him, and even gives him a key to her hotel room.",
+      "text": "Phil insists Denise is just an old friend, so to prove Claire is being paranoid, he invites Denise to the house instead.",
+      "tts_text": "[a storyteller building gentle suspense] Phil insists Denise is just an old friend, so to prove Claire is being paranoid, he invites Denise to the house instead.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 13.940454,
-      "start": 27.210091000000002,
-      "end": 41.150545
+      "duration": 8.161247,
+      "start": 19.160476,
+      "end": 27.321723
     },
     {
       "index": 4,
-      "text": "Phil finally realizes that Claire understood the situation much better than he did.",
-      "tts_text": "[a storyteller with playful humor] Phil finally realizes that Claire understood the situation much better than he did.",
+      "text": "At first, Claire starts thinking she may have judged Denise unfairly. Denise is friendly and seems completely normal. Then Claire leaves the room. Denise immediately starts flirting with Phil, tells him about her hotel, and gives him a room key.",
+      "tts_text": "[a storyteller with playful humor] At first, Claire starts thinking she may have judged Denise unfairly. Denise is friendly and seems completely normal. Then Claire leaves the room. Denise immediately starts flirting with Phil, tells him about her hotel, and gives him a room key.",
       "tags": [
         "[a storyteller with playful humor]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 4.910431,
-      "start": 41.150545,
-      "end": 46.060976000000004
+      "duration": 16.004444,
+      "start": 27.321723,
+      "end": 43.326167
     },
     {
       "index": 5,
-      "text": "Things become even more awkward when Claire finds an old photo and discovers that Phil started dating her before he had officially broken up with Denise. Denise is furious because she always thought Phil had left her long before meeting Claire.",
-      "tts_text": "[an animated storyteller explaining the scene] Things become even more awkward when Claire finds an old photo and discovers that Phil started dating her before he had officially broken up with Denise. Denise is furious because she always thought Phil had left her long before meeting Claire.",
+      "text": "Phil finally realizes Claire saw the situation much more clearly than he did.",
+      "tts_text": "[an animated storyteller explaining the scene] Phil finally realizes Claire saw the situation much more clearly than he did.",
       "tags": [
         "[an animated storyteller explaining the scene]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 15.540045,
-      "start": 46.060976000000004,
-      "end": 61.601021
+      "duration": 5.37483,
+      "start": 43.326167,
+      "end": 48.700997
     },
     {
       "index": 6,
-      "text": "She storms out, leaving Phil in trouble with both women.",
-      "tts_text": "[a storyteller emphasizing the surprising turn] She storms out, leaving Phil in trouble with both women.",
+      "text": "Things get worse when Claire finds an old photo. Phil has a broken arm in the picture, which means he was still dating Denise after he had already started dating Claire. Denise had always believed Phil ended their relationship first.",
+      "tts_text": "[a storyteller emphasizing the surprising turn] Things get worse when Claire finds an old photo. Phil has a broken arm in the picture, which means he was still dating Denise after he had already started dating Claire. Denise had always believed Phil ended their relationship first.",
       "tags": [
         "[a storyteller emphasizing the surprising turn]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 4.652426,
-      "start": 61.601021,
-      "end": 66.25344700000001
+      "duration": 14.972449,
+      "start": 48.700997,
+      "end": 63.673446
     },
     {
       "index": 7,
-      "text": "Meanwhile, Manny is upset because he didn’t get a part in a school play. Jay buys him a motivational poster and hangs it above his pet turtle’s tank. The poster falls and kills the turtle.",
-      "tts_text": "[a storyteller smoothly moving to the next story] Meanwhile, Manny is upset because he didn’t get a part in a school play. Jay buys him a motivational poster and hangs it above his pet turtle’s tank. The poster falls and kills the turtle.",
+      "text": "Now both women discover there was an overlap, and Denise storms out furious.",
+      "tts_text": "[a storyteller smoothly moving to the next story] Now both women discover there was an overlap, and Denise storms out furious.",
       "tags": [
         "[a storyteller smoothly moving to the next story]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 12.340839,
-      "start": 66.25344700000001,
-      "end": 78.59428600000001
+      "duration": 5.478027,
+      "start": 63.673446,
+      "end": 69.151473
     },
     {
       "index": 8,
-      "text": "Jay doesn’t want Manny to blame him, so he creates an entire story about a raccoon breaking into the house. He even damages the room and leaves muddy footprints to make the story look real. Gloria sees through the lie and tells him to confess.",
-      "tts_text": "[a storyteller with warm empathy] Jay doesn’t want Manny to blame him, so he creates an entire story about a raccoon breaking into the house. He even damages the room and leaves muddy footprints to make the story look real. Gloria sees through the lie and tells him to confess.",
+      "text": "Meanwhile, Manny is upset because he didn’t get the part he wanted in a school play. Jay tries to cheer him up with a motivational poster and hangs it above Manny’s pet turtle, Shel. The poster falls and kills the turtle.",
+      "tts_text": "[a storyteller with warm empathy] Meanwhile, Manny is upset because he didn’t get the part he wanted in a school play. Jay tries to cheer him up with a motivational poster and hangs it above Manny’s pet turtle, Shel. The poster falls and kills the turtle.",
       "tags": [
         "[a storyteller with warm empathy]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 14.45644,
-      "start": 78.59428600000001,
-      "end": 93.05072600000001
+      "duration": 14.817642,
+      "start": 69.151473,
+      "end": 83.96911499999999
     },
     {
       "index": 9,
-      "text": "Jay explains that years ago, he accidentally killed one of Mitchell’s pets and told him the truth. Mitchell never forgot it, so Jay thinks lying may be kinder this time.",
-      "tts_text": "[a thoughtful storyteller reflecting on the character] Jay explains that years ago, he accidentally killed one of Mitchell’s pets and told him the truth. Mitchell never forgot it, so Jay thinks lying may be kinder this time.",
+      "text": "Jay panics. Instead of telling Manny, he creates a fake crime scene about a raccoon breaking into the room. He damages the window screen, leaves fake footprints, and gives Manny a dramatic story about trying to save Shel.",
+      "tts_text": "[a thoughtful storyteller reflecting on the character] Jay panics. Instead of telling Manny, he creates a fake crime scene about a raccoon breaking into the room. He damages the window screen, leaves fake footprints, and gives Manny a dramatic story about trying to save Shel.",
       "tags": [
         "[a thoughtful storyteller reflecting on the character]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.154036,
-      "start": 93.05072600000001,
-      "end": 104.20476200000002
+      "duration": 14.250045,
+      "start": 83.96911499999999,
+      "end": 98.21915999999999
     },
     {
       "index": 10,
-      "text": "During the turtle’s funeral, Manny notices that he left an open bag of chips in his room. He starts blaming himself, thinking the food must have attracted the raccoon. Jay feels terrible, but he still doesn’t admit what really happened.",
-      "tts_text": "[a storyteller building gentle suspense] During the turtle’s funeral, Manny notices that he left an open bag of chips in his room. He starts blaming himself, thinking the food must have attracted the raccoon. Jay feels terrible, but he still doesn’t admit what really happened.",
+      "text": "Gloria sees through it immediately and tells him to confess.",
+      "tts_text": "[a storyteller building gentle suspense] Gloria sees through it immediately and tells him to confess.",
       "tags": [
         "[a storyteller building gentle suspense]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 15.075646,
-      "start": 104.20476200000002,
-      "end": 119.28040800000002
+      "duration": 4.394444,
+      "start": 98.21915999999999,
+      "end": 102.61360399999998
     },
     {
       "index": 11,
-      "text": "That night, Jay can’t sleep. When he goes to Manny’s room, Manny is already awake waiting for him. Manny asks him directly if it really was a raccoon.",
-      "tts_text": "[a storyteller warmly enjoying the happy moment] That night, Jay can’t sleep. When he goes to Manny’s room, Manny is already awake waiting for him. Manny asks him directly if it really was a raccoon.",
+      "text": "Jay refuses because he has done this before. Years ago, he accidentally killed one of Mitchell’s pets and told the truth, and Mitchell never forgot it. Jay decides a good lie may be kinder this time.",
+      "tts_text": "[a storyteller warmly enjoying the happy moment] Jay refuses because he has done this before. Years ago, he accidentally killed one of Mitchell’s pets and told the truth, and Mitchell never forgot it. Jay decides a good lie may be kinder this time.",
       "tags": [
         "[a storyteller warmly enjoying the happy moment]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 10.483243,
-      "start": 119.28040800000002,
-      "end": 129.763651
+      "duration": 13.321247,
+      "start": 102.61360399999998,
+      "end": 115.93485099999998
     },
     {
       "index": 12,
-      "text": "Jay finally admits that he killed Shel by accident and says he lied because their relationship had only recently started getting better, and he was afraid Manny would be angry with him.",
-      "tts_text": "[a heartfelt storyteller bringing the story home] Jay finally admits that he killed Shel by accident and says he lied because their relationship had only recently started getting better, and he was afraid Manny would be angry with him.",
+      "text": "At Shel’s funeral, Manny notices an open bag of chips he left in the room and suddenly blames himself. He thinks the food attracted the raccoon. Gloria gives Jay every chance to tell the truth, but Jay still can’t do it. He actually tells Manny that Shel forgives him.",
+      "tts_text": "[a heartfelt storyteller bringing the story home] At Shel’s funeral, Manny notices an open bag of chips he left in the room and suddenly blames himself. He thinks the food attracted the raccoon. Gloria gives Jay every chance to tell the truth, but Jay still can’t do it. He actually tells Manny that Shel forgives him.",
       "tags": [
         "[a heartfelt storyteller bringing the story home]"
       ],
       "speed": 0.9,
       "cached": false,
-      "duration": 11.308844,
-      "start": 129.763651,
-      "end": 141.072495
+      "duration": 16.984853,
+      "start": 115.93485099999998,
+      "end": 132.91970399999997
     },
     {
       "index": 13,
-      "text": "Mitchell is also struggling because his job keeps taking him away from Cameron and Lily. He has already missed several important moments, and when his boss calls him into work on a family day, Mitchell finally says no.",
-      "tts_text": "Mitchell is also struggling because his job keeps taking him away from Cameron and Lily. He has already missed several important moments, and when his boss calls him into work on a family day, Mitchell finally says no.",
+      "text": "That night, Manny waits up for Jay and asks directly if it really was a raccoon. Jay finally admits he killed Shel by accident. He says their relationship had only recently gotten better, and he was afraid the truth would ruin it.",
+      "tts_text": "That night, Manny waits up for Jay and asks directly if it really was a raccoon. Jay finally admits he killed Shel by accident. He says their relationship had only recently gotten better, and he was afraid the truth would ruin it.",
       "tags": [],
       "speed": 0.9,
       "cached": false,
-      "duration": 12.805238,
-      "start": 141.072495,
-      "end": 153.877733
+      "duration": 14.404853,
+      "start": 132.91970399999997,
+      "end": 147.32455699999997
     },
     {
       "index": 14,
-      "text": "His boss tells him that if he leaves, he’s fired. Mitchell walks out feeling proud and free. Once he gets home, however, he starts worrying about money and panics over what he has done.",
-      "tts_text": "His boss tells him that if he leaves, he’s fired. Mitchell walks out feeling proud and free. Once he gets home, however, he starts worrying about money and panics over what he has done.",
+      "text": "Mitchell is also tired of avoiding something. His job keeps pulling him away from Cameron and Lily, and he has already missed several important moments. When his boss orders him to work on another family day, Mitchell finally says no.",
+      "tts_text": "Mitchell is also tired of avoiding something. His job keeps pulling him away from Cameron and Lily, and he has already missed several important moments. When his boss orders him to work on another family day, Mitchell finally says no.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 15.333651,
+      "start": 147.32455699999997,
+      "end": 162.65820799999997
+    },
+    {
+      "index": 15,
+      "text": "His boss tells him not to come back, so Mitchell quits.",
+      "tts_text": "His boss tells him not to come back, so Mitchell quits.",
+      "tags": [],
+      "speed": 0.9,
+      "cached": false,
+      "duration": 4.239637,
+      "start": 162.65820799999997,
+      "end": 166.89784499999996
+    },
+    {
+      "index": 16,
+      "text": "For a few minutes, Mitchell feels free and brave. Then he gets home, remembers they have a mortgage and a baby, and completely panics. Cameron still backs him and says they’ll figure it out.",
+      "tts_text": "For a few minutes, Mitchell feels free and brave. Then he gets home, remembers they have a mortgage and a baby, and completely panics. Cameron still backs him and says they’ll figure it out.",
       "tags": [],
       "speed": 0.9,
       "cached": false,
       "duration": 11.721633,
-      "start": 153.877733,
-      "end": 165.599366
+      "start": 166.89784499999996,
+      "end": 178.61947799999996
     },
     {
-      "index": 15,
-      "text": "Cameron supports him, and Jay offers to help while he looks for another job, although the “help” turns out to be the same motivational poster.",
-      "tts_text": "Cameron supports him, and Jay offers to help while he looks for another job, although the “help” turns out to be the same motivational poster.",
+      "index": 17,
+      "text": "The truth is uncomfortable in every story here, but hiding it turns out to be much worse.",
+      "tts_text": "The truth is uncomfortable in every story here, but hiding it turns out to be much worse.",
       "tags": [],
       "speed": 0.9,
       "cached": false,
-      "duration": 8.986848,
-      "start": 165.599366,
-      "end": 174.586214
-    },
-    {
-      "index": 16,
-      "text": "In the end, telling the truth is uncomfortable, but every lie in this episode only makes things harder.",
-      "tts_text": "[thoughtful conclusion] In the end, telling the truth is uncomfortable, but every lie in this episode only makes things harder.",
-      "tags": [
-        "[thoughtful conclusion]"
-      ],
-      "speed": 0.9,
-      "cached": false,
-      "duration": 4.910431,
-      "start": 174.586214,
-      "end": 179.496645
+      "duration": 5.116825,
+      "start": 178.61947799999996,
+      "end": 183.73630299999996
     }
   ],
-  "audio_file": "english.wav",
-  "duration": 179.496645
+  "audio_file": "english.mp3"
 }

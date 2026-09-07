@@ -4,9 +4,17 @@ import { appPath } from "@/lib/app-path";
 
 export type CourseAudioSegment = { index: number; text: string; start: number; end: number; duration: number };
 
+export function resolveCourseAudioFile(directory: string): "english.mp3" | "english.wav" | undefined {
+  for (const filename of ["english.mp3", "english.wav"] as const) {
+    if (existsSync(path.join(directory, filename))) return filename;
+  }
+  return undefined;
+}
+
 export function getCourseAudioUrl(slug: string): string | undefined {
-  const audioPath = path.join(process.cwd(), "public", "audio", "courses", slug, "english.wav");
-  return existsSync(audioPath) ? appPath(`/audio/courses/${slug}/english.wav`) : undefined;
+  const directory = path.join(process.cwd(), "public", "audio", "courses", slug);
+  const filename = resolveCourseAudioFile(directory);
+  return filename ? appPath(`/audio/courses/${slug}/${filename}`) : undefined;
 }
 
 export function getCourseAudioData(slug: string): { url: string; segments: CourseAudioSegment[] } | undefined {
