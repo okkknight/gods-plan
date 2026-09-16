@@ -1,5 +1,18 @@
 # Changelog
 
+## 2026-09-07 — 课程与音频交付格式更新
+
+- 仅替换 Modern Family S01E09–E24：三份 `Combined_*_E09-E24.md` 源文档通过 `scripts/apply-combined-course-updates.ts` 更新对应课程 JSON；目标数据库更新时保留并比对 `course_progress`、`study_events`。
+- 全部 24 集线上音频由 WAV 迁移为 96 kbps 单声道 `english.mp3`；manifest 改为引用 MP3，播放器优先 MP3、保留旧 WAV 回退兼容。
+- 新增 MP3 转换与音频文件选择测试；生成器后续直接产出 MP3，WAV 仅是本地合成中间文件。
+- VPS 已验证 24 个 MP3、0 个 WAV，课程页 200，MP3 Range 返回 `206 audio/mpeg`；音频目录从约 341 MiB 降至约 47 MiB。
+- 部署约定补充：大批量音频按小批次 rsync；以 `sudo -n systemctl restart godsplan.service` 重启服务，避免文件上传后旧构建继续运行。
+
+## 2026-09-16 — 交接包刷新
+
+- 新增根目录 `PROJECT_CONTEXT.md` 作为交接入口，并将本目录 README 收敛为阅读索引。
+- 重新核验本地 24 集 MP3、21 项测试、生产构建及 VPS 服务/课程页/Range 播放。
+
 ## 2026-07-27
 
 - 初始化 Next.js + TypeScript 项目和 SQLite/Drizzle 数据层。
