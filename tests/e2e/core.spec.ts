@@ -111,7 +111,7 @@ test("english audio supports once and loop modes", async ({ page }) => {
   await page.locator(".mode-cycle-button").click();
   const audio = page.locator("audio");
   await expect(audio).toHaveJSProperty("loop", false);
-  await page.getByRole("button", { name: "切换到循环播放" }).click();
+  await page.getByRole("button", { name: "切换到单课循环" }).click();
   await expect(audio).toHaveJSProperty("loop", true);
   await page.getByRole("button", { name: "切换到单篇播放" }).click();
   await expect(audio).toHaveJSProperty("loop", false);
@@ -121,7 +121,7 @@ test("english subtitles follow audio segments and can jump to a segment", async 
   await page.goto("/course/1?stage=0&date=2026-07-27");
   await page.locator(".mode-cycle-button").click();
   const segments = page.locator(".audio-segment");
-  await expect(segments).toHaveCount(14);
+  await expect(segments).toHaveCount(15);
   await segments.nth(4).click();
   await expect(segments.nth(4)).toHaveClass(/active/);
   const start = Number(await segments.nth(7).getAttribute("data-start"));
@@ -131,6 +131,28 @@ test("english subtitles follow audio segments and can jump to a segment", async 
     player.dispatchEvent(new Event("timeupdate"));
   }, start);
   await expect(segments.nth(7)).toHaveClass(/active/);
+});
+
+test("audio controls support segment loop and three playback rates", async ({ page }) => {
+  await page.goto("/course/1?stage=0&date=2026-07-27");
+  await page.locator(".mode-cycle-button").click();
+  await page.locator(".audio-segment").first().click();
+
+  const playMode = page.locator(".play-mode-toggle");
+  await expect(playMode).toHaveAttribute("aria-label", "切换到单课循环");
+  await playMode.click();
+  await expect(playMode).toHaveAttribute("aria-label", "切换到当前段循环");
+  await playMode.click();
+  await expect(playMode).toHaveAttribute("aria-label", "切换到单篇播放");
+
+  const playbackRate = page.locator(".playback-rate-toggle");
+  await expect(playbackRate).toContainText("1x");
+  await playbackRate.click();
+  await expect(playbackRate).toContainText("1.25x");
+  await playbackRate.click();
+  await expect(playbackRate).toContainText("0.75x");
+  await playbackRate.click();
+  await expect(playbackRate).toContainText("1x");
 });
 
 test("first cue version keeps the story skeleton with fill-in blanks", async ({ page }) => {
