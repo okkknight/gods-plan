@@ -6,7 +6,8 @@ data/*.db
 data/*.db-shm
 data/*.db-wal
 .env
-.env.local
+.env.*
+!.env.example
 playwright-report
 test-results
 coverage
