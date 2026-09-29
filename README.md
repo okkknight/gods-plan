@@ -1,16 +1,25 @@
 # God's Plan
 
-God's Plan 是本地单用户英语口语学习与复习管理应用。当前已导入《Modern Family》S01E01–S01E24 共 24 篇课程，支持中文、英文标准版和 Cue Version。
+一套口语素材，学过一次不等于会用。God's Plan 用《Modern Family》第一季 24 集对白做成一条可持续的学习和复习路线，让自然表达不是听过就忘，而是隔几天再回来，慢慢变成自己的语言。
 
-在线体验：[God's Plan](https://boringmax.com/godsplan/)。
+每天打开 Today，只做眼前该做的事：学一篇新课，或复习几篇已经学过的。进入课程后，先用中文看懂场景，再切到英文和 Cue 填空跟着逐段音频走；完成之后，系统会按实际完成日期安排下一次出现。
 
-## 许可
+**[现在开始学习 →](https://boringmax.com/godsplan/)**
 
-应用代码采用 [MIT 许可证](LICENSE)。仓库中 `docs/ModernFamily S01/`、`docs/Modern_Family_S1E01-E24_Revised_Cue_Collection.md`、`content/courses/` 内的课程文本，以及 `public/audio/courses/` 内的课程音频和配套清单，采用 [Creative Commons Attribution 4.0 International（CC BY 4.0）](https://creativecommons.org/licenses/by/4.0/) 许可。转载或改编这些课程素材时请注明作者 Knight、附上许可链接，并标明所做修改。其他第三方依赖遵循各自的许可证。
+## 你会怎么用它
 
-本地环境变量文件和 `data/` 中的学习数据库不属于公开课程素材，已被 Git 忽略。
+今天的页面只放需要做的事：一篇新课，或者几篇该复习的旧课。进入课程后可以：
 
-## 运行
+- 跟着逐段音频读，对照正在播放的字幕；
+- 在中文、完整英文和 Cue 填空之间来回切换；
+- 点任意一句跳到对应位置，或者循环听一篇课；
+- 完成后让系统安排下一次复习。
+
+复习节奏是 `1 / 3 / 7 / 15 / 30` 天。它按你的实际完成日往后排，今天没学完也不会把任务堆成压力。
+
+## 本地运行
+
+仓库带着课程文本和音频，装好 Node.js 后就能在本地建立一套自己的学习记录：
 
 ```bash
 npm install
@@ -20,31 +29,12 @@ npm run db:seed
 npm run dev
 ```
 
-打开 <http://localhost:3000>。SQLite 默认位于 `data/english-learning.db`，可通过 `DATABASE_URL` 覆盖；业务时区默认为 `Asia/Shanghai`。
+打开 <http://localhost:3000>。学习记录保存在本地 SQLite；默认路径是 `data/english-learning.db`。
 
-## 课程数据
+## 课程与项目结构
 
-原始课程位于 `docs/Modern_Family_S1E01-E24_Speaking_Course_MD/episodes/`（脚本也兼容项目根目录旧路径）。运行 `npm run course:convert` 会生成标准 JSON 到 `content/courses/`。单篇课程可以用以下命令校验或导入：
+想加自己的课程，可以从 `content/courses/` 看课程 JSON 的样子。课程文本、音频和时间轴需要一起维护，具体流程在 [`PROJECT_CONTEXT.md`](PROJECT_CONTEXT.md)。部署到自己的服务器时再看 [VPS 文档](docs/VPS_DEPLOYMENT.md)。
 
-```bash
-npm run course:validate -- content/courses/modern-family-s01e01.json
-npm run course:import -- content/courses/modern-family-s01e01.json
-npm run course:import -- content/courses/modern-family-s01e01.json --update
-```
+## 许可
 
-## 复习规则
-
-阶段为首次学习、1–5 次复习，累计偏移为 `0 / 1 / 3 / 7 / 15 / 30` 天。延期完成后，下一阶段从实际完成日期计算。每门课程只保存当前待完成阶段；未来日期为预测，不写入数据库。只有今天的任务可以完成或撤销。
-
-## 验证
-
-```bash
-npm run test:run
-npm run build
-```
-
-当前版本不包含登录、云同步、录音、发音评分或 PWA。英文课程支持逐段 MP3 播放、字幕同步和点击跳段；Fish Audio 仅用于本地课程音频生产，不在用户端实时生成。
-
-## VPS 部署
-
-VPS 部署必须遵守 [VPS 部署约定](docs/VPS_DEPLOYMENT.md)：只同步 `.next`、`public`、生产数据库和必要的运行依赖，不要把整个项目目录或课程生产缓存同步到 VPS。
+应用代码采用 [MIT 许可证](LICENSE)。仓库中 `docs/ModernFamily S01/`、`docs/Modern_Family_S1E01-E24_Revised_Cue_Collection.md`、`content/courses/` 的课程文本，以及 `public/audio/courses/` 的音频和配套清单，采用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)：再利用时请注明作者 Knight、附上许可链接并说明修改。第三方依赖遵循各自的许可证。学习数据库和本地环境变量不属于公开课程素材。
