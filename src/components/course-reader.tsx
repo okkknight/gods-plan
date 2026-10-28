@@ -8,6 +8,7 @@ import { ReaderContent } from "./reader-content";
 import { appPath } from "@/lib/app-path";
 import type { CourseAudioSegment } from "@/services/course-audio-service";
 import { getSegmentLoopTime, type PlaybackRate, type ReaderPlayMode } from "@/domain/audio/reader-playback";
+import { courseLabel } from "@/domain/courses/course-label";
 
 type Paragraph = { chinese: string; english: string; cue: string };
 type Section = { heading: string | null; paragraphs: Paragraph[] };
@@ -74,6 +75,6 @@ export function CourseReader({ course, stage, canComplete }: { course: { id: num
     void audio.play().catch(() => undefined);
   };
 
-  const episode = course.slug.replace("modern-family-", "").toUpperCase();
+  const episode = courseLabel(course.slug);
   return <main className="reader-page"><div className="reader-top"><a href={appPath("/today")} className="back-link">← 返回今日</a><span>{episode}</span></div><ReaderHeader episode={episode} title={course.title} stage={stage} /><div className="reader-content"><ReaderContent mode={mode} section={section} audio={course.audio} activeSegment={activeSegment} onPlaySegment={playSegment} segmentRefs={segmentRefs} /></div>{canComplete && <div className="reader-footer"><TaskAction kind="complete" courseId={course.id} expectedStage={stage} /></div>}<ReaderWorkbench mode={mode} onModeChange={setMode} playMode={playMode} onPlayModeChange={handlePlayModeChange} playbackRate={playbackRate} onPlaybackRateChange={setPlaybackRate} audioRef={audioRef} audio={course.audio} activeSegment={activeSegment} onTimeUpdate={handleTimeUpdate} onEnded={handleAudioEnded} /></main>;
 }

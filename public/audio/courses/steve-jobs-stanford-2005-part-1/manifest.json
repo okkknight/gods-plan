@@ -1,0 +1,138 @@
+{
+  "audio_file": "english.mp3",
+  "duration": 176.4,
+  "source": {
+    "kind": "original-recording",
+    "page": "https://9696.me/commencement-address-delivered-by-steve-jobs-2005/",
+    "sha256": "e3e3a7f29814db9976c1b7d80f57d86b2ed3634153d02cd9d72cb7bbbf24f5c0",
+    "start": 0,
+    "end": 176.4
+  },
+  "alignment": {
+    "method": "whisper-tiny.en-word-anchors",
+    "referenceWordCoverage": 0.9823087129588678,
+    "humanReviewed": false,
+    "segmentationVersion": 2
+  },
+  "segments": [
+    {
+      "index": 1,
+      "text": "I’m honored to be with you today for your commencement from one of the finest universities in the world. Truth be told, I never graduated from college. And this is the closest I’ve ever gotten to a college graduation.",
+      "start": 0,
+      "end": 21.4,
+      "duration": 21.4
+    },
+    {
+      "index": 2,
+      "text": "Today I want to tell you three stories from my life. That’s it. No big deal. Just three stories.",
+      "start": 21.4,
+      "end": 29.24,
+      "duration": 7.84
+    },
+    {
+      "index": 3,
+      "text": "The first story is about connecting the dots.",
+      "start": 29.24,
+      "end": 33.54,
+      "duration": 4.300000000000001
+    },
+    {
+      "index": 4,
+      "text": "I dropped out of Reed College after the first six months, but then stayed around as a drop-in for another 18 months or so before I really quit. So why’d I drop out?",
+      "start": 33.54,
+      "end": 45.06,
+      "duration": 11.520000000000003
+    },
+    {
+      "index": 5,
+      "text": "It started before I was born. My biological mother was a young, unwed graduate student, and she decided to put me up for adoption.",
+      "start": 45.06,
+      "end": 55.24,
+      "duration": 10.18
+    },
+    {
+      "index": 6,
+      "text": "She felt very strongly that I should be adopted by college graduates, so everything was all set for me to be adopted at birth by a lawyer and his wife.",
+      "start": 55.24,
+      "end": 64.39,
+      "duration": 9.149999999999999
+    },
+    {
+      "index": 7,
+      "text": "Except that when I popped out, they decided at the last minute that they really wanted a girl.",
+      "start": 64.39,
+      "end": 70.62,
+      "duration": 6.230000000000004
+    },
+    {
+      "index": 8,
+      "text": "So my parents, who were on a waiting list, got a call in the middle of the night asking, “We’ve got an unexpected baby boy. Do you want him?” They said, “Of course.”",
+      "start": 70.62,
+      "end": 84.48,
+      "duration": 13.86
+    },
+    {
+      "index": 9,
+      "text": "My biological mother found out later that my mother had never graduated from college, and that my father had never graduated from high school. She refused to sign the final adoption papers.",
+      "start": 84.48,
+      "end": 96.3,
+      "duration": 11.819999999999993
+    },
+    {
+      "index": 10,
+      "text": "She only relented a few months later, when my parents promised that I would go to college. This was the start in my life.",
+      "start": 96.3,
+      "end": 106.84,
+      "duration": 10.540000000000006
+    },
+    {
+      "index": 11,
+      "text": "And 17 years later I did go to college. But I naively chose a college that was almost as expensive as Stanford. And all of my working class parents’ savings were being spent on my college tuition.",
+      "start": 106.84,
+      "end": 120.59,
+      "duration": 13.75
+    },
+    {
+      "index": 12,
+      "text": "After six months, I couldn’t see the value in it. I had no idea what I wanted to do with my life, and no idea how college was going to help me figure it out.",
+      "start": 120.59,
+      "end": 129.76,
+      "duration": 9.169999999999987
+    },
+    {
+      "index": 13,
+      "text": "And here I was, spending all of the money my parents had saved their entire life.",
+      "start": 129.76,
+      "end": 135.4,
+      "duration": 5.640000000000015
+    },
+    {
+      "index": 14,
+      "text": "So I decided to drop out and trust that it would all work out OK. It was pretty scary at the time, but looking back it was one of the best decisions I ever made.",
+      "start": 135.4,
+      "end": 146.94,
+      "duration": 11.539999999999992
+    },
+    {
+      "index": 15,
+      "text": "The minute I dropped out, I could stop taking the required classes that didn’t interest me, and begin dropping in on the ones that looked far more interesting.",
+      "start": 146.94,
+      "end": 157.72,
+      "duration": 10.780000000000001
+    },
+    {
+      "index": 16,
+      "text": "It wasn’t all romantic. I didn’t have a dorm room, so I slept on the floor in friends’ rooms. I returned Coke bottles for the five-cent deposits to buy food with.",
+      "start": 157.72,
+      "end": 167.44,
+      "duration": 9.719999999999999
+    },
+    {
+      "index": 17,
+      "text": "And I would walk the seven miles across town every Sunday night to get one good meal a week at the Hare Krishna temple. I loved it.",
+      "start": 167.44,
+      "end": 176.4,
+      "duration": 8.960000000000008
+    }
+  ]
+}

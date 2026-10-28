@@ -1,0 +1,124 @@
+{
+  "audio_file": "english.mp3",
+  "duration": 173.917438,
+  "source": {
+    "kind": "original-recording",
+    "page": "https://9696.me/commencement-address-delivered-by-steve-jobs-2005/",
+    "sha256": "e3e3a7f29814db9976c1b7d80f57d86b2ed3634153d02cd9d72cb7bbbf24f5c0",
+    "start": 673.2,
+    "end": 847.117438
+  },
+  "alignment": {
+    "method": "whisper-tiny.en-word-anchors",
+    "referenceWordCoverage": 0.9823087129588678,
+    "humanReviewed": false,
+    "segmentationVersion": 2
+  },
+  "segments": [
+    {
+      "index": 1,
+      "text": "This was the closest I’ve been to facing death, and I hope it’s the closest I get for a few more decades.",
+      "start": 0,
+      "end": 6.439999999999941,
+      "duration": 6.439999999999941
+    },
+    {
+      "index": 2,
+      "text": "Having lived through it, I can now say this to you with a bit more certainty than when death was a useful but purely intellectual concept.",
+      "start": 6.439999999999941,
+      "end": 15.490000000000009,
+      "duration": 9.050000000000068
+    },
+    {
+      "index": 3,
+      "text": "No one wants to die. Even people who want to go to heaven don’t want to die to get there. And yet, death is the destination we all share. No one has ever escaped it.",
+      "start": 15.490000000000009,
+      "end": 27.59999999999991,
+      "duration": 12.1099999999999
+    },
+    {
+      "index": 4,
+      "text": "And that is as it should be, because death is very likely the single best invention of life. It’s life’s change agent. It clears out the old to make way for the new.",
+      "start": 27.59999999999991,
+      "end": 39.58999999999992,
+      "duration": 11.990000000000009
+    },
+    {
+      "index": 5,
+      "text": "Right now, the new is you. But someday, not too long from now, you will gradually become the old and be cleared away. Sorry to be so dramatic, but it’s quite true.",
+      "start": 39.58999999999992,
+      "end": 51.94999999999993,
+      "duration": 12.360000000000014
+    },
+    {
+      "index": 6,
+      "text": "Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma, which is living with the results of other people’s thinking. Don’t let the noise of others’ opinions drown out your own inner voice.",
+      "start": 51.94999999999993,
+      "end": 66.4799999999999,
+      "duration": 14.529999999999973
+    },
+    {
+      "index": 7,
+      "text": "And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.",
+      "start": 66.4799999999999,
+      "end": 88.95999999999992,
+      "duration": 22.480000000000018
+    },
+    {
+      "index": 8,
+      "text": "When I was young, there was an amazing publication called The Whole Earth Catalog, which was one of the bibles of my generation.",
+      "start": 88.95999999999992,
+      "end": 97.31999999999994,
+      "duration": 8.360000000000014
+    },
+    {
+      "index": 9,
+      "text": "It was created by a fellow named Stewart Brand, not far from here in Menlo Park. And he brought it to life with his poetic touch.",
+      "start": 97.31999999999994,
+      "end": 105.12,
+      "duration": 7.800000000000068
+    },
+    {
+      "index": 10,
+      "text": "This was in the late sixties, before personal computers and desktop publishing, so it was all made with typewriters, scissors, and Polaroid cameras.",
+      "start": 105.12,
+      "end": 114.08999999999992,
+      "duration": 8.969999999999914
+    },
+    {
+      "index": 11,
+      "text": "It was sort of like Google in paperback form, 35 years before Google came along. It was idealistic, overflowing with neat tools and great notions.",
+      "start": 114.08999999999992,
+      "end": 124.51999999999998,
+      "duration": 10.430000000000064
+    },
+    {
+      "index": 12,
+      "text": "Stewart and his team put out several issues of The Whole Earth Catalog. And then, when it had run its course, they put out a final issue. It was the mid-1970s, and I was your age.",
+      "start": 124.51999999999998,
+      "end": 137.27999999999997,
+      "duration": 12.759999999999991
+    },
+    {
+      "index": 13,
+      "text": "On the back cover of their final issue was a photograph of an early-morning country road—the kind you might find yourself hitchhiking on if you were so adventurous.",
+      "start": 137.27999999999997,
+      "end": 148.54999999999995,
+      "duration": 11.269999999999982
+    },
+    {
+      "index": 14,
+      "text": "Beneath it were the words “Stay hungry. Stay foolish.” It was their farewell message as they signed off.",
+      "start": 148.54999999999995,
+      "end": 156.54999999999995,
+      "duration": 8
+    },
+    {
+      "index": 15,
+      "text": "“Stay hungry. Stay foolish.” And I have always wished that for myself. And now, as you graduate to begin anew, I wish that for you. Stay hungry. Stay foolish. Thank you all very much.",
+      "start": 156.54999999999995,
+      "end": 173.917438,
+      "duration": 17.36743800000005
+    }
+  ]
+}

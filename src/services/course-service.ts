@@ -2,9 +2,10 @@ import { asc, eq } from "drizzle-orm";
 import { db } from "@/db/client";
 import { courseParagraphs, courseSections, courseProgress, courses } from "@/db/schema";
 import type { SchedulableCourse } from "@/domain/scheduling/types";
+import { assertActiveCourseGroup, getActiveCourseGroup } from "./course-group-service";
 
-export function getCourses(): SchedulableCourse[] {
-  const rows = db.select({ course: courses, progress: courseProgress }).from(courses).leftJoin(courseProgress, eq(courses.id, courseProgress.courseId)).orderBy(asc(courses.orderIndex)).all();
+export function getCourses(groupId = getActiveCourseGroup().id): SchedulableCourse[] {
+  const rows = db.select({ course: courses, progress: courseProgress }).from(courses).leftJoin(courseProgress, eq(courses.id, courseProgress.courseId)).where(eq(courses.groupId, groupId)).orderBy(asc(courses.orderIndex)).all();
   return rows.map(({ course, progress }) => ({ id: course.id, slug: course.slug, title: course.title, orderIndex: course.orderIndex, status: course.status, currentStage: progress?.currentStage, nextDueDate: progress?.nextDueDate, archivedFromStatus: course.archivedFromStatus }));
 }
 
@@ -18,11 +19,13 @@ export function getCourse(id: number) {
 export function archiveCourse(id: number) {
   const course = db.select().from(courses).where(eq(courses.id, id)).get();
   if (!course || course.status === "archived") throw new Error("课程不存在或已经归档");
+  assertActiveCourseGroup(course.groupId);
   db.update(courses).set({ status: "archived", archivedFromStatus: course.status, updatedAt: new Date().toISOString() }).where(eq(courses.id, id)).run();
 }
 
 export function unarchiveCourse(id: number) {
   const course = db.select().from(courses).where(eq(courses.id, id)).get();
   if (!course || course.status !== "archived") throw new Error("课程不存在或未归档");
+  assertActiveCourseGroup(course.groupId);
   db.update(courses).set({ status: course.archivedFromStatus ?? "queued", archivedFromStatus: null, updatedAt: new Date().toISOString() }).where(eq(courses.id, id)).run();
 }

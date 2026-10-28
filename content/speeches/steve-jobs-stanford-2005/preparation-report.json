@@ -1,0 +1,46 @@
+{
+  "status": "local-preview-not-human-reviewed",
+  "referenceWordCoverage": 0.9823087129588678,
+  "lessons": [
+    {
+      "slug": "steve-jobs-stanford-2005-part-1",
+      "wordCount": 469,
+      "originalStart": 0,
+      "originalEnd": 176.4,
+      "duration": 176.4,
+      "segments": 11
+    },
+    {
+      "slug": "steve-jobs-stanford-2005-part-2",
+      "wordCount": 433,
+      "originalStart": 176.4,
+      "originalEnd": 345.6,
+      "duration": 169.2,
+      "segments": 8
+    },
+    {
+      "slug": "steve-jobs-stanford-2005-part-3",
+      "wordCount": 463,
+      "originalStart": 345.6,
+      "originalEnd": 491.84,
+      "duration": 146.24,
+      "segments": 11
+    },
+    {
+      "slug": "steve-jobs-stanford-2005-part-4",
+      "wordCount": 468,
+      "originalStart": 491.84,
+      "originalEnd": 673.2,
+      "duration": 181.36,
+      "segments": 9
+    },
+    {
+      "slug": "steve-jobs-stanford-2005-part-5",
+      "wordCount": 428,
+      "originalStart": 673.2,
+      "originalEnd": 847.117438,
+      "duration": 173.917438,
+      "segments": 10
+    }
+  ]
+}

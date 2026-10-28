@@ -1,8 +1,20 @@
 import { integer, sqliteTable, text, uniqueIndex } from "drizzle-orm/sqlite-core";
 
+export const courseGroups = sqliteTable("course_groups", {
+  id: text("id").primaryKey(),
+  name: text("name").notNull(),
+  orderIndex: integer("order_index").notNull(),
+});
+
+export const appSettings = sqliteTable("app_settings", {
+  key: text("key").primaryKey(),
+  value: text("value").notNull(),
+});
+
 export const courses = sqliteTable("courses", {
   id: integer("id").primaryKey({ autoIncrement: true }),
   slug: text("slug").notNull().unique(),
+  groupId: text("group_id").references(() => courseGroups.id),
   series: text("series"),
   season: integer("season"),
   episode: integer("episode"),

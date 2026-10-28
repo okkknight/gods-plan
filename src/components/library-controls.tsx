@@ -5,7 +5,7 @@ import { useState } from "react";
 import { appPath } from "@/lib/app-path";
 import { InlineFeedback } from "./feedback";
 
-export function LibraryControls({ courseId, archived }: { courseId?: number; archived?: boolean }) {
+export function LibraryControls({ courseId, archived, groupId }: { courseId?: number; archived?: boolean; groupId?: string }) {
   const router = useRouter();
   const [error, setError] = useState("");
   const [busy, setBusy] = useState(false);
@@ -15,7 +15,7 @@ export function LibraryControls({ courseId, archived }: { courseId?: number; arc
     setBusy(true); setError("");
     try {
       const course = JSON.parse(await file.text());
-      const response = await fetch(appPath("/api/import"), { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ course, mode }) });
+      const response = await fetch(appPath("/api/import"), { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify({ course, mode, groupId }) });
       const result = await response.json();
       if (!result.ok) throw new Error(result.error);
       router.refresh();

@@ -1,0 +1,138 @@
+{
+  "audio_file": "english.mp3",
+  "duration": 146.24,
+  "source": {
+    "kind": "original-recording",
+    "page": "https://9696.me/commencement-address-delivered-by-steve-jobs-2005/",
+    "sha256": "e3e3a7f29814db9976c1b7d80f57d86b2ed3634153d02cd9d72cb7bbbf24f5c0",
+    "start": 345.6,
+    "end": 491.84
+  },
+  "alignment": {
+    "method": "whisper-tiny.en-word-anchors",
+    "referenceWordCoverage": 0.9823087129588678,
+    "humanReviewed": false,
+    "segmentationVersion": 2
+  },
+  "segments": [
+    {
+      "index": 1,
+      "text": "Well, as Apple grew, we hired someone—who I thought was very talented—to run the company with me. And for the first year or so, things went well.",
+      "start": 0,
+      "end": 8.25,
+      "duration": 8.25
+    },
+    {
+      "index": 2,
+      "text": "But then our visions of the future began to diverge. And eventually we had a falling out. When we did, our board of directors sided with him. And so at 30 I was out, and very publicly out.",
+      "start": 8.25,
+      "end": 20.519999999999982,
+      "duration": 12.269999999999982
+    },
+    {
+      "index": 3,
+      "text": "What had been the focus of my entire adult life was gone, and it was devastating. I really didn’t know what to do for a few months.",
+      "start": 20.519999999999982,
+      "end": 28.689999999999998,
+      "duration": 8.170000000000016
+    },
+    {
+      "index": 4,
+      "text": "I felt that I had let the previous generation of entrepreneurs down, that I had dropped the baton as it was being passed to me.",
+      "start": 28.689999999999998,
+      "end": 35.41999999999996,
+      "duration": 6.729999999999961
+    },
+    {
+      "index": 5,
+      "text": "I met with David Packard and Bob Noyce, and tried to apologize for screwing up so badly. I was a very public failure, and I even thought about running away from the Valley.",
+      "start": 35.41999999999996,
+      "end": 46.19,
+      "duration": 10.770000000000039
+    },
+    {
+      "index": 6,
+      "text": "But something slowly began to dawn on me: I still loved what I did. The turn of events at Apple had not changed that one bit. I’d been rejected, but I was still in love.",
+      "start": 46.19,
+      "end": 59.19999999999999,
+      "duration": 13.009999999999991
+    },
+    {
+      "index": 7,
+      "text": "And so I decided to start over.",
+      "start": 59.19999999999999,
+      "end": 61.839999999999975,
+      "duration": 2.6399999999999864
+    },
+    {
+      "index": 8,
+      "text": "I didn’t see it then, but it turned out that getting fired from Apple was the best thing that could have ever happened to me.",
+      "start": 61.839999999999975,
+      "end": 68.50999999999999,
+      "duration": 6.670000000000016
+    },
+    {
+      "index": 9,
+      "text": "The heaviness of being successful was replaced by the lightness of being a beginner again, less sure about everything. It freed me to enter one of the most creative periods of my life.",
+      "start": 68.50999999999999,
+      "end": 78.83999999999997,
+      "duration": 10.329999999999984
+    },
+    {
+      "index": 10,
+      "text": "During the next five years, I started a company named NeXT, another company named Pixar, and fell in love with an amazing woman who would become my wife.",
+      "start": 78.83999999999997,
+      "end": 86.83999999999997,
+      "duration": 8
+    },
+    {
+      "index": 11,
+      "text": "Pixar went on to create the world’s first computer-animated feature film, Toy Story, and is now the most successful animation studio in the world.",
+      "start": 86.83999999999997,
+      "end": 97.23999999999995,
+      "duration": 10.399999999999977
+    },
+    {
+      "index": 12,
+      "text": "In a remarkable turn of events, Apple bought NeXT, and I returned to Apple. And the technology we developed at NeXT is at the heart of Apple’s current renaissance. And Laurene and I have a wonderful family together.",
+      "start": 97.23999999999995,
+      "end": 110.69,
+      "duration": 13.450000000000045
+    },
+    {
+      "index": 13,
+      "text": "I’m pretty sure none of this would have happened if I hadn’t been fired from Apple. It was awful-tasting medicine, but I guess the patient needed it.",
+      "start": 110.69,
+      "end": 120.32999999999998,
+      "duration": 9.639999999999986
+    },
+    {
+      "index": 14,
+      "text": "Sometimes life’s gonna hit you in the head with a brick. Don’t lose faith.",
+      "start": 120.32999999999998,
+      "end": 125.75,
+      "duration": 5.420000000000016
+    },
+    {
+      "index": 15,
+      "text": "I’m convinced that the only thing that kept me going was that I loved what I did. You’ve got to find what you love—and that is as true for work as it is for your lovers.",
+      "start": 125.75,
+      "end": 135.35999999999996,
+      "duration": 9.609999999999957
+    },
+    {
+      "index": 16,
+      "text": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work.",
+      "start": 135.35999999999996,
+      "end": 142.12,
+      "duration": 6.760000000000048
+    },
+    {
+      "index": 17,
+      "text": "And the only way to do great work is to love what you do.",
+      "start": 142.12,
+      "end": 146.24,
+      "duration": 4.1200000000000045
+    }
+  ]
+}

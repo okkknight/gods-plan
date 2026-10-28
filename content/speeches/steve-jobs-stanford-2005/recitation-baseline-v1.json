@@ -1,0 +1,75 @@
+{
+  "version": 1,
+  "lessons": [
+    {
+      "slug": "steve-jobs-stanford-2005-part-1",
+      "englishSha256": "bc547ab275d1f51664bbb999c6c37c1252a2f9a97a1d485605be509d67337ced",
+      "mp3Sha256": "f516782bedceed334747990dec0facbc7e7e4fb7f1c78dd08aaacb250e8dfd81",
+      "duration": 176.4,
+      "source": {
+        "kind": "original-recording",
+        "page": "https://9696.me/commencement-address-delivered-by-steve-jobs-2005/",
+        "sha256": "e3e3a7f29814db9976c1b7d80f57d86b2ed3634153d02cd9d72cb7bbbf24f5c0",
+        "start": 0,
+        "end": 176.4
+      },
+      "originalSegments": 11
+    },
+    {
+      "slug": "steve-jobs-stanford-2005-part-2",
+      "englishSha256": "fd636328c6aa29065e98a47815f61c0b7d6903868b550101e3f5fedaa89a53b9",
+      "mp3Sha256": "0d3fe9685070b4a7c23d8266574b46394f69898416a8ef27e4784067365da008",
+      "duration": 169.2,
+      "source": {
+        "kind": "original-recording",
+        "page": "https://9696.me/commencement-address-delivered-by-steve-jobs-2005/",
+        "sha256": "e3e3a7f29814db9976c1b7d80f57d86b2ed3634153d02cd9d72cb7bbbf24f5c0",
+        "start": 176.4,
+        "end": 345.6
+      },
+      "originalSegments": 8
+    },
+    {
+      "slug": "steve-jobs-stanford-2005-part-3",
+      "englishSha256": "be2bd6c512888fc0a05b9b22d1714474836cb93044e607c537d146060621f89b",
+      "mp3Sha256": "f47c5e83534d333b424289d51b5f37377cdd31294e8e17e985fecba0e668e732",
+      "duration": 146.24,
+      "source": {
+        "kind": "original-recording",
+        "page": "https://9696.me/commencement-address-delivered-by-steve-jobs-2005/",
+        "sha256": "e3e3a7f29814db9976c1b7d80f57d86b2ed3634153d02cd9d72cb7bbbf24f5c0",
+        "start": 345.6,
+        "end": 491.84
+      },
+      "originalSegments": 11
+    },
+    {
+      "slug": "steve-jobs-stanford-2005-part-4",
+      "englishSha256": "0e70e008f961c28df1149d9556153a3752a0bd9c63ebf3f2eaec3aa44a891999",
+      "mp3Sha256": "213969e78f35dc69d2dd9e86031b444d9486ad324be93a5097a8975a85ce3614",
+      "duration": 181.36,
+      "source": {
+        "kind": "original-recording",
+        "page": "https://9696.me/commencement-address-delivered-by-steve-jobs-2005/",
+        "sha256": "e3e3a7f29814db9976c1b7d80f57d86b2ed3634153d02cd9d72cb7bbbf24f5c0",
+        "start": 491.84,
+        "end": 673.2
+      },
+      "originalSegments": 9
+    },
+    {
+      "slug": "steve-jobs-stanford-2005-part-5",
+      "englishSha256": "6a306bd324b5101a01297bb5bcee23512091d68f51d353d739da815f8f035e85",
+      "mp3Sha256": "592e0aedad3c60f53947baf84a2245b202954fa10b675ed64692cf40de8574c4",
+      "duration": 173.917438,
+      "source": {
+        "kind": "original-recording",
+        "page": "https://9696.me/commencement-address-delivered-by-steve-jobs-2005/",
+        "sha256": "e3e3a7f29814db9976c1b7d80f57d86b2ed3634153d02cd9d72cb7bbbf24f5c0",
+        "start": 673.2,
+        "end": 847.117438
+      },
+      "originalSegments": 10
+    }
+  ]
+}

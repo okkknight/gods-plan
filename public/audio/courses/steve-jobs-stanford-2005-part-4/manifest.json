@@ -1,0 +1,145 @@
+{
+  "audio_file": "english.mp3",
+  "duration": 181.36,
+  "source": {
+    "kind": "original-recording",
+    "page": "https://9696.me/commencement-address-delivered-by-steve-jobs-2005/",
+    "sha256": "e3e3a7f29814db9976c1b7d80f57d86b2ed3634153d02cd9d72cb7bbbf24f5c0",
+    "start": 491.84,
+    "end": 673.2
+  },
+  "alignment": {
+    "method": "whisper-tiny.en-word-anchors",
+    "referenceWordCoverage": 0.9823087129588678,
+    "humanReviewed": false,
+    "segmentationVersion": 2
+  },
+  "segments": [
+    {
+      "index": 1,
+      "text": "If you haven’t found it yet, keep looking—and don’t settle. As with all matters of the heart, you’ll know when you find it.",
+      "start": 0,
+      "end": 8.230000000000018,
+      "duration": 8.230000000000018
+    },
+    {
+      "index": 2,
+      "text": "And like any great relationship, it just gets better and better as the years roll on. So keep looking. Don’t settle.",
+      "start": 8.230000000000018,
+      "end": 26.71999999999997,
+      "duration": 18.489999999999952
+    },
+    {
+      "index": 3,
+      "text": "My third story is about death. When I was 17, I read a quote that went something like, “If you live each day as if it was your last, someday you’ll most certainly be right.”",
+      "start": 26.71999999999997,
+      "end": 42.31999999999999,
+      "duration": 15.600000000000023
+    },
+    {
+      "index": 4,
+      "text": "It made an impression on me.",
+      "start": 42.31999999999999,
+      "end": 44.06999999999999,
+      "duration": 1.75
+    },
+    {
+      "index": 5,
+      "text": "And since then, for the past 33 years, I have looked in the mirror every morning and asked myself, “If today were the last day of my life, would I wanna do what I am about to do today?”",
+      "start": 44.06999999999999,
+      "end": 54.670000000000016,
+      "duration": 10.600000000000023
+    },
+    {
+      "index": 6,
+      "text": "And whenever the answer has been no for too many days in a row, I know I need to change something.",
+      "start": 54.670000000000016,
+      "end": 61.980000000000075,
+      "duration": 7.310000000000059
+    },
+    {
+      "index": 7,
+      "text": "Remembering that I’ll be dead soon is the most important tool I’ve ever encountered to help me make the big choices in life.",
+      "start": 61.980000000000075,
+      "end": 68.99000000000007,
+      "duration": 7.009999999999991
+    },
+    {
+      "index": 8,
+      "text": "Because almost everything, all external expectations, all pride, all fear of embarrassment or failure—these things just fall away in the face of death, leaving only what is truly important.",
+      "start": 68.99000000000007,
+      "end": 81.76000000000005,
+      "duration": 12.769999999999982
+    },
+    {
+      "index": 9,
+      "text": "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.",
+      "start": 81.76000000000005,
+      "end": 94.48000000000008,
+      "duration": 12.720000000000027
+    },
+    {
+      "index": 10,
+      "text": "About a year ago, I was diagnosed with cancer. I had a scan at 7:30 in the morning, and it clearly showed a tumor on my pancreas. I didn’t even know what a pancreas was.",
+      "start": 94.48000000000008,
+      "end": 107.15000000000003,
+      "duration": 12.669999999999959
+    },
+    {
+      "index": 11,
+      "text": "The doctors told me this was almost certainly a type of cancer that is incurable, and that I should expect to live no longer than three to six months.",
+      "start": 107.15000000000003,
+      "end": 117.24000000000007,
+      "duration": 10.090000000000032
+    },
+    {
+      "index": 12,
+      "text": "My doctor advised me to go home and get my affairs in order, which is doctors’ code for “Prepare to die.”",
+      "start": 117.24000000000007,
+      "end": 125.07,
+      "duration": 7.829999999999927
+    },
+    {
+      "index": 13,
+      "text": "It means to try and tell your kids everything you thought you’d have the next ten years to tell them in just a few months.",
+      "start": 125.07,
+      "end": 133.24000000000007,
+      "duration": 8.170000000000073
+    },
+    {
+      "index": 14,
+      "text": "It means to make sure everything is buttoned up so that it will be as easy as possible for your family. It means to say your goodbyes.",
+      "start": 133.24000000000007,
+      "end": 141.52000000000004,
+      "duration": 8.279999999999973
+    },
+    {
+      "index": 15,
+      "text": "I lived with that diagnosis all day.",
+      "start": 141.52000000000004,
+      "end": 145.3,
+      "duration": 3.7799999999999727
+    },
+    {
+      "index": 16,
+      "text": "Later that evening I had a biopsy, where they stuck an endoscope down my throat, through my stomach, and into my intestines, put a needle into my pancreas, and got a few cells from the tumor.",
+      "start": 145.3,
+      "end": 156.36000000000007,
+      "duration": 11.06000000000006
+    },
+    {
+      "index": 17,
+      "text": "I was sedated, but my wife, who was there, told me that when they viewed the cells under a microscope, the doctors started crying because it turned out to be a very rare form of pancreatic cancer that is curable with surgery.",
+      "start": 156.36000000000007,
+      "end": 169.40000000000003,
+      "duration": 13.039999999999964
+    },
+    {
+      "index": 18,
+      "text": "I had the surgery, and thankfully I’m fine now.",
+      "start": 169.40000000000003,
+      "end": 181.36,
+      "duration": 11.95999999999998
+    }
+  ]
+}

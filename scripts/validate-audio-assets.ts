@@ -19,7 +19,12 @@ function durationOf(file: string) {
 }
 
 async function main() {
-  const slugs = (await readdir(audioRoot)).filter((entry) => entry.startsWith("modern-family-") && (!requestedSlugs.length || requestedSlugs.includes(entry)));
+  const slugs = (await readdir(audioRoot, { withFileTypes: true }))
+    .filter((entry) => entry.isDirectory() && (!requestedSlugs.length || requestedSlugs.includes(entry.name)))
+    .map((entry) => entry.name);
+  for (const slug of requestedSlugs) {
+    if (!slugs.includes(slug)) throw new Error(`未找到课程音频目录：${slug}`);
+  }
   if (!slugs.length) throw new Error("没有找到待校验的课程音频目录");
   for (const slug of slugs) {
     const dir = path.join(audioRoot, slug);

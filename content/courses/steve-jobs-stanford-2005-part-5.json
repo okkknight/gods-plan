@@ -1,0 +1,297 @@
+{
+  "schemaVersion": 1,
+  "slug": "steve-jobs-stanford-2005-part-5",
+  "series": "乔布斯 · 斯坦福毕业演讲",
+  "title": "斯坦福毕业演讲 5/5 · 时间与人生忠告",
+  "orderIndex": 29,
+  "sections": [
+    {
+      "id": "chinese",
+      "heading": "中文理解",
+      "paragraphs": [
+        {
+          "id": "p40-1",
+          "chinese": "这是我离死亡最近的一次，我希望未来几十年也不会再靠得更近。",
+          "english": "This was the closest I’ve been to facing death, and I hope it’s the closest I get for a few more decades.",
+          "cue": "This was the closest I’ve been to facing death, ______________________________"
+        },
+        {
+          "id": "p40-2",
+          "chinese": "亲身经历过之后，相比死亡还只是一个有用但纯粹抽象的概念时，我现在更有把握地对你们说这些话。",
+          "english": "Having lived through it, I can now say this to you with a bit more certainty than when death was a useful but purely intellectual concept.",
+          "cue": "Having lived through it, I can now say this to ______________________________"
+        },
+        {
+          "id": "p41-1",
+          "chinese": "没有人想死。即使想上天堂的人，也不想通过死亡去那里。但死亡是我们共同的归宿，从来没有人逃脱过。",
+          "english": "No one wants to die. Even people who want to go to heaven don’t want to die to get there. And yet, death is the destination we all share. No one has ever escaped it.",
+          "cue": "No one wants to die. ______________________________ And yet, death is the destination we all share. ______________________________"
+        },
+        {
+          "id": "p41-2",
+          "chinese": "这也正是生命应有的样子，因为死亡很可能是生命最好的发明。它推动生命改变，清除旧事物，为新事物让路。",
+          "english": "And that is as it should be, because death is very likely the single best invention of life. It’s life’s change agent. It clears out the old to make way for the new.",
+          "cue": "And that is as it should be, because death is very likely the single best invention of life. ______________________________ It clears out the old to make way for the new."
+        },
+        {
+          "id": "p42-1",
+          "chinese": "现在，你们就是新的力量。但在不远的将来，你们也会渐渐变老，然后被替代。抱歉说得这么戏剧化，但事实就是如此。",
+          "english": "Right now, the new is you. But someday, not too long from now, you will gradually become the old and be cleared away. Sorry to be so dramatic, but it’s quite true.",
+          "cue": "Right now, the new is you. ______________________________ Sorry to be so dramatic, but it’s quite true."
+        },
+        {
+          "id": "p43-1",
+          "chinese": "你们的时间有限，所以不要浪费它，去过别人的人生。不要被教条束缚，那意味着活在别人思考的结果里。不要让别人意见的噪声，淹没你内心自己的声音。",
+          "english": "Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma, which is living with the results of other people’s thinking. Don’t let the noise of others’ opinions drown out your own inner voice.",
+          "cue": "Your time is limited, so don’t waste it living someone else’s life. ______________________________ Don’t let the noise of others’ opinions drown out your own inner voice."
+        },
+        {
+          "id": "p44-1",
+          "chinese": "最重要的是，要有勇气追随自己的内心和直觉。它们某种程度上已经知道，你真正想成为什么样的人。其他一切都是次要的。",
+          "english": "And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.",
+          "cue": "And most important, have the courage to follow your heart and intuition. ______________________________ Everything else is secondary."
+        },
+        {
+          "id": "p45-1",
+          "chinese": "我年轻时，有一本很棒的刊物，叫《全球概览》，它是我们那一代人的圣经之一。",
+          "english": "When I was young, there was an amazing publication called The Whole Earth Catalog, which was one of the bibles of my generation.",
+          "cue": "When I was young, there was an amazing publication called ______________________________"
+        },
+        {
+          "id": "p45-2",
+          "chinese": "创办者斯图尔特·布兰德就住在离这里不远的门洛帕克。他用诗意的笔触赋予了它生命。",
+          "english": "It was created by a fellow named Stewart Brand, not far from here in Menlo Park. And he brought it to life with his poetic touch.",
+          "cue": "It was created by a fellow named Stewart Brand, not far from here in Menlo Park. ______________________________"
+        },
+        {
+          "id": "p46-1",
+          "chinese": "那是六十年代末，个人电脑和桌面出版还没有出现，所以所有内容都靠打字机、剪刀和宝丽来相机制作。",
+          "english": "This was in the late sixties, before personal computers and desktop publishing, so it was all made with typewriters, scissors, and Polaroid cameras.",
+          "cue": "This was in the late sixties, before personal computers and ______________________________"
+        },
+        {
+          "id": "p46-2",
+          "chinese": "它有点像纸质版的谷歌，只是比谷歌早了三十五年。它充满理想主义，有许多精巧的工具和精彩的想法。",
+          "english": "It was sort of like Google in paperback form, 35 years before Google came along. It was idealistic, overflowing with neat tools and great notions.",
+          "cue": "It was sort of like Google in paperback form, 35 years before Google came along. ______________________________"
+        },
+        {
+          "id": "p47-1",
+          "chinese": "斯图尔特和他的团队出版了好几期《全球概览》。后来，它完成了自己的使命，他们便出版了最后一期。那是在七十年代中期，当时我和你们差不多大。",
+          "english": "Stewart and his team put out several issues of The Whole Earth Catalog. And then, when it had run its course, they put out a final issue. It was the mid-1970s, and I was your age.",
+          "cue": "Stewart and his team put out several issues of The Whole Earth Catalog. ______________________________ It was the mid-1970s, and I was your age."
+        },
+        {
+          "id": "p48-1",
+          "chinese": "最后一期的封底，是一张清晨乡间小路的照片。如果你足够爱冒险，也许会站在那样的路边搭便车。",
+          "english": "On the back cover of their final issue was a photograph of an early-morning country road—the kind you might find yourself hitchhiking on if you were so adventurous.",
+          "cue": "On the back cover of their final issue was a ______________________________"
+        },
+        {
+          "id": "p48-2",
+          "chinese": "照片下面写着“求知若饥，虚心若愚”。这是他们告别时留下的话。",
+          "english": "Beneath it were the words “Stay hungry. Stay foolish.” It was their farewell message as they signed off.",
+          "cue": "Beneath it were the words “Stay hungry. ______________________________ It was their farewell message as they signed off."
+        },
+        {
+          "id": "p49-1",
+          "chinese": "“求知若饥，虚心若愚。”我一直用这句话勉励自己。现在，你们即将毕业，开始新的旅程，我也把这句话送给你们：求知若饥，虚心若愚。非常感谢大家。",
+          "english": "“Stay hungry. Stay foolish.” And I have always wished that for myself. And now, as you graduate to begin anew, I wish that for you. Stay hungry. Stay foolish. Thank you all very much.",
+          "cue": "“Stay hungry. ______________________________ And I have always wished that for myself. ______________________________ Stay hungry. ______________________________ Thank you all very much."
+        }
+      ]
+    },
+    {
+      "id": "english",
+      "heading": "演讲原文",
+      "paragraphs": [
+        {
+          "id": "p40-1",
+          "chinese": "这是我离死亡最近的一次，我希望未来几十年也不会再靠得更近。",
+          "english": "This was the closest I’ve been to facing death, and I hope it’s the closest I get for a few more decades.",
+          "cue": "This was the closest I’ve been to facing death, ______________________________"
+        },
+        {
+          "id": "p40-2",
+          "chinese": "亲身经历过之后，相比死亡还只是一个有用但纯粹抽象的概念时，我现在更有把握地对你们说这些话。",
+          "english": "Having lived through it, I can now say this to you with a bit more certainty than when death was a useful but purely intellectual concept.",
+          "cue": "Having lived through it, I can now say this to ______________________________"
+        },
+        {
+          "id": "p41-1",
+          "chinese": "没有人想死。即使想上天堂的人，也不想通过死亡去那里。但死亡是我们共同的归宿，从来没有人逃脱过。",
+          "english": "No one wants to die. Even people who want to go to heaven don’t want to die to get there. And yet, death is the destination we all share. No one has ever escaped it.",
+          "cue": "No one wants to die. ______________________________ And yet, death is the destination we all share. ______________________________"
+        },
+        {
+          "id": "p41-2",
+          "chinese": "这也正是生命应有的样子，因为死亡很可能是生命最好的发明。它推动生命改变，清除旧事物，为新事物让路。",
+          "english": "And that is as it should be, because death is very likely the single best invention of life. It’s life’s change agent. It clears out the old to make way for the new.",
+          "cue": "And that is as it should be, because death is very likely the single best invention of life. ______________________________ It clears out the old to make way for the new."
+        },
+        {
+          "id": "p42-1",
+          "chinese": "现在，你们就是新的力量。但在不远的将来，你们也会渐渐变老，然后被替代。抱歉说得这么戏剧化，但事实就是如此。",
+          "english": "Right now, the new is you. But someday, not too long from now, you will gradually become the old and be cleared away. Sorry to be so dramatic, but it’s quite true.",
+          "cue": "Right now, the new is you. ______________________________ Sorry to be so dramatic, but it’s quite true."
+        },
+        {
+          "id": "p43-1",
+          "chinese": "你们的时间有限，所以不要浪费它，去过别人的人生。不要被教条束缚，那意味着活在别人思考的结果里。不要让别人意见的噪声，淹没你内心自己的声音。",
+          "english": "Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma, which is living with the results of other people’s thinking. Don’t let the noise of others’ opinions drown out your own inner voice.",
+          "cue": "Your time is limited, so don’t waste it living someone else’s life. ______________________________ Don’t let the noise of others’ opinions drown out your own inner voice."
+        },
+        {
+          "id": "p44-1",
+          "chinese": "最重要的是，要有勇气追随自己的内心和直觉。它们某种程度上已经知道，你真正想成为什么样的人。其他一切都是次要的。",
+          "english": "And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.",
+          "cue": "And most important, have the courage to follow your heart and intuition. ______________________________ Everything else is secondary."
+        },
+        {
+          "id": "p45-1",
+          "chinese": "我年轻时，有一本很棒的刊物，叫《全球概览》，它是我们那一代人的圣经之一。",
+          "english": "When I was young, there was an amazing publication called The Whole Earth Catalog, which was one of the bibles of my generation.",
+          "cue": "When I was young, there was an amazing publication called ______________________________"
+        },
+        {
+          "id": "p45-2",
+          "chinese": "创办者斯图尔特·布兰德就住在离这里不远的门洛帕克。他用诗意的笔触赋予了它生命。",
+          "english": "It was created by a fellow named Stewart Brand, not far from here in Menlo Park. And he brought it to life with his poetic touch.",
+          "cue": "It was created by a fellow named Stewart Brand, not far from here in Menlo Park. ______________________________"
+        },
+        {
+          "id": "p46-1",
+          "chinese": "那是六十年代末，个人电脑和桌面出版还没有出现，所以所有内容都靠打字机、剪刀和宝丽来相机制作。",
+          "english": "This was in the late sixties, before personal computers and desktop publishing, so it was all made with typewriters, scissors, and Polaroid cameras.",
+          "cue": "This was in the late sixties, before personal computers and ______________________________"
+        },
+        {
+          "id": "p46-2",
+          "chinese": "它有点像纸质版的谷歌，只是比谷歌早了三十五年。它充满理想主义，有许多精巧的工具和精彩的想法。",
+          "english": "It was sort of like Google in paperback form, 35 years before Google came along. It was idealistic, overflowing with neat tools and great notions.",
+          "cue": "It was sort of like Google in paperback form, 35 years before Google came along. ______________________________"
+        },
+        {
+          "id": "p47-1",
+          "chinese": "斯图尔特和他的团队出版了好几期《全球概览》。后来，它完成了自己的使命，他们便出版了最后一期。那是在七十年代中期，当时我和你们差不多大。",
+          "english": "Stewart and his team put out several issues of The Whole Earth Catalog. And then, when it had run its course, they put out a final issue. It was the mid-1970s, and I was your age.",
+          "cue": "Stewart and his team put out several issues of The Whole Earth Catalog. ______________________________ It was the mid-1970s, and I was your age."
+        },
+        {
+          "id": "p48-1",
+          "chinese": "最后一期的封底，是一张清晨乡间小路的照片。如果你足够爱冒险，也许会站在那样的路边搭便车。",
+          "english": "On the back cover of their final issue was a photograph of an early-morning country road—the kind you might find yourself hitchhiking on if you were so adventurous.",
+          "cue": "On the back cover of their final issue was a ______________________________"
+        },
+        {
+          "id": "p48-2",
+          "chinese": "照片下面写着“求知若饥，虚心若愚”。这是他们告别时留下的话。",
+          "english": "Beneath it were the words “Stay hungry. Stay foolish.” It was their farewell message as they signed off.",
+          "cue": "Beneath it were the words “Stay hungry. ______________________________ It was their farewell message as they signed off."
+        },
+        {
+          "id": "p49-1",
+          "chinese": "“求知若饥，虚心若愚。”我一直用这句话勉励自己。现在，你们即将毕业，开始新的旅程，我也把这句话送给你们：求知若饥，虚心若愚。非常感谢大家。",
+          "english": "“Stay hungry. Stay foolish.” And I have always wished that for myself. And now, as you graduate to begin anew, I wish that for you. Stay hungry. Stay foolish. Thank you all very much.",
+          "cue": "“Stay hungry. ______________________________ And I have always wished that for myself. ______________________________ Stay hungry. ______________________________ Thank you all very much."
+        }
+      ]
+    },
+    {
+      "id": "cue",
+      "heading": "Cue Version",
+      "paragraphs": [
+        {
+          "id": "p40-1",
+          "chinese": "这是我离死亡最近的一次，我希望未来几十年也不会再靠得更近。",
+          "english": "This was the closest I’ve been to facing death, and I hope it’s the closest I get for a few more decades.",
+          "cue": "This was the closest I’ve been to facing death, ______________________________"
+        },
+        {
+          "id": "p40-2",
+          "chinese": "亲身经历过之后，相比死亡还只是一个有用但纯粹抽象的概念时，我现在更有把握地对你们说这些话。",
+          "english": "Having lived through it, I can now say this to you with a bit more certainty than when death was a useful but purely intellectual concept.",
+          "cue": "Having lived through it, I can now say this to ______________________________"
+        },
+        {
+          "id": "p41-1",
+          "chinese": "没有人想死。即使想上天堂的人，也不想通过死亡去那里。但死亡是我们共同的归宿，从来没有人逃脱过。",
+          "english": "No one wants to die. Even people who want to go to heaven don’t want to die to get there. And yet, death is the destination we all share. No one has ever escaped it.",
+          "cue": "No one wants to die. ______________________________ And yet, death is the destination we all share. ______________________________"
+        },
+        {
+          "id": "p41-2",
+          "chinese": "这也正是生命应有的样子，因为死亡很可能是生命最好的发明。它推动生命改变，清除旧事物，为新事物让路。",
+          "english": "And that is as it should be, because death is very likely the single best invention of life. It’s life’s change agent. It clears out the old to make way for the new.",
+          "cue": "And that is as it should be, because death is very likely the single best invention of life. ______________________________ It clears out the old to make way for the new."
+        },
+        {
+          "id": "p42-1",
+          "chinese": "现在，你们就是新的力量。但在不远的将来，你们也会渐渐变老，然后被替代。抱歉说得这么戏剧化，但事实就是如此。",
+          "english": "Right now, the new is you. But someday, not too long from now, you will gradually become the old and be cleared away. Sorry to be so dramatic, but it’s quite true.",
+          "cue": "Right now, the new is you. ______________________________ Sorry to be so dramatic, but it’s quite true."
+        },
+        {
+          "id": "p43-1",
+          "chinese": "你们的时间有限，所以不要浪费它，去过别人的人生。不要被教条束缚，那意味着活在别人思考的结果里。不要让别人意见的噪声，淹没你内心自己的声音。",
+          "english": "Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma, which is living with the results of other people’s thinking. Don’t let the noise of others’ opinions drown out your own inner voice.",
+          "cue": "Your time is limited, so don’t waste it living someone else’s life. ______________________________ Don’t let the noise of others’ opinions drown out your own inner voice."
+        },
+        {
+          "id": "p44-1",
+          "chinese": "最重要的是，要有勇气追随自己的内心和直觉。它们某种程度上已经知道，你真正想成为什么样的人。其他一切都是次要的。",
+          "english": "And most important, have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.",
+          "cue": "And most important, have the courage to follow your heart and intuition. ______________________________ Everything else is secondary."
+        },
+        {
+          "id": "p45-1",
+          "chinese": "我年轻时，有一本很棒的刊物，叫《全球概览》，它是我们那一代人的圣经之一。",
+          "english": "When I was young, there was an amazing publication called The Whole Earth Catalog, which was one of the bibles of my generation.",
+          "cue": "When I was young, there was an amazing publication called ______________________________"
+        },
+        {
+          "id": "p45-2",
+          "chinese": "创办者斯图尔特·布兰德就住在离这里不远的门洛帕克。他用诗意的笔触赋予了它生命。",
+          "english": "It was created by a fellow named Stewart Brand, not far from here in Menlo Park. And he brought it to life with his poetic touch.",
+          "cue": "It was created by a fellow named Stewart Brand, not far from here in Menlo Park. ______________________________"
+        },
+        {
+          "id": "p46-1",
+          "chinese": "那是六十年代末，个人电脑和桌面出版还没有出现，所以所有内容都靠打字机、剪刀和宝丽来相机制作。",
+          "english": "This was in the late sixties, before personal computers and desktop publishing, so it was all made with typewriters, scissors, and Polaroid cameras.",
+          "cue": "This was in the late sixties, before personal computers and ______________________________"
+        },
+        {
+          "id": "p46-2",
+          "chinese": "它有点像纸质版的谷歌，只是比谷歌早了三十五年。它充满理想主义，有许多精巧的工具和精彩的想法。",
+          "english": "It was sort of like Google in paperback form, 35 years before Google came along. It was idealistic, overflowing with neat tools and great notions.",
+          "cue": "It was sort of like Google in paperback form, 35 years before Google came along. ______________________________"
+        },
+        {
+          "id": "p47-1",
+          "chinese": "斯图尔特和他的团队出版了好几期《全球概览》。后来，它完成了自己的使命，他们便出版了最后一期。那是在七十年代中期，当时我和你们差不多大。",
+          "english": "Stewart and his team put out several issues of The Whole Earth Catalog. And then, when it had run its course, they put out a final issue. It was the mid-1970s, and I was your age.",
+          "cue": "Stewart and his team put out several issues of The Whole Earth Catalog. ______________________________ It was the mid-1970s, and I was your age."
+        },
+        {
+          "id": "p48-1",
+          "chinese": "最后一期的封底，是一张清晨乡间小路的照片。如果你足够爱冒险，也许会站在那样的路边搭便车。",
+          "english": "On the back cover of their final issue was a photograph of an early-morning country road—the kind you might find yourself hitchhiking on if you were so adventurous.",
+          "cue": "On the back cover of their final issue was a ______________________________"
+        },
+        {
+          "id": "p48-2",
+          "chinese": "照片下面写着“求知若饥，虚心若愚”。这是他们告别时留下的话。",
+          "english": "Beneath it were the words “Stay hungry. Stay foolish.” It was their farewell message as they signed off.",
+          "cue": "Beneath it were the words “Stay hungry. ______________________________ It was their farewell message as they signed off."
+        },
+        {
+          "id": "p49-1",
+          "chinese": "“求知若饥，虚心若愚。”我一直用这句话勉励自己。现在，你们即将毕业，开始新的旅程，我也把这句话送给你们：求知若饥，虚心若愚。非常感谢大家。",
+          "english": "“Stay hungry. Stay foolish.” And I have always wished that for myself. And now, as you graduate to begin anew, I wish that for you. Stay hungry. Stay foolish. Thank you all very much.",
+          "cue": "“Stay hungry. ______________________________ And I have always wished that for myself. ______________________________ Stay hungry. ______________________________ Thank you all very much."
+        }
+      ]
+    }
+  ]
+}

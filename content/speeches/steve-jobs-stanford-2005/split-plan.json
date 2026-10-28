@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "status": "deployed-automatically-aligned-not-human-reviewed",
+  "series": "Steve Jobs · Stanford 2005",
+  "transcriptSource": "https://news.stanford.edu/stories/2005/06/youve-got-find-love-jobs-says",
+  "videoSource": "https://www.youtube.com/watch?v=UF8uR6Z6KLc",
+  "sourceType": "prepared-text-not-audio-verified",
+  "wordCountMethod": "ASCII alphanumeric words; internal apostrophes and hyphens count within a word",
+  "totalWords": 2261,
+  "totalSentences": 161,
+  "lessons": [
+    {
+      "slug": "steve-jobs-stanford-2005-part-1",
+      "part": 1,
+      "title": "辍学与选择",
+      "wordCount": 469,
+      "sentenceStart": 1,
+      "sentenceEnd": 35,
+      "sourceParagraphStart": 1,
+      "sourceParagraphEnd": 11,
+      "audioStart": null,
+      "audioEnd": null,
+      "audioVerified": false
+    },
+    {
+      "slug": "steve-jobs-stanford-2005-part-2",
+      "part": 2,
+      "title": "好奇心与人生连线",
+      "wordCount": 433,
+      "sentenceStart": 36,
+      "sentenceEnd": 65,
+      "sourceParagraphStart": 12,
+      "sourceParagraphEnd": 19,
+      "audioStart": null,
+      "audioEnd": null,
+      "audioVerified": false
+    },
+    {
+      "slug": "steve-jobs-stanford-2005-part-3",
+      "part": 3,
+      "title": "失去与重新开始",
+      "wordCount": 463,
+      "sentenceStart": 66,
+      "sentenceEnd": 96,
+      "sourceParagraphStart": 20,
+      "sourceParagraphEnd": 30,
+      "audioStart": null,
+      "audioEnd": null,
+      "audioVerified": false
+    },
+    {
+      "slug": "steve-jobs-stanford-2005-part-4",
+      "part": 4,
+      "title": "面对死亡",
+      "wordCount": 468,
+      "sentenceStart": 97,
+      "sentenceEnd": 123,
+      "sourceParagraphStart": 31,
+      "sourceParagraphEnd": 39,
+      "audioStart": null,
+      "audioEnd": null,
+      "audioVerified": false
+    },
+    {
+      "slug": "steve-jobs-stanford-2005-part-5",
+      "part": 5,
+      "title": "时间与人生忠告",
+      "wordCount": 428,
+      "sentenceStart": 124,
+      "sentenceEnd": 161,
+      "sourceParagraphStart": 40,
+      "sourceParagraphEnd": 49,
+      "audioStart": null,
+      "audioEnd": null,
+      "audioVerified": false
+    }
+  ],
+  "notes": [
+    "Boundaries are provisional until verified against the original recording.",
+    "Source paragraphs are non-empty speech text blocks in the official article, excluding page chrome.",
+    "Five courses were deployed to VPS on 2026-10-16; existing course content, learning progress and events are unchanged.",
+    "Do not replace original audio with TTS or estimate timestamps."
+  ]
+}

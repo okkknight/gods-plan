@@ -1,4 +1,5 @@
 import { sqlite } from "./client";
+import { ensureCourseGroups } from "./course-group-migration";
 
 sqlite.exec(`
 CREATE TABLE IF NOT EXISTS courses (
@@ -54,5 +55,7 @@ CREATE TABLE IF NOT EXISTS study_events (
   UNIQUE(course_id, stage)
 );
 `);
+
+ensureCourseGroups(sqlite);
 
 if (import.meta.url === `file://${process.argv[1]}`) console.log("Database migrated");

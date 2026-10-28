@@ -1,0 +1,38 @@
+{
+  "checkedOn": "2026-10-16",
+  "status": "downloaded-and-automatically-aligned-not-human-reviewed",
+  "candidates": [
+    {
+      "name": "9696 English learning archive",
+      "page": "https://9696.me/commencement-address-delivered-by-steve-jobs-2005/",
+      "download": "https://cn.9696.me/wp-content/uploads/sites/5/2023/09/Audio-Steve-Jobs-Stay-Hungry-Stay-Foolish.mp3",
+      "localFile": "data/audio-cache/steve-jobs-stanford-2005/candidate-9696.mp3",
+      "durationSeconds": 847.117438,
+      "bitRate": 128000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "bytes": 13592583,
+      "sha256": "e3e3a7f29814db9976c1b7d80f57d86b2ed3634153d02cd9d72cb7bbbf24f5c0"
+    },
+    {
+      "name": "Best Graduation Speeches podcast",
+      "page": "https://grad-speeches.podigee.io/1-steve-jobs-stanford-university-2005",
+      "download": "https://audio.podigee-cdn.net/1539-m-86fce7541d53a4ce40d3418d4fbd4aff.mp3?source=web_download&dl=1",
+      "localFile": "data/audio-cache/steve-jobs-stanford-2005/candidate-podigee.mp3",
+      "durationSeconds": 904.568163,
+      "bitRate": 112000,
+      "sampleRate": 44100,
+      "channels": 2,
+      "bytes": 12947415,
+      "sha256": "ffd53d9b60abbdd9ba3d48ec60de1f24bad811ad77ad109f28b1d0a84cb362aa"
+    }
+  ],
+  "notes": [
+    "Both public download links were successfully downloaded and parsed by ffprobe.",
+    "These are third-party copies, not Stanford-hosted audio files.",
+    "Opening and ending ASR checks confirm the 9696 copy starts with the speech and retains the final thanks; the podcast opening includes a Stanford introduction and applause.",
+    "The 9696 copy was selected for local preview. Full-recording alignment matches 98.23 percent of reference words; human listening review is still pending.",
+    "Public download availability does not establish a redistribution license.",
+    "Raw files are local ignored intermediates. Five courses were deployed to VPS on 2026-10-16; their timing remains automatically aligned, not human-reviewed."
+  ]
+}

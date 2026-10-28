@@ -1,0 +1,333 @@
+{
+  "schemaVersion": 1,
+  "slug": "steve-jobs-stanford-2005-part-1",
+  "series": "乔布斯 · 斯坦福毕业演讲",
+  "title": "斯坦福毕业演讲 1/5 · 辍学与选择",
+  "orderIndex": 25,
+  "sections": [
+    {
+      "id": "chinese",
+      "heading": "中文理解",
+      "paragraphs": [
+        {
+          "id": "p1-1",
+          "chinese": "很荣幸今天能与你们一同参加世界上最优秀大学之一的毕业典礼。说实话，我从未大学毕业。这也是我离大学毕业最近的一次。",
+          "english": "I’m honored to be with you today for your commencement from one of the finest universities in the world. Truth be told, I never graduated from college. And this is the closest I’ve ever gotten to a college graduation.",
+          "cue": "I’m honored to be with you today for your commencement from one of the finest universities in the world. ______________________________ And this is the closest I’ve ever gotten to a college graduation."
+        },
+        {
+          "id": "p2-1",
+          "chinese": "今天，我想讲三个我人生中的故事。仅此而已，没有什么大道理，只有三个故事。",
+          "english": "Today I want to tell you three stories from my life. That’s it. No big deal. Just three stories.",
+          "cue": "Today I want to tell you three stories from my life. ______________________________ No big deal. ______________________________"
+        },
+        {
+          "id": "p3-1",
+          "chinese": "第一个故事，是关于把人生中的点连起来。",
+          "english": "The first story is about connecting the dots.",
+          "cue": "The first story ______________________________"
+        },
+        {
+          "id": "p3-2",
+          "chinese": "我在里德学院读了六个月就退学了，但又留下旁听了大约十八个月，之后才真正离开。那么，我为什么退学？",
+          "english": "I dropped out of Reed College after the first six months, but then stayed around as a drop-in for another 18 months or so before I really quit. So why’d I drop out?",
+          "cue": "I dropped out of Reed College after the first six months, but then stayed around as a drop-in for another 18 months or so before I really quit. ______________________________"
+        },
+        {
+          "id": "p4-1",
+          "chinese": "故事要从我出生前说起。我的生母是一位年轻、未婚的研究生，她决定把我交给别人收养。",
+          "english": "It started before I was born. My biological mother was a young, unwed graduate student, and she decided to put me up for adoption.",
+          "cue": "It started before I was born. ______________________________"
+        },
+        {
+          "id": "p4-2",
+          "chinese": "她坚信收养我的人必须是大学毕业生，所以原本安排好，让一位律师和他的妻子在我出生时收养我。",
+          "english": "She felt very strongly that I should be adopted by college graduates, so everything was all set for me to be adopted at birth by a lawyer and his wife.",
+          "cue": "She felt very strongly that I should be adopted by ______________________________"
+        },
+        {
+          "id": "p5-1",
+          "chinese": "但当我出生时，他们临时决定其实想要一个女孩。",
+          "english": "Except that when I popped out, they decided at the last minute that they really wanted a girl.",
+          "cue": "Except that when I popped out, they decided ______________________________"
+        },
+        {
+          "id": "p5-2",
+          "chinese": "于是，我的养父母——他们当时还在等候名单上——半夜接到一个电话：“我们这里意外多了一个男婴，你们愿意收养吗？”他们说：“当然愿意。”",
+          "english": "So my parents, who were on a waiting list, got a call in the middle of the night asking, “We’ve got an unexpected baby boy. Do you want him?” They said, “Of course.”",
+          "cue": "So my parents, who were on a waiting list, got a call in the middle of the night asking, “We’ve got an unexpected baby boy. ______________________________ They said, “Of course.”"
+        },
+        {
+          "id": "p6-1",
+          "chinese": "后来，我的生母发现，我的养母没有大学毕业，养父甚至没有高中毕业。她拒绝签署最终的收养文件。",
+          "english": "My biological mother found out later that my mother had never graduated from college, and that my father had never graduated from high school. She refused to sign the final adoption papers.",
+          "cue": "My biological mother found out later that my mother had never graduated from college, and that my father had never graduated from high school. ______________________________"
+        },
+        {
+          "id": "p6-2",
+          "chinese": "几个月后，养父母承诺一定让我上大学，她才同意。这就是我人生的起点。",
+          "english": "She only relented a few months later, when my parents promised that I would go to college. This was the start in my life.",
+          "cue": "She only relented a few months later, when my parents promised that I would go to college. ______________________________"
+        },
+        {
+          "id": "p7-1",
+          "chinese": "十七年后，我确实上了大学。但我天真地选了一所学费几乎和斯坦福一样高的大学。我的工人阶层父母把所有积蓄都花在了我的学费上。",
+          "english": "And 17 years later I did go to college. But I naively chose a college that was almost as expensive as Stanford. And all of my working class parents’ savings were being spent on my college tuition.",
+          "cue": "And 17 years later I did go to college. ______________________________ And all of my working class parents’ savings were being spent on my college tuition."
+        },
+        {
+          "id": "p8-1",
+          "chinese": "六个月后，我看不到这样做的价值。我不知道自己这一生想做什么，也不知道大学能怎样帮我找到答案。",
+          "english": "After six months, I couldn’t see the value in it. I had no idea what I wanted to do with my life, and no idea how college was going to help me figure it out.",
+          "cue": "After six months, I couldn’t see the value in it. ______________________________"
+        },
+        {
+          "id": "p8-2",
+          "chinese": "而我却在花掉父母一辈子攒下的钱。",
+          "english": "And here I was, spending all of the money my parents had saved their entire life.",
+          "cue": "And here I was, spending all of ______________________________"
+        },
+        {
+          "id": "p9-1",
+          "chinese": "于是，我决定退学，相信事情最终会有好的结果。当时确实很害怕，但回头看，这是我做过的最好的决定之一。",
+          "english": "So I decided to drop out and trust that it would all work out OK. It was pretty scary at the time, but looking back it was one of the best decisions I ever made.",
+          "cue": "So I decided to drop out and trust that it would all work out OK. ______________________________"
+        },
+        {
+          "id": "p10-1",
+          "chinese": "退学之后，我就不用再上那些不感兴趣的必修课，开始旁听那些看上去有趣得多的课程。",
+          "english": "The minute I dropped out, I could stop taking the required classes that didn’t interest me, and begin dropping in on the ones that looked far more interesting.",
+          "cue": "The minute I dropped out, I could stop taking the ______________________________"
+        },
+        {
+          "id": "p11-1",
+          "chinese": "但这并不全是浪漫的经历。我没有宿舍，只能睡在朋友房间的地板上。我退还可乐瓶，用每瓶五美分的押金买食物。",
+          "english": "It wasn’t all romantic. I didn’t have a dorm room, so I slept on the floor in friends’ rooms. I returned Coke bottles for the five-cent deposits to buy food with.",
+          "cue": "It wasn’t all romantic. ______________________________ I returned Coke bottles for the five-cent deposits to buy food with."
+        },
+        {
+          "id": "p11-2",
+          "chinese": "每周日晚上，我要穿过城市走七英里，去克利须那神庙吃上一周里唯一的一顿好饭。我很喜欢那顿饭。",
+          "english": "And I would walk the seven miles across town every Sunday night to get one good meal a week at the Hare Krishna temple. I loved it.",
+          "cue": "And I would walk the seven miles across town every Sunday night to get one good meal a week at the Hare Krishna temple. ______________________________"
+        }
+      ]
+    },
+    {
+      "id": "english",
+      "heading": "演讲原文",
+      "paragraphs": [
+        {
+          "id": "p1-1",
+          "chinese": "很荣幸今天能与你们一同参加世界上最优秀大学之一的毕业典礼。说实话，我从未大学毕业。这也是我离大学毕业最近的一次。",
+          "english": "I’m honored to be with you today for your commencement from one of the finest universities in the world. Truth be told, I never graduated from college. And this is the closest I’ve ever gotten to a college graduation.",
+          "cue": "I’m honored to be with you today for your commencement from one of the finest universities in the world. ______________________________ And this is the closest I’ve ever gotten to a college graduation."
+        },
+        {
+          "id": "p2-1",
+          "chinese": "今天，我想讲三个我人生中的故事。仅此而已，没有什么大道理，只有三个故事。",
+          "english": "Today I want to tell you three stories from my life. That’s it. No big deal. Just three stories.",
+          "cue": "Today I want to tell you three stories from my life. ______________________________ No big deal. ______________________________"
+        },
+        {
+          "id": "p3-1",
+          "chinese": "第一个故事，是关于把人生中的点连起来。",
+          "english": "The first story is about connecting the dots.",
+          "cue": "The first story ______________________________"
+        },
+        {
+          "id": "p3-2",
+          "chinese": "我在里德学院读了六个月就退学了，但又留下旁听了大约十八个月，之后才真正离开。那么，我为什么退学？",
+          "english": "I dropped out of Reed College after the first six months, but then stayed around as a drop-in for another 18 months or so before I really quit. So why’d I drop out?",
+          "cue": "I dropped out of Reed College after the first six months, but then stayed around as a drop-in for another 18 months or so before I really quit. ______________________________"
+        },
+        {
+          "id": "p4-1",
+          "chinese": "故事要从我出生前说起。我的生母是一位年轻、未婚的研究生，她决定把我交给别人收养。",
+          "english": "It started before I was born. My biological mother was a young, unwed graduate student, and she decided to put me up for adoption.",
+          "cue": "It started before I was born. ______________________________"
+        },
+        {
+          "id": "p4-2",
+          "chinese": "她坚信收养我的人必须是大学毕业生，所以原本安排好，让一位律师和他的妻子在我出生时收养我。",
+          "english": "She felt very strongly that I should be adopted by college graduates, so everything was all set for me to be adopted at birth by a lawyer and his wife.",
+          "cue": "She felt very strongly that I should be adopted by ______________________________"
+        },
+        {
+          "id": "p5-1",
+          "chinese": "但当我出生时，他们临时决定其实想要一个女孩。",
+          "english": "Except that when I popped out, they decided at the last minute that they really wanted a girl.",
+          "cue": "Except that when I popped out, they decided ______________________________"
+        },
+        {
+          "id": "p5-2",
+          "chinese": "于是，我的养父母——他们当时还在等候名单上——半夜接到一个电话：“我们这里意外多了一个男婴，你们愿意收养吗？”他们说：“当然愿意。”",
+          "english": "So my parents, who were on a waiting list, got a call in the middle of the night asking, “We’ve got an unexpected baby boy. Do you want him?” They said, “Of course.”",
+          "cue": "So my parents, who were on a waiting list, got a call in the middle of the night asking, “We’ve got an unexpected baby boy. ______________________________ They said, “Of course.”"
+        },
+        {
+          "id": "p6-1",
+          "chinese": "后来，我的生母发现，我的养母没有大学毕业，养父甚至没有高中毕业。她拒绝签署最终的收养文件。",
+          "english": "My biological mother found out later that my mother had never graduated from college, and that my father had never graduated from high school. She refused to sign the final adoption papers.",
+          "cue": "My biological mother found out later that my mother had never graduated from college, and that my father had never graduated from high school. ______________________________"
+        },
+        {
+          "id": "p6-2",
+          "chinese": "几个月后，养父母承诺一定让我上大学，她才同意。这就是我人生的起点。",
+          "english": "She only relented a few months later, when my parents promised that I would go to college. This was the start in my life.",
+          "cue": "She only relented a few months later, when my parents promised that I would go to college. ______________________________"
+        },
+        {
+          "id": "p7-1",
+          "chinese": "十七年后，我确实上了大学。但我天真地选了一所学费几乎和斯坦福一样高的大学。我的工人阶层父母把所有积蓄都花在了我的学费上。",
+          "english": "And 17 years later I did go to college. But I naively chose a college that was almost as expensive as Stanford. And all of my working class parents’ savings were being spent on my college tuition.",
+          "cue": "And 17 years later I did go to college. ______________________________ And all of my working class parents’ savings were being spent on my college tuition."
+        },
+        {
+          "id": "p8-1",
+          "chinese": "六个月后，我看不到这样做的价值。我不知道自己这一生想做什么，也不知道大学能怎样帮我找到答案。",
+          "english": "After six months, I couldn’t see the value in it. I had no idea what I wanted to do with my life, and no idea how college was going to help me figure it out.",
+          "cue": "After six months, I couldn’t see the value in it. ______________________________"
+        },
+        {
+          "id": "p8-2",
+          "chinese": "而我却在花掉父母一辈子攒下的钱。",
+          "english": "And here I was, spending all of the money my parents had saved their entire life.",
+          "cue": "And here I was, spending all of ______________________________"
+        },
+        {
+          "id": "p9-1",
+          "chinese": "于是，我决定退学，相信事情最终会有好的结果。当时确实很害怕，但回头看，这是我做过的最好的决定之一。",
+          "english": "So I decided to drop out and trust that it would all work out OK. It was pretty scary at the time, but looking back it was one of the best decisions I ever made.",
+          "cue": "So I decided to drop out and trust that it would all work out OK. ______________________________"
+        },
+        {
+          "id": "p10-1",
+          "chinese": "退学之后，我就不用再上那些不感兴趣的必修课，开始旁听那些看上去有趣得多的课程。",
+          "english": "The minute I dropped out, I could stop taking the required classes that didn’t interest me, and begin dropping in on the ones that looked far more interesting.",
+          "cue": "The minute I dropped out, I could stop taking the ______________________________"
+        },
+        {
+          "id": "p11-1",
+          "chinese": "但这并不全是浪漫的经历。我没有宿舍，只能睡在朋友房间的地板上。我退还可乐瓶，用每瓶五美分的押金买食物。",
+          "english": "It wasn’t all romantic. I didn’t have a dorm room, so I slept on the floor in friends’ rooms. I returned Coke bottles for the five-cent deposits to buy food with.",
+          "cue": "It wasn’t all romantic. ______________________________ I returned Coke bottles for the five-cent deposits to buy food with."
+        },
+        {
+          "id": "p11-2",
+          "chinese": "每周日晚上，我要穿过城市走七英里，去克利须那神庙吃上一周里唯一的一顿好饭。我很喜欢那顿饭。",
+          "english": "And I would walk the seven miles across town every Sunday night to get one good meal a week at the Hare Krishna temple. I loved it.",
+          "cue": "And I would walk the seven miles across town every Sunday night to get one good meal a week at the Hare Krishna temple. ______________________________"
+        }
+      ]
+    },
+    {
+      "id": "cue",
+      "heading": "Cue Version",
+      "paragraphs": [
+        {
+          "id": "p1-1",
+          "chinese": "很荣幸今天能与你们一同参加世界上最优秀大学之一的毕业典礼。说实话，我从未大学毕业。这也是我离大学毕业最近的一次。",
+          "english": "I’m honored to be with you today for your commencement from one of the finest universities in the world. Truth be told, I never graduated from college. And this is the closest I’ve ever gotten to a college graduation.",
+          "cue": "I’m honored to be with you today for your commencement from one of the finest universities in the world. ______________________________ And this is the closest I’ve ever gotten to a college graduation."
+        },
+        {
+          "id": "p2-1",
+          "chinese": "今天，我想讲三个我人生中的故事。仅此而已，没有什么大道理，只有三个故事。",
+          "english": "Today I want to tell you three stories from my life. That’s it. No big deal. Just three stories.",
+          "cue": "Today I want to tell you three stories from my life. ______________________________ No big deal. ______________________________"
+        },
+        {
+          "id": "p3-1",
+          "chinese": "第一个故事，是关于把人生中的点连起来。",
+          "english": "The first story is about connecting the dots.",
+          "cue": "The first story ______________________________"
+        },
+        {
+          "id": "p3-2",
+          "chinese": "我在里德学院读了六个月就退学了，但又留下旁听了大约十八个月，之后才真正离开。那么，我为什么退学？",
+          "english": "I dropped out of Reed College after the first six months, but then stayed around as a drop-in for another 18 months or so before I really quit. So why’d I drop out?",
+          "cue": "I dropped out of Reed College after the first six months, but then stayed around as a drop-in for another 18 months or so before I really quit. ______________________________"
+        },
+        {
+          "id": "p4-1",
+          "chinese": "故事要从我出生前说起。我的生母是一位年轻、未婚的研究生，她决定把我交给别人收养。",
+          "english": "It started before I was born. My biological mother was a young, unwed graduate student, and she decided to put me up for adoption.",
+          "cue": "It started before I was born. ______________________________"
+        },
+        {
+          "id": "p4-2",
+          "chinese": "她坚信收养我的人必须是大学毕业生，所以原本安排好，让一位律师和他的妻子在我出生时收养我。",
+          "english": "She felt very strongly that I should be adopted by college graduates, so everything was all set for me to be adopted at birth by a lawyer and his wife.",
+          "cue": "She felt very strongly that I should be adopted by ______________________________"
+        },
+        {
+          "id": "p5-1",
+          "chinese": "但当我出生时，他们临时决定其实想要一个女孩。",
+          "english": "Except that when I popped out, they decided at the last minute that they really wanted a girl.",
+          "cue": "Except that when I popped out, they decided ______________________________"
+        },
+        {
+          "id": "p5-2",
+          "chinese": "于是，我的养父母——他们当时还在等候名单上——半夜接到一个电话：“我们这里意外多了一个男婴，你们愿意收养吗？”他们说：“当然愿意。”",
+          "english": "So my parents, who were on a waiting list, got a call in the middle of the night asking, “We’ve got an unexpected baby boy. Do you want him?” They said, “Of course.”",
+          "cue": "So my parents, who were on a waiting list, got a call in the middle of the night asking, “We’ve got an unexpected baby boy. ______________________________ They said, “Of course.”"
+        },
+        {
+          "id": "p6-1",
+          "chinese": "后来，我的生母发现，我的养母没有大学毕业，养父甚至没有高中毕业。她拒绝签署最终的收养文件。",
+          "english": "My biological mother found out later that my mother had never graduated from college, and that my father had never graduated from high school. She refused to sign the final adoption papers.",
+          "cue": "My biological mother found out later that my mother had never graduated from college, and that my father had never graduated from high school. ______________________________"
+        },
+        {
+          "id": "p6-2",
+          "chinese": "几个月后，养父母承诺一定让我上大学，她才同意。这就是我人生的起点。",
+          "english": "She only relented a few months later, when my parents promised that I would go to college. This was the start in my life.",
+          "cue": "She only relented a few months later, when my parents promised that I would go to college. ______________________________"
+        },
+        {
+          "id": "p7-1",
+          "chinese": "十七年后，我确实上了大学。但我天真地选了一所学费几乎和斯坦福一样高的大学。我的工人阶层父母把所有积蓄都花在了我的学费上。",
+          "english": "And 17 years later I did go to college. But I naively chose a college that was almost as expensive as Stanford. And all of my working class parents’ savings were being spent on my college tuition.",
+          "cue": "And 17 years later I did go to college. ______________________________ And all of my working class parents’ savings were being spent on my college tuition."
+        },
+        {
+          "id": "p8-1",
+          "chinese": "六个月后，我看不到这样做的价值。我不知道自己这一生想做什么，也不知道大学能怎样帮我找到答案。",
+          "english": "After six months, I couldn’t see the value in it. I had no idea what I wanted to do with my life, and no idea how college was going to help me figure it out.",
+          "cue": "After six months, I couldn’t see the value in it. ______________________________"
+        },
+        {
+          "id": "p8-2",
+          "chinese": "而我却在花掉父母一辈子攒下的钱。",
+          "english": "And here I was, spending all of the money my parents had saved their entire life.",
+          "cue": "And here I was, spending all of ______________________________"
+        },
+        {
+          "id": "p9-1",
+          "chinese": "于是，我决定退学，相信事情最终会有好的结果。当时确实很害怕，但回头看，这是我做过的最好的决定之一。",
+          "english": "So I decided to drop out and trust that it would all work out OK. It was pretty scary at the time, but looking back it was one of the best decisions I ever made.",
+          "cue": "So I decided to drop out and trust that it would all work out OK. ______________________________"
+        },
+        {
+          "id": "p10-1",
+          "chinese": "退学之后，我就不用再上那些不感兴趣的必修课，开始旁听那些看上去有趣得多的课程。",
+          "english": "The minute I dropped out, I could stop taking the required classes that didn’t interest me, and begin dropping in on the ones that looked far more interesting.",
+          "cue": "The minute I dropped out, I could stop taking the ______________________________"
+        },
+        {
+          "id": "p11-1",
+          "chinese": "但这并不全是浪漫的经历。我没有宿舍，只能睡在朋友房间的地板上。我退还可乐瓶，用每瓶五美分的押金买食物。",
+          "english": "It wasn’t all romantic. I didn’t have a dorm room, so I slept on the floor in friends’ rooms. I returned Coke bottles for the five-cent deposits to buy food with.",
+          "cue": "It wasn’t all romantic. ______________________________ I returned Coke bottles for the five-cent deposits to buy food with."
+        },
+        {
+          "id": "p11-2",
+          "chinese": "每周日晚上，我要穿过城市走七英里，去克利须那神庙吃上一周里唯一的一顿好饭。我很喜欢那顿饭。",
+          "english": "And I would walk the seven miles across town every Sunday night to get one good meal a week at the Hare Krishna temple. I loved it.",
+          "cue": "And I would walk the seven miles across town every Sunday night to get one good meal a week at the Hare Krishna temple. ______________________________"
+        }
+      ]
+    }
+  ]
+}

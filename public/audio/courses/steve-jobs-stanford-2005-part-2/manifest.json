@@ -1,0 +1,131 @@
+{
+  "audio_file": "english.mp3",
+  "duration": 169.2,
+  "source": {
+    "kind": "original-recording",
+    "page": "https://9696.me/commencement-address-delivered-by-steve-jobs-2005/",
+    "sha256": "e3e3a7f29814db9976c1b7d80f57d86b2ed3634153d02cd9d72cb7bbbf24f5c0",
+    "start": 176.4,
+    "end": 345.6
+  },
+  "alignment": {
+    "method": "whisper-tiny.en-word-anchors",
+    "referenceWordCoverage": 0.9823087129588678,
+    "humanReviewed": false,
+    "segmentationVersion": 2
+  },
+  "segments": [
+    {
+      "index": 1,
+      "text": "And much of what I stumbled into, by following my curiosity and intuition, turned out to be priceless later on. Let me give you one example.",
+      "start": 0,
+      "end": 9.269999999999982,
+      "duration": 9.269999999999982
+    },
+    {
+      "index": 2,
+      "text": "Reed College at that time offered perhaps the best calligraphy instruction in the country. Throughout the campus, every poster, every label on every drawer, was beautifully hand-calligraphed.",
+      "start": 9.269999999999982,
+      "end": 21.75999999999999,
+      "duration": 12.490000000000009
+    },
+    {
+      "index": 3,
+      "text": "Because I had dropped out, and didn’t have to take the normal classes, I decided to take a calligraphy class to learn how to do this.",
+      "start": 21.75999999999999,
+      "end": 30.120000000000005,
+      "duration": 8.360000000000014
+    },
+    {
+      "index": 4,
+      "text": "I learned about serif and sans-serif typefaces, about varying the amount of space between different letter combinations, about what makes great typography great.",
+      "start": 30.120000000000005,
+      "end": 39.72,
+      "duration": 9.599999999999994
+    },
+    {
+      "index": 5,
+      "text": "It was beautiful, historical, artistically subtle, in a way that science can’t capture. And I found it fascinating.",
+      "start": 39.72,
+      "end": 48.94999999999999,
+      "duration": 9.22999999999999
+    },
+    {
+      "index": 6,
+      "text": "None of this had even a hope of any practical application in my life. But ten years later, when we were designing the first Macintosh computer, it all came back to me. And we designed it all into the Mac.",
+      "start": 48.94999999999999,
+      "end": 62.84,
+      "duration": 13.890000000000015
+    },
+    {
+      "index": 7,
+      "text": "It was the first computer with beautiful typography. If I had never dropped in on that single course in college, the Mac would have never had multiple typefaces or proportionally spaced fonts.",
+      "start": 62.84,
+      "end": 74.16,
+      "duration": 11.319999999999993
+    },
+    {
+      "index": 8,
+      "text": "And since Windows just copied the Mac, it’s likely that no personal computer would have them.",
+      "start": 74.16,
+      "end": 80.98999999999998,
+      "duration": 6.829999999999984
+    },
+    {
+      "index": 9,
+      "text": "If I had never dropped out, I would have never dropped in on that calligraphy class, and personal computers might not have the wonderful typography that they do.",
+      "start": 80.98999999999998,
+      "end": 95.43999999999997,
+      "duration": 14.449999999999989
+    },
+    {
+      "index": 10,
+      "text": "Of course, it was impossible to connect the dots looking forward when I was in college. But it was very, very clear looking backwards, ten years later.",
+      "start": 95.43999999999997,
+      "end": 104.08000000000001,
+      "duration": 8.640000000000043
+    },
+    {
+      "index": 11,
+      "text": "Again, you can’t connect the dots looking forward. You can only connect them looking backwards, so you have to trust that the dots will somehow connect in your future.",
+      "start": 104.08000000000001,
+      "end": 113.35999999999999,
+      "duration": 9.279999999999973
+    },
+    {
+      "index": 12,
+      "text": "You have to trust in something: your gut, destiny, life, karma, whatever.",
+      "start": 113.35999999999999,
+      "end": 118.53999999999999,
+      "duration": 5.180000000000007
+    },
+    {
+      "index": 13,
+      "text": "Because believing that the dots will connect down the road will give you the confidence to follow your heart, even when it leads you off the well-worn path. And that will make all the difference.",
+      "start": 118.53999999999999,
+      "end": 132.11999999999998,
+      "duration": 13.579999999999984
+    },
+    {
+      "index": 14,
+      "text": "My second story is about love and loss. I was lucky. I found what I loved to do early in life. Woz and I started Apple in my parents’ garage when I was 20.",
+      "start": 132.11999999999998,
+      "end": 148.53,
+      "duration": 16.410000000000025
+    },
+    {
+      "index": 15,
+      "text": "We worked hard, and in ten years Apple had grown from just the two of us in a garage into a $2 billion company with over 4,000 employees.",
+      "start": 148.53,
+      "end": 156.64000000000001,
+      "duration": 8.110000000000014
+    },
+    {
+      "index": 16,
+      "text": "We just released our finest creation—the Macintosh—a year earlier, and I’d just turned 30. And then I got fired. How can you get fired from a company you started?",
+      "start": 156.64000000000001,
+      "end": 169.2,
+      "duration": 12.559999999999974
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "schemaVersion": 1,
+  "slug": "steve-jobs-stanford-2005-part-2",
+  "series": "乔布斯 · 斯坦福毕业演讲",
+  "title": "斯坦福毕业演讲 2/5 · 好奇心与人生连线",
+  "orderIndex": 26,
+  "sections": [
+    {
+      "id": "chinese",
+      "heading": "中文理解",
+      "paragraphs": [
+        {
+          "id": "p12-1",
+          "chinese": "很多我凭着好奇心和直觉偶然接触到的东西，后来都变得无比珍贵。让我举个例子。",
+          "english": "And much of what I stumbled into, by following my curiosity and intuition, turned out to be priceless later on. Let me give you one example.",
+          "cue": "And much of what I stumbled into, by following my curiosity and intuition, turned out to be priceless later on. ______________________________"
+        },
+        {
+          "id": "p13-1",
+          "chinese": "当时，里德学院的书法教学也许是全国最好的。校园里的每一张海报、每个抽屉上的标签，都是用漂亮的手写书法写成的。",
+          "english": "Reed College at that time offered perhaps the best calligraphy instruction in the country. Throughout the campus, every poster, every label on every drawer, was beautifully hand-calligraphed.",
+          "cue": "Reed College at that time offered perhaps the best calligraphy instruction in the country. ______________________________"
+        },
+        {
+          "id": "p13-2",
+          "chinese": "因为我退学了，不必上正常的课程，我就决定去上书法课。",
+          "english": "Because I had dropped out, and didn’t have to take the normal classes, I decided to take a calligraphy class to learn how to do this.",
+          "cue": "Because I had dropped out, and didn’t have to take ______________________________"
+        },
+        {
+          "id": "p13-3",
+          "chinese": "我学习了衬线体和无衬线体、如何调整不同字母组合之间的间距，以及优秀的字体排版为什么优秀。",
+          "english": "I learned about serif and sans-serif typefaces, about varying the amount of space between different letter combinations, about what makes great typography great.",
+          "cue": "I learned about serif and sans-serif typefaces, about varying the ______________________________"
+        },
+        {
+          "id": "p14-1",
+          "chinese": "那是一种优美、富有历史感、艺术上细腻微妙的东西，科学无法完全捕捉。我为之着迷。",
+          "english": "It was beautiful, historical, artistically subtle, in a way that science can’t capture. And I found it fascinating.",
+          "cue": "It was beautiful, historical, artistically subtle, in a way that science can’t capture. ______________________________"
+        },
+        {
+          "id": "p15-1",
+          "chinese": "这些知识当时似乎不可能在我的生活中派上用场。但十年后，我们设计第一台麦金塔电脑时，它们全都回到了我的脑海。我们把它们都融入了 Mac。",
+          "english": "None of this had even a hope of any practical application in my life. But ten years later, when we were designing the first Macintosh computer, it all came back to me. And we designed it all into the Mac.",
+          "cue": "None of this had even a hope of any practical application in my life. ______________________________ And we designed it all into the Mac."
+        },
+        {
+          "id": "p15-2",
+          "chinese": "它成了第一台拥有漂亮字体排版的电脑。如果我没有旁听过那一门课，Mac 就不会有多种字体和按比例分配的字距。",
+          "english": "It was the first computer with beautiful typography. If I had never dropped in on that single course in college, the Mac would have never had multiple typefaces or proportionally spaced fonts.",
+          "cue": "It was the first computer with beautiful typography. ______________________________"
+        },
+        {
+          "id": "p15-3",
+          "chinese": "既然 Windows 只是照搬了 Mac，很可能所有个人电脑都不会有这些。",
+          "english": "And since Windows just copied the Mac, it’s likely that no personal computer would have them.",
+          "cue": "And since Windows just copied the Mac, ______________________________"
+        },
+        {
+          "id": "p16-1",
+          "chinese": "如果我没有退学，就不会去旁听那门书法课，个人电脑也可能不会有今天这样漂亮的字体排版。",
+          "english": "If I had never dropped out, I would have never dropped in on that calligraphy class, and personal computers might not have the wonderful typography that they do.",
+          "cue": "If I had never dropped out, I would have never ______________________________"
+        },
+        {
+          "id": "p16-2",
+          "chinese": "当然，在大学时向前看，我无法把这些点连起来。但十年后回头看，一切都无比清楚。",
+          "english": "Of course, it was impossible to connect the dots looking forward when I was in college. But it was very, very clear looking backwards, ten years later.",
+          "cue": "Of course, it was impossible to connect the dots looking forward when I was in college. ______________________________"
+        },
+        {
+          "id": "p16-3",
+          "chinese": "你无法向前预见这些点会怎样相连，只能回头看。所以，你必须相信，这些点会在未来以某种方式连接起来。",
+          "english": "Again, you can’t connect the dots looking forward. You can only connect them looking backwards, so you have to trust that the dots will somehow connect in your future.",
+          "cue": "Again, you can’t connect the dots looking forward. ______________________________"
+        },
+        {
+          "id": "p17-1",
+          "chinese": "你必须相信些什么：直觉、命运、人生、因果，什么都好。",
+          "english": "You have to trust in something: your gut, destiny, life, karma, whatever.",
+          "cue": "You have to trust in ______________________________"
+        },
+        {
+          "id": "p17-2",
+          "chinese": "因为相信这些点终会相连，会让你有信心追随内心，即使它让你离开大家走惯了的路。这会带来决定性的不同。",
+          "english": "Because believing that the dots will connect down the road will give you the confidence to follow your heart, even when it leads you off the well-worn path. And that will make all the difference.",
+          "cue": "Because believing that the dots will connect down the road will give you the confidence to follow your heart, even when it leads you off the well-worn path. ______________________________"
+        },
+        {
+          "id": "p18-1",
+          "chinese": "第二个故事，是关于爱与失去。我很幸运，很早就找到了自己热爱的事情。二十岁时，我和沃兹在父母的车库里创办了苹果。",
+          "english": "My second story is about love and loss. I was lucky. I found what I loved to do early in life. Woz and I started Apple in my parents’ garage when I was 20.",
+          "cue": "My second story is about love and loss. ______________________________ I found what I loved to do early in life. ______________________________"
+        },
+        {
+          "id": "p18-2",
+          "chinese": "我们努力工作，十年间，苹果从车库里的两个人，成长为一家价值二十亿美元、拥有四千多名员工的公司。",
+          "english": "We worked hard, and in ten years Apple had grown from just the two of us in a garage into a $2 billion company with over 4,000 employees.",
+          "cue": "We worked hard, and in ten years Apple had grown ______________________________"
+        },
+        {
+          "id": "p19-1",
+          "chinese": "就在一年前，我们刚推出自己最出色的作品——麦金塔电脑；我也刚满三十岁。然后，我被解雇了。一个人怎么会被自己创办的公司解雇呢？",
+          "english": "We just released our finest creation—the Macintosh—a year earlier, and I’d just turned 30. And then I got fired. How can you get fired from a company you started?",
+          "cue": "We just released our finest creation—the Macintosh—a year earlier, and I’d just turned 30. ______________________________ How can you get fired from a company you started?"
+        }
+      ]
+    },
+    {
+      "id": "english",
+      "heading": "演讲原文",
+      "paragraphs": [
+        {
+          "id": "p12-1",
+          "chinese": "很多我凭着好奇心和直觉偶然接触到的东西，后来都变得无比珍贵。让我举个例子。",
+          "english": "And much of what I stumbled into, by following my curiosity and intuition, turned out to be priceless later on. Let me give you one example.",
+          "cue": "And much of what I stumbled into, by following my curiosity and intuition, turned out to be priceless later on. ______________________________"
+        },
+        {
+          "id": "p13-1",
+          "chinese": "当时，里德学院的书法教学也许是全国最好的。校园里的每一张海报、每个抽屉上的标签，都是用漂亮的手写书法写成的。",
+          "english": "Reed College at that time offered perhaps the best calligraphy instruction in the country. Throughout the campus, every poster, every label on every drawer, was beautifully hand-calligraphed.",
+          "cue": "Reed College at that time offered perhaps the best calligraphy instruction in the country. ______________________________"
+        },
+        {
+          "id": "p13-2",
+          "chinese": "因为我退学了，不必上正常的课程，我就决定去上书法课。",
+          "english": "Because I had dropped out, and didn’t have to take the normal classes, I decided to take a calligraphy class to learn how to do this.",
+          "cue": "Because I had dropped out, and didn’t have to take ______________________________"
+        },
+        {
+          "id": "p13-3",
+          "chinese": "我学习了衬线体和无衬线体、如何调整不同字母组合之间的间距，以及优秀的字体排版为什么优秀。",
+          "english": "I learned about serif and sans-serif typefaces, about varying the amount of space between different letter combinations, about what makes great typography great.",
+          "cue": "I learned about serif and sans-serif typefaces, about varying the ______________________________"
+        },
+        {
+          "id": "p14-1",
+          "chinese": "那是一种优美、富有历史感、艺术上细腻微妙的东西，科学无法完全捕捉。我为之着迷。",
+          "english": "It was beautiful, historical, artistically subtle, in a way that science can’t capture. And I found it fascinating.",
+          "cue": "It was beautiful, historical, artistically subtle, in a way that science can’t capture. ______________________________"
+        },
+        {
+          "id": "p15-1",
+          "chinese": "这些知识当时似乎不可能在我的生活中派上用场。但十年后，我们设计第一台麦金塔电脑时，它们全都回到了我的脑海。我们把它们都融入了 Mac。",
+          "english": "None of this had even a hope of any practical application in my life. But ten years later, when we were designing the first Macintosh computer, it all came back to me. And we designed it all into the Mac.",
+          "cue": "None of this had even a hope of any practical application in my life. ______________________________ And we designed it all into the Mac."
+        },
+        {
+          "id": "p15-2",
+          "chinese": "它成了第一台拥有漂亮字体排版的电脑。如果我没有旁听过那一门课，Mac 就不会有多种字体和按比例分配的字距。",
+          "english": "It was the first computer with beautiful typography. If I had never dropped in on that single course in college, the Mac would have never had multiple typefaces or proportionally spaced fonts.",
+          "cue": "It was the first computer with beautiful typography. ______________________________"
+        },
+        {
+          "id": "p15-3",
+          "chinese": "既然 Windows 只是照搬了 Mac，很可能所有个人电脑都不会有这些。",
+          "english": "And since Windows just copied the Mac, it’s likely that no personal computer would have them.",
+          "cue": "And since Windows just copied the Mac, ______________________________"
+        },
+        {
+          "id": "p16-1",
+          "chinese": "如果我没有退学，就不会去旁听那门书法课，个人电脑也可能不会有今天这样漂亮的字体排版。",
+          "english": "If I had never dropped out, I would have never dropped in on that calligraphy class, and personal computers might not have the wonderful typography that they do.",
+          "cue": "If I had never dropped out, I would have never ______________________________"
+        },
+        {
+          "id": "p16-2",
+          "chinese": "当然，在大学时向前看，我无法把这些点连起来。但十年后回头看，一切都无比清楚。",
+          "english": "Of course, it was impossible to connect the dots looking forward when I was in college. But it was very, very clear looking backwards, ten years later.",
+          "cue": "Of course, it was impossible to connect the dots looking forward when I was in college. ______________________________"
+        },
+        {
+          "id": "p16-3",
+          "chinese": "你无法向前预见这些点会怎样相连，只能回头看。所以，你必须相信，这些点会在未来以某种方式连接起来。",
+          "english": "Again, you can’t connect the dots looking forward. You can only connect them looking backwards, so you have to trust that the dots will somehow connect in your future.",
+          "cue": "Again, you can’t connect the dots looking forward. ______________________________"
+        },
+        {
+          "id": "p17-1",
+          "chinese": "你必须相信些什么：直觉、命运、人生、因果，什么都好。",
+          "english": "You have to trust in something: your gut, destiny, life, karma, whatever.",
+          "cue": "You have to trust in ______________________________"
+        },
+        {
+          "id": "p17-2",
+          "chinese": "因为相信这些点终会相连，会让你有信心追随内心，即使它让你离开大家走惯了的路。这会带来决定性的不同。",
+          "english": "Because believing that the dots will connect down the road will give you the confidence to follow your heart, even when it leads you off the well-worn path. And that will make all the difference.",
+          "cue": "Because believing that the dots will connect down the road will give you the confidence to follow your heart, even when it leads you off the well-worn path. ______________________________"
+        },
+        {
+          "id": "p18-1",
+          "chinese": "第二个故事，是关于爱与失去。我很幸运，很早就找到了自己热爱的事情。二十岁时，我和沃兹在父母的车库里创办了苹果。",
+          "english": "My second story is about love and loss. I was lucky. I found what I loved to do early in life. Woz and I started Apple in my parents’ garage when I was 20.",
+          "cue": "My second story is about love and loss. ______________________________ I found what I loved to do early in life. ______________________________"
+        },
+        {
+          "id": "p18-2",
+          "chinese": "我们努力工作，十年间，苹果从车库里的两个人，成长为一家价值二十亿美元、拥有四千多名员工的公司。",
+          "english": "We worked hard, and in ten years Apple had grown from just the two of us in a garage into a $2 billion company with over 4,000 employees.",
+          "cue": "We worked hard, and in ten years Apple had grown ______________________________"
+        },
+        {
+          "id": "p19-1",
+          "chinese": "就在一年前，我们刚推出自己最出色的作品——麦金塔电脑；我也刚满三十岁。然后，我被解雇了。一个人怎么会被自己创办的公司解雇呢？",
+          "english": "We just released our finest creation—the Macintosh—a year earlier, and I’d just turned 30. And then I got fired. How can you get fired from a company you started?",
+          "cue": "We just released our finest creation—the Macintosh—a year earlier, and I’d just turned 30. ______________________________ How can you get fired from a company you started?"
+        }
+      ]
+    },
+    {
+      "id": "cue",
+      "heading": "Cue Version",
+      "paragraphs": [
+        {
+          "id": "p12-1",
+          "chinese": "很多我凭着好奇心和直觉偶然接触到的东西，后来都变得无比珍贵。让我举个例子。",
+          "english": "And much of what I stumbled into, by following my curiosity and intuition, turned out to be priceless later on. Let me give you one example.",
+          "cue": "And much of what I stumbled into, by following my curiosity and intuition, turned out to be priceless later on. ______________________________"
+        },
+        {
+          "id": "p13-1",
+          "chinese": "当时，里德学院的书法教学也许是全国最好的。校园里的每一张海报、每个抽屉上的标签，都是用漂亮的手写书法写成的。",
+          "english": "Reed College at that time offered perhaps the best calligraphy instruction in the country. Throughout the campus, every poster, every label on every drawer, was beautifully hand-calligraphed.",
+          "cue": "Reed College at that time offered perhaps the best calligraphy instruction in the country. ______________________________"
+        },
+        {
+          "id": "p13-2",
+          "chinese": "因为我退学了，不必上正常的课程，我就决定去上书法课。",
+          "english": "Because I had dropped out, and didn’t have to take the normal classes, I decided to take a calligraphy class to learn how to do this.",
+          "cue": "Because I had dropped out, and didn’t have to take ______________________________"
+        },
+        {
+          "id": "p13-3",
+          "chinese": "我学习了衬线体和无衬线体、如何调整不同字母组合之间的间距，以及优秀的字体排版为什么优秀。",
+          "english": "I learned about serif and sans-serif typefaces, about varying the amount of space between different letter combinations, about what makes great typography great.",
+          "cue": "I learned about serif and sans-serif typefaces, about varying the ______________________________"
+        },
+        {
+          "id": "p14-1",
+          "chinese": "那是一种优美、富有历史感、艺术上细腻微妙的东西，科学无法完全捕捉。我为之着迷。",
+          "english": "It was beautiful, historical, artistically subtle, in a way that science can’t capture. And I found it fascinating.",
+          "cue": "It was beautiful, historical, artistically subtle, in a way that science can’t capture. ______________________________"
+        },
+        {
+          "id": "p15-1",
+          "chinese": "这些知识当时似乎不可能在我的生活中派上用场。但十年后，我们设计第一台麦金塔电脑时，它们全都回到了我的脑海。我们把它们都融入了 Mac。",
+          "english": "None of this had even a hope of any practical application in my life. But ten years later, when we were designing the first Macintosh computer, it all came back to me. And we designed it all into the Mac.",
+          "cue": "None of this had even a hope of any practical application in my life. ______________________________ And we designed it all into the Mac."
+        },
+        {
+          "id": "p15-2",
+          "chinese": "它成了第一台拥有漂亮字体排版的电脑。如果我没有旁听过那一门课，Mac 就不会有多种字体和按比例分配的字距。",
+          "english": "It was the first computer with beautiful typography. If I had never dropped in on that single course in college, the Mac would have never had multiple typefaces or proportionally spaced fonts.",
+          "cue": "It was the first computer with beautiful typography. ______________________________"
+        },
+        {
+          "id": "p15-3",
+          "chinese": "既然 Windows 只是照搬了 Mac，很可能所有个人电脑都不会有这些。",
+          "english": "And since Windows just copied the Mac, it’s likely that no personal computer would have them.",
+          "cue": "And since Windows just copied the Mac, ______________________________"
+        },
+        {
+          "id": "p16-1",
+          "chinese": "如果我没有退学，就不会去旁听那门书法课，个人电脑也可能不会有今天这样漂亮的字体排版。",
+          "english": "If I had never dropped out, I would have never dropped in on that calligraphy class, and personal computers might not have the wonderful typography that they do.",
+          "cue": "If I had never dropped out, I would have never ______________________________"
+        },
+        {
+          "id": "p16-2",
+          "chinese": "当然，在大学时向前看，我无法把这些点连起来。但十年后回头看，一切都无比清楚。",
+          "english": "Of course, it was impossible to connect the dots looking forward when I was in college. But it was very, very clear looking backwards, ten years later.",
+          "cue": "Of course, it was impossible to connect the dots looking forward when I was in college. ______________________________"
+        },
+        {
+          "id": "p16-3",
+          "chinese": "你无法向前预见这些点会怎样相连，只能回头看。所以，你必须相信，这些点会在未来以某种方式连接起来。",
+          "english": "Again, you can’t connect the dots looking forward. You can only connect them looking backwards, so you have to trust that the dots will somehow connect in your future.",
+          "cue": "Again, you can’t connect the dots looking forward. ______________________________"
+        },
+        {
+          "id": "p17-1",
+          "chinese": "你必须相信些什么：直觉、命运、人生、因果，什么都好。",
+          "english": "You have to trust in something: your gut, destiny, life, karma, whatever.",
+          "cue": "You have to trust in ______________________________"
+        },
+        {
+          "id": "p17-2",
+          "chinese": "因为相信这些点终会相连，会让你有信心追随内心，即使它让你离开大家走惯了的路。这会带来决定性的不同。",
+          "english": "Because believing that the dots will connect down the road will give you the confidence to follow your heart, even when it leads you off the well-worn path. And that will make all the difference.",
+          "cue": "Because believing that the dots will connect down the road will give you the confidence to follow your heart, even when it leads you off the well-worn path. ______________________________"
+        },
+        {
+          "id": "p18-1",
+          "chinese": "第二个故事，是关于爱与失去。我很幸运，很早就找到了自己热爱的事情。二十岁时，我和沃兹在父母的车库里创办了苹果。",
+          "english": "My second story is about love and loss. I was lucky. I found what I loved to do early in life. Woz and I started Apple in my parents’ garage when I was 20.",
+          "cue": "My second story is about love and loss. ______________________________ I found what I loved to do early in life. ______________________________"
+        },
+        {
+          "id": "p18-2",
+          "chinese": "我们努力工作，十年间，苹果从车库里的两个人，成长为一家价值二十亿美元、拥有四千多名员工的公司。",
+          "english": "We worked hard, and in ten years Apple had grown from just the two of us in a garage into a $2 billion company with over 4,000 employees.",
+          "cue": "We worked hard, and in ten years Apple had grown ______________________________"
+        },
+        {
+          "id": "p19-1",
+          "chinese": "就在一年前，我们刚推出自己最出色的作品——麦金塔电脑；我也刚满三十岁。然后，我被解雇了。一个人怎么会被自己创办的公司解雇呢？",
+          "english": "We just released our finest creation—the Macintosh—a year earlier, and I’d just turned 30. And then I got fired. How can you get fired from a company you started?",
+          "cue": "We just released our finest creation—the Macintosh—a year earlier, and I’d just turned 30. ______________________________ How can you get fired from a company you started?"
+        }
+      ]
+    }
+  ]
+}

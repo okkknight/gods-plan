@@ -1,0 +1,351 @@
+{
+  "schemaVersion": 1,
+  "slug": "steve-jobs-stanford-2005-part-4",
+  "series": "乔布斯 · 斯坦福毕业演讲",
+  "title": "斯坦福毕业演讲 4/5 · 面对死亡",
+  "orderIndex": 28,
+  "sections": [
+    {
+      "id": "chinese",
+      "heading": "中文理解",
+      "paragraphs": [
+        {
+          "id": "p31-1",
+          "chinese": "如果你还没有找到，就继续寻找，别将就。就像所有与内心有关的事情一样，找到时你会知道。",
+          "english": "If you haven’t found it yet, keep looking—and don’t settle. As with all matters of the heart, you’ll know when you find it.",
+          "cue": "If you haven’t found it yet, keep looking—and don’t settle. ______________________________"
+        },
+        {
+          "id": "p31-2",
+          "chinese": "就像一段美好的关系，它只会随着岁月越来越好。所以，继续寻找，别将就。",
+          "english": "And like any great relationship, it just gets better and better as the years roll on. So keep looking. Don’t settle.",
+          "cue": "And like any great relationship, it just gets better and better as the years roll on. ______________________________ Don’t settle."
+        },
+        {
+          "id": "p32-1",
+          "chinese": "第三个故事，是关于死亡。十七岁时，我读到一句大意如此的话：“如果你把每一天都当作生命的最后一天来过，总有一天你会发现自己是对的。”",
+          "english": "My third story is about death. When I was 17, I read a quote that went something like, “If you live each day as if it was your last, someday you’ll most certainly be right.”",
+          "cue": "My third story is about death. ______________________________"
+        },
+        {
+          "id": "p33-1",
+          "chinese": "这句话给我留下了很深的印象。",
+          "english": "It made an impression on me.",
+          "cue": "It made ______________________________"
+        },
+        {
+          "id": "p33-2",
+          "chinese": "此后三十三年里，每天早上我都对着镜子问自己：“如果今天是生命的最后一天，我还愿意做今天将要做的事吗？”",
+          "english": "And since then, for the past 33 years, I have looked in the mirror every morning and asked myself, “If today were the last day of my life, would I wanna do what I am about to do today?”",
+          "cue": "And since then, for the past 33 years, I have ______________________________"
+        },
+        {
+          "id": "p33-3",
+          "chinese": "如果连续太多天答案都是“不”，我就知道自己需要改变了。",
+          "english": "And whenever the answer has been no for too many days in a row, I know I need to change something.",
+          "cue": "And whenever the answer has been no for too ______________________________"
+        },
+        {
+          "id": "p34-1",
+          "chinese": "提醒自己很快就会死，是我做人生重大选择时找到的最重要工具。",
+          "english": "Remembering that I’ll be dead soon is the most important tool I’ve ever encountered to help me make the big choices in life.",
+          "cue": "Remembering that I’ll be dead soon is the most important ______________________________"
+        },
+        {
+          "id": "p34-2",
+          "chinese": "因为几乎所有东西——外界的期待、骄傲、对出丑或失败的恐惧——在死亡面前都会消失，只剩下真正重要的东西。",
+          "english": "Because almost everything, all external expectations, all pride, all fear of embarrassment or failure—these things just fall away in the face of death, leaving only what is truly important.",
+          "cue": "Because almost everything, all external expectations, all pride, all fear ______________________________"
+        },
+        {
+          "id": "p34-3",
+          "chinese": "记住自己终将死去，是避免陷入“我还有东西可失去”这种思维陷阱的最好方式。你本就一无所有，没有理由不追随自己的内心。",
+          "english": "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.",
+          "cue": "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. ______________________________ There is no reason not to follow your heart."
+        },
+        {
+          "id": "p35-1",
+          "chinese": "大约一年前，我被诊断出癌症。早上七点半，我做了扫描，片子清楚地显示胰腺上有个肿瘤。我当时甚至不知道胰腺是什么。",
+          "english": "About a year ago, I was diagnosed with cancer. I had a scan at 7:30 in the morning, and it clearly showed a tumor on my pancreas. I didn’t even know what a pancreas was.",
+          "cue": "About a year ago, I was diagnosed with cancer. ______________________________ I didn’t even know what a pancreas was."
+        },
+        {
+          "id": "p36-1",
+          "chinese": "医生告诉我，这几乎肯定是一种无法治愈的癌症，我应该预期自己只剩三到六个月。",
+          "english": "The doctors told me this was almost certainly a type of cancer that is incurable, and that I should expect to live no longer than three to six months.",
+          "cue": "The doctors told me this was almost certainly a type ______________________________"
+        },
+        {
+          "id": "p36-2",
+          "chinese": "医生建议我回家安排好一切，用医生的话说，就是“准备面对死亡”。",
+          "english": "My doctor advised me to go home and get my affairs in order, which is doctors’ code for “Prepare to die.”",
+          "cue": "My doctor advised me to go home and get ______________________________"
+        },
+        {
+          "id": "p37-1",
+          "chinese": "这意味着，你要争取在几个月里，把原本以为还有十年时间告诉孩子的话都告诉他们。",
+          "english": "It means to try and tell your kids everything you thought you’d have the next ten years to tell them in just a few months.",
+          "cue": "It means to try and tell your kids everything you ______________________________"
+        },
+        {
+          "id": "p37-2",
+          "chinese": "要确保所有事情都安排妥当，让家人尽可能轻松一些；也意味着，你要说再见。",
+          "english": "It means to make sure everything is buttoned up so that it will be as easy as possible for your family. It means to say your goodbyes.",
+          "cue": "It means to make sure everything is buttoned up so that it will be as easy as possible for your family. ______________________________"
+        },
+        {
+          "id": "p38-1",
+          "chinese": "那一整天，我都带着这个诊断结果生活。",
+          "english": "I lived with that diagnosis all day.",
+          "cue": "I lived with ______________________________"
+        },
+        {
+          "id": "p38-2",
+          "chinese": "当晚，我做了活检。他们把内窥镜从喉咙送进胃和肠道，再把针扎进胰腺，从肿瘤中取出几个细胞。",
+          "english": "Later that evening I had a biopsy, where they stuck an endoscope down my throat, through my stomach, and into my intestines, put a needle into my pancreas, and got a few cells from the tumor.",
+          "cue": "Later that evening I had a biopsy, where they stuck ______________________________"
+        },
+        {
+          "id": "p39-1",
+          "chinese": "当时我被麻醉了，但在场的妻子告诉我，医生在显微镜下看到那些细胞时哭了，因为那是一种极罕见、却能通过手术治愈的胰腺癌。",
+          "english": "I was sedated, but my wife, who was there, told me that when they viewed the cells under a microscope, the doctors started crying because it turned out to be a very rare form of pancreatic cancer that is curable with surgery.",
+          "cue": "I was sedated, but my wife, who was there, told ______________________________"
+        },
+        {
+          "id": "p39-2",
+          "chinese": "我做了手术，值得庆幸的是，现在已经好了。",
+          "english": "I had the surgery, and thankfully I’m fine now.",
+          "cue": "I had the surgery, ______________________________"
+        }
+      ]
+    },
+    {
+      "id": "english",
+      "heading": "演讲原文",
+      "paragraphs": [
+        {
+          "id": "p31-1",
+          "chinese": "如果你还没有找到，就继续寻找，别将就。就像所有与内心有关的事情一样，找到时你会知道。",
+          "english": "If you haven’t found it yet, keep looking—and don’t settle. As with all matters of the heart, you’ll know when you find it.",
+          "cue": "If you haven’t found it yet, keep looking—and don’t settle. ______________________________"
+        },
+        {
+          "id": "p31-2",
+          "chinese": "就像一段美好的关系，它只会随着岁月越来越好。所以，继续寻找，别将就。",
+          "english": "And like any great relationship, it just gets better and better as the years roll on. So keep looking. Don’t settle.",
+          "cue": "And like any great relationship, it just gets better and better as the years roll on. ______________________________ Don’t settle."
+        },
+        {
+          "id": "p32-1",
+          "chinese": "第三个故事，是关于死亡。十七岁时，我读到一句大意如此的话：“如果你把每一天都当作生命的最后一天来过，总有一天你会发现自己是对的。”",
+          "english": "My third story is about death. When I was 17, I read a quote that went something like, “If you live each day as if it was your last, someday you’ll most certainly be right.”",
+          "cue": "My third story is about death. ______________________________"
+        },
+        {
+          "id": "p33-1",
+          "chinese": "这句话给我留下了很深的印象。",
+          "english": "It made an impression on me.",
+          "cue": "It made ______________________________"
+        },
+        {
+          "id": "p33-2",
+          "chinese": "此后三十三年里，每天早上我都对着镜子问自己：“如果今天是生命的最后一天，我还愿意做今天将要做的事吗？”",
+          "english": "And since then, for the past 33 years, I have looked in the mirror every morning and asked myself, “If today were the last day of my life, would I wanna do what I am about to do today?”",
+          "cue": "And since then, for the past 33 years, I have ______________________________"
+        },
+        {
+          "id": "p33-3",
+          "chinese": "如果连续太多天答案都是“不”，我就知道自己需要改变了。",
+          "english": "And whenever the answer has been no for too many days in a row, I know I need to change something.",
+          "cue": "And whenever the answer has been no for too ______________________________"
+        },
+        {
+          "id": "p34-1",
+          "chinese": "提醒自己很快就会死，是我做人生重大选择时找到的最重要工具。",
+          "english": "Remembering that I’ll be dead soon is the most important tool I’ve ever encountered to help me make the big choices in life.",
+          "cue": "Remembering that I’ll be dead soon is the most important ______________________________"
+        },
+        {
+          "id": "p34-2",
+          "chinese": "因为几乎所有东西——外界的期待、骄傲、对出丑或失败的恐惧——在死亡面前都会消失，只剩下真正重要的东西。",
+          "english": "Because almost everything, all external expectations, all pride, all fear of embarrassment or failure—these things just fall away in the face of death, leaving only what is truly important.",
+          "cue": "Because almost everything, all external expectations, all pride, all fear ______________________________"
+        },
+        {
+          "id": "p34-3",
+          "chinese": "记住自己终将死去，是避免陷入“我还有东西可失去”这种思维陷阱的最好方式。你本就一无所有，没有理由不追随自己的内心。",
+          "english": "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.",
+          "cue": "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. ______________________________ There is no reason not to follow your heart."
+        },
+        {
+          "id": "p35-1",
+          "chinese": "大约一年前，我被诊断出癌症。早上七点半，我做了扫描，片子清楚地显示胰腺上有个肿瘤。我当时甚至不知道胰腺是什么。",
+          "english": "About a year ago, I was diagnosed with cancer. I had a scan at 7:30 in the morning, and it clearly showed a tumor on my pancreas. I didn’t even know what a pancreas was.",
+          "cue": "About a year ago, I was diagnosed with cancer. ______________________________ I didn’t even know what a pancreas was."
+        },
+        {
+          "id": "p36-1",
+          "chinese": "医生告诉我，这几乎肯定是一种无法治愈的癌症，我应该预期自己只剩三到六个月。",
+          "english": "The doctors told me this was almost certainly a type of cancer that is incurable, and that I should expect to live no longer than three to six months.",
+          "cue": "The doctors told me this was almost certainly a type ______________________________"
+        },
+        {
+          "id": "p36-2",
+          "chinese": "医生建议我回家安排好一切，用医生的话说，就是“准备面对死亡”。",
+          "english": "My doctor advised me to go home and get my affairs in order, which is doctors’ code for “Prepare to die.”",
+          "cue": "My doctor advised me to go home and get ______________________________"
+        },
+        {
+          "id": "p37-1",
+          "chinese": "这意味着，你要争取在几个月里，把原本以为还有十年时间告诉孩子的话都告诉他们。",
+          "english": "It means to try and tell your kids everything you thought you’d have the next ten years to tell them in just a few months.",
+          "cue": "It means to try and tell your kids everything you ______________________________"
+        },
+        {
+          "id": "p37-2",
+          "chinese": "要确保所有事情都安排妥当，让家人尽可能轻松一些；也意味着，你要说再见。",
+          "english": "It means to make sure everything is buttoned up so that it will be as easy as possible for your family. It means to say your goodbyes.",
+          "cue": "It means to make sure everything is buttoned up so that it will be as easy as possible for your family. ______________________________"
+        },
+        {
+          "id": "p38-1",
+          "chinese": "那一整天，我都带着这个诊断结果生活。",
+          "english": "I lived with that diagnosis all day.",
+          "cue": "I lived with ______________________________"
+        },
+        {
+          "id": "p38-2",
+          "chinese": "当晚，我做了活检。他们把内窥镜从喉咙送进胃和肠道，再把针扎进胰腺，从肿瘤中取出几个细胞。",
+          "english": "Later that evening I had a biopsy, where they stuck an endoscope down my throat, through my stomach, and into my intestines, put a needle into my pancreas, and got a few cells from the tumor.",
+          "cue": "Later that evening I had a biopsy, where they stuck ______________________________"
+        },
+        {
+          "id": "p39-1",
+          "chinese": "当时我被麻醉了，但在场的妻子告诉我，医生在显微镜下看到那些细胞时哭了，因为那是一种极罕见、却能通过手术治愈的胰腺癌。",
+          "english": "I was sedated, but my wife, who was there, told me that when they viewed the cells under a microscope, the doctors started crying because it turned out to be a very rare form of pancreatic cancer that is curable with surgery.",
+          "cue": "I was sedated, but my wife, who was there, told ______________________________"
+        },
+        {
+          "id": "p39-2",
+          "chinese": "我做了手术，值得庆幸的是，现在已经好了。",
+          "english": "I had the surgery, and thankfully I’m fine now.",
+          "cue": "I had the surgery, ______________________________"
+        }
+      ]
+    },
+    {
+      "id": "cue",
+      "heading": "Cue Version",
+      "paragraphs": [
+        {
+          "id": "p31-1",
+          "chinese": "如果你还没有找到，就继续寻找，别将就。就像所有与内心有关的事情一样，找到时你会知道。",
+          "english": "If you haven’t found it yet, keep looking—and don’t settle. As with all matters of the heart, you’ll know when you find it.",
+          "cue": "If you haven’t found it yet, keep looking—and don’t settle. ______________________________"
+        },
+        {
+          "id": "p31-2",
+          "chinese": "就像一段美好的关系，它只会随着岁月越来越好。所以，继续寻找，别将就。",
+          "english": "And like any great relationship, it just gets better and better as the years roll on. So keep looking. Don’t settle.",
+          "cue": "And like any great relationship, it just gets better and better as the years roll on. ______________________________ Don’t settle."
+        },
+        {
+          "id": "p32-1",
+          "chinese": "第三个故事，是关于死亡。十七岁时，我读到一句大意如此的话：“如果你把每一天都当作生命的最后一天来过，总有一天你会发现自己是对的。”",
+          "english": "My third story is about death. When I was 17, I read a quote that went something like, “If you live each day as if it was your last, someday you’ll most certainly be right.”",
+          "cue": "My third story is about death. ______________________________"
+        },
+        {
+          "id": "p33-1",
+          "chinese": "这句话给我留下了很深的印象。",
+          "english": "It made an impression on me.",
+          "cue": "It made ______________________________"
+        },
+        {
+          "id": "p33-2",
+          "chinese": "此后三十三年里，每天早上我都对着镜子问自己：“如果今天是生命的最后一天，我还愿意做今天将要做的事吗？”",
+          "english": "And since then, for the past 33 years, I have looked in the mirror every morning and asked myself, “If today were the last day of my life, would I wanna do what I am about to do today?”",
+          "cue": "And since then, for the past 33 years, I have ______________________________"
+        },
+        {
+          "id": "p33-3",
+          "chinese": "如果连续太多天答案都是“不”，我就知道自己需要改变了。",
+          "english": "And whenever the answer has been no for too many days in a row, I know I need to change something.",
+          "cue": "And whenever the answer has been no for too ______________________________"
+        },
+        {
+          "id": "p34-1",
+          "chinese": "提醒自己很快就会死，是我做人生重大选择时找到的最重要工具。",
+          "english": "Remembering that I’ll be dead soon is the most important tool I’ve ever encountered to help me make the big choices in life.",
+          "cue": "Remembering that I’ll be dead soon is the most important ______________________________"
+        },
+        {
+          "id": "p34-2",
+          "chinese": "因为几乎所有东西——外界的期待、骄傲、对出丑或失败的恐惧——在死亡面前都会消失，只剩下真正重要的东西。",
+          "english": "Because almost everything, all external expectations, all pride, all fear of embarrassment or failure—these things just fall away in the face of death, leaving only what is truly important.",
+          "cue": "Because almost everything, all external expectations, all pride, all fear ______________________________"
+        },
+        {
+          "id": "p34-3",
+          "chinese": "记住自己终将死去，是避免陷入“我还有东西可失去”这种思维陷阱的最好方式。你本就一无所有，没有理由不追随自己的内心。",
+          "english": "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart.",
+          "cue": "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. ______________________________ There is no reason not to follow your heart."
+        },
+        {
+          "id": "p35-1",
+          "chinese": "大约一年前，我被诊断出癌症。早上七点半，我做了扫描，片子清楚地显示胰腺上有个肿瘤。我当时甚至不知道胰腺是什么。",
+          "english": "About a year ago, I was diagnosed with cancer. I had a scan at 7:30 in the morning, and it clearly showed a tumor on my pancreas. I didn’t even know what a pancreas was.",
+          "cue": "About a year ago, I was diagnosed with cancer. ______________________________ I didn’t even know what a pancreas was."
+        },
+        {
+          "id": "p36-1",
+          "chinese": "医生告诉我，这几乎肯定是一种无法治愈的癌症，我应该预期自己只剩三到六个月。",
+          "english": "The doctors told me this was almost certainly a type of cancer that is incurable, and that I should expect to live no longer than three to six months.",
+          "cue": "The doctors told me this was almost certainly a type ______________________________"
+        },
+        {
+          "id": "p36-2",
+          "chinese": "医生建议我回家安排好一切，用医生的话说，就是“准备面对死亡”。",
+          "english": "My doctor advised me to go home and get my affairs in order, which is doctors’ code for “Prepare to die.”",
+          "cue": "My doctor advised me to go home and get ______________________________"
+        },
+        {
+          "id": "p37-1",
+          "chinese": "这意味着，你要争取在几个月里，把原本以为还有十年时间告诉孩子的话都告诉他们。",
+          "english": "It means to try and tell your kids everything you thought you’d have the next ten years to tell them in just a few months.",
+          "cue": "It means to try and tell your kids everything you ______________________________"
+        },
+        {
+          "id": "p37-2",
+          "chinese": "要确保所有事情都安排妥当，让家人尽可能轻松一些；也意味着，你要说再见。",
+          "english": "It means to make sure everything is buttoned up so that it will be as easy as possible for your family. It means to say your goodbyes.",
+          "cue": "It means to make sure everything is buttoned up so that it will be as easy as possible for your family. ______________________________"
+        },
+        {
+          "id": "p38-1",
+          "chinese": "那一整天，我都带着这个诊断结果生活。",
+          "english": "I lived with that diagnosis all day.",
+          "cue": "I lived with ______________________________"
+        },
+        {
+          "id": "p38-2",
+          "chinese": "当晚，我做了活检。他们把内窥镜从喉咙送进胃和肠道，再把针扎进胰腺，从肿瘤中取出几个细胞。",
+          "english": "Later that evening I had a biopsy, where they stuck an endoscope down my throat, through my stomach, and into my intestines, put a needle into my pancreas, and got a few cells from the tumor.",
+          "cue": "Later that evening I had a biopsy, where they stuck ______________________________"
+        },
+        {
+          "id": "p39-1",
+          "chinese": "当时我被麻醉了，但在场的妻子告诉我，医生在显微镜下看到那些细胞时哭了，因为那是一种极罕见、却能通过手术治愈的胰腺癌。",
+          "english": "I was sedated, but my wife, who was there, told me that when they viewed the cells under a microscope, the doctors started crying because it turned out to be a very rare form of pancreatic cancer that is curable with surgery.",
+          "cue": "I was sedated, but my wife, who was there, told ______________________________"
+        },
+        {
+          "id": "p39-2",
+          "chinese": "我做了手术，值得庆幸的是，现在已经好了。",
+          "english": "I had the surgery, and thankfully I’m fine now.",
+          "cue": "I had the surgery, ______________________________"
+        }
+      ]
+    }
+  ]
+}
